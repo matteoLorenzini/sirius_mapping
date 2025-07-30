@@ -27,6 +27,7 @@ cursor = conn.cursor()
 cursor.execute("""
 SELECT 
     vad.value_aspect_dimension_id,
+    chs.site_id,
     chs.cultural_heritage_site_appellation AS site,
     asp.aspect_appellation AS aspect,
     dim.dimension_appellation AS dimension,
@@ -36,6 +37,7 @@ JOIN public.cultural_heritage_site chs ON vad.site_id = chs.site_id
 JOIN public.aspect asp ON vad.aspect_id = asp.aspect_id
 JOIN public.dimension dim ON vad.dimension_id = dim.dimension_id
 ORDER BY vad.value_aspect_dimension_id;
+
 """)
 rows = cursor.fetchall()
 columns = [desc[0] for desc in cursor.description]

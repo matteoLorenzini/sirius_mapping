@@ -2,6 +2,7 @@
 <value_aspect_dimensions>
   <value_aspect_dimension>
     <value_aspect_dimension_id>1</value_aspect_dimension_id>
+    <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
     <aspect>forma e design</aspect>
     <dimension>artistic</dimension>
@@ -9,6 +10,7 @@
   </value_aspect_dimension>
   <value_aspect_dimension>
     <value_aspect_dimension_id>2</value_aspect_dimension_id>
+    <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
     <aspect>forma e design</aspect>
     <dimension>historic</dimension>
@@ -16,6 +18,7 @@
   </value_aspect_dimension>
   <value_aspect_dimension>
     <value_aspect_dimension_id>3</value_aspect_dimension_id>
+    <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
     <aspect>forma e design</aspect>
     <dimension>social</dimension>
@@ -23,6 +26,7 @@
   </value_aspect_dimension>
   <value_aspect_dimension>
     <value_aspect_dimension_id>4</value_aspect_dimension_id>
+    <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
     <aspect>forma e design</aspect>
     <dimension>scientific</dimension>
@@ -32,6 +36,7 @@
   </value_aspect_dimension>
   <value_aspect_dimension>
     <value_aspect_dimension_id>5</value_aspect_dimension_id>
+    <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
     <aspect>material and substance</aspect>
     <dimension>artistic</dimension>
@@ -39,6 +44,7 @@
   </value_aspect_dimension>
   <value_aspect_dimension>
     <value_aspect_dimension_id>6</value_aspect_dimension_id>
+    <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
     <aspect>material and substance</aspect>
     <dimension>historic</dimension>
@@ -46,6 +52,7 @@
   </value_aspect_dimension>
   <value_aspect_dimension>
     <value_aspect_dimension_id>7</value_aspect_dimension_id>
+    <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
     <aspect>material and substance</aspect>
     <dimension>scientific</dimension>
@@ -56,6 +63,7 @@ Further research is needed for the other archaeological remains, their related m
   </value_aspect_dimension>
   <value_aspect_dimension>
     <value_aspect_dimension_id>8</value_aspect_dimension_id>
+    <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
     <aspect>uso e funzione</aspect>
     <dimension>artistic</dimension>
@@ -63,6 +71,7 @@ Further research is needed for the other archaeological remains, their related m
   </value_aspect_dimension>
   <value_aspect_dimension>
     <value_aspect_dimension_id>9</value_aspect_dimension_id>
+    <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
     <aspect>uso e funzione</aspect>
     <dimension>historic</dimension>
@@ -70,6 +79,7 @@ Further research is needed for the other archaeological remains, their related m
   </value_aspect_dimension>
   <value_aspect_dimension>
     <value_aspect_dimension_id>10</value_aspect_dimension_id>
+    <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
     <aspect>uso e funzione</aspect>
     <dimension>social</dimension>
@@ -79,6 +89,7 @@ Further research is needed for the other archaeological remains, their related m
   </value_aspect_dimension>
   <value_aspect_dimension>
     <value_aspect_dimension_id>11</value_aspect_dimension_id>
+    <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
     <aspect>uso e funzione</aspect>
     <dimension>scientific</dimension>
@@ -86,6 +97,7 @@ Further research is needed for the other archaeological remains, their related m
   </value_aspect_dimension>
   <value_aspect_dimension>
     <value_aspect_dimension_id>12</value_aspect_dimension_id>
+    <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
     <aspect>Tradition, Technics and Workmanship</aspect>
     <dimension>artistic</dimension>
@@ -93,6 +105,7 @@ Further research is needed for the other archaeological remains, their related m
   </value_aspect_dimension>
   <value_aspect_dimension>
     <value_aspect_dimension_id>13</value_aspect_dimension_id>
+    <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
     <aspect>Tradition, Technics and Workmanship</aspect>
     <dimension>historic</dimension>
@@ -100,6 +113,7 @@ Further research is needed for the other archaeological remains, their related m
   </value_aspect_dimension>
   <value_aspect_dimension>
     <value_aspect_dimension_id>14</value_aspect_dimension_id>
+    <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
     <aspect>Tradition, Technics and Workmanship</aspect>
     <dimension>scientific</dimension>
@@ -107,6 +121,7 @@ Further research is needed for the other archaeological remains, their related m
   </value_aspect_dimension>
   <value_aspect_dimension>
     <value_aspect_dimension_id>15</value_aspect_dimension_id>
+    <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
     <aspect>Location &amp; Setting</aspect>
     <dimension>artistic</dimension>
@@ -116,6 +131,7 @@ Further research is needed for the other archaeological remains, their related m
   </value_aspect_dimension>
   <value_aspect_dimension>
     <value_aspect_dimension_id>16</value_aspect_dimension_id>
+    <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
     <aspect>Location &amp; Setting</aspect>
     <dimension>historic</dimension>
@@ -123,6 +139,7 @@ Further research is needed for the other archaeological remains, their related m
   </value_aspect_dimension>
   <value_aspect_dimension>
     <value_aspect_dimension_id>17</value_aspect_dimension_id>
+    <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
     <aspect>Location &amp; Setting</aspect>
     <dimension>social</dimension>
@@ -130,6 +147,7 @@ Further research is needed for the other archaeological remains, their related m
   </value_aspect_dimension>
   <value_aspect_dimension>
     <value_aspect_dimension_id>18</value_aspect_dimension_id>
+    <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
     <aspect>Spirit &amp; Feelings</aspect>
     <dimension>artistic</dimension>
@@ -137,6 +155,7 @@ Further research is needed for the other archaeological remains, their related m
   </value_aspect_dimension>
   <value_aspect_dimension>
     <value_aspect_dimension_id>19</value_aspect_dimension_id>
+    <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
     <aspect>Spirit &amp; Feelings</aspect>
     <dimension>historic</dimension>
@@ -144,6 +163,7 @@ Further research is needed for the other archaeological remains, their related m
   </value_aspect_dimension>
   <value_aspect_dimension>
     <value_aspect_dimension_id>20</value_aspect_dimension_id>
+    <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
     <aspect>Spirit &amp; Feelings</aspect>
     <dimension>social</dimension>
