@@ -1,0 +1,146 @@
+<?xml version="1.0" ?>
+<value_agents_occurrences>
+  <value_agents_occurrence>
+    <value_agent_occurrence_id>1</value_agent_occurrence_id>
+    <risk_agent>Physical forces</risk_agent>
+    <occurrence>Rare events</occurrence>
+    <site>Remains of a Roman-era residential district </site>
+    <value_agent_occurrence>Medium magnitude earthquake (fractures, cracks, deformations, collapse of the building above the archaeological site).
+</value_agent_occurrence>
+  </value_agents_occurrence>
+  <value_agents_occurrence>
+    <value_agent_occurrence_id>2</value_agent_occurrence_id>
+    <risk_agent>Physical forces</risk_agent>
+    <occurrence>Common events</occurrence>
+    <site>Remains of a Roman-era residential district </site>
+    <value_agent_occurrence>Walking and movement of equipment during maintenance and installation of systems or sensors. Operators and tools are positioned on archaeological floors (even if protected by sheets in some cases).</value_agent_occurrence>
+  </value_agents_occurrence>
+  <value_agents_occurrence>
+    <value_agent_occurrence_id>3</value_agent_occurrence_id>
+    <risk_agent>Physical forces</risk_agent>
+    <occurrence>Cumulative processes </occurrence>
+    <site>Remains of a Roman-era residential district </site>
+    <value_agent_occurrence>Damage due to impacts by occasional visitors. Dirt carried by visitors and people entering the archaeological site.
+Lack of a maintenance and cleaning plan for the archaeological site areas.
+
+</value_agent_occurrence>
+  </value_agents_occurrence>
+  <value_agents_occurrence>
+    <value_agent_occurrence_id>4</value_agent_occurrence_id>
+    <risk_agent>Fire</risk_agent>
+    <occurrence>Rare events</occurrence>
+    <site>Remains of a Roman-era residential district </site>
+    <value_agent_occurrence>Short circuit in the electrical system.
+Failure in the operation of fire-fighting devices.
+Risk of a forest fire spreading to neighboring areas.
+
+</value_agent_occurrence>
+  </value_agents_occurrence>
+  <value_agents_occurrence>
+    <value_agent_occurrence_id>5</value_agent_occurrence_id>
+    <risk_agent>Water</risk_agent>
+    <occurrence>Rare events</occurrence>
+    <site>Remains of a Roman-era residential district </site>
+    <value_agent_occurrence>Use of the hydrant in case of fire.</value_agent_occurrence>
+  </value_agents_occurrence>
+  <value_agents_occurrence>
+    <value_agent_occurrence_id>6</value_agent_occurrence_id>
+    <risk_agent>Water</risk_agent>
+    <occurrence>Common events</occurrence>
+    <site>Remains of a Roman-era residential district </site>
+    <value_agent_occurrence>Breakage or malfunction of the groundwater suction pump system and flooding of the archaeological site.
+Flooding of the basement due to extreme weather events of meteoric rains.
+
+</value_agent_occurrence>
+  </value_agents_occurrence>
+  <value_agents_occurrence>
+    <value_agent_occurrence_id>7</value_agent_occurrence_id>
+    <risk_agent>Water</risk_agent>
+    <occurrence>Cumulative processes </occurrence>
+    <site>Remains of a Roman-era residential district </site>
+    <value_agent_occurrence>Efflorescence cycles in the winter months with the indoor RH decrease</value_agent_occurrence>
+  </value_agents_occurrence>
+  <value_agents_occurrence>
+    <value_agent_occurrence_id>8</value_agent_occurrence_id>
+    <risk_agent>Pests</risk_agent>
+    <occurrence>Common events</occurrence>
+    <site>Remains of a Roman-era residential district </site>
+    <value_agent_occurrence>Presence of actinomycetes, algae and fungi if no biocide treatments are applied.</value_agent_occurrence>
+  </value_agents_occurrence>
+  <value_agents_occurrence>
+    <value_agent_occurrence_id>9</value_agent_occurrence_id>
+    <risk_agent>Pests</risk_agent>
+    <occurrence>Cumulative processes </occurrence>
+    <site>Remains of a Roman-era residential district </site>
+    <value_agent_occurrence>Rapid proliferation (occurred in 5 spring-summer months with the presence of one or more operators during the proliferation period) of biological colonization one year after treatment.
+Presence of cobwebs and insects.
+</value_agent_occurrence>
+  </value_agents_occurrence>
+  <value_agents_occurrence>
+    <value_agent_occurrence_id>10</value_agent_occurrence_id>
+    <risk_agent>Pests</risk_agent>
+    <occurrence>Common events</occurrence>
+    <site>Remains of a Roman-era residential district </site>
+    <value_agent_occurrence>Leakage of BOD/5 liquids, ammonia NH3 and oily substances from the Roman sewer pipe probably connected to the modern sewer system and communicating with other compromised pipes or tanks</value_agent_occurrence>
+  </value_agents_occurrence>
+  <value_agents_occurrence>
+    <value_agent_occurrence_id>11</value_agent_occurrence_id>
+    <risk_agent>Pests</risk_agent>
+    <occurrence>Cumulative processes </occurrence>
+    <site>Remains of a Roman-era residential district </site>
+    <value_agent_occurrence>General high concentration of CO2, especially when people are present inside the archaeological site.
+</value_agent_occurrence>
+  </value_agents_occurrence>
+  <value_agents_occurrence>
+    <value_agent_occurrence_id>12</value_agent_occurrence_id>
+    <risk_agent>Pollutants</risk_agent>
+    <occurrence>Common events</occurrence>
+    <site>Remains of a Roman-era residential district </site>
+    <value_agent_occurrence>Leakage of BOD/5 liquids, ammonia NH3 and oily substances from the Roman sewer pipe probably connected to the modern sewer system and communicating with other compromised pipes or tanks.</value_agent_occurrence>
+  </value_agents_occurrence>
+  <value_agents_occurrence>
+    <value_agent_occurrence_id>13</value_agent_occurrence_id>
+    <risk_agent>Pollutants</risk_agent>
+    <occurrence>Cumulative processes </occurrence>
+    <site>Remains of a Roman-era residential district </site>
+    <value_agent_occurrence>General high concentration of CO2, especially when people are present inside the archaeological site.
+</value_agent_occurrence>
+  </value_agents_occurrence>
+  <value_agents_occurrence>
+    <value_agent_occurrence_id>14</value_agent_occurrence_id>
+    <risk_agent>Light, UV, IR</risk_agent>
+    <occurrence>Cumulative processes </occurrence>
+    <site>Remains of a Roman-era residential district </site>
+    <value_agent_occurrence>Excessive lighting (IR and UV) coming from the glass hatch and from the installed halogen spotlights.</value_agent_occurrence>
+  </value_agents_occurrence>
+  <value_agents_occurrence>
+    <value_agent_occurrence_id>15</value_agent_occurrence_id>
+    <risk_agent>Incorrect temperature</risk_agent>
+    <occurrence>Cumulative processes </occurrence>
+    <site>Remains of a Roman-era residential district </site>
+    <value_agent_occurrence>Significant variations in temperature in a short period of time due to the switching on of the air recirculation system and to the frequentation of the archaeological site by people.
+
+</value_agent_occurrence>
+  </value_agents_occurrence>
+  <value_agents_occurrence>
+    <value_agent_occurrence_id>16</value_agent_occurrence_id>
+    <risk_agent>Incorrect RH</risk_agent>
+    <occurrence>Cumulative processes </occurrence>
+    <site>Remains of a Roman-era residential district </site>
+    <value_agent_occurrence>Relative humidity observed in the long term (annual) presents significant and dangerous excursions favoring the proliferation of efflorescence during the winter periods.
+Humidity rate far from the conditions of well-being of the stored materials and for the users.
+Incorrect handling of the air recirculation system triggers significant imbalances in the short term that trigger efflorescence phenomena.
+</value_agent_occurrence>
+  </value_agents_occurrence>
+  <value_agents_occurrence>
+    <value_agent_occurrence_id>17</value_agent_occurrence_id>
+    <risk_agent>Dissociation</risk_agent>
+    <occurrence>Common events</occurrence>
+    <site>Remains of a Roman-era residential district </site>
+    <value_agent_occurrence>Poor economic resources for maintenance, installation of additional UV lamps and replacement of the old ones, UV and IR shielding of the trapdoor and replacement of the lighting system, restoration and maintenance operations of the entire archaeological area.
+Loss of the cases containing the erratic tiles of the geometric mosaic with floral motifs classified according to the area of ​​discovery.
+Loss of the paper labels indicating the area of ​​discovery of the erratic tiles.
+Loss of the paper material of the private archive present in single copy
+</value_agent_occurrence>
+  </value_agents_occurrence>
+</value_agents_occurrences>

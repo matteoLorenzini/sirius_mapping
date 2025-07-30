@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<cultural_heritage_sites>
+  <cultural_heritage_site>
+    <site_id>1</site_id>
+    <cultural_heritage_site_appellation>Remains of a Roman-era residential district </cultural_heritage_site_appellation>
+    <typology>Bene Archeologico</typology>
+    <coordinates>None</coordinates>
+    <chronology>III BC - Middle Ages</chronology>
+    <description>The archaeological site beneath Rimini's Chamber of Commerce lies in the western part of the Roman city and has been inhabited since the late Republican era. Key features include a polychrome mosaic from the 4th century and a 5th-century domus with an apsidal room in opus sectile that disrupted public infrastructure. The site remained important into the 6th century before falling into decline and being buried in the early Middle Ages. It was excavated in 1995–1996 by the Archaeological Superintendence of Emilia-Romagna. Conservation efforts began with a safety intervention in 1997, followed by restoration in 1999. Further restoration took place in 2022 and 2023 due to deterioration.
+</description>
+    <socio-cultural_context>None</socio-cultural_context>
+    <administrative_context> Chamber of Commerce in Rimini</administrative_context>
+    <financial_context> Chamber of Commerce in Rimini operational budget</financial_context>
+    <legal_context>Legislative Decree No. 42/2004, Article 1, Paragraph 4, Decreto Commissione Regionale (11/04/2016)
+</legal_context>
+    <stakeholders> Chamber of Commerce in Rimini, Provveditorato</stakeholders>
+  </cultural_heritage_site>
+</cultural_heritage_sites>
