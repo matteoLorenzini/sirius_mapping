@@ -2,168 +2,216 @@
 <agent_risk_sentences>
   <agent_risk_sentence>
     <agent_risk_sentence_id>1</agent_risk_sentence_id>
+    <agent_id>1</agent_id>
     <agent>Physical forces</agent>
+    <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
     <sentence_number>1</sentence_number>
     <sentence_text>An earthquake of moderate magnitude (Richter scale 5.0-5.9) will fracture the floors of the archaeological site and the building's structures, making the basement unusable.</sentence_text>
   </agent_risk_sentence>
   <agent_risk_sentence>
     <agent_risk_sentence_id>2</agent_risk_sentence_id>
+    <agent_id>1</agent_id>
     <agent>Physical forces</agent>
+    <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
     <sentence_number>2</sentence_number>
     <sentence_text>The buildings built up to 2003 without seismic regulations near the Chamber of Commerce (that could be untouched) will collapse following an earthquake of moderate magnitude (Richter scale 5.0-5.9). During an earthquake there will be many displaced people in the neighborhood where the archaeological site is located and the operations to secure the archaeological site will be neglected in order to provide priority assistance to civilians.</sentence_text>
   </agent_risk_sentence>
   <agent_risk_sentence>
     <agent_risk_sentence_id>3</agent_risk_sentence_id>
+    <agent_id>1</agent_id>
     <agent>Physical forces</agent>
+    <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
     <sentence_number>3</sentence_number>
     <sentence_text>A very strong earthquake of high magnitude (Richter scale 6.0-7.9) will cause very serious structural damage to the building above and some portions will fall onto the archaeological site, causing serious damage to the floors. It will also break the suction pump mechanism and the archaeological site will flood.</sentence_text>
   </agent_risk_sentence>
   <agent_risk_sentence>
     <agent_risk_sentence_id>4</agent_risk_sentence_id>
+    <agent_id>1</agent_id>
     <agent>Physical forces</agent>
+    <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
     <sentence_number>4</sentence_number>
     <sentence_text>Operators involved in the maintenance or installation of equipment or systems will place their tools or let them fall, damaging portions of the floors and structures.</sentence_text>
   </agent_risk_sentence>
   <agent_risk_sentence>
     <agent_risk_sentence_id>5</agent_risk_sentence_id>
+    <agent_id>1</agent_id>
     <agent>Physical forces</agent>
+    <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
     <sentence_number>5</sentence_number>
     <sentence_text>Visitors will cause damage by hitting into the surfaces and marginal floors of the walking path.</sentence_text>
   </agent_risk_sentence>
   <agent_risk_sentence>
     <agent_risk_sentence_id>6</agent_risk_sentence_id>
+    <agent_id>3</agent_id>
     <agent>Fire</agent>
+    <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
     <sentence_number>6</sentence_number>
     <sentence_text>A fire in the near XXV April park (Rimini, Italy) will spread next to the Chamber of Commerce building, making the basement inaccessible until the fire is extinguished.</sentence_text>
   </agent_risk_sentence>
   <agent_risk_sentence>
     <agent_risk_sentence_id>7</agent_risk_sentence_id>
+    <agent_id>3</agent_id>
     <agent>Fire</agent>
+    <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
     <sentence_number>7</sentence_number>
     <sentence_text>A short circuit in the electrical panel will cause a fire, forming stains and causing mechanical damage due to the collapse of plaster and high structures on the archaeological floors.</sentence_text>
   </agent_risk_sentence>
   <agent_risk_sentence>
     <agent_risk_sentence_id>8</agent_risk_sentence_id>
+    <agent_id>3</agent_id>
     <agent>Fire</agent>
+    <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
     <sentence_number>8</sentence_number>
     <sentence_text>The fire extinguishers used to put out the fire will stain the pavements and archaeological structures.</sentence_text>
   </agent_risk_sentence>
   <agent_risk_sentence>
     <agent_risk_sentence_id>9</agent_risk_sentence_id>
+    <agent_id>4</agent_id>
     <agent>Water</agent>
+    <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
     <sentence_number>9</sentence_number>
     <sentence_text>The fire hydrant located halfway through the archaeological site will wet the ancient pavements, triggering degradation phenomena such as efflorescence and mechanical damage to the fragile materials hit by the jet of the hydrant.</sentence_text>
   </agent_risk_sentence>
   <agent_risk_sentence>
     <agent_risk_sentence_id>10</agent_risk_sentence_id>
+    <agent_id>4</agent_id>
     <agent>Water</agent>
+    <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
     <sentence_number>10</sentence_number>
     <sentence_text>The site between 2010 and 2039 will flood due to the increase of 1.2 times per year in rainy periods of more than five consecutive days and for precipitations greater than 200 mm per day more frequent than 6-13 times per year compared to the recent past (1961-1990).</sentence_text>
   </agent_risk_sentence>
   <agent_risk_sentence>
     <agent_risk_sentence_id>11</agent_risk_sentence_id>
+    <agent_id>4</agent_id>
     <agent>Water</agent>
+    <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
     <sentence_number>11</sentence_number>
     <sentence_text>Between 2070-2099, the site will flood due to rarer but extremely violent phenomena.</sentence_text>
   </agent_risk_sentence>
   <agent_risk_sentence>
     <agent_risk_sentence_id>12</agent_risk_sentence_id>
+    <agent_id>4</agent_id>
     <agent>Water</agent>
+    <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
     <sentence_number>12</sentence_number>
     <sentence_text>The pumps will become damaged or break, causing water and pollutants to rise up, flooding and dirtying the archaeological site.</sentence_text>
   </agent_risk_sentence>
   <agent_risk_sentence>
     <agent_risk_sentence_id>13</agent_risk_sentence_id>
+    <agent_id>5</agent_id>
     <agent>Pests</agent>
+    <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
     <sentence_number>13</sentence_number>
     <sentence_text>After more than a year and six months from the last biocide treatment, if not repeated, biological colonization will progress quickly in the summer months until it reaches its ecological maximum, with the reappearance of cyanobacteria, algae, actinomycetes and fungi. One year after the last treatment carried out in spring, cyanobacteria and algae will form on the areas exposed to natural and artificial light.</sentence_text>
   </agent_risk_sentence>
   <agent_risk_sentence>
     <agent_risk_sentence_id>14</agent_risk_sentence_id>
+    <agent_id>5</agent_id>
     <agent>Pests</agent>
+    <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
     <sentence_number>14</sentence_number>
     <sentence_text>The lack of a scheduled cleaning plan of the walkway portions will contribute to the proliferation of biodeterioration agents, insects, cobwebs and to the accumulation of dirt on the findings.</sentence_text>
   </agent_risk_sentence>
   <agent_risk_sentence>
     <agent_risk_sentence_id>15</agent_risk_sentence_id>
+    <agent_id>6</agent_id>
     <agent>Pollutants</agent>
+    <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
     <sentence_number>15</sentence_number>
     <sentence_text>Substances will infiltrate from the bordering wall and will dirt the excavation.</sentence_text>
   </agent_risk_sentence>
   <agent_risk_sentence>
     <agent_risk_sentence_id>16</agent_risk_sentence_id>
+    <agent_id>6</agent_id>
     <agent>Pollutants</agent>
+    <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
     <sentence_number>16</sentence_number>
     <sentence_text>Water from the sewer pipe along with ammonia, BOD/5 and hydrocarbon substances will flood the archaeological site, dirtying it.</sentence_text>
   </agent_risk_sentence>
   <agent_risk_sentence>
     <agent_risk_sentence_id>17</agent_risk_sentence_id>
+    <agent_id>6</agent_id>
     <agent>Pollutants</agent>
+    <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
     <sentence_number>17</sentence_number>
     <sentence_text>The high concentration of CO2 will cause discomfort to visitors and operators.</sentence_text>
   </agent_risk_sentence>
   <agent_risk_sentence>
     <agent_risk_sentence_id>18</agent_risk_sentence_id>
+    <agent_id>7</agent_id>
     <agent>Light, UV, IR</agent>
+    <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
     <sentence_number>18</sentence_number>
     <sentence_text>The lighting system and the unscreened natural light coming from the glass ceiling will cause thermal inhomogeneities on the surfaces, favoring biological colonization.</sentence_text>
   </agent_risk_sentence>
   <agent_risk_sentence>
     <agent_risk_sentence_id>19</agent_risk_sentence_id>
+    <agent_id>7</agent_id>
     <agent>Light, UV, IR</agent>
+    <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
     <sentence_number>19</sentence_number>
     <sentence_text>UV lamps not replaced periodically and not lowered in proximity to the area colonized by the microflora will lose their effectiveness as physical eradicators of biological colonization.</sentence_text>
   </agent_risk_sentence>
   <agent_risk_sentence>
     <agent_risk_sentence_id>20</agent_risk_sentence_id>
+    <agent_id>9</agent_id>
     <agent>Incorrect RH</agent>
+    <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
     <sentence_number>20</sentence_number>
     <sentence_text>During the winter months, salt crystallization will occur due to a decrease in internal relative humidity caused by the manipulation of the ventilation system.</sentence_text>
   </agent_risk_sentence>
   <agent_risk_sentence>
     <agent_risk_sentence_id>21</agent_risk_sentence_id>
+    <agent_id>10</agent_id>
     <agent>Dissociation</agent>
+    <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
     <sentence_number>21</sentence_number>
     <sentence_text>The lack of written management guidelines and a scheduled maintenance plan for the findings will increase the degradation processes currently underway. The information acquired may be lost if there are not indicate responsibilities, action to be take and guidelines.</sentence_text>
   </agent_risk_sentence>
   <agent_risk_sentence>
     <agent_risk_sentence_id>22</agent_risk_sentence_id>
+    <agent_id>10</agent_id>
     <agent>Dissociation</agent>
+    <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
     <sentence_number>22</sentence_number>
     <sentence_text>Lack of funding will prevent the replacement of the lighting system, the air recirculation system, the UV lamps and the installation of new ones and the shielding of the glass hatch from UV and IR rays.</sentence_text>
   </agent_risk_sentence>
   <agent_risk_sentence>
     <agent_risk_sentence_id>23</agent_risk_sentence_id>
+    <agent_id>10</agent_id>
     <agent>Dissociation</agent>
+    <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
     <sentence_number>23</sentence_number>
     <sentence_text>Lack of funding will prevent the restoration of the remaining surfaces of the archaeological site and the scheduled maintenance of the archaeological site.</sentence_text>
   </agent_risk_sentence>
   <agent_risk_sentence>
     <agent_risk_sentence_id>24</agent_risk_sentence_id>
+    <agent_id>10</agent_id>
     <agent>Dissociation</agent>
+    <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
     <sentence_number>24</sentence_number>
     <sentence_text>The plastic bags containing the erratic tiles and the paper tags with the information regarding the finding place of the tiles will be lost because the place for their storage and conservation had not been defined.</sentence_text>

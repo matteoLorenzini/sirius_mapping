@@ -4,7 +4,9 @@
     <value_aspect_dimension_id>1</value_aspect_dimension_id>
     <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
-    <aspect>forma e design</aspect>
+    <aspect_id>1</aspect_id>
+    <aspect>form and design</aspect>
+    <dimension_id>1</dimension_id>
     <dimension>artistic</dimension>
     <value>The opus signinum and the apsidal room in opus sectile are rare examples in the la antique city of Rimini and in regional panorama. The remaining findings are examples of a fairly good workmanship</value>
   </value_aspect_dimension>
@@ -12,7 +14,9 @@
     <value_aspect_dimension_id>2</value_aspect_dimension_id>
     <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
-    <aspect>forma e design</aspect>
+    <aspect_id>1</aspect_id>
+    <aspect>form and design</aspect>
+    <dimension_id>2</dimension_id>
     <dimension>historic</dimension>
     <value>Portion of city neighborhood with a stratigraphy dating from the Republican Age to the early Middle Ages. A useful material source for deepening historical knowledge of the Roman city of Rimini.</value>
   </value_aspect_dimension>
@@ -20,7 +24,9 @@
     <value_aspect_dimension_id>3</value_aspect_dimension_id>
     <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
-    <aspect>forma e design</aspect>
+    <aspect_id>1</aspect_id>
+    <aspect>form and design</aspect>
+    <dimension_id>3</dimension_id>
     <dimension>social</dimension>
     <value>Late antique findings testify a presence of elites in the Rimini area.</value>
   </value_aspect_dimension>
@@ -28,7 +34,9 @@
     <value_aspect_dimension_id>4</value_aspect_dimension_id>
     <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
-    <aspect>forma e design</aspect>
+    <aspect_id>1</aspect_id>
+    <aspect>form and design</aspect>
+    <dimension_id>4</dimension_id>
     <dimension>scientific</dimension>
     <value>The apsidal room in bichromatic opus sectile and the presence of the interrupted water channel are important evidences concerning the economic and social management of a public site in Late Antiquity.
 
@@ -38,7 +46,9 @@
     <value_aspect_dimension_id>5</value_aspect_dimension_id>
     <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
+    <aspect_id>2</aspect_id>
     <aspect>material and substance</aspect>
+    <dimension_id>1</dimension_id>
     <dimension>artistic</dimension>
     <value>The building materials are not in a good state of preservation (conspicuous efflorescence, biological colonization), as well as the modern structures (concrete walls, frames, ventilation system and lights).</value>
   </value_aspect_dimension>
@@ -46,7 +56,9 @@
     <value_aspect_dimension_id>6</value_aspect_dimension_id>
     <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
+    <aspect_id>2</aspect_id>
     <aspect>material and substance</aspect>
+    <dimension_id>2</dimension_id>
     <dimension>historic</dimension>
     <value>All the archaeological findings have undergone only one restoration intervention and sporadic maintenance. The building materials are almost entirely original.</value>
   </value_aspect_dimension>
@@ -54,7 +66,9 @@
     <value_aspect_dimension_id>7</value_aspect_dimension_id>
     <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
+    <aspect_id>2</aspect_id>
     <aspect>material and substance</aspect>
+    <dimension_id>4</dimension_id>
     <dimension>scientific</dimension>
     <value>Diagnostic analyses carried out on the mortars and on lithotypes of the floral-patterned mosaic have provided a fairly accurate idea of the execution technique for the historical period.
 Further research is needed for the other archaeological remains, their related materials and execution technique.
@@ -65,7 +79,9 @@ Further research is needed for the other archaeological remains, their related m
     <value_aspect_dimension_id>8</value_aspect_dimension_id>
     <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
-    <aspect>uso e funzione</aspect>
+    <aspect_id>3</aspect_id>
+    <aspect>use and functions</aspect>
+    <dimension_id>1</dimension_id>
     <dimension>artistic</dimension>
     <value>The archaeological site that is not open to the public but can be visited after notification to the Superintendency and the Provveditorato. It is not accessible for people with mobility disabilities.</value>
   </value_aspect_dimension>
@@ -73,7 +89,9 @@ Further research is needed for the other archaeological remains, their related m
     <value_aspect_dimension_id>9</value_aspect_dimension_id>
     <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
-    <aspect>uso e funzione</aspect>
+    <aspect_id>3</aspect_id>
+    <aspect>use and functions</aspect>
+    <dimension_id>2</dimension_id>
     <dimension>historic</dimension>
     <value>Discovered in 1995, the archaeological evidence has been kept in situ.</value>
   </value_aspect_dimension>
@@ -81,7 +99,9 @@ Further research is needed for the other archaeological remains, their related m
     <value_aspect_dimension_id>10</value_aspect_dimension_id>
     <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
-    <aspect>uso e funzione</aspect>
+    <aspect_id>3</aspect_id>
+    <aspect>use and functions</aspect>
+    <dimension_id>3</dimension_id>
     <dimension>social</dimension>
     <value>Rare visits by visitors over time.
 
@@ -91,7 +111,9 @@ Further research is needed for the other archaeological remains, their related m
     <value_aspect_dimension_id>11</value_aspect_dimension_id>
     <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
-    <aspect>uso e funzione</aspect>
+    <aspect_id>3</aspect_id>
+    <aspect>use and functions</aspect>
+    <dimension_id>4</dimension_id>
     <dimension>scientific</dimension>
     <value>Rare visits by academics over time.</value>
   </value_aspect_dimension>
@@ -99,7 +121,9 @@ Further research is needed for the other archaeological remains, their related m
     <value_aspect_dimension_id>12</value_aspect_dimension_id>
     <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
+    <aspect_id>4</aspect_id>
     <aspect>Tradition, Technics and Workmanship</aspect>
+    <dimension_id>1</dimension_id>
     <dimension>artistic</dimension>
     <value>The archaeological floors preserve their original subfloors. Many marble crustae in the opus sectile, , have been preserved</value>
   </value_aspect_dimension>
@@ -107,7 +131,9 @@ Further research is needed for the other archaeological remains, their related m
     <value_aspect_dimension_id>13</value_aspect_dimension_id>
     <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
+    <aspect_id>4</aspect_id>
     <aspect>Tradition, Technics and Workmanship</aspect>
+    <dimension_id>2</dimension_id>
     <dimension>historic</dimension>
     <value>The execution techniques and superfetations show the evolution of the portion of the neighborhood over the centuries.</value>
   </value_aspect_dimension>
@@ -115,7 +141,9 @@ Further research is needed for the other archaeological remains, their related m
     <value_aspect_dimension_id>14</value_aspect_dimension_id>
     <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
+    <aspect_id>4</aspect_id>
     <aspect>Tradition, Technics and Workmanship</aspect>
+    <dimension_id>4</dimension_id>
     <dimension>scientific</dimension>
     <value>The study of the execution techniques, combined with the stratigraphy, allowed a more accurate dating of the mosaics.</value>
   </value_aspect_dimension>
@@ -123,7 +151,9 @@ Further research is needed for the other archaeological remains, their related m
     <value_aspect_dimension_id>15</value_aspect_dimension_id>
     <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
+    <aspect_id>5</aspect_id>
     <aspect>Location &amp; Setting</aspect>
+    <dimension_id>1</dimension_id>
     <dimension>artistic</dimension>
     <value>The building at 28 Sigismund Street is not subject to cultural constraint
 
@@ -133,7 +163,9 @@ Further research is needed for the other archaeological remains, their related m
     <value_aspect_dimension_id>16</value_aspect_dimension_id>
     <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
+    <aspect_id>5</aspect_id>
     <aspect>Location &amp; Setting</aspect>
+    <dimension_id>2</dimension_id>
     <dimension>historic</dimension>
     <value>The presence of the archaeological site was intended to be a part of the tourist path called “Rimini Underground.”</value>
   </value_aspect_dimension>
@@ -141,7 +173,9 @@ Further research is needed for the other archaeological remains, their related m
     <value_aspect_dimension_id>17</value_aspect_dimension_id>
     <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
+    <aspect_id>5</aspect_id>
     <aspect>Location &amp; Setting</aspect>
+    <dimension_id>3</dimension_id>
     <dimension>social</dimension>
     <value>The presence of the archaeological site complicates management of the property. Two accidents of leaking sludge from the Roman sewer line in connection with external contaminants have caused deep </value>
   </value_aspect_dimension>
@@ -149,7 +183,9 @@ Further research is needed for the other archaeological remains, their related m
     <value_aspect_dimension_id>18</value_aspect_dimension_id>
     <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
+    <aspect_id>6</aspect_id>
     <aspect>Spirit &amp; Feelings</aspect>
+    <dimension_id>1</dimension_id>
     <dimension>artistic</dimension>
     <value>The site shows valuable examples of Roman workmanship and other lesser-known evidence. With proper explanation, the site could be attractive to visitors.</value>
   </value_aspect_dimension>
@@ -157,7 +193,9 @@ Further research is needed for the other archaeological remains, their related m
     <value_aspect_dimension_id>19</value_aspect_dimension_id>
     <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
+    <aspect_id>6</aspect_id>
     <aspect>Spirit &amp; Feelings</aspect>
+    <dimension_id>2</dimension_id>
     <dimension>historic</dimension>
     <value>The archaeological site has been helpful in corroborating some theses about the presence of high-ranking elites during the Late Antique period in Rimini.</value>
   </value_aspect_dimension>
@@ -165,7 +203,9 @@ Further research is needed for the other archaeological remains, their related m
     <value_aspect_dimension_id>20</value_aspect_dimension_id>
     <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
+    <aspect_id>6</aspect_id>
     <aspect>Spirit &amp; Feelings</aspect>
+    <dimension_id>3</dimension_id>
     <dimension>social</dimension>
     <value>It could give back a glimpse of the historical evolution of the city of Rimini, although its lack of usability means that the site remains semi-unknown</value>
   </value_aspect_dimension>
