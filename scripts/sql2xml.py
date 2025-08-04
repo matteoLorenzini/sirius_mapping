@@ -27,9 +27,11 @@ cursor = conn.cursor()
 cursor.execute("""
 SELECT 
     vad.value_aspect_dimension_id,
-    chs.site_id,
+    vad.site_id,
     chs.cultural_heritage_site_appellation AS site,
+    vad.aspect_id,
     asp.aspect_appellation AS aspect,
+    vad.dimension_id,
     dim.dimension_appellation AS dimension,
     vad.value
 FROM public.value_aspect_dimension vad
@@ -69,8 +71,11 @@ with open("xml/cultural_heritage_site.xml", "w", encoding="utf-8") as f:
 cursor.execute("""
 SELECT 
     vao.value_agent_occurrence_id,
+    vao.risk_id,
     ra.risk_agent,
+    vao.occurrence_id,
     ro.occurrence,
+    vao.site_id,
     chs.cultural_heritage_site_appellation AS site,
     vao.value_agent_occurrence
 FROM public.value_agents_occurrence vao
@@ -95,7 +100,9 @@ with open("xml/value_agents_occurrence.xml", "w", encoding="utf-8") as f:
 cursor.execute("""
 SELECT 
     ars.agent_risk_sentence_id,
+    ars.agent_id,
     ra.risk_agent AS agent,
+    ars.site_id,
     chs.cultural_heritage_site_appellation AS site,
     ars.sentence_number,
     ars.sentence_text
@@ -121,7 +128,9 @@ cursor.execute("""
 SELECT 
     ra.risk_analysis_id,
     ra.risk_name,
+    ra.risk_id,
     r.risk_agent,
+    ra.site_id,
     chs.cultural_heritage_site_appellation AS site,
     ars.sentence_text,
     ra.scale_a_score, ra.scale_b_score, ra.scale_c_score,
