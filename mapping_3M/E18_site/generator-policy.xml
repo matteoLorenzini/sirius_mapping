@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<generator_policy>
+   <generator name="URIorUUID" type="any">
+      <custom generatorClass="gr.forth.URIorUUID">
+         <set-arg name="text"/>
+      </custom>
+   </generator>
+   <generator name="URIwithUlanId" prefix="ulan" type="any">
+      <pattern>{id}</pattern>
+   </generator>
+   <generator name="URIwithWikidataId" prefix="wikidata" type="any">
+      <pattern>{id}</pattern>
+   </generator>
+   <generator name="TypedLiteralGen" type="any">
+      <custom generatorClass="gr.forth.TypedLiteralGenerator">
+         <set-arg name="text"/>
+      </custom>
+   </generator>
+   <generator name="Identifier" prefix="pref" type="any">
+      <pattern>{type}/{id}/{identifier}</pattern>
+   </generator>
+   <generator name="IntermediateURI" prefix="pref" type="any">
+      <pattern>{type}/{id}/{number}</pattern>
+   </generator>
+   <generator name="GenericURI" prefix="pref" type="any">
+      <pattern>{type}/{id}</pattern>
+   </generator>
+   <generator name="LocalTermURI" prefix="pref" type="any">
+      <pattern>{hierarchy}/{term}</pattern>
+   </generator>
+   <generator name="site_id" prefix="sirius" type="any" uuid="no">
+      <pattern>/site/id/{id}</pattern>
+   </generator>
+   <generator name="coordinates" type="any">
+      <pattern>POINT({lat} {long})</pattern>
+   </generator>
+   <generator name="coordinates_alternative" type="any">
+      <pattern>{coordinates}</pattern>
+   </generator>
+   <generator name="placeAppellationUri"
+              prefix="sirius"
+              shorten="true"
+              type="any">
+      <pattern>place/{place_id}/appellation/{appellation_id}</pattern>
+   </generator>
+   <generator name="siteAppellationUri"
+              prefix="sirius"
+              shorten="no"
+              type="any"
+              uuid="no">
+      <pattern>site/{site_id}/appellation/{term}</pattern>
+   </generator>
+   <generator name="URIwithType" prefix="sirius" type="any" uuid="no">
+      <pattern>{type}</pattern>
+   </generator>
+   <generator name="timespan" prefix="sirius" type="any">
+      <pattern>chronology/timespan/{terms}</pattern>
+   </generator>
+   <generator name="socio-cultural-context-UUID"
+              prefix="sirius"
+              type="any"
+              uuid="yes">
+      <pattern>socio-cultural-context/{term}</pattern>
+   </generator>
+   <generator name="administrative-context-UUID" prefix="sirius" type="any">
+      <pattern>administrative-context/{term}</pattern>
+   </generator>
+   <generator name="financial-context-UUID" prefix="sirius" type="any">
+      <pattern>financial-context/{term}</pattern>
+   </generator>
+   <generator name="legal-context-UUID" prefix="sirius" type="any">
+      <pattern>legal-context/{term}</pattern>
+   </generator>
+</generator_policy>
