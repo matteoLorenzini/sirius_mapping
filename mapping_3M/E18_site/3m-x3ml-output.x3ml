@@ -4,11 +4,11 @@
       version="1.0"
       xsi:noNamespaceSchemaLocation="https://isl.ics.forth.gr/x3ml/schema/x3ml.xsd">
    <info>
-      <title>sirius_site</title>
+      <title>sirius_risk</title>
       <general_description/>
       <source>
          <source_info>
-            <source_schema schema_file="cultural_heritage_site.xml" type="xml" version="">cultural_heritage_site</source_schema>
+            <source_schema schema_file="risk_analysis.xml" type="xml" version="">risk_analysis</source_schema>
             <namespaces>
                <namespace prefix="" uri=""/>
             </namespaces>
@@ -16,23 +16,26 @@
       </source>
       <target>
          <target_info>
-            <target_schema schema_file="CIDOC_CRM_v7.1.3.rdf" type="rdf" version="">CIDOC_CRM_v7.1.3</target_schema>
+            <target_schema schema_file="cidoc_crm_v6.2.1-2018April.rdfs"
+                           type="rdfs"
+                           version="">cidoc_crm_v6.2.1-2018April</target_schema>
             <namespaces>
                <namespace prefix="xsd" uri="http://www.w3.org/2001/XMLSchema#"/>
                <namespace prefix="rdfs" uri="http://www.w3.org/2000/01/rdf-schema#"/>
                <namespace prefix="owl" uri="http://www.w3.org/2002/07/owl#"/>
                <namespace prefix="rdf" uri="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
-               <namespace prefix="base" uri="http://www.cidoc-crm.org/cidoc-crm/"/>
-               <namespace prefix="sirius" uri="https://w3id.org/sirius"/>
+               <namespace prefix="cidoc" uri="http://www.cidoc-crm.org/cidoc-crm/"/>
+               <namespace prefix="sirius" uri="https://w3id.org/sirius/"/>
             </namespaces>
          </target_info>
          <target_info>
-            <target_schema schema_file="CRMarchaeo_v2.1.1.rdf" type="rdf" version="">CRMarchaeo_v2.1.1</target_schema>
+            <target_schema schema_file="CRMsci_v1.2.2.rdfs" type="rdfs" version="">CRMsci_v1.2.2</target_schema>
             <namespaces>
                <namespace prefix="xsd" uri="http://www.w3.org/2001/XMLSchema#"/>
                <namespace prefix="rdfs" uri="http://www.w3.org/2000/01/rdf-schema#"/>
                <namespace prefix="owl" uri="http://www.w3.org/2002/07/owl#"/>
                <namespace prefix="rdf" uri="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+               <namespace prefix="crmsci" uri="http://www.ics.forth.gr/isl/CRMsci/"/>
             </namespaces>
          </target_info>
       </target>
@@ -51,34 +54,77 @@
       </example_data_info>
    </info>
    <namespaces>
-      <namespace prefix="sirius" uri="https://w3id.org/sirius"/>
+      <namespace prefix="sirius" uri="https://w3id.org/sirius/"/>
    </namespaces>
    <mappings>
       <mapping>
          <domain>
-            <source_node>/cultural_heritage_sites/cultural_heritage_site</source_node>
+            <source_node>/risk_analyses</source_node>
             <target_node>
                <entity>
-                  <type>base:E18_Physical_Thing</type>
+                  <type>cidoc:E89_Propositional_Object</type>
                   <instance_generator name="UUID"/>
+                  <additional>
+                     <relationship>cidoc:P2_has_type</relationship>
+                     <entity>
+                        <type>cidoc:E55_Type</type>
+                        <instance_generator name="TypedLiteralGen">
+                           <arg name="text" type="constant">risk-analysis</arg>
+                        </instance_generator>
+                     </entity>
+                  </additional>
                </entity>
             </target_node>
          </domain>
          <link>
             <path>
                <source_relation>
-                  <relation>site_id</relation>
+                  <relation>risk_analysis</relation>
                </source_relation>
                <target_relation>
-                  <relationship>base:P1_is_identified_by</relationship>
+                  <relationship>cidoc:P129_is_about</relationship>
                </target_relation>
             </path>
             <range>
-               <source_node>site_id</source_node>
+               <source_node>risk_analysis</source_node>
                <target_node>
                   <entity>
-                     <type>base:E42_Identifier</type>
-                     <instance_generator name="site_id">
+                     <type>cidoc:E89_Propositional_Object</type>
+                     <instance_generator name="valueRiskIDGen">
+                        <arg name="id" type="xpath">risk_analysis_id/text()</arg>
+                     </instance_generator>
+                  </entity>
+               </target_node>
+            </range>
+         </link>
+      </mapping>
+      <mapping>
+         <domain>
+            <source_node>/risk_analyses/risk_analysis</source_node>
+            <target_node>
+               <entity>
+                  <type>cidoc:E89_Propositional_Object</type>
+                  <instance_generator name="valueRiskIDGen">
+                     <arg name="id" type="xpath">risk_analysis_id/text()</arg>
+                  </instance_generator>
+               </entity>
+            </target_node>
+         </domain>
+         <link>
+            <path>
+               <source_relation>
+                  <relation>risk_analysis_id</relation>
+               </source_relation>
+               <target_relation>
+                  <relationship>cidoc:P1_is_identified_by</relationship>
+               </target_relation>
+            </path>
+            <range>
+               <source_node>risk_analysis_id</source_node>
+               <target_node>
+                  <entity>
+                     <type>cidoc:E42_Identifier</type>
+                     <instance_generator name="risk-analysisID">
                         <arg name="id" type="xpath">text()</arg>
                      </instance_generator>
                   </entity>
@@ -88,101 +134,152 @@
          <link>
             <path>
                <source_relation>
-                  <relation>cultural_heritage_site_appellation</relation>
+                  <relation>risk_id</relation>
                </source_relation>
                <target_relation>
-                  <relationship>base:P1_is_identified_by</relationship>
+                  <relationship>cidoc:P129_is_about</relationship>
                </target_relation>
             </path>
             <range>
-               <source_node>cultural_heritage_site_appellation</source_node>
+               <source_node>risk_id</source_node>
                <target_node>
                   <entity>
-                     <type>base:E41_Appellation</type>
-                     <instance_generator name="URIorUUID">
-                        <arg name="text" type="xpath">../site_id</arg>
-                     </instance_generator>
-                     <label_generator name="prefLabel">
-                        <arg name="text" type="xpath">text()</arg>
-                     </label_generator>
-                  </entity>
-               </target_node>
-            </range>
-         </link>
-         <link>
-            <path>
-               <source_relation>
-                  <relation>typology</relation>
-               </source_relation>
-               <target_relation>
-                  <relationship>base:P2_has_type</relationship>
-               </target_relation>
-            </path>
-            <range>
-               <source_node>typology</source_node>
-               <target_node>
-                  <entity>
-                     <type>base:E55_Type</type>
-                     <instance_generator name="URIwithType">
-                        <arg name="type" type="xpath">text()</arg>
-                     </instance_generator>
-                     <label_generator name="prefLabel">
-                        <arg name="text" type="xpath">text()</arg>
-                        <arg name="language" type="constant">it</arg>
-                     </label_generator>
-                  </entity>
-               </target_node>
-            </range>
-         </link>
-         <link>
-            <path>
-               <source_relation>
-                  <relation>coordinates</relation>
-               </source_relation>
-               <target_relation>
-                  <relationship>base:P55_has_current_location</relationship>
-               </target_relation>
-            </path>
-            <range>
-               <source_node>coordinates</source_node>
-               <target_node>
-                  <entity>
-                     <type>base:E53_Place</type>
-                     <instance_generator name="coordinates_alternative">
-                        <arg name="coordinates" type="xpath">text()</arg>
-                     </instance_generator>
-                     <label_generator name="coordinates_alternative">
-                        <arg name="coordinates" type="xpath">text()</arg>
-                     </label_generator>
-                  </entity>
-               </target_node>
-            </range>
-         </link>
-         <link>
-            <path>
-               <source_relation>
-                  <relation>chronology</relation>
-               </source_relation>
-               <target_relation>
-                  <relationship>base:P16i_was_used_for</relationship>
-                  <entity>
-                     <type>base:E7_Activity</type>
+                     <type>cidoc:E5_Event</type>
                      <instance_generator name="UUID"/>
-                  </entity>
-                  <relationship>base:P4_has_time-span</relationship>
-               </target_relation>
-            </path>
-            <range>
-               <source_node>chronology</source_node>
-               <target_node>
-                  <entity>
-                     <type>base:E52_Time-Span</type>
-                     <instance_generator name="timespan">
-                        <arg name="terms" type="xpath">text()</arg>
-                     </instance_generator>
-                     <label_generator name="prefLabel">
-                        <arg name="text" type="xpath">text()</arg>
-                     </label_generator>
+                     <additional>
+                        <relationship>cidoc:P3_has_note</relationship>
+                        <entity>
+                           <type>rdfs:Literal</type>
+                           <instance_generator name="UUID"/>
+                           <label_generator name="Literal">
+                              <arg name="text" type="xpath">../risk_name/text()</arg>
+                           </label_generator>
+                        </entity>
+                     </additional>
+                     <additional>
+                        <relationship>cidoc:P11_had_participant</relationship>
+                        <entity>
+                           <type>cidoc:E39_Actor</type>
+                           <instance_generator name="UUID"/>
+                           <additional>
+                              <relationship>cidoc:P2_has_type</relationship>
+                              <entity>
+                                 <type>cidoc:E55_Type</type>
+                                 <instance_generator name="URIwithTypeAndId">
+                                    <arg name="type" type="constant">agent</arg>
+                                    <arg name="id" type="xpath">../risk_id/text()</arg>
+                                 </instance_generator>
+                                 <label_generator name="Literal">
+                                    <arg name="text" type="xpath">../risk_agent/text()</arg>
+                                 </label_generator>
+                              </entity>
+                           </additional>
+                        </entity>
+                     </additional>
+                     <additional>
+                        <relationship>cidoc:P124_transformed</relationship>
+                        <entity>
+                           <type>cidoc:E18_Physical_Thing</type>
+                           <instance_generator name="site_ID">
+                              <arg name="id" type="xpath">../site_id/text()</arg>
+                           </instance_generator>
+                        </entity>
+                     </additional>
+                     <additional>
+                        <relationship>cidoc:P39i_was_measured_by</relationship>
+                        <entity>
+                           <type>crmsci:S21_Measurement</type>
+                           <instance_generator name="UUID"/>
+                           <label_generator name="Literal">
+                              <arg name="text" type="xpath">../scale_a_score/text()</arg>
+                           </label_generator>
+                           <additional>
+                              <relationship>cidoc:P2_has_type</relationship>
+                              <entity>
+                                 <type>cidoc:E55_Type</type>
+                                 <instance_generator name="TypedLiteralGen">
+                                    <arg name="text" type="constant">scale_a_score</arg>
+                                 </instance_generator>
+                              </entity>
+                           </additional>
+                        </entity>
+                     </additional>
+                     <additional>
+                        <relationship>cidoc:P39i_was_measured_by</relationship>
+                        <entity>
+                           <type>crmsci:S21_Measurement</type>
+                           <instance_generator name="UUID"/>
+                           <label_generator name="Literal">
+                              <arg name="text" type="xpath">../scale_b_score/text()</arg>
+                           </label_generator>
+                           <additional>
+                              <relationship>cidoc:P2_has_type</relationship>
+                              <entity>
+                                 <type>cidoc:E55_Type</type>
+                                 <instance_generator name="TypedLiteralGen">
+                                    <arg name="text" type="constant">scale_b_score</arg>
+                                 </instance_generator>
+                              </entity>
+                           </additional>
+                        </entity>
+                     </additional>
+                     <additional>
+                        <relationship>cidoc:P39i_was_measured_by</relationship>
+                        <entity>
+                           <type>crmsci:S21_Measurement</type>
+                           <instance_generator name="UUID"/>
+                           <label_generator name="Literal">
+                              <arg name="text" type="xpath">../scale_c_score/text()</arg>
+                           </label_generator>
+                           <additional>
+                              <relationship>cidoc:P2_has_type</relationship>
+                              <entity>
+                                 <type>cidoc:E55_Type</type>
+                                 <instance_generator name="TypedLiteralGen">
+                                    <arg name="text" type="constant">scale_c_score</arg>
+                                 </instance_generator>
+                              </entity>
+                           </additional>
+                        </entity>
+                     </additional>
+                     <additional>
+                        <relationship>cidoc:P39i_was_measured_by</relationship>
+                        <entity>
+                           <type>crmsci:S21_Measurement</type>
+                           <instance_generator name="UUID"/>
+                           <label_generator name="Literal">
+                              <arg name="text" type="xpath">../magnitude_score/text()</arg>
+                           </label_generator>
+                           <additional>
+                              <relationship>cidoc:P2_has_type</relationship>
+                              <entity>
+                                 <type>cidoc:E55_Type</type>
+                                 <instance_generator name="TypedLiteralGen">
+                                    <arg name="text" type="constant">magnitude_score</arg>
+                                 </instance_generator>
+                              </entity>
+                           </additional>
+                        </entity>
+                     </additional>
+                     <additional>
+                        <relationship>cidoc:P39i_was_measured_by</relationship>
+                        <entity>
+                           <type>crmsci:S21_Measurement</type>
+                           <instance_generator name="UUID"/>
+                           <label_generator name="Literal">
+                              <arg name="text" type="xpath">../uncertainty/text()</arg>
+                           </label_generator>
+                           <additional>
+                              <relationship>cidoc:P2_has_type</relationship>
+                              <entity>
+                                 <type>cidoc:E55_Type</type>
+                                 <instance_generator name="TypedLiteralGen">
+                                    <arg name="text" type="constant">uncertainty_score</arg>
+                                 </instance_generator>
+                              </entity>
+                           </additional>
+                        </entity>
+                     </additional>
                   </entity>
                </target_node>
             </range>
@@ -190,175 +287,20 @@
          <link>
             <path>
                <source_relation>
-                  <relation>description</relation>
+                  <relation>sentence_text</relation>
                </source_relation>
                <target_relation>
-                  <relationship>base:P3_has_note</relationship>
+                  <relationship>cidoc:P3_has_note</relationship>
                </target_relation>
             </path>
             <range>
-               <source_node>description</source_node>
+               <source_node>sentence_text</source_node>
                <target_node>
                   <entity>
                      <type>rdfs:Literal</type>
                      <instance_generator name="Literal">
                         <arg name="text" type="xpath">text()</arg>
                      </instance_generator>
-                  </entity>
-               </target_node>
-            </range>
-         </link>
-         <link>
-            <path>
-               <source_relation>
-                  <relation>socio-cultural_context</relation>
-               </source_relation>
-               <target_relation>
-                  <relationship>base:P44_has_condition</relationship>
-               </target_relation>
-            </path>
-            <range>
-               <source_node>socio-cultural_context</source_node>
-               <target_node>
-                  <entity>
-                     <type>base:E3_Condition_State</type>
-                     <instance_generator name="UUID"/>
-                     <label_generator name="Literal">
-                        <arg name="text" type="xpath">text()</arg>
-                     </label_generator>
-                     <additional>
-                        <relationship>base:P2_has_type</relationship>
-                        <entity>
-                           <type>base:E55_Type</type>
-                           <instance_generator name="URIwithType">
-                              <arg name="type" type="constant">/socio-cultural-context</arg>
-                           </instance_generator>
-                        </entity>
-                     </additional>
-                  </entity>
-               </target_node>
-            </range>
-         </link>
-         <link>
-            <path>
-               <source_relation>
-                  <relation>administrative_context</relation>
-               </source_relation>
-               <target_relation>
-                  <relationship>base:P52_has_current_owner</relationship>
-               </target_relation>
-            </path>
-            <range>
-               <source_node>administrative_context</source_node>
-               <target_node>
-                  <entity>
-                     <type>base:E74_Group</type>
-                     <instance_generator name="UUID"/>
-                     <label_generator name="Literal">
-                        <arg name="text" type="xpath">text()</arg>
-                     </label_generator>
-                     <additional>
-                        <relationship>base:P2_has_type</relationship>
-                        <entity>
-                           <type>base:E55_Type</type>
-                           <instance_generator name="URIwithType">
-                              <arg name="type" type="constant">/administrative-context</arg>
-                           </instance_generator>
-                        </entity>
-                     </additional>
-                  </entity>
-               </target_node>
-            </range>
-         </link>
-         <link>
-            <path>
-               <source_relation>
-                  <relation>financial_context</relation>
-               </source_relation>
-               <target_relation>
-                  <relationship>base:P50_has_current_keeper</relationship>
-               </target_relation>
-            </path>
-            <range>
-               <source_node>financial_context</source_node>
-               <target_node>
-                  <entity>
-                     <type>base:E74_Group</type>
-                     <instance_generator name="UUID"/>
-                     <label_generator name="Literal">
-                        <arg name="text" type="xpath">text()</arg>
-                     </label_generator>
-                     <additional>
-                        <relationship>base:P2_has_type</relationship>
-                        <entity>
-                           <type>base:E55_Type</type>
-                           <instance_generator name="URIwithType">
-                              <arg name="type" type="constant">/financial-context</arg>
-                           </instance_generator>
-                        </entity>
-                     </additional>
-                  </entity>
-               </target_node>
-            </range>
-         </link>
-         <link>
-            <path>
-               <source_relation>
-                  <relation>legal_context</relation>
-               </source_relation>
-               <target_relation>
-                  <relationship>base:P104_is_subject_to</relationship>
-               </target_relation>
-            </path>
-            <range>
-               <source_node>legal_context</source_node>
-               <target_node>
-                  <entity>
-                     <type>base:E30_Right</type>
-                     <instance_generator name="UUID"/>
-                     <label_generator name="Literal">
-                        <arg name="text" type="xpath">text()</arg>
-                     </label_generator>
-                     <additional>
-                        <relationship>base:P2_has_type</relationship>
-                        <entity>
-                           <type>base:E55_Type</type>
-                           <instance_generator name="URIwithType">
-                              <arg name="type" type="constant">/legal-context</arg>
-                           </instance_generator>
-                        </entity>
-                     </additional>
-                  </entity>
-               </target_node>
-            </range>
-         </link>
-         <link>
-            <path>
-               <source_relation>
-                  <relation>stakeholders</relation>
-               </source_relation>
-               <target_relation>
-                  <relationship>base:P105_right_held_by</relationship>
-               </target_relation>
-            </path>
-            <range>
-               <source_node>stakeholders</source_node>
-               <target_node>
-                  <entity>
-                     <type>base:E74_Group</type>
-                     <instance_generator name="UUID"/>
-                     <label_generator name="Literal">
-                        <arg name="text" type="xpath">text()</arg>
-                     </label_generator>
-                     <additional>
-                        <relationship>base:P2_has_type</relationship>
-                        <entity>
-                           <type>base:E55_Type</type>
-                           <instance_generator name="URIwithType">
-                              <arg name="type" type="constant">/stakeholders</arg>
-                           </instance_generator>
-                        </entity>
-                     </additional>
                   </entity>
                </target_node>
             </range>
