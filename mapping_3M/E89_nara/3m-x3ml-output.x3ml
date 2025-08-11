@@ -50,8 +50,17 @@
             <source_node>/value_aspect_dimensions</source_node>
             <target_node>
                <entity>
-                  <type>base:E73_Information_Object</type>
+                  <type>base:E89_Propositional_Object</type>
                   <instance_generator name="UUID"/>
+                  <additional>
+                     <relationship>base:P2_has_type</relationship>
+                     <entity>
+                        <type>base:E55_Type</type>
+                        <instance_generator name="TypedLiteralGen">
+                           <arg name="text" type="constant">nara-grid</arg>
+                        </instance_generator>
+                     </entity>
+                  </additional>
                </entity>
             </target_node>
          </domain>
@@ -61,14 +70,14 @@
                   <relation>value_aspect_dimension</relation>
                </source_relation>
                <target_relation>
-                  <relationship>base:P106_is_composed_of</relationship>
+                  <relationship>base:P148_has_component</relationship>
                </target_relation>
             </path>
             <range>
                <source_node>value_aspect_dimension</source_node>
                <target_node>
                   <entity>
-                     <type>base:E73_Information_Object</type>
+                     <type>base:E89_Propositional_Object</type>
                      <instance_generator name="valueAspectIDGen">
                         <arg name="id" type="xpath">./value_aspect_dimension_id/text()</arg>
                      </instance_generator>
@@ -82,7 +91,7 @@
             <source_node>/value_aspect_dimensions/value_aspect_dimension</source_node>
             <target_node>
                <entity>
-                  <type>base:E73_Information_Object</type>
+                  <type>base:E89_Propositional_Object</type>
                   <instance_generator name="valueAspectIDGen">
                      <arg name="id" type="xpath">./value_aspect_dimension_id/text()</arg>
                   </instance_generator>
@@ -123,7 +132,7 @@
                <source_node>aspect_id</source_node>
                <target_node>
                   <entity>
-                     <type>base:E73_Information_Object</type>
+                     <type>base:E89_Propositional_Object</type>
                      <instance_generator name="aspectIDwithInformationObject">
                         <arg name="id" type="xpath">text()</arg>
                         <arg name="term" type="xpath">../value_aspect_dimension_id/text()</arg>
@@ -149,7 +158,7 @@
                <source_node>dimension_id</source_node>
                <target_node>
                   <entity>
-                     <type>base:E73_Information_Object</type>
+                     <type>base:E89_Propositional_Object</type>
                      <instance_generator name="dimensionIDwithInformationObject">
                         <arg name="id" type="xpath">text()</arg>
                         <arg name="term" type="xpath">../value_aspect_dimension_id/text()</arg>

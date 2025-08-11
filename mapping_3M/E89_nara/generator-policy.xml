@@ -68,10 +68,10 @@
       <pattern>/nara-grid/id/{id}</pattern>
    </generator>
    <generator name="aspectIDwithInformationObject" prefix="sirius" type="any">
-      <pattern>/aspect/id/{id}/informationobject/id/{term}</pattern>
+      <pattern>/aspect/id/{id}/propositionalobject/id/{term}</pattern>
    </generator>
    <generator name="dimensionIDwithInformationObject" prefix="sirius" type="any">
-      <pattern>/dimension/id/{id}/informationobject/id/{term}</pattern>
+      <pattern>/dimension/id/{id}/propositionalobject/id/{term}</pattern>
    </generator>
    <generator name="aspectType" prefix="sirius" type="any">
       <pattern>/aspect/{id}/type/{term}</pattern>

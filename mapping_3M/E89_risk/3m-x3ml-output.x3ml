@@ -64,6 +64,15 @@
                <entity>
                   <type>cidoc:E89_Propositional_Object</type>
                   <instance_generator name="UUID"/>
+                  <additional>
+                     <relationship>cidoc:P2_has_type</relationship>
+                     <entity>
+                        <type>cidoc:E55_Type</type>
+                        <instance_generator name="TypedLiteralGen">
+                           <arg name="text" type="constant">risk-analysis</arg>
+                        </instance_generator>
+                     </entity>
+                  </additional>
                </entity>
             </target_node>
          </domain>
