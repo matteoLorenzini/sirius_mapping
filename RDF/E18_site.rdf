@@ -1,78 +1,227 @@
 <rdf:RDF
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:sirius="https://w3id.org/sirius"
     xmlns:owl="http://www.w3.org/2002/07/owl#"
-    xmlns:cidoc="http://www.cidoc-crm.org/cidoc-crm/"
+    xmlns:base="http://www.cidoc-crm.org/cidoc-crm/"
     xmlns:skos="http://www.w3.org/2004/02/skos/core#"
-    xmlns:crmsci="http://www.ics.forth.gr/isl/CRMsci/"
-    xmlns:sirius="https://w3id.org/sirius/"
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
     xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
-  <cidoc:E89_Propositional_Object rdf:about="urn:uuid:fd5b2440-6665-4d83-9249-63b80e52f08a">
-    <cidoc:P129_is_about>
-      <cidoc:E89_Propositional_Object rdf:about="https://w3id.org/sirius/risk-aspect/id/1">
-        <cidoc:P3_has_note>The site between 2010 and 2039 will flood due to the increase of 1.2 times per year in rainy periods of more than five consecutive days and for precipitations greater than 200 mm per day more frequent than 6-13 times per year compared to the recent past (1961-1990).</cidoc:P3_has_note>
-        <cidoc:P129_is_about>
-          <cidoc:E5_Event rdf:about="urn:uuid:860e4f52-9022-4827-ae8f-d7d5f5922e9e">
-            <cidoc:P39i_was_measured_by>
-              <crmsci:S21_Measurement rdf:about="urn:uuid:d5f5a6e9-597a-451a-9bef-207afd4b6e0b">
-                <cidoc:P2_has_type rdf:datatype="http://www.cidoc-crm.org/cidoc-crm/E55_Type"
-                >uncertainty_score</cidoc:P2_has_type>
-                <rdfs:label>0.75</rdfs:label>
-              </crmsci:S21_Measurement>
-            </cidoc:P39i_was_measured_by>
-            <cidoc:P39i_was_measured_by>
-              <crmsci:S21_Measurement rdf:about="urn:uuid:bafeb7fd-803b-4804-86bc-234f167b84f6">
-                <cidoc:P2_has_type rdf:datatype="http://www.cidoc-crm.org/cidoc-crm/E55_Type"
-                >magnitude_score</cidoc:P2_has_type>
-                <rdfs:label>12.0</rdfs:label>
-              </crmsci:S21_Measurement>
-            </cidoc:P39i_was_measured_by>
-            <cidoc:P39i_was_measured_by>
-              <crmsci:S21_Measurement rdf:about="urn:uuid:8a311379-f55a-4625-8a19-894de3476251">
-                <cidoc:P2_has_type rdf:datatype="http://www.cidoc-crm.org/cidoc-crm/E55_Type"
-                >scale_c_score</cidoc:P2_has_type>
-                <rdfs:label>4.5</rdfs:label>
-              </crmsci:S21_Measurement>
-            </cidoc:P39i_was_measured_by>
-            <cidoc:P39i_was_measured_by>
-              <crmsci:S21_Measurement rdf:about="urn:uuid:5d022e5c-6d52-4015-a4a5-22aa19b1e80f">
-                <cidoc:P2_has_type rdf:datatype="http://www.cidoc-crm.org/cidoc-crm/E55_Type"
-                >scale_b_score</cidoc:P2_has_type>
-                <rdfs:label>4.0</rdfs:label>
-              </crmsci:S21_Measurement>
-            </cidoc:P39i_was_measured_by>
-            <cidoc:P39i_was_measured_by>
-              <crmsci:S21_Measurement rdf:about="urn:uuid:5165b538-0946-4b6d-84b2-7e14a34c4800">
-                <cidoc:P2_has_type rdf:datatype="http://www.cidoc-crm.org/cidoc-crm/E55_Type"
-                >scale_a_score</cidoc:P2_has_type>
-                <rdfs:label>3.5</rdfs:label>
-              </crmsci:S21_Measurement>
-            </cidoc:P39i_was_measured_by>
-            <cidoc:P124_transformed>
-              <cidoc:E18_Physical_Thing rdf:about="https://w3id.org/sirius/site/id/1"/>
-            </cidoc:P124_transformed>
-            <cidoc:P11_had_participant>
-              <cidoc:E39_Actor rdf:about="urn:uuid:4c5fa0c7-20db-4402-8552-36c842759ac4">
-                <cidoc:P2_has_type>
-                  <cidoc:E55_Type rdf:about="https://w3id.org/sirius/agent/4">
-                    <rdfs:label>Water</rdfs:label>
-                  </cidoc:E55_Type>
-                </cidoc:P2_has_type>
-              </cidoc:E39_Actor>
-            </cidoc:P11_had_participant>
-            <cidoc:P3_has_note>
-              <rdfs:Literal rdf:about="urn:uuid:ddcd09ec-a231-401b-a26a-736f40a9855d">
-                <rdfs:label>Flooding of the archaeological site</rdfs:label>
-              </rdfs:Literal>
-            </cidoc:P3_has_note>
-          </cidoc:E5_Event>
-        </cidoc:P129_is_about>
-        <cidoc:P1_is_identified_by>
-          <cidoc:E42_Identifier rdf:about="https://w3id.org/sirius/risk-analysis/id/1"/>
-        </cidoc:P1_is_identified_by>
-      </cidoc:E89_Propositional_Object>
-    </cidoc:P129_is_about>
-    <cidoc:P2_has_type rdf:datatype="http://www.cidoc-crm.org/cidoc-crm/E55_Type"
-    >risk-analysis</cidoc:P2_has_type>
-  </cidoc:E89_Propositional_Object>
+  <base:E18_Physical_Thing rdf:about="urn:uuid:cf65251a-6206-4698-a046-e710c709aca9">
+    <base:P1_is_identified_by>
+      <base:E42_Identifier rdf:about="https://w3id.org/sirius/site/id/3"/>
+    </base:P1_is_identified_by>
+    <base:P2_has_type>
+      <base:E55_Type rdf:about="https://w3id.org/siriusNone">
+        <skos:prefLabel xml:lang="it">None</skos:prefLabel>
+      </base:E55_Type>
+    </base:P2_has_type>
+    <base:P105_right_held_by>
+      <base:E74_Group rdf:about="urn:uuid:498fc752-46b6-4584-8db0-295461151798">
+        <base:P2_has_type>
+          <base:E55_Type rdf:about="https://w3id.org/sirius/stakeholders"/>
+        </base:P2_has_type>
+        <rdfs:label>None</rdfs:label>
+      </base:E74_Group>
+    </base:P105_right_held_by>
+    <base:P52_has_current_owner>
+      <base:E74_Group rdf:about="urn:uuid:ba90c959-79c0-4933-8415-c13fdb1e229d">
+        <base:P2_has_type>
+          <base:E55_Type rdf:about="https://w3id.org/sirius/administrative-context"/>
+        </base:P2_has_type>
+        <rdfs:label>Proprieta' privata</rdfs:label>
+      </base:E74_Group>
+    </base:P52_has_current_owner>
+    <base:P44_has_condition>
+      <base:E3_Condition_State rdf:about="urn:uuid:da4e11ca-4cad-4482-8f42-16e7e1a508f7">
+        <base:P2_has_type>
+          <base:E55_Type rdf:about="https://w3id.org/sirius/socio-cultural-context"/>
+        </base:P2_has_type>
+        <rdfs:label>None</rdfs:label>
+      </base:E3_Condition_State>
+    </base:P44_has_condition>
+    <base:P16i_was_used_for>
+      <base:E7_Activity rdf:about="urn:uuid:435b657b-880e-4c56-bd60-f4103bf05a72">
+        <base:P4_has_time-span>
+          <base:E52_Time-Span rdf:about="https://w3id.org/siriuschronology/timespan/None">
+            <skos:prefLabel>None</skos:prefLabel>
+          </base:E52_Time-Span>
+        </base:P4_has_time-span>
+      </base:E7_Activity>
+    </base:P16i_was_used_for>
+    <base:P1_is_identified_by>
+      <base:E41_Appellation rdf:about="urn:uuid:bd4bc6a7-c670-410d-bfe9-16864799761a">
+        <skos:prefLabel>Muro di Drogdone</skos:prefLabel>
+      </base:E41_Appellation>
+    </base:P1_is_identified_by>
+    <base:P3_has_note>None</base:P3_has_note>
+    <base:P104_is_subject_to>
+      <base:E30_Right rdf:about="urn:uuid:827ce069-8d12-4706-a9a2-c6c9161d1ce7">
+        <base:P2_has_type>
+          <base:E55_Type rdf:about="https://w3id.org/sirius/legal-context"/>
+        </base:P2_has_type>
+        <rdfs:label>None</rdfs:label>
+      </base:E30_Right>
+    </base:P104_is_subject_to>
+    <base:P50_has_current_keeper>
+      <base:E74_Group rdf:about="urn:uuid:f55395ff-ea10-4842-942c-26379797f88f">
+        <base:P2_has_type>
+          <base:E55_Type rdf:about="https://w3id.org/sirius/financial-context"/>
+        </base:P2_has_type>
+        <rdfs:label>None</rdfs:label>
+      </base:E74_Group>
+    </base:P50_has_current_keeper>
+    <base:P55_has_current_location>None</base:P55_has_current_location>
+  </base:E18_Physical_Thing>
+  <base:E18_Physical_Thing rdf:about="urn:uuid:2a70c25c-d9ed-4c43-9fc9-ce9d3d801b54">
+    <base:P52_has_current_owner>
+      <base:E74_Group rdf:about="urn:uuid:f8df0e6f-8d94-4c02-bbc3-0c978423aece">
+        <base:P2_has_type rdf:resource="https://w3id.org/sirius/administrative-context"/>
+        <rdfs:label>Chamber of Commerce in Rimini</rdfs:label>
+      </base:E74_Group>
+    </base:P52_has_current_owner>
+    <base:P44_has_condition>
+      <base:E3_Condition_State rdf:about="urn:uuid:8df92ef1-d72d-4005-8f16-1fc53f6b43b8">
+        <base:P2_has_type rdf:resource="https://w3id.org/sirius/socio-cultural-context"/>
+        <rdfs:label>None</rdfs:label>
+      </base:E3_Condition_State>
+    </base:P44_has_condition>
+    <base:P16i_was_used_for>
+      <base:E7_Activity rdf:about="urn:uuid:fdda485f-e26a-43e4-a49b-afa9539115d1">
+        <base:P4_has_time-span>
+          <base:E52_Time-Span rdf:about="https://w3id.org/siriuschronology/timespan/III%20BC%20-%20Middle%20Ages">
+            <skos:prefLabel>III BC - Middle Ages</skos:prefLabel>
+          </base:E52_Time-Span>
+        </base:P4_has_time-span>
+      </base:E7_Activity>
+    </base:P16i_was_used_for>
+    <base:P55_has_current_location>N 44°25′08″ E 12°12′09″</base:P55_has_current_location>
+    <base:P50_has_current_keeper>
+      <base:E74_Group rdf:about="urn:uuid:45c51882-2725-4a2b-b317-ca8f7799b601">
+        <base:P2_has_type rdf:resource="https://w3id.org/sirius/financial-context"/>
+        <rdfs:label>Chamber of Commerce in Rimini operational budget</rdfs:label>
+      </base:E74_Group>
+    </base:P50_has_current_keeper>
+    <base:P105_right_held_by>
+      <base:E74_Group rdf:about="urn:uuid:0cdee02f-6e49-489a-ad8b-5eede28fdc9d">
+        <base:P2_has_type rdf:resource="https://w3id.org/sirius/stakeholders"/>
+        <rdfs:label>Chamber of Commerce in Rimini, Provveditorato</rdfs:label>
+      </base:E74_Group>
+    </base:P105_right_held_by>
+    <base:P1_is_identified_by>
+      <base:E42_Identifier rdf:about="https://w3id.org/sirius/site/id/1"/>
+    </base:P1_is_identified_by>
+    <base:P3_has_note>The archaeological site beneath Rimini's Chamber of Commerce lies in the western part of the Roman city and has been inhabited since the late Republican era. Key features include a polychrome mosaic from the 4th century and a 5th-century domus with an apsidal room in opus sectile that disrupted public infrastructure. The site remained important into the 6th century before falling into decline and being buried in the early Middle Ages. It was excavated in 1995–1996 by the Archaeological Superintendence of Emilia-Romagna. Conservation efforts began with a safety intervention in 1997, followed by restoration in 1999. Further restoration took place in 2022 and 2023 due to deterioration.</base:P3_has_note>
+    <base:P1_is_identified_by>
+      <base:E41_Appellation rdf:about="urn:uuid:ad017154-c230-4c96-8f7e-2c47b7d717e3">
+        <skos:prefLabel>Remains of a Roman-era residential district</skos:prefLabel>
+      </base:E41_Appellation>
+    </base:P1_is_identified_by>
+    <base:P2_has_type>
+      <base:E55_Type rdf:about="https://w3id.org/siriusBene%20Archeologico">
+        <skos:prefLabel xml:lang="it">Bene Archeologico</skos:prefLabel>
+      </base:E55_Type>
+    </base:P2_has_type>
+    <base:P104_is_subject_to>
+      <base:E30_Right rdf:about="urn:uuid:f123d6aa-cb76-420c-b5a5-a8651f072f0d">
+        <base:P2_has_type rdf:resource="https://w3id.org/sirius/legal-context"/>
+        <rdfs:label>Legislative Decree No. 42/2004, Article 1, Paragraph 4, Decreto Commissione Regionale (11/04/2016)</rdfs:label>
+      </base:E30_Right>
+    </base:P104_is_subject_to>
+  </base:E18_Physical_Thing>
+  <base:E18_Physical_Thing rdf:about="urn:uuid:f2754609-37f4-4e3c-97a8-9bff01d93e4e">
+    <base:P2_has_type rdf:resource="https://w3id.org/siriusNone"/>
+    <base:P50_has_current_keeper>
+      <base:E74_Group rdf:about="urn:uuid:62b75df8-17ce-42ae-a9a8-987344e7fb2e">
+        <base:P2_has_type rdf:resource="https://w3id.org/sirius/financial-context"/>
+        <rdfs:label>None</rdfs:label>
+      </base:E74_Group>
+    </base:P50_has_current_keeper>
+    <base:P16i_was_used_for>
+      <base:E7_Activity rdf:about="urn:uuid:734388d8-314a-4371-b31d-3618720f1fa8">
+        <base:P4_has_time-span rdf:resource="https://w3id.org/siriuschronology/timespan/None"/>
+      </base:E7_Activity>
+    </base:P16i_was_used_for>
+    <base:P52_has_current_owner>
+      <base:E74_Group rdf:about="urn:uuid:b377550a-a2ae-4c82-bcce-441103e61fda">
+        <base:P2_has_type rdf:resource="https://w3id.org/sirius/administrative-context"/>
+        <rdfs:label>Ministero della Cultura</rdfs:label>
+      </base:E74_Group>
+    </base:P52_has_current_owner>
+    <base:P44_has_condition>
+      <base:E3_Condition_State rdf:about="urn:uuid:ee08a3cb-4fe3-43bf-a2d7-1ad9e856729d">
+        <base:P2_has_type rdf:resource="https://w3id.org/sirius/socio-cultural-context"/>
+        <rdfs:label>None</rdfs:label>
+      </base:E3_Condition_State>
+    </base:P44_has_condition>
+    <base:P3_has_note>None</base:P3_has_note>
+    <base:P55_has_current_location>None</base:P55_has_current_location>
+    <base:P105_right_held_by>
+      <base:E74_Group rdf:about="urn:uuid:a01085b0-aca8-4909-9df1-46c6aebc9e92">
+        <base:P2_has_type rdf:resource="https://w3id.org/sirius/stakeholders"/>
+        <rdfs:label>None</rdfs:label>
+      </base:E74_Group>
+    </base:P105_right_held_by>
+    <base:P104_is_subject_to>
+      <base:E30_Right rdf:about="urn:uuid:1b70da38-16ad-4956-bbe0-b4c49537e9aa">
+        <base:P2_has_type rdf:resource="https://w3id.org/sirius/legal-context"/>
+        <rdfs:label>None</rdfs:label>
+      </base:E30_Right>
+    </base:P104_is_subject_to>
+    <base:P1_is_identified_by>
+      <base:E42_Identifier rdf:about="https://w3id.org/sirius/site/id/2"/>
+    </base:P1_is_identified_by>
+    <base:P1_is_identified_by>
+      <base:E41_Appellation rdf:about="urn:uuid:5608ea41-107b-4e27-be53-c5e343bee288">
+        <skos:prefLabel>Battistero degli Ariani</skos:prefLabel>
+      </base:E41_Appellation>
+    </base:P1_is_identified_by>
+  </base:E18_Physical_Thing>
+  <base:E18_Physical_Thing rdf:about="urn:uuid:fce61108-2454-4b3c-b869-af5e52177bf7">
+    <base:P105_right_held_by>
+      <base:E74_Group rdf:about="urn:uuid:db32631c-bf5d-450c-abc4-ab3e25a5fc00">
+        <base:P2_has_type rdf:resource="https://w3id.org/sirius/stakeholders"/>
+        <rdfs:label>None</rdfs:label>
+      </base:E74_Group>
+    </base:P105_right_held_by>
+    <base:P3_has_note>None</base:P3_has_note>
+    <base:P2_has_type rdf:resource="https://w3id.org/siriusNone"/>
+    <base:P16i_was_used_for>
+      <base:E7_Activity rdf:about="urn:uuid:6562cc13-a5fd-4741-b78b-2caf0a8bb103">
+        <base:P4_has_time-span rdf:resource="https://w3id.org/siriuschronology/timespan/None"/>
+      </base:E7_Activity>
+    </base:P16i_was_used_for>
+    <base:P52_has_current_owner>
+      <base:E74_Group rdf:about="urn:uuid:af1a1534-d923-493b-a2bd-55182cf0622c">
+        <base:P2_has_type rdf:resource="https://w3id.org/sirius/administrative-context"/>
+        <rdfs:label>Proprieta' ecclesiastica, Arcidiocesi di Ravenna-Cervia, Parrocchia di Santa Maria in Porto</rdfs:label>
+      </base:E74_Group>
+    </base:P52_has_current_owner>
+    <base:P55_has_current_location>None</base:P55_has_current_location>
+    <base:P104_is_subject_to>
+      <base:E30_Right rdf:about="urn:uuid:f968f550-166b-445b-83f0-f403a483091c">
+        <base:P2_has_type rdf:resource="https://w3id.org/sirius/legal-context"/>
+        <rdfs:label>None</rdfs:label>
+      </base:E30_Right>
+    </base:P104_is_subject_to>
+    <base:P50_has_current_keeper>
+      <base:E74_Group rdf:about="urn:uuid:3c33210e-697e-4bf4-b8de-c053e1b2ab1c">
+        <base:P2_has_type rdf:resource="https://w3id.org/sirius/financial-context"/>
+        <rdfs:label>None</rdfs:label>
+      </base:E74_Group>
+    </base:P50_has_current_keeper>
+    <base:P1_is_identified_by>
+      <base:E41_Appellation rdf:about="urn:uuid:6013d057-1749-4ca5-857b-41893da3f553">
+        <skos:prefLabel>Basilica dello Spirito Santo</skos:prefLabel>
+      </base:E41_Appellation>
+    </base:P1_is_identified_by>
+    <base:P44_has_condition>
+      <base:E3_Condition_State rdf:about="urn:uuid:a70bc619-ad58-44fa-81c4-26cf33ab9163">
+        <base:P2_has_type rdf:resource="https://w3id.org/sirius/socio-cultural-context"/>
+        <rdfs:label>None</rdfs:label>
+      </base:E3_Condition_State>
+    </base:P44_has_condition>
+    <base:P1_is_identified_by>
+      <base:E42_Identifier rdf:about="https://w3id.org/sirius/site/id/4"/>
+    </base:P1_is_identified_by>
+  </base:E18_Physical_Thing>
 </rdf:RDF>
