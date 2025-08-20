@@ -133,7 +133,9 @@ SELECT
     ra.site_id,
     chs.cultural_heritage_site_appellation AS site,
     ars.sentence_text,
-    ra.scale_a_score, ra.scale_b_score, ra.scale_c_score,
+    ra.scale_a_score, ra.scale_a_description,
+    ra.scale_b_score, ra.scale_b_description,
+    ra.scale_c_score, ra.scale_c_description,
     ra.magnitude_score, ra.uncertainty
 FROM public.risk_analysis ra
 JOIN public.risk_agents r ON ra.risk_id = r.risk_id
