@@ -193,6 +193,9 @@
                            <label_generator name="Literal">
                               <arg name="text" type="xpath">../scale_a_score/text()</arg>
                            </label_generator>
+                           <label_generator name="Literal">
+                              <arg name="text" type="xpath">../scale_a_description/text()</arg>
+                           </label_generator>
                            <additional>
                               <relationship>cidoc:P2_has_type</relationship>
                               <entity>
@@ -280,6 +283,27 @@
                            </additional>
                         </entity>
                      </additional>
+                  </entity>
+               </target_node>
+            </range>
+         </link>
+         <link>
+            <path>
+               <source_relation>
+                  <relation>sentence_text</relation>
+               </source_relation>
+               <target_relation>
+                  <relationship>cidoc:P3_has_note</relationship>
+               </target_relation>
+            </path>
+            <range>
+               <source_node>sentence_text</source_node>
+               <target_node>
+                  <entity>
+                     <type>rdfs:Literal</type>
+                     <instance_generator name="Literal">
+                        <arg name="text" type="xpath">text()</arg>
+                     </instance_generator>
                   </entity>
                </target_node>
             </range>
