@@ -41,14 +41,14 @@
               prefix="sirius"
               shorten="true"
               type="any">
-      <pattern>place/{place_id}/appellation/{appellation_id}</pattern>
+      <pattern>/place/{place_id}/appellation/{appellation_id}</pattern>
    </generator>
    <generator name="siteAppellationUri"
               prefix="sirius"
               shorten="no"
               type="any"
               uuid="no">
-      <pattern>site/{site_id}/appellation/{term}</pattern>
+      <pattern>/site/{site_id}/appellation/{term}</pattern>
    </generator>
    <generator name="URIwithType" prefix="sirius" type="any" uuid="no">
       <pattern>{type}</pattern>
