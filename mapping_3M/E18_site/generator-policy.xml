@@ -54,22 +54,22 @@
       <pattern>{type}</pattern>
    </generator>
    <generator name="timespan" prefix="sirius" type="any">
-      <pattern>chronology/timespan/{terms}</pattern>
+      <pattern>/chronology/timespan/{terms}</pattern>
    </generator>
    <generator name="socio-cultural-context-UUID"
               prefix="sirius"
               type="any"
               uuid="yes">
-      <pattern>socio-cultural-context/{term}</pattern>
+      <pattern>/socio-cultural-context/{term}</pattern>
    </generator>
    <generator name="administrative-context-UUID" prefix="sirius" type="any">
-      <pattern>administrative-context/{term}</pattern>
+      <pattern>/administrative-context/{term}</pattern>
    </generator>
    <generator name="financial-context-UUID" prefix="sirius" type="any">
-      <pattern>financial-context/{term}</pattern>
+      <pattern>/financial-context/{term}</pattern>
    </generator>
    <generator name="legal-context-UUID" prefix="sirius" type="any">
-      <pattern>legal-context/{term}</pattern>
+      <pattern>/legal-context/{term}</pattern>
    </generator>
    <generator name="URIwithTypeAndId" prefix="sirius" type="any">
       <pattern>/{type}/{id}</pattern>
