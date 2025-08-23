@@ -55,6 +55,15 @@
                      <arg name="type" type="constant">nara-grid-analysis</arg>
                      <arg name="id" type="xpath">value_aspect_dimension/site_id/text()</arg>
                   </instance_generator>
+                  <additional>
+                     <relationship>base:P2_has_type</relationship>
+                     <entity>
+                        <type>base:E55_Type</type>
+                        <instance_generator name="URIwithType">
+                           <arg name="type" type="constant">nara-grid</arg>
+                        </instance_generator>
+                     </entity>
+                  </additional>
                </entity>
             </target_node>
          </domain>

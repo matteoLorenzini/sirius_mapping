@@ -85,6 +85,9 @@
         </base:P1_is_identified_by>
       </base:E89_Propositional_Object>
     </base:P148_has_component>
+    <base:P2_has_type>
+      <base:E55_Type rdf:about="https://w3id.org/sirius/nara-grid"/>
+    </base:P2_has_type>
     <base:P148_has_component>
       <base:E89_Propositional_Object rdf:about="https://w3id.org/sirius/value-aspect/id/11">
         <base:P129_is_about rdf:resource="https://w3id.org/sirius/site/id/1"/>

@@ -82,4 +82,7 @@
    <generator name="valueAspectIDGen" prefix="sirius" type="any">
       <pattern>/value-aspect/id/{id}</pattern>
    </generator>
+   <generator name="URIwithType" prefix="sirius" type="any">
+      <pattern>/{type}</pattern>
+   </generator>
 </generator_policy>

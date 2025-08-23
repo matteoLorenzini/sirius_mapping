@@ -67,6 +67,15 @@
                      <arg name="type" type="constant">risk-analysis</arg>
                      <arg name="id" type="xpath">risk_analysis/risk_analysis_id/text()</arg>
                   </instance_generator>
+                  <additional>
+                     <relationship>cidoc:P2_has_type</relationship>
+                     <entity>
+                        <type>cidoc:E55_Type</type>
+                        <instance_generator name="URIwithType">
+                           <arg name="type" type="constant">risk-analysis</arg>
+                        </instance_generator>
+                     </entity>
+                  </additional>
                </entity>
             </target_node>
          </domain>

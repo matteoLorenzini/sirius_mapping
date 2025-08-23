@@ -51,7 +51,7 @@
       <pattern>/site/{site_id}/appellation/{term}</pattern>
    </generator>
    <generator name="URIwithType" prefix="sirius" type="any" uuid="no">
-      <pattern>{type}</pattern>
+      <pattern>/{type}</pattern>
    </generator>
    <generator name="timespan" prefix="sirius" type="any">
       <pattern>/chronology/timespan/{terms}</pattern>

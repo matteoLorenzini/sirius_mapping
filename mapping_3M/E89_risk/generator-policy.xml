@@ -106,4 +106,7 @@
    <generator name="uncertainty" prefix="sirius" type="any">
       <pattern>/uncertainty/{site_id}/{risk_id}/{score}</pattern>
    </generator>
+   <generator name="URIwithType" prefix="sirius" type="any">
+      <pattern>/{type}</pattern>
+   </generator>
 </generator_policy>

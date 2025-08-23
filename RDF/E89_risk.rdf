@@ -64,5 +64,8 @@
         </cidoc:P129_is_about>
       </cidoc:E89_Propositional_Object>
     </cidoc:P129_is_about>
+    <cidoc:P2_has_type>
+      <cidoc:E55_Type rdf:about="https://w3id.org/sirius/risk-analysis"/>
+    </cidoc:P2_has_type>
   </cidoc:E89_Propositional_Object>
 </rdf:RDF>
