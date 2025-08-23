@@ -1,0 +1,70 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:cidoc="http://www.cidoc-crm.org/cidoc-crm/"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:crmsci="http://www.ics.forth.gr/isl/CRMsci/"
+    xmlns:sirius="https://w3id.org/sirius/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <cidoc:E89_Propositional_Object rdf:about="urn:uuid:aa32dc29-b344-48ce-8fd8-4885f5750461">
+    <cidoc:P129_is_about>
+      <cidoc:E89_Propositional_Object rdf:about="https://w3id.org/sirius/risk-analysis/id/1">
+        <cidoc:P3_has_note>The site between 2010 and 2039 will flood due to the increase of 1.2 times per year in rainy periods of more than five consecutive days and for precipitations greater than 200 mm per day more frequent than 6-13 times per year compared to the recent past (1961-1990).</cidoc:P3_has_note>
+        <cidoc:P129_is_about>
+          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/Flooding%20of%20the%20archaeological%20site">
+            <cidoc:P39i_was_measured_by>
+              <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_c_score/1/4/0.75">
+                <cidoc:P2_has_type>
+                  <cidoc:E55_Type rdf:about="https://w3id.org/sirius/type/uncertainty"/>
+                </cidoc:P2_has_type>
+                <rdfs:label>0.75</rdfs:label>
+              </crmsci:S21_Measurement>
+            </cidoc:P39i_was_measured_by>
+            <cidoc:P39i_was_measured_by>
+              <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_c_score/1/4/12.0">
+                <cidoc:P2_has_type>
+                  <cidoc:E55_Type rdf:about="https://w3id.org/sirius/type/magnitude-score"/>
+                </cidoc:P2_has_type>
+                <rdfs:label>12.0</rdfs:label>
+              </crmsci:S21_Measurement>
+            </cidoc:P39i_was_measured_by>
+            <cidoc:P39i_was_measured_by>
+              <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_c_score/1/4/4.5">
+                <cidoc:P3_has_note rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal"
+                >3/12 high-value floors, major structural risk</cidoc:P3_has_note>
+                <cidoc:P2_has_type>
+                  <cidoc:E55_Type rdf:about="https://w3id.org/sirius/type/scale-c-score"/>
+                </cidoc:P2_has_type>
+                <rdfs:label>4.5</rdfs:label>
+              </crmsci:S21_Measurement>
+            </cidoc:P39i_was_measured_by>
+            <cidoc:P39i_was_measured_by>
+              <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_b_score/1/4/4.0">
+                <cidoc:P3_has_note rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal"
+                >Efflorescence, cracks, fragile tile damage</cidoc:P3_has_note>
+                <cidoc:P2_has_type>
+                  <cidoc:E55_Type rdf:about="https://w3id.org/sirius/type/scale-b-score"/>
+                </cidoc:P2_has_type>
+                <rdfs:label>4.0</rdfs:label>
+              </crmsci:S21_Measurement>
+            </cidoc:P39i_was_measured_by>
+            <cidoc:P39i_was_measured_by>
+              <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_a_score/1/4/3.5">
+                <cidoc:P3_has_note rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal"
+                >Between 2010 and 2039, similar phenomena will occur more frequently...</cidoc:P3_has_note>
+                <cidoc:P2_has_type>
+                  <cidoc:E55_Type rdf:about="https://w3id.org/sirius/type/scale-a-score"/>
+                </cidoc:P2_has_type>
+                <rdfs:label>3.5</rdfs:label>
+              </crmsci:S21_Measurement>
+            </cidoc:P39i_was_measured_by>
+            <rdfs:label>Flooding of the archaeological site</rdfs:label>
+          </cidoc:E5_Event>
+        </cidoc:P129_is_about>
+      </cidoc:E89_Propositional_Object>
+    </cidoc:P129_is_about>
+    <cidoc:P2_has_type rdf:datatype="http://www.cidoc-crm.org/cidoc-crm/E55_Type"
+    >risk-analysis</cidoc:P2_has_type>
+  </cidoc:E89_Propositional_Object>
+</rdf:RDF>
