@@ -90,7 +90,7 @@
                <target_node>
                   <entity>
                      <type>cidoc:E89_Propositional_Object</type>
-                     <instance_generator name="valueRiskIDGen">
+                     <instance_generator name="risk-analysisID">
                         <arg name="id" type="xpath">risk_analysis_id/text()</arg>
                      </instance_generator>
                   </entity>
@@ -104,33 +104,12 @@
             <target_node>
                <entity>
                   <type>cidoc:E89_Propositional_Object</type>
-                  <instance_generator name="valueRiskIDGen">
+                  <instance_generator name="risk-analysisID">
                      <arg name="id" type="xpath">risk_analysis_id/text()</arg>
                   </instance_generator>
                </entity>
             </target_node>
          </domain>
-         <link>
-            <path>
-               <source_relation>
-                  <relation>risk_analysis_id</relation>
-               </source_relation>
-               <target_relation>
-                  <relationship>cidoc:P1_is_identified_by</relationship>
-               </target_relation>
-            </path>
-            <range>
-               <source_node>risk_analysis_id</source_node>
-               <target_node>
-                  <entity>
-                     <type>cidoc:E42_Identifier</type>
-                     <instance_generator name="risk-analysisID">
-                        <arg name="id" type="xpath">text()</arg>
-                     </instance_generator>
-                  </entity>
-               </target_node>
-            </range>
-         </link>
          <link>
             <path>
                <source_relation>
@@ -145,63 +124,39 @@
                <target_node>
                   <entity>
                      <type>cidoc:E5_Event</type>
-                     <instance_generator name="UUID"/>
-                     <additional>
-                        <relationship>cidoc:P3_has_note</relationship>
-                        <entity>
-                           <type>rdfs:Literal</type>
-                           <instance_generator name="UUID"/>
-                           <label_generator name="Literal">
-                              <arg name="text" type="xpath">../risk_name/text()</arg>
-                           </label_generator>
-                        </entity>
-                     </additional>
-                     <additional>
-                        <relationship>cidoc:P11_had_participant</relationship>
-                        <entity>
-                           <type>cidoc:E39_Actor</type>
-                           <instance_generator name="UUID"/>
-                           <additional>
-                              <relationship>cidoc:P2_has_type</relationship>
-                              <entity>
-                                 <type>cidoc:E55_Type</type>
-                                 <instance_generator name="URIwithTypeAndId">
-                                    <arg name="type" type="constant">agent</arg>
-                                    <arg name="id" type="xpath">../risk_id/text()</arg>
-                                 </instance_generator>
-                                 <label_generator name="Literal">
-                                    <arg name="text" type="xpath">../risk_agent/text()</arg>
-                                 </label_generator>
-                              </entity>
-                           </additional>
-                        </entity>
-                     </additional>
-                     <additional>
-                        <relationship>cidoc:P124_transformed</relationship>
-                        <entity>
-                           <type>cidoc:E18_Physical_Thing</type>
-                           <instance_generator name="site_ID">
-                              <arg name="id" type="xpath">../site_id/text()</arg>
-                           </instance_generator>
-                        </entity>
-                     </additional>
+                     <instance_generator name="risk-event">
+                        <arg name="event" type="xpath">../risk_name/text()</arg>
+                     </instance_generator>
+                     <label_generator name="Literal">
+                        <arg name="text" type="xpath">../risk_name/text()</arg>
+                     </label_generator>
                      <additional>
                         <relationship>cidoc:P39i_was_measured_by</relationship>
                         <entity>
                            <type>crmsci:S21_Measurement</type>
-                           <instance_generator name="UUID"/>
+                           <instance_generator name="ScaleAScore">
+                              <arg name="site_id" type="xpath">../site_id/text()</arg>
+                              <arg name="risk_id" type="xpath">../risk_id/text()</arg>
+                              <arg name="score" type="xpath">../scale_a_score/text()</arg>
+                           </instance_generator>
                            <label_generator name="Literal">
                               <arg name="text" type="xpath">../scale_a_score/text()</arg>
                            </label_generator>
-                           <label_generator name="Literal">
-                              <arg name="text" type="xpath">../scale_a_description/text()</arg>
-                           </label_generator>
                            <additional>
                               <relationship>cidoc:P2_has_type</relationship>
                               <entity>
                                  <type>cidoc:E55_Type</type>
+                                 <instance_generator name="type_score">
+                                    <arg name="type" type="constant">scale-a-score</arg>
+                                 </instance_generator>
+                              </entity>
+                           </additional>
+                           <additional>
+                              <relationship>cidoc:P3_has_note</relationship>
+                              <entity>
+                                 <type>rdfs:Literal</type>
                                  <instance_generator name="TypedLiteralGen">
-                                    <arg name="text" type="constant">scale_a_score</arg>
+                                    <arg name="text" type="xpath">../scale_a_description/text()</arg>
                                  </instance_generator>
                               </entity>
                            </additional>
@@ -211,7 +166,11 @@
                         <relationship>cidoc:P39i_was_measured_by</relationship>
                         <entity>
                            <type>crmsci:S21_Measurement</type>
-                           <instance_generator name="UUID"/>
+                           <instance_generator name="ScaleBScore">
+                              <arg name="site_id" type="xpath">../site_id/text()</arg>
+                              <arg name="risk_id" type="xpath">../risk_id/text()</arg>
+                              <arg name="score" type="xpath">../scale_b_score/text()</arg>
+                           </instance_generator>
                            <label_generator name="Literal">
                               <arg name="text" type="xpath">../scale_b_score/text()</arg>
                            </label_generator>
@@ -219,8 +178,17 @@
                               <relationship>cidoc:P2_has_type</relationship>
                               <entity>
                                  <type>cidoc:E55_Type</type>
+                                 <instance_generator name="type_score">
+                                    <arg name="type" type="constant">scale-b-score</arg>
+                                 </instance_generator>
+                              </entity>
+                           </additional>
+                           <additional>
+                              <relationship>cidoc:P3_has_note</relationship>
+                              <entity>
+                                 <type>rdfs:Literal</type>
                                  <instance_generator name="TypedLiteralGen">
-                                    <arg name="text" type="constant">scale_b_score</arg>
+                                    <arg name="text" type="xpath">../scale_b_description/text()</arg>
                                  </instance_generator>
                               </entity>
                            </additional>
@@ -230,7 +198,11 @@
                         <relationship>cidoc:P39i_was_measured_by</relationship>
                         <entity>
                            <type>crmsci:S21_Measurement</type>
-                           <instance_generator name="UUID"/>
+                           <instance_generator name="ScaleCScore">
+                              <arg name="site_id" type="xpath">../site_id/text()</arg>
+                              <arg name="risk_id" type="xpath">../risk_id/text()</arg>
+                              <arg name="score" type="xpath">../scale_c_score/text()</arg>
+                           </instance_generator>
                            <label_generator name="Literal">
                               <arg name="text" type="xpath">../scale_c_score/text()</arg>
                            </label_generator>
@@ -238,8 +210,17 @@
                               <relationship>cidoc:P2_has_type</relationship>
                               <entity>
                                  <type>cidoc:E55_Type</type>
+                                 <instance_generator name="type_score">
+                                    <arg name="type" type="constant">scale-c-score</arg>
+                                 </instance_generator>
+                              </entity>
+                           </additional>
+                           <additional>
+                              <relationship>cidoc:P3_has_note</relationship>
+                              <entity>
+                                 <type>rdfs:Literal</type>
                                  <instance_generator name="TypedLiteralGen">
-                                    <arg name="text" type="constant">scale_c_score</arg>
+                                    <arg name="text" type="xpath">../scale_c_description/text()</arg>
                                  </instance_generator>
                               </entity>
                            </additional>
@@ -249,7 +230,11 @@
                         <relationship>cidoc:P39i_was_measured_by</relationship>
                         <entity>
                            <type>crmsci:S21_Measurement</type>
-                           <instance_generator name="UUID"/>
+                           <instance_generator name="ScaleCScore">
+                              <arg name="site_id" type="xpath">../site_id/text()</arg>
+                              <arg name="risk_id" type="xpath">../risk_id/text()</arg>
+                              <arg name="score" type="xpath">../magnitude_score/text()</arg>
+                           </instance_generator>
                            <label_generator name="Literal">
                               <arg name="text" type="xpath">../magnitude_score/text()</arg>
                            </label_generator>
@@ -257,8 +242,8 @@
                               <relationship>cidoc:P2_has_type</relationship>
                               <entity>
                                  <type>cidoc:E55_Type</type>
-                                 <instance_generator name="TypedLiteralGen">
-                                    <arg name="text" type="constant">magnitude_score</arg>
+                                 <instance_generator name="type_score">
+                                    <arg name="type" type="constant">magnitude-score</arg>
                                  </instance_generator>
                               </entity>
                            </additional>
@@ -268,7 +253,11 @@
                         <relationship>cidoc:P39i_was_measured_by</relationship>
                         <entity>
                            <type>crmsci:S21_Measurement</type>
-                           <instance_generator name="UUID"/>
+                           <instance_generator name="ScaleCScore">
+                              <arg name="site_id" type="xpath">../site_id/text()</arg>
+                              <arg name="risk_id" type="xpath">../risk_id/text()</arg>
+                              <arg name="score" type="xpath">../uncertainty/text()</arg>
+                           </instance_generator>
                            <label_generator name="Literal">
                               <arg name="text" type="xpath">../uncertainty/text()</arg>
                            </label_generator>
@@ -276,8 +265,8 @@
                               <relationship>cidoc:P2_has_type</relationship>
                               <entity>
                                  <type>cidoc:E55_Type</type>
-                                 <instance_generator name="TypedLiteralGen">
-                                    <arg name="text" type="constant">uncertainty_score</arg>
+                                 <instance_generator name="type_score">
+                                    <arg name="type" type="constant">uncertainty</arg>
                                  </instance_generator>
                               </entity>
                            </additional>
