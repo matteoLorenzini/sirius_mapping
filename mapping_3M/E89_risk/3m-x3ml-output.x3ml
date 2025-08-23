@@ -25,7 +25,7 @@
                <namespace prefix="owl" uri="http://www.w3.org/2002/07/owl#"/>
                <namespace prefix="rdf" uri="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
                <namespace prefix="cidoc" uri="http://www.cidoc-crm.org/cidoc-crm/"/>
-               <namespace prefix="sirius" uri="https://w3id.org/sirius/"/>
+               <namespace prefix="sirius" uri="https://w3id.org/sirius"/>
             </namespaces>
          </target_info>
          <target_info>
@@ -54,7 +54,7 @@
       </example_data_info>
    </info>
    <namespaces>
-      <namespace prefix="sirius" uri="https://w3id.org/sirius/"/>
+      <namespace prefix="sirius" uri="https://w3id.org/sirius"/>
    </namespaces>
    <mappings>
       <mapping>
@@ -63,16 +63,10 @@
             <target_node>
                <entity>
                   <type>cidoc:E89_Propositional_Object</type>
-                  <instance_generator name="UUID"/>
-                  <additional>
-                     <relationship>cidoc:P2_has_type</relationship>
-                     <entity>
-                        <type>cidoc:E55_Type</type>
-                        <instance_generator name="TypedLiteralGen">
-                           <arg name="text" type="constant">risk-analysis</arg>
-                        </instance_generator>
-                     </entity>
-                  </additional>
+                  <instance_generator name="URIwithTypeAndId">
+                     <arg name="type" type="constant">risk-analysis</arg>
+                     <arg name="id" type="xpath">risk_analysis/risk_analysis_id/text()</arg>
+                  </instance_generator>
                </entity>
             </target_node>
          </domain>
@@ -124,8 +118,9 @@
                <target_node>
                   <entity>
                      <type>cidoc:E5_Event</type>
-                     <instance_generator name="risk-event">
-                        <arg name="event" type="xpath">../risk_name/text()</arg>
+                     <instance_generator name="URIwithTypeAndId">
+                        <arg name="type" type="constant">risk-event</arg>
+                        <arg name="id" type="xpath">../risk_id/text()</arg>
                      </instance_generator>
                      <label_generator name="Literal">
                         <arg name="text" type="xpath">../risk_name/text()</arg>

@@ -6,7 +6,7 @@
       </custom>
    </generator>
    <generator name="URIwithTypeAndId" prefix="sirius" type="any">
-      <pattern>{type}/{id}</pattern>
+      <pattern>/{type}/{id}</pattern>
    </generator>
    <generator name="URIwith2TypesAndId" prefix="sari" type="any">
       <pattern>{type1}/{type2}/{id}</pattern>
