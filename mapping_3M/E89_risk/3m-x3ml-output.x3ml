@@ -276,6 +276,19 @@
                            </additional>
                         </entity>
                      </additional>
+                     <additional>
+                        <relationship>cidoc:P11_had_participant</relationship>
+                        <entity>
+                           <type>cidoc:E39_Actor</type>
+                           <instance_generator name="URIwithAgentandID">
+                              <arg name="type" type="xpath">../risk_agent/text()</arg>
+                              <arg name="id" type="xpath">../risk_id/text()</arg>
+                           </instance_generator>
+                           <label_generator name="Literal">
+                              <arg name="text" type="xpath">../risk_agent/text()</arg>
+                           </label_generator>
+                        </entity>
+                     </additional>
                   </entity>
                </target_node>
             </range>

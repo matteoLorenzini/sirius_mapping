@@ -109,4 +109,7 @@
    <generator name="URIwithType" prefix="sirius" type="any">
       <pattern>/{type}</pattern>
    </generator>
+   <generator name="URIwithAgentandID" prefix="sirius" type="any">
+      <pattern>/agent/{type}/{id}</pattern>
+   </generator>
 </generator_policy>
