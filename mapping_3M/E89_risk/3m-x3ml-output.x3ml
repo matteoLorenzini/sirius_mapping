@@ -289,6 +289,15 @@
                            </label_generator>
                         </entity>
                      </additional>
+                     <additional>
+                        <relationship>cidoc:P31_has_modified</relationship>
+                        <entity>
+                           <type>cidoc:E18_Physical_Thing</type>
+                           <instance_generator name="site_ID">
+                              <arg name="id" type="xpath">../site_id/text()</arg>
+                           </instance_generator>
+                        </entity>
+                     </additional>
                   </entity>
                </target_node>
             </range>

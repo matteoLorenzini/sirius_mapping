@@ -13,6 +13,9 @@
         <cidoc:P3_has_note>The site between 2010 and 2039 will flood due to the increase of 1.2 times per year in rainy periods of more than five consecutive days and for precipitations greater than 200 mm per day more frequent than 6-13 times per year compared to the recent past (1961-1990).</cidoc:P3_has_note>
         <cidoc:P129_is_about>
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/4">
+            <cidoc:P31_has_modified>
+              <cidoc:E18_Physical_Thing rdf:about="https://w3id.org/sirius/site/id/1"/>
+            </cidoc:P31_has_modified>
             <cidoc:P11_had_participant>
               <cidoc:E39_Actor rdf:about="https://w3id.org/sirius/agent/Water/4">
                 <rdfs:label>Water</rdfs:label>
