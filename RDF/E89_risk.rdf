@@ -14,7 +14,7 @@
         <cidoc:P129_is_about>
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/4">
             <cidoc:P31_has_modified>
-              <cidoc:E18_Physical_Thing rdf:about="https://w3id.org/sirius/site/id/1"/>
+              <cidoc:E18_Physical_Thing rdf:about="https://w3id.org/sirius/cultiral-heritage-site/1"/>
             </cidoc:P31_has_modified>
             <cidoc:P11_had_participant>
               <cidoc:E39_Actor rdf:about="https://w3id.org/sirius/agent/Water/4">
