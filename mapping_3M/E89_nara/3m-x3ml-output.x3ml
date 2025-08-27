@@ -210,8 +210,9 @@
                <target_node>
                   <entity>
                      <type>base:E18_Physical_Thing</type>
-                     <instance_generator name="site_id">
-                        <arg name="id" type="xpath">text()</arg>
+                     <instance_generator name="URIwithTypeAndId">
+                        <arg name="type" type="constant">/cultural-heritage-site</arg>
+                        <arg name="id" type="xpath">../site_id/text()</arg>
                      </instance_generator>
                   </entity>
                </target_node>

@@ -10,7 +10,7 @@
     <base:P148_has_component>
       <base:E89_Propositional_Object rdf:about="https://w3id.org/sirius/value-aspect/id/12">
         <base:P129_is_about>
-          <base:E18_Physical_Thing rdf:about="https://w3id.org/sirius/site/id/1"/>
+          <base:E18_Physical_Thing rdf:about="https://w3id.org/sirius//cultural-heritage-site/1"/>
         </base:P129_is_about>
         <base:P3_has_note xml:lang="en">The archaeological floors preserve their original subfloors. Many marble crustae in the opus sectile, , have been preserved</base:P3_has_note>
         <base:P67_refers_to>
@@ -30,7 +30,7 @@
     </base:P148_has_component>
     <base:P148_has_component>
       <base:E89_Propositional_Object rdf:about="https://w3id.org/sirius/value-aspect/id/4">
-        <base:P129_is_about rdf:resource="https://w3id.org/sirius/site/id/1"/>
+        <base:P129_is_about rdf:resource="https://w3id.org/sirius//cultural-heritage-site/1"/>
         <base:P3_has_note xml:lang="en">The apsidal room in bichromatic opus sectile and the presence of the interrupted water channel are important evidences concerning the economic and social management of a public site in Late Antiquity.</base:P3_has_note>
         <base:P67_refers_to>
           <base:E89_Propositional_Object rdf:about="https://w3id.org/sirius/dimension/id/4/propositionalobject/id/4">
@@ -49,7 +49,7 @@
     </base:P148_has_component>
     <base:P148_has_component>
       <base:E89_Propositional_Object rdf:about="https://w3id.org/sirius/value-aspect/id/19">
-        <base:P129_is_about rdf:resource="https://w3id.org/sirius/site/id/1"/>
+        <base:P129_is_about rdf:resource="https://w3id.org/sirius//cultural-heritage-site/1"/>
         <base:P3_has_note xml:lang="en">The archaeological site has been helpful in corroborating some theses about the presence of high-ranking elites during the Late Antique period in Rimini.</base:P3_has_note>
         <base:P67_refers_to>
           <base:E89_Propositional_Object rdf:about="https://w3id.org/sirius/dimension/id/2/propositionalobject/id/19">
@@ -68,7 +68,7 @@
     </base:P148_has_component>
     <base:P148_has_component>
       <base:E89_Propositional_Object rdf:about="https://w3id.org/sirius/value-aspect/id/3">
-        <base:P129_is_about rdf:resource="https://w3id.org/sirius/site/id/1"/>
+        <base:P129_is_about rdf:resource="https://w3id.org/sirius//cultural-heritage-site/1"/>
         <base:P3_has_note xml:lang="en">Late antique findings testify a presence of elites in the Rimini area.</base:P3_has_note>
         <base:P67_refers_to>
           <base:E89_Propositional_Object rdf:about="https://w3id.org/sirius/dimension/id/3/propositionalobject/id/3">
@@ -90,7 +90,7 @@
     </base:P2_has_type>
     <base:P148_has_component>
       <base:E89_Propositional_Object rdf:about="https://w3id.org/sirius/value-aspect/id/11">
-        <base:P129_is_about rdf:resource="https://w3id.org/sirius/site/id/1"/>
+        <base:P129_is_about rdf:resource="https://w3id.org/sirius//cultural-heritage-site/1"/>
         <base:P3_has_note xml:lang="en">Rare visits by academics over time.</base:P3_has_note>
         <base:P67_refers_to>
           <base:E89_Propositional_Object rdf:about="https://w3id.org/sirius/dimension/id/4/propositionalobject/id/11">
@@ -109,7 +109,7 @@
     </base:P148_has_component>
     <base:P148_has_component>
       <base:E89_Propositional_Object rdf:about="https://w3id.org/sirius/value-aspect/id/18">
-        <base:P129_is_about rdf:resource="https://w3id.org/sirius/site/id/1"/>
+        <base:P129_is_about rdf:resource="https://w3id.org/sirius//cultural-heritage-site/1"/>
         <base:P3_has_note xml:lang="en">The site shows valuable examples of Roman workmanship and other lesser-known evidence. With proper explanation, the site could be attractive to visitors.</base:P3_has_note>
         <base:P67_refers_to>
           <base:E89_Propositional_Object rdf:about="https://w3id.org/sirius/dimension/id/1/propositionalobject/id/18">
@@ -128,7 +128,7 @@
     </base:P148_has_component>
     <base:P148_has_component>
       <base:E89_Propositional_Object rdf:about="https://w3id.org/sirius/value-aspect/id/10">
-        <base:P129_is_about rdf:resource="https://w3id.org/sirius/site/id/1"/>
+        <base:P129_is_about rdf:resource="https://w3id.org/sirius//cultural-heritage-site/1"/>
         <base:P3_has_note xml:lang="en">Rare visits by visitors over time.</base:P3_has_note>
         <base:P67_refers_to>
           <base:E89_Propositional_Object rdf:about="https://w3id.org/sirius/dimension/id/3/propositionalobject/id/10">
@@ -147,7 +147,7 @@
     </base:P148_has_component>
     <base:P148_has_component>
       <base:E89_Propositional_Object rdf:about="https://w3id.org/sirius/value-aspect/id/9">
-        <base:P129_is_about rdf:resource="https://w3id.org/sirius/site/id/1"/>
+        <base:P129_is_about rdf:resource="https://w3id.org/sirius//cultural-heritage-site/1"/>
         <base:P3_has_note xml:lang="en">Discovered in 1995, the archaeological evidence has been kept in situ.</base:P3_has_note>
         <base:P67_refers_to>
           <base:E89_Propositional_Object rdf:about="https://w3id.org/sirius/dimension/id/2/propositionalobject/id/9">
@@ -166,7 +166,7 @@
     </base:P148_has_component>
     <base:P148_has_component>
       <base:E89_Propositional_Object rdf:about="https://w3id.org/sirius/value-aspect/id/17">
-        <base:P129_is_about rdf:resource="https://w3id.org/sirius/site/id/1"/>
+        <base:P129_is_about rdf:resource="https://w3id.org/sirius//cultural-heritage-site/1"/>
         <base:P3_has_note xml:lang="en">The presence of the archaeological site complicates management of the property. Two accidents of leaking sludge from the Roman sewer line in connection with external contaminants have caused deep</base:P3_has_note>
         <base:P67_refers_to>
           <base:E89_Propositional_Object rdf:about="https://w3id.org/sirius/dimension/id/3/propositionalobject/id/17">
@@ -185,7 +185,7 @@
     </base:P148_has_component>
     <base:P148_has_component>
       <base:E89_Propositional_Object rdf:about="https://w3id.org/sirius/value-aspect/id/20">
-        <base:P129_is_about rdf:resource="https://w3id.org/sirius/site/id/1"/>
+        <base:P129_is_about rdf:resource="https://w3id.org/sirius//cultural-heritage-site/1"/>
         <base:P3_has_note xml:lang="en">It could give back a glimpse of the historical evolution of the city of Rimini, although its lack of usability means that the site remains semi-unknown</base:P3_has_note>
         <base:P67_refers_to>
           <base:E89_Propositional_Object rdf:about="https://w3id.org/sirius/dimension/id/3/propositionalobject/id/20">
@@ -204,7 +204,7 @@
     </base:P148_has_component>
     <base:P148_has_component>
       <base:E89_Propositional_Object rdf:about="https://w3id.org/sirius/value-aspect/id/2">
-        <base:P129_is_about rdf:resource="https://w3id.org/sirius/site/id/1"/>
+        <base:P129_is_about rdf:resource="https://w3id.org/sirius//cultural-heritage-site/1"/>
         <base:P3_has_note xml:lang="en">Portion of city neighborhood with a stratigraphy dating from the Republican Age to the early Middle Ages. A useful material source for deepening historical knowledge of the Roman city of Rimini.</base:P3_has_note>
         <base:P67_refers_to>
           <base:E89_Propositional_Object rdf:about="https://w3id.org/sirius/dimension/id/2/propositionalobject/id/2">
@@ -223,7 +223,7 @@
     </base:P148_has_component>
     <base:P148_has_component>
       <base:E89_Propositional_Object rdf:about="https://w3id.org/sirius/value-aspect/id/16">
-        <base:P129_is_about rdf:resource="https://w3id.org/sirius/site/id/1"/>
+        <base:P129_is_about rdf:resource="https://w3id.org/sirius//cultural-heritage-site/1"/>
         <base:P3_has_note xml:lang="en">The presence of the archaeological site was intended to be a part of the tourist path called “Rimini Underground.”</base:P3_has_note>
         <base:P67_refers_to>
           <base:E89_Propositional_Object rdf:about="https://w3id.org/sirius/dimension/id/2/propositionalobject/id/16">
@@ -242,7 +242,7 @@
     </base:P148_has_component>
     <base:P148_has_component>
       <base:E89_Propositional_Object rdf:about="https://w3id.org/sirius/value-aspect/id/8">
-        <base:P129_is_about rdf:resource="https://w3id.org/sirius/site/id/1"/>
+        <base:P129_is_about rdf:resource="https://w3id.org/sirius//cultural-heritage-site/1"/>
         <base:P3_has_note xml:lang="en">The archaeological site that is not open to the public but can be visited after notification to the Superintendency and the Provveditorato. It is not accessible for people with mobility disabilities.</base:P3_has_note>
         <base:P67_refers_to>
           <base:E89_Propositional_Object rdf:about="https://w3id.org/sirius/dimension/id/1/propositionalobject/id/8">
@@ -261,7 +261,7 @@
     </base:P148_has_component>
     <base:P148_has_component>
       <base:E89_Propositional_Object rdf:about="https://w3id.org/sirius/value-aspect/id/1">
-        <base:P129_is_about rdf:resource="https://w3id.org/sirius/site/id/1"/>
+        <base:P129_is_about rdf:resource="https://w3id.org/sirius//cultural-heritage-site/1"/>
         <base:P3_has_note xml:lang="en">The opus signinum and the apsidal room in opus sectile are rare examples in the la antique city of Rimini and in regional panorama. The remaining findings are examples of a fairly good workmanship</base:P3_has_note>
         <base:P67_refers_to>
           <base:E89_Propositional_Object rdf:about="https://w3id.org/sirius/dimension/id/1/propositionalobject/id/1">
@@ -280,7 +280,7 @@
     </base:P148_has_component>
     <base:P148_has_component>
       <base:E89_Propositional_Object rdf:about="https://w3id.org/sirius/value-aspect/id/7">
-        <base:P129_is_about rdf:resource="https://w3id.org/sirius/site/id/1"/>
+        <base:P129_is_about rdf:resource="https://w3id.org/sirius//cultural-heritage-site/1"/>
         <base:P3_has_note xml:lang="en">Diagnostic analyses carried out on the mortars and on lithotypes of the floral-patterned mosaic have provided a fairly accurate idea of the execution technique for the historical period.
 Further research is needed for the other archaeological remains, their related materials and execution technique.</base:P3_has_note>
         <base:P67_refers_to>
@@ -300,7 +300,7 @@ Further research is needed for the other archaeological remains, their related m
     </base:P148_has_component>
     <base:P148_has_component>
       <base:E89_Propositional_Object rdf:about="https://w3id.org/sirius/value-aspect/id/15">
-        <base:P129_is_about rdf:resource="https://w3id.org/sirius/site/id/1"/>
+        <base:P129_is_about rdf:resource="https://w3id.org/sirius//cultural-heritage-site/1"/>
         <base:P3_has_note xml:lang="en">The building at 28 Sigismund Street is not subject to cultural constraint</base:P3_has_note>
         <base:P67_refers_to>
           <base:E89_Propositional_Object rdf:about="https://w3id.org/sirius/dimension/id/1/propositionalobject/id/15">
@@ -319,7 +319,7 @@ Further research is needed for the other archaeological remains, their related m
     </base:P148_has_component>
     <base:P148_has_component>
       <base:E89_Propositional_Object rdf:about="https://w3id.org/sirius/value-aspect/id/14">
-        <base:P129_is_about rdf:resource="https://w3id.org/sirius/site/id/1"/>
+        <base:P129_is_about rdf:resource="https://w3id.org/sirius//cultural-heritage-site/1"/>
         <base:P3_has_note xml:lang="en">The study of the execution techniques, combined with the stratigraphy, allowed a more accurate dating of the mosaics.</base:P3_has_note>
         <base:P67_refers_to>
           <base:E89_Propositional_Object rdf:about="https://w3id.org/sirius/dimension/id/4/propositionalobject/id/14">
@@ -338,7 +338,7 @@ Further research is needed for the other archaeological remains, their related m
     </base:P148_has_component>
     <base:P148_has_component>
       <base:E89_Propositional_Object rdf:about="https://w3id.org/sirius/value-aspect/id/6">
-        <base:P129_is_about rdf:resource="https://w3id.org/sirius/site/id/1"/>
+        <base:P129_is_about rdf:resource="https://w3id.org/sirius//cultural-heritage-site/1"/>
         <base:P3_has_note xml:lang="en">All the archaeological findings have undergone only one restoration intervention and sporadic maintenance. The building materials are almost entirely original.</base:P3_has_note>
         <base:P67_refers_to>
           <base:E89_Propositional_Object rdf:about="https://w3id.org/sirius/dimension/id/2/propositionalobject/id/6">
@@ -357,7 +357,7 @@ Further research is needed for the other archaeological remains, their related m
     </base:P148_has_component>
     <base:P148_has_component>
       <base:E89_Propositional_Object rdf:about="https://w3id.org/sirius/value-aspect/id/5">
-        <base:P129_is_about rdf:resource="https://w3id.org/sirius/site/id/1"/>
+        <base:P129_is_about rdf:resource="https://w3id.org/sirius//cultural-heritage-site/1"/>
         <base:P3_has_note xml:lang="en">The building materials are not in a good state of preservation (conspicuous efflorescence, biological colonization), as well as the modern structures (concrete walls, frames, ventilation system and lights).</base:P3_has_note>
         <base:P67_refers_to>
           <base:E89_Propositional_Object rdf:about="https://w3id.org/sirius/dimension/id/1/propositionalobject/id/5">
@@ -376,7 +376,7 @@ Further research is needed for the other archaeological remains, their related m
     </base:P148_has_component>
     <base:P148_has_component>
       <base:E89_Propositional_Object rdf:about="https://w3id.org/sirius/value-aspect/id/13">
-        <base:P129_is_about rdf:resource="https://w3id.org/sirius/site/id/1"/>
+        <base:P129_is_about rdf:resource="https://w3id.org/sirius//cultural-heritage-site/1"/>
         <base:P3_has_note xml:lang="en">The execution techniques and superfetations show the evolution of the portion of the neighborhood over the centuries.</base:P3_has_note>
         <base:P67_refers_to>
           <base:E89_Propositional_Object rdf:about="https://w3id.org/sirius/dimension/id/2/propositionalobject/id/13">
