@@ -127,19 +127,33 @@ with open("xml/agent_risk_sentence.xml", "w", encoding="utf-8") as f:
 cursor.execute("""
 SELECT 
     ra.risk_analysis_id,
-    ra.risk_name,
     ra.risk_id,
-    r.risk_agent,
+    r.risk_agent AS risk_agent,
     ra.site_id,
     chs.cultural_heritage_site_appellation AS site,
-    ars.sentence_text,
-    ra.scale_a_score, ra.scale_a_description,
-    ra.scale_b_score, ra.scale_b_description,
-    ra.scale_c_score, ra.scale_c_description,
-    ra.magnitude_score, ra.uncertainty
+    ra.risk_name,
+    ra.scale_a_description,
+    ra.scale_b_description,
+    ra.scale_c_description,
+    ra.uncertainty_min,
+    ra.scale_a_input_min,
+    ra.scale_b_input_min,
+    ra.scale_c_input_min,
+    ra.risk_description,
+    ra.scale_a_score_min,
+    ra.scale_b_score_min,
+    ra.scale_c_score_min,
+    ra.magnitude_score_min,
+    ra.scale_a_score_max,
+    ra.scale_b_score_max,
+    ra.scale_c_score_max,
+    ra.scale_a_input_max,
+    ra.scale_b_input_max,
+    ra.scale_c_input_max,
+    ra.magnitude_score_max,
+    ra.uncertainty_max
 FROM public.risk_analysis ra
 JOIN public.risk_agents r ON ra.risk_id = r.risk_id
-LEFT JOIN public.agent_risk_sentence ars ON ra.agent_risk_sentence_id = ars.agent_risk_sentence_id
 JOIN public.cultural_heritage_site chs ON ra.site_id = chs.site_id
 ORDER BY ra.risk_analysis_id;
 """)

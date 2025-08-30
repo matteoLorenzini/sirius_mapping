@@ -393,5 +393,44 @@ Further research is needed for the other archaeological remains, their related m
         </base:P1_is_identified_by>
       </base:E89_Propositional_Object>
     </base:P148_has_component>
+	<!-- TEST -->
+	<base:P148_has_component>
+      <base:E89_Propositional_Object rdf:about="https://w3id.org/sirius/value-aspect/id/21">
+        <base:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/2"/>
+        <base:P3_has_note xml:lang="en">The execution techniques and superfetations show the evolution of the portion of the neighborhood over the centuries.</base:P3_has_note>
+        <base:P67_refers_to>
+          <base:E89_Propositional_Object rdf:about="https://w3id.org/sirius/dimension/id/2/propositionalobject/id/13">
+            <rdfs:label xml:lang="en">historic</rdfs:label>
+          </base:E89_Propositional_Object>
+        </base:P67_refers_to>
+        <base:P67_refers_to>
+          <base:E89_Propositional_Object rdf:about="https://w3id.org/sirius/aspect/id/4/propositionalobject/id/13">
+            <rdfs:label xml:lang="en">Tradition, Technics and Workmanship</rdfs:label>
+          </base:E89_Propositional_Object>
+        </base:P67_refers_to>
+        <base:P1_is_identified_by>
+          <base:E42_Identifier rdf:about="https://w3id.org/sirius/nara-grid/id/13"/>
+        </base:P1_is_identified_by>
+      </base:E89_Propositional_Object>
+    </base:P148_has_component>
+	 <base:P148_has_component>
+      <base:E89_Propositional_Object rdf:about="https://w3id.org/sirius/value-aspect/id/22">
+        <base:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/2"/>
+        <base:P3_has_note xml:lang="en">All the archaeological findings have undergone only one restoration intervention and sporadic maintenance. The building materials are almost entirely original.</base:P3_has_note>
+        <base:P67_refers_to>
+          <base:E89_Propositional_Object rdf:about="https://w3id.org/sirius/dimension/id/2/propositionalobject/id/6">
+            <rdfs:label xml:lang="en">historic</rdfs:label>
+          </base:E89_Propositional_Object>
+        </base:P67_refers_to>
+        <base:P67_refers_to>
+          <base:E89_Propositional_Object rdf:about="https://w3id.org/sirius/aspect/id/2/propositionalobject/id/6">
+            <rdfs:label xml:lang="en">material and substance</rdfs:label>
+          </base:E89_Propositional_Object>
+        </base:P67_refers_to>
+        <base:P1_is_identified_by>
+          <base:E42_Identifier rdf:about="https://w3id.org/sirius/nara-grid/id/6"/>
+        </base:P1_is_identified_by>
+      </base:E89_Propositional_Object>
+    </base:P148_has_component>
   </base:E89_Propositional_Object>
 </rdf:RDF>

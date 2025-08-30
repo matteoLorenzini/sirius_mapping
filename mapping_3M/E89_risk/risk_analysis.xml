@@ -2,19 +2,781 @@
 <risk_analyses>
   <risk_analysis>
     <risk_analysis_id>1</risk_analysis_id>
-    <risk_name>Flooding of the archaeological site</risk_name>
     <risk_id>4</risk_id>
     <risk_agent>Water</risk_agent>
     <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
-    <sentence_text>The site between 2010 and 2039 will flood due to the increase of 1.2 times per year in rainy periods of more than five consecutive days and for precipitations greater than 200 mm per day more frequent than 6-13 times per year compared to the recent past (1961-1990).</sentence_text>
-    <scale_a_score>3.5</scale_a_score>
-    <scale_a_description>Between 2010 and 2039, similar phenomena will occur more frequently...</scale_a_description>
-    <scale_b_score>4.0</scale_b_score>
-    <scale_b_description>Efflorescence, cracks, fragile tile damage</scale_b_description>
-    <scale_c_score>4.5</scale_c_score>
-    <scale_c_description>3/12 high-value floors, major structural risk</scale_c_description>
-    <magnitude_score>12.0</magnitude_score>
-    <uncertainty>0.75</uncertainty>
+    <risk_name>Flooding of the archaeological site</risk_name>
+    <scale_a_description>Between 2010 and 2039, similar phenomena will occur more frequently than in the recent past (1961-1990). To date, there has been 1 event recorded in 28 years since the excavation, which did not directly affect the excavation but rather the nearby archive room.</scale_a_description>
+    <scale_b_description>Type of material moderately susceptible: natural and artificial stone materials.
+  Loss of value for each object: efflorescence, cracking, removal and displacement of fragile portions such as tesserae, stone flakes.
+  Estimated fraction of loss for each object: 10-15%
+  Significant loss of value for each affected object.</scale_b_description>
+    <scale_c_description>Number of pavements in the archaeological site at greatest risk of flooding (those near the door giving access to the pump room and the garden exit) = 4/12
+  Number of affected pavements made of the most susceptible materials if hit by a flood event: 3/4
+  Number of pavements considered of high value among those susceptible: 3/3
+  3/12 x 100 = 25% loss of high-value pavements
+  1/12 x 100 = 8.3% loss of medium-value pavements
+  A significant loss of the total value of the collection.</scale_c_description>
+    <uncertainty_min>0.75</uncertainty_min>
+    <scale_a_input_min>28.0</scale_a_input_min>
+    <scale_b_input_min>10.0</scale_b_input_min>
+    <scale_c_input_min>25.0</scale_c_input_min>
+    <risk_description>The site between 2010 and 2039 will flood due to the increase of 1.2 times per year in rainy periods of more than five consecutive days and for precipitations greater than 200 mm per day more frequent than 6-13 times per year compared to the recent past (1961-1990)</risk_description>
+    <scale_a_score_min>3.5</scale_a_score_min>
+    <scale_b_score_min>4.0</scale_b_score_min>
+    <scale_c_score_min>4.5</scale_c_score_min>
+    <magnitude_score_min>12.0</magnitude_score_min>
+    <scale_a_score_max>None</scale_a_score_max>
+    <scale_b_score_max>None</scale_b_score_max>
+    <scale_c_score_max>None</scale_c_score_max>
+    <scale_a_input_max>None</scale_a_input_max>
+    <scale_b_input_max>None</scale_b_input_max>
+    <scale_c_input_max>None</scale_c_input_max>
+    <magnitude_score_max>None</magnitude_score_max>
+    <uncertainty_max>None</uncertainty_max>
+  </risk_analysis>
+  <risk_analysis>
+    <risk_analysis_id>2</risk_analysis_id>
+    <risk_id>4</risk_id>
+    <risk_agent>Water</risk_agent>
+    <site_id>1</site_id>
+    <site>Remains of a Roman-era residential district </site>
+    <risk_name>Flooding of the archaeological site</risk_name>
+    <scale_a_description>According to the archive records of the Chamber of Commerce and the Archaeological Superintendency of Bologna, there have been 2 serious episodes 11 years apart, the last of which was particularly severe and required remediation by a specialised company.
+  2 events in 28 years, interval between the two events 11 years.
+  </scale_a_description>
+    <scale_b_description>Type of material moderately susceptible: natural and artificial stone materials.
+  Loss of value for each object: efflorescence, cracking, stains, penetration of sewage into porous surfaces, removal and displacement of fragile portions such as tesserae, stone flakes.
+  Estimated fraction of loss for each object: 10-15%
+  Significant loss of value for each affected object.
+  </scale_b_description>
+    <scale_c_description>Number of pavements in the archaeological site at greatest risk of flooding (those near the door giving access to the pump room and the garden exit) = 4/12
+  Number of affected pavements made of the most susceptible materials if hit by a flood event: 3/4
+  Number of pavements considered of high value among those susceptible: 1/3
+  1/12 x 100 = 8.3% loss of high-value pavements
+  3/12 x 100 = 25% loss of low-value pavements
+  A significant loss of the total value of the collection
+  </scale_c_description>
+    <uncertainty_min>1.0</uncertainty_min>
+    <scale_a_input_min>4.0</scale_a_input_min>
+    <scale_b_input_min>4.0</scale_b_input_min>
+    <scale_c_input_min>4.0</scale_c_input_min>
+    <risk_description>The pumps will become damaged or break, causing water and pollutants to rise up, flooding and dirtying the archaeological site.</risk_description>
+    <scale_a_score_min>4.0</scale_a_score_min>
+    <scale_b_score_min>4.0</scale_b_score_min>
+    <scale_c_score_min>4.0</scale_c_score_min>
+    <magnitude_score_min>12.0</magnitude_score_min>
+    <scale_a_score_max>None</scale_a_score_max>
+    <scale_b_score_max>None</scale_b_score_max>
+    <scale_c_score_max>None</scale_c_score_max>
+    <scale_a_input_max>None</scale_a_input_max>
+    <scale_b_input_max>None</scale_b_input_max>
+    <scale_c_input_max>None</scale_c_input_max>
+    <magnitude_score_max>None</magnitude_score_max>
+    <uncertainty_max>None</uncertainty_max>
+  </risk_analysis>
+  <risk_analysis>
+    <risk_analysis_id>3</risk_analysis_id>
+    <risk_id>7</risk_id>
+    <risk_agent>Light, UV, IR</risk_agent>
+    <site_id>1</site_id>
+    <site>Remains of a Roman-era residential district </site>
+    <risk_name>Disomogeneità termiche dovute all’illuminazione che comportano stress meccanici con conseguente crescita di patine biologiche</risk_name>
+    <scale_a_description>More intense peaks in the summers of 2021 and 2022 due to warmer temperatures together with emergency operations by the LMCU degree course in Conservation and Restoration of Cultural Heritage at Unibo contributed to the rise of the two peaks.
+  One year after the biocidal treatment, biological colonisation reappeared, and in untreated areas during the summer months it grew exponentially due to high relative humidity, prolonged sun exposure and a constant temperature of 21-23 degrees.
+  Cumulative process; in this case, the level of damage relevant to the context is selected and the time needed to accumulate this damage is assessed.
+  Time needed to accumulate the damage: the amount of Lux/year itself complies with the regulations regarding the lighting of stone materials (in the most extreme cases it does not exceed 90 average annual lux) but there is collateral damage: one year after the biocidal treatment, it takes 5 months for the indirect phenomenon of biological colonisation to reappear.
+  </scale_a_description>
+    <scale_b_description>For cumulative risks, the extent of the damage (4) and the point in time (5 years) selected in point A are assessed.
+  Type of material moderately susceptible: natural and artificial stone materials.
+  Loss of value for each object: growth of biological patina mainly on portions with bedding mortar only and production of stains.
+  The main element affected is the geometric mosaic with floral motifs (6) exposed to sunlight from the glass trapdoor and in other portions of opus sectile (numbered 7,8,10).
+  Estimated fraction of loss for each object: about 0.6-2% on average.
+  Small loss of value for each affected object.
+  </scale_b_description>
+    <scale_c_description>Number of pavements affected by biological colonisation due to artificial and natural lighting = 4/12
+  Number of most susceptible pavements among those affected = 2/4
+  Number of high-value pavements among the susceptible ones = 1/2
+  1/12 x 100 = 8.3% loss of the most susceptible high-value pavements
+  A significant loss of the total value of the collection
+  </scale_c_description>
+    <uncertainty_min>0.03</uncertainty_min>
+    <scale_a_input_min>None</scale_a_input_min>
+    <scale_b_input_min>None</scale_b_input_min>
+    <scale_c_input_min>None</scale_c_input_min>
+    <risk_description>The lighting system and the unscreened natural light coming from the glass ceiling will cause thermal inhomogeneities on the surfaces, favouring biological colonisation.</risk_description>
+    <scale_a_score_min>4.0</scale_a_score_min>
+    <scale_b_score_min>3.0</scale_b_score_min>
+    <scale_c_score_min>4.0</scale_c_score_min>
+    <magnitude_score_min>11.0</magnitude_score_min>
+    <scale_a_score_max>None</scale_a_score_max>
+    <scale_b_score_max>None</scale_b_score_max>
+    <scale_c_score_max>None</scale_c_score_max>
+    <scale_a_input_max>None</scale_a_input_max>
+    <scale_b_input_max>None</scale_b_input_max>
+    <scale_c_input_max>None</scale_c_input_max>
+    <magnitude_score_max>None</magnitude_score_max>
+    <uncertainty_max>None</uncertainty_max>
+  </risk_analysis>
+  <risk_analysis>
+    <risk_analysis_id>4</risk_analysis_id>
+    <risk_id>9</risk_id>
+    <risk_agent>Incorrect RH</risk_agent>
+    <site_id>1</site_id>
+    <site>Remains of a Roman-era residential district </site>
+    <risk_name>Sviluppo di efflorescenze</risk_name>
+    <scale_a_description>Cumulative process; in this case, the level of damage relevant to the context is selected and the time needed to accumulate this damage is assessed.
+  Time needed to accumulate the damage: every winter, so approximately every 6-8 months, the phenomenon of salt crystallisation occurs, starting around November and ending in March (about 5 months).
+  </scale_a_description>
+    <scale_b_description>For cumulative risks, the extent of the damage (5) and the point in time (5 years) selected in point A are assessed.
+  Type of material moderately susceptible: natural and artificial stone materials.
+  Loss of value for each object: efflorescence, lifting of flakes of stone material (as with slates) which in certain situations leads to the detachment of portions of flakes from the stone crusts of the opus sectile, production of whitish patina.
+  The main elements affected are the geometric mosaic with floral motifs and the portion in medieval cocciopesto (area 6), areas 4, 7, 8, and 10 in opus sectile, area 2 in opus signinum.
+  Estimated fraction of loss for each object: 2-6%
+  Almost total loss of value for each affected object.
+  </scale_b_description>
+    <scale_c_description>Number of pavements affected by salt crystallisation = 10/12
+  Number of most susceptible pavements among those affected = 7/10
+  Number of high-value pavements among the susceptible ones = 4/7
+  4/12 x 100 = 33.3% loss of high-value pavements (areas 2, 7, 8, 10)
+  2/12 x 100 = 8.3% loss of medium-value pavements (areas 4 and 6)
+  1/12 x 100 = 8.3% loss of low-value pavement (3)
+  A significant loss of the total value of the collection
+  </scale_c_description>
+    <uncertainty_min>None</uncertainty_min>
+    <scale_a_input_min>None</scale_a_input_min>
+    <scale_b_input_min>None</scale_b_input_min>
+    <scale_c_input_min>None</scale_c_input_min>
+    <risk_description>During the winter periods, salt crystallisation will occur due to a decrease in internal relative humidity,</risk_description>
+    <scale_a_score_min>5.0</scale_a_score_min>
+    <scale_b_score_min>3.5</scale_b_score_min>
+    <scale_c_score_min>4.5</scale_c_score_min>
+    <magnitude_score_min>13.0</magnitude_score_min>
+    <scale_a_score_max>None</scale_a_score_max>
+    <scale_b_score_max>None</scale_b_score_max>
+    <scale_c_score_max>None</scale_c_score_max>
+    <scale_a_input_max>None</scale_a_input_max>
+    <scale_b_input_max>None</scale_b_input_max>
+    <scale_c_input_max>None</scale_c_input_max>
+    <magnitude_score_max>None</magnitude_score_max>
+    <uncertainty_max>None</uncertainty_max>
+  </risk_analysis>
+  <risk_analysis>
+    <risk_analysis_id>5</risk_analysis_id>
+    <risk_id>1</risk_id>
+    <risk_agent>Physical forces</risk_agent>
+    <site_id>1</site_id>
+    <site>Remains of a Roman-era residential district </site>
+    <risk_name>Moderate earthquake</risk_name>
+    <scale_a_description>Between 2010 and 2039, similar phenomena will occur more frequently than in the recent past (1961-1990). To date, there has been 1 event recorded in 28 years since the excavation, which did not directly affect the excavation but rather the nearby archive room.</scale_a_description>
+    <scale_b_description>None</scale_b_description>
+    <scale_c_description>None</scale_c_description>
+    <uncertainty_min>2.25</uncertainty_min>
+    <scale_a_input_min>None</scale_a_input_min>
+    <scale_b_input_min>None</scale_b_input_min>
+    <scale_c_input_min>None</scale_c_input_min>
+    <risk_description>An earthquake of moderate magnitude (Richter scale 5.0-5.9) will fracture the floors of the archaeological site and the building's structures, making the basement unusable.</risk_description>
+    <scale_a_score_min>2.5</scale_a_score_min>
+    <scale_b_score_min>2.0</scale_b_score_min>
+    <scale_c_score_min>4.0</scale_c_score_min>
+    <magnitude_score_min>9.0</magnitude_score_min>
+    <scale_a_score_max>3.0</scale_a_score_max>
+    <scale_b_score_max>4.0</scale_b_score_max>
+    <scale_c_score_max>4.0</scale_c_score_max>
+    <scale_a_input_max>None</scale_a_input_max>
+    <scale_b_input_max>None</scale_b_input_max>
+    <scale_c_input_max>None</scale_c_input_max>
+    <magnitude_score_max>11.0</magnitude_score_max>
+    <uncertainty_max>None</uncertainty_max>
+  </risk_analysis>
+  <risk_analysis>
+    <risk_analysis_id>6</risk_analysis_id>
+    <risk_id>1</risk_id>
+    <risk_agent>Physical forces</risk_agent>
+    <site_id>1</site_id>
+    <site>Remains of a Roman-era residential district </site>
+    <risk_name>Moderate earthquake</risk_name>
+    <scale_a_description>None</scale_a_description>
+    <scale_b_description>None</scale_b_description>
+    <scale_c_description>None</scale_c_description>
+    <uncertainty_min>1.25</uncertainty_min>
+    <scale_a_input_min>None</scale_a_input_min>
+    <scale_b_input_min>None</scale_b_input_min>
+    <scale_c_input_min>None</scale_c_input_min>
+    <risk_description>The buildings built up to 2003 without seismic regulations near the Chamber of Commerce (that could be untouched) will collapse following an earthquake of medium magnitude (Richter scale 5.0-5.9). During an earthquake there will be many displaced people in the neighborhood where the archaeological site is located and the operations to secure the archaeological site will be neglected in order to provide priority assistance to civilians.</risk_description>
+    <scale_a_score_min>2.5</scale_a_score_min>
+    <scale_b_score_min>2.0</scale_b_score_min>
+    <scale_c_score_min>2.0</scale_c_score_min>
+    <magnitude_score_min>6.5</magnitude_score_min>
+    <scale_a_score_max>3.0</scale_a_score_max>
+    <scale_b_score_max>3.0</scale_b_score_max>
+    <scale_c_score_max>3.0</scale_c_score_max>
+    <scale_a_input_max>None</scale_a_input_max>
+    <scale_b_input_max>None</scale_b_input_max>
+    <scale_c_input_max>None</scale_c_input_max>
+    <magnitude_score_max>9.0</magnitude_score_max>
+    <uncertainty_max>None</uncertainty_max>
+  </risk_analysis>
+  <risk_analysis>
+    <risk_analysis_id>7</risk_analysis_id>
+    <risk_id>1</risk_id>
+    <risk_agent>Physical forces</risk_agent>
+    <site_id>1</site_id>
+    <site>Remains of a Roman-era residential district </site>
+    <risk_name>Strong earthquake</risk_name>
+    <scale_a_description>None</scale_a_description>
+    <scale_b_description>None</scale_b_description>
+    <scale_c_description>None</scale_c_description>
+    <uncertainty_min>0.25</uncertainty_min>
+    <scale_a_input_min>None</scale_a_input_min>
+    <scale_b_input_min>None</scale_b_input_min>
+    <scale_c_input_min>None</scale_c_input_min>
+    <risk_description> A very strong earthquake or high magnitude (Richter scale 6.0-7.9) will cause very serious structural damage to the building above and some portions will fall onto the archaeological site, causing serious damage to the floors. A strong earthquake strong or very strong magnitude will break the suction pump mechanism and the archaeological site will flood.
+  </risk_description>
+    <scale_a_score_min>1.0</scale_a_score_min>
+    <scale_b_score_min>5.0</scale_b_score_min>
+    <scale_c_score_min>5.0</scale_c_score_min>
+    <magnitude_score_min>11.0</magnitude_score_min>
+    <scale_a_score_max>1.5</scale_a_score_max>
+    <scale_b_score_max>None</scale_b_score_max>
+    <scale_c_score_max>None</scale_c_score_max>
+    <scale_a_input_max>None</scale_a_input_max>
+    <scale_b_input_max>None</scale_b_input_max>
+    <scale_c_input_max>None</scale_c_input_max>
+    <magnitude_score_max>11.5</magnitude_score_max>
+    <uncertainty_max>None</uncertainty_max>
+  </risk_analysis>
+  <risk_analysis>
+    <risk_analysis_id>8</risk_analysis_id>
+    <risk_id>1</risk_id>
+    <risk_agent>Physical forces</risk_agent>
+    <site_id>1</site_id>
+    <site>Remains of a Roman-era residential district </site>
+    <risk_name>Brekages and hits</risk_name>
+    <scale_a_description>None</scale_a_description>
+    <scale_b_description>None</scale_b_description>
+    <scale_c_description>None</scale_c_description>
+    <uncertainty_min>1.0</uncertainty_min>
+    <scale_a_input_min>None</scale_a_input_min>
+    <scale_b_input_min>None</scale_b_input_min>
+    <scale_c_input_min>None</scale_c_input_min>
+    <risk_description>Operators involved in the maintenance or installation of equipment or systems will place their tools, damaging portions of the pavements and raised structures.
+  </risk_description>
+    <scale_a_score_min>3.0</scale_a_score_min>
+    <scale_b_score_min>1.5</scale_b_score_min>
+    <scale_c_score_min>1.0</scale_c_score_min>
+    <magnitude_score_min>5.5</magnitude_score_min>
+    <scale_a_score_max>4.0</scale_a_score_max>
+    <scale_b_score_max>2.0</scale_b_score_max>
+    <scale_c_score_max>1.5</scale_c_score_max>
+    <scale_a_input_max>None</scale_a_input_max>
+    <scale_b_input_max>None</scale_b_input_max>
+    <scale_c_input_max>None</scale_c_input_max>
+    <magnitude_score_max>7.5</magnitude_score_max>
+    <uncertainty_max>None</uncertainty_max>
+  </risk_analysis>
+  <risk_analysis>
+    <risk_analysis_id>9</risk_analysis_id>
+    <risk_id>1</risk_id>
+    <risk_agent>Physical forces</risk_agent>
+    <site_id>1</site_id>
+    <site>Remains of a Roman-era residential district </site>
+    <risk_name>Brekages and hits</risk_name>
+    <scale_a_description>None</scale_a_description>
+    <scale_b_description>None</scale_b_description>
+    <scale_c_description>None</scale_c_description>
+    <uncertainty_min>1.0</uncertainty_min>
+    <scale_a_input_min>None</scale_a_input_min>
+    <scale_b_input_min>None</scale_b_input_min>
+    <scale_c_input_min>None</scale_c_input_min>
+    <risk_description>Visitors will cause damage by hitting into the raised surfaces and marginal pavements of the walking path.</risk_description>
+    <scale_a_score_min>3.0</scale_a_score_min>
+    <scale_b_score_min>1.0</scale_b_score_min>
+    <scale_c_score_min>1.0</scale_c_score_min>
+    <magnitude_score_min>5.0</magnitude_score_min>
+    <scale_a_score_max>None</scale_a_score_max>
+    <scale_b_score_max>2.0</scale_b_score_max>
+    <scale_c_score_max>2.0</scale_c_score_max>
+    <scale_a_input_max>None</scale_a_input_max>
+    <scale_b_input_max>None</scale_b_input_max>
+    <scale_c_input_max>None</scale_c_input_max>
+    <magnitude_score_max>7.0</magnitude_score_max>
+    <uncertainty_max>None</uncertainty_max>
+  </risk_analysis>
+  <risk_analysis>
+    <risk_analysis_id>10</risk_analysis_id>
+    <risk_id>3</risk_id>
+    <risk_agent>Fire</risk_agent>
+    <site_id>1</site_id>
+    <site>Remains of a Roman-era residential district </site>
+    <risk_name>None</risk_name>
+    <scale_a_description>Between 2010 and 2039, similar phenomena will occur more frequently than in the recent past (1961-1990). To date, there has been 1 event recorded in 28 years since the excavation, which did not directly affect the excavation but rather the nearby archive room.</scale_a_description>
+    <scale_b_description>Type of material moderately susceptible: natural and artificial stone materials.
+  Loss of value for each object: efflorescence, cracking, removal and displacement of fragile portions such as tesserae, stone flakes.
+  Estimated fraction of loss for each object: 10-15%
+  Significant loss of value for each affected object.</scale_b_description>
+    <scale_c_description>Number of pavements in the archaeological site at greatest risk of flooding (those near the door giving access to the pump room and the garden exit) = 4/12
+  Number of affected pavements made of the most susceptible materials if hit by a flood event: 3/4
+  Number of pavements considered of high value among those susceptible: 3/3
+  3/12 x 100 = 25% loss of high-value pavements
+  1/12 x 100 = 8.3% loss of medium-value pavements
+  A significant loss of the total value of the collection.</scale_c_description>
+    <uncertainty_min>1.5</uncertainty_min>
+    <scale_a_input_min>None</scale_a_input_min>
+    <scale_b_input_min>None</scale_b_input_min>
+    <scale_c_input_min>None</scale_c_input_min>
+    <risk_description>A fire in the nearby XXV April park (Rimini, Italy) will spread next to the Chamber of Commerce building, making the basement inaccessible until the fire is extinguished.</risk_description>
+    <scale_a_score_min>1.0</scale_a_score_min>
+    <scale_b_score_min>2.0</scale_b_score_min>
+    <scale_c_score_min>2.0</scale_c_score_min>
+    <magnitude_score_min>5.0</magnitude_score_min>
+    <scale_a_score_max>2.0</scale_a_score_max>
+    <scale_b_score_max>3.0</scale_b_score_max>
+    <scale_c_score_max>3.0</scale_c_score_max>
+    <scale_a_input_max>None</scale_a_input_max>
+    <scale_b_input_max>None</scale_b_input_max>
+    <scale_c_input_max>None</scale_c_input_max>
+    <magnitude_score_max>8.0</magnitude_score_max>
+    <uncertainty_max>None</uncertainty_max>
+  </risk_analysis>
+  <risk_analysis>
+    <risk_analysis_id>11</risk_analysis_id>
+    <risk_id>3</risk_id>
+    <risk_agent>Fire</risk_agent>
+    <site_id>1</site_id>
+    <site>Remains of a Roman-era residential district </site>
+    <risk_name>None</risk_name>
+    <scale_a_description>None</scale_a_description>
+    <scale_b_description>None</scale_b_description>
+    <scale_c_description>None</scale_c_description>
+    <uncertainty_min>1.0</uncertainty_min>
+    <scale_a_input_min>None</scale_a_input_min>
+    <scale_b_input_min>None</scale_b_input_min>
+    <scale_c_input_min>None</scale_c_input_min>
+    <risk_description>A short circuit in the electrical panel will cause a fire, forming stains and causing mechanical damage due to the collapse of plaster and high structures on the archaeological floors.
+  </risk_description>
+    <scale_a_score_min>0.5</scale_a_score_min>
+    <scale_b_score_min>3.5</scale_b_score_min>
+    <scale_c_score_min>3.0</scale_c_score_min>
+    <magnitude_score_min>7.0</magnitude_score_min>
+    <scale_a_score_max>1.0</scale_a_score_max>
+    <scale_b_score_max>4.0</scale_b_score_max>
+    <scale_c_score_max>4.0</scale_c_score_max>
+    <scale_a_input_max>None</scale_a_input_max>
+    <scale_b_input_max>None</scale_b_input_max>
+    <scale_c_input_max>None</scale_c_input_max>
+    <magnitude_score_max>9.0</magnitude_score_max>
+    <uncertainty_max>None</uncertainty_max>
+  </risk_analysis>
+  <risk_analysis>
+    <risk_analysis_id>12</risk_analysis_id>
+    <risk_id>4</risk_id>
+    <risk_agent>Water</risk_agent>
+    <site_id>1</site_id>
+    <site>Remains of a Roman-era residential district </site>
+    <risk_name>None</risk_name>
+    <scale_a_description>None</scale_a_description>
+    <scale_b_description>None</scale_b_description>
+    <scale_c_description>None</scale_c_description>
+    <uncertainty_min>1.0</uncertainty_min>
+    <scale_a_input_min>None</scale_a_input_min>
+    <scale_b_input_min>None</scale_b_input_min>
+    <scale_c_input_min>None</scale_c_input_min>
+    <risk_description> The fire hydrant located halfway through the archaeological site will wet the ancient pavements, triggering degradation phenomena such as efflorescence and mechanical damage to the fragile materials hit by the jet of the hydrant.
+  </risk_description>
+    <scale_a_score_min>0.5</scale_a_score_min>
+    <scale_b_score_min>3.5</scale_b_score_min>
+    <scale_c_score_min>3.0</scale_c_score_min>
+    <magnitude_score_min>7.0</magnitude_score_min>
+    <scale_a_score_max>1.0</scale_a_score_max>
+    <scale_b_score_max>4.0</scale_b_score_max>
+    <scale_c_score_max>4.0</scale_c_score_max>
+    <scale_a_input_max>None</scale_a_input_max>
+    <scale_b_input_max>None</scale_b_input_max>
+    <scale_c_input_max>None</scale_c_input_max>
+    <magnitude_score_max>9.0</magnitude_score_max>
+    <uncertainty_max>None</uncertainty_max>
+  </risk_analysis>
+  <risk_analysis>
+    <risk_analysis_id>13</risk_analysis_id>
+    <risk_id>3</risk_id>
+    <risk_agent>Fire</risk_agent>
+    <site_id>1</site_id>
+    <site>Remains of a Roman-era residential district </site>
+    <risk_name>None</risk_name>
+    <scale_a_description>None</scale_a_description>
+    <scale_b_description>None</scale_b_description>
+    <scale_c_description>None</scale_c_description>
+    <uncertainty_min>1.25</uncertainty_min>
+    <scale_a_input_min>None</scale_a_input_min>
+    <scale_b_input_min>None</scale_b_input_min>
+    <scale_c_input_min>None</scale_c_input_min>
+    <risk_description>The fire extinguishers used to put out the fire will stain the pavements and archaeological structures.</risk_description>
+    <scale_a_score_min>0.5</scale_a_score_min>
+    <scale_b_score_min>2.0</scale_b_score_min>
+    <scale_c_score_min>2.0</scale_c_score_min>
+    <magnitude_score_min>4.5</magnitude_score_min>
+    <scale_a_score_max>1.0</scale_a_score_max>
+    <scale_b_score_max>3.0</scale_b_score_max>
+    <scale_c_score_max>3.0</scale_c_score_max>
+    <scale_a_input_max>None</scale_a_input_max>
+    <scale_b_input_max>None</scale_b_input_max>
+    <scale_c_input_max>None</scale_c_input_max>
+    <magnitude_score_max>7.0</magnitude_score_max>
+    <uncertainty_max>None</uncertainty_max>
+  </risk_analysis>
+  <risk_analysis>
+    <risk_analysis_id>14</risk_analysis_id>
+    <risk_id>4</risk_id>
+    <risk_agent>Water</risk_agent>
+    <site_id>1</site_id>
+    <site>Remains of a Roman-era residential district </site>
+    <risk_name>None</risk_name>
+    <scale_a_description>None</scale_a_description>
+    <scale_b_description>None</scale_b_description>
+    <scale_c_description>None</scale_c_description>
+    <uncertainty_min>0.75</uncertainty_min>
+    <scale_a_input_min>None</scale_a_input_min>
+    <scale_b_input_min>None</scale_b_input_min>
+    <scale_c_input_min>None</scale_c_input_min>
+    <risk_description>Between 2070-2099, the site will flood due to rarer but extremely violent phenomena.</risk_description>
+    <scale_a_score_min>3.0</scale_a_score_min>
+    <scale_b_score_min>4.0</scale_b_score_min>
+    <scale_c_score_min>4.0</scale_c_score_min>
+    <magnitude_score_min>11.0</magnitude_score_min>
+    <scale_a_score_max>3.5</scale_a_score_max>
+    <scale_b_score_max>4.5</scale_b_score_max>
+    <scale_c_score_max>4.5</scale_c_score_max>
+    <scale_a_input_max>None</scale_a_input_max>
+    <scale_b_input_max>None</scale_b_input_max>
+    <scale_c_input_max>None</scale_c_input_max>
+    <magnitude_score_max>12.5</magnitude_score_max>
+    <uncertainty_max>None</uncertainty_max>
+  </risk_analysis>
+  <risk_analysis>
+    <risk_analysis_id>15</risk_analysis_id>
+    <risk_id>5</risk_id>
+    <risk_agent>Pests</risk_agent>
+    <site_id>1</site_id>
+    <site>Remains of a Roman-era residential district </site>
+    <risk_name>None</risk_name>
+    <scale_a_description>Between 2010 and 2039, similar phenomena will occur more frequently than in the recent past (1961-1990). To date, there has been 1 event recorded in 28 years since the excavation, which did not directly affect the excavation but rather the nearby archive room.</scale_a_description>
+    <scale_b_description>Type of material moderately susceptible: natural and artificial stone materials.
+  Loss of value for each object: efflorescence, cracking, removal and displacement of fragile portions such as tesserae, stone flakes.
+  Estimated fraction of loss for each object: 10-15%
+  Significant loss of value for each affected object.</scale_b_description>
+    <scale_c_description>Number of pavements in the archaeological site at greatest risk of flooding (those near the door giving access to the pump room and the garden exit) = 4/12
+  Number of affected pavements made of the most susceptible materials if hit by a flood event: 3/4
+  Number of pavements considered of high value among those susceptible: 3/3
+  3/12 x 100 = 25% loss of high-value pavements
+  1/12 x 100 = 8.3% loss of medium-value pavements
+  A significant loss of the total value of the collection.</scale_c_description>
+    <uncertainty_min>0.5</uncertainty_min>
+    <scale_a_input_min>None</scale_a_input_min>
+    <scale_b_input_min>None</scale_b_input_min>
+    <scale_c_input_min>None</scale_c_input_min>
+    <risk_description>After more than a year and six months from the last biocide treatment, if not repeated, biological colonisation will progress quickly in the summer months until it reaches its ecological maximum, with the reappearance of cyanobacteria, algae, actinomycetes and fungi. One year after the last treatment carried out in spring, cyanobacteria and algae will form on the areas exposed to natural and artificial light.</risk_description>
+    <scale_a_score_min>5.0</scale_a_score_min>
+    <scale_b_score_min>1.0</scale_b_score_min>
+    <scale_c_score_min>1.0</scale_c_score_min>
+    <magnitude_score_min>7.0</magnitude_score_min>
+    <scale_a_score_max>None</scale_a_score_max>
+    <scale_b_score_max>2.0</scale_b_score_max>
+    <scale_c_score_max>None</scale_c_score_max>
+    <scale_a_input_max>None</scale_a_input_max>
+    <scale_b_input_max>None</scale_b_input_max>
+    <scale_c_input_max>None</scale_c_input_max>
+    <magnitude_score_max>8.0</magnitude_score_max>
+    <uncertainty_max>None</uncertainty_max>
+  </risk_analysis>
+  <risk_analysis>
+    <risk_analysis_id>16</risk_analysis_id>
+    <risk_id>5</risk_id>
+    <risk_agent>Pests</risk_agent>
+    <site_id>1</site_id>
+    <site>Remains of a Roman-era residential district </site>
+    <risk_name>None</risk_name>
+    <scale_a_description>None</scale_a_description>
+    <scale_b_description>None</scale_b_description>
+    <scale_c_description>None</scale_c_description>
+    <uncertainty_min>2.0</uncertainty_min>
+    <scale_a_input_min>None</scale_a_input_min>
+    <scale_b_input_min>None</scale_b_input_min>
+    <scale_c_input_min>None</scale_c_input_min>
+    <risk_description>The lack of a scheduled cleaning plan of the walkway portions will contribute to the proliferation of biodeterioration agents, insects, cobwebs and to the accumulation of dirt on the findings.</risk_description>
+    <scale_a_score_min>5.0</scale_a_score_min>
+    <scale_b_score_min>1.0</scale_b_score_min>
+    <scale_c_score_min>1.0</scale_c_score_min>
+    <magnitude_score_min>7.0</magnitude_score_min>
+    <scale_a_score_max>None</scale_a_score_max>
+    <scale_b_score_max>3.0</scale_b_score_max>
+    <scale_c_score_max>3.0</scale_c_score_max>
+    <scale_a_input_max>None</scale_a_input_max>
+    <scale_b_input_max>None</scale_b_input_max>
+    <scale_c_input_max>None</scale_c_input_max>
+    <magnitude_score_max>11.0</magnitude_score_max>
+    <uncertainty_max>None</uncertainty_max>
+  </risk_analysis>
+  <risk_analysis>
+    <risk_analysis_id>17</risk_analysis_id>
+    <risk_id>6</risk_id>
+    <risk_agent>Pollutants</risk_agent>
+    <site_id>1</site_id>
+    <site>Remains of a Roman-era residential district </site>
+    <risk_name>None</risk_name>
+    <scale_a_description>None</scale_a_description>
+    <scale_b_description>None</scale_b_description>
+    <scale_c_description>None</scale_c_description>
+    <uncertainty_min>0.5</uncertainty_min>
+    <scale_a_input_min>None</scale_a_input_min>
+    <scale_b_input_min>None</scale_b_input_min>
+    <scale_c_input_min>None</scale_c_input_min>
+    <risk_description>The high concentration of CO2 will cause discomfort to visitors and operators.
+  </risk_description>
+    <scale_a_score_min>4.0</scale_a_score_min>
+    <scale_b_score_min>0.5</scale_b_score_min>
+    <scale_c_score_min>0.5</scale_c_score_min>
+    <magnitude_score_min>5.0</magnitude_score_min>
+    <scale_a_score_max>None</scale_a_score_max>
+    <scale_b_score_max>1.0</scale_b_score_max>
+    <scale_c_score_max>1.0</scale_c_score_max>
+    <scale_a_input_max>None</scale_a_input_max>
+    <scale_b_input_max>None</scale_b_input_max>
+    <scale_c_input_max>None</scale_c_input_max>
+    <magnitude_score_max>6.0</magnitude_score_max>
+    <uncertainty_max>None</uncertainty_max>
+  </risk_analysis>
+  <risk_analysis>
+    <risk_analysis_id>18</risk_analysis_id>
+    <risk_id>7</risk_id>
+    <risk_agent>Light, UV, IR</risk_agent>
+    <site_id>1</site_id>
+    <site>Remains of a Roman-era residential district </site>
+    <risk_name>None</risk_name>
+    <scale_a_description>Cumulative process that occurs consistently</scale_a_description>
+    <scale_b_description>Type of material moderately susceptible: natural and artificial stone materials.
+  Loss of value for each object: efflorescence, cracking, removal and displacement of fragile portions such as tesserae, stone flakes.
+  Estimated fraction of loss for each object: 10-15%
+  Small/tiny loss of value for each affected object.</scale_b_description>
+    <scale_c_description>Number of pavements in the archaeological site at greatest risk of flooding (those near the door giving access to the pump room and the garden exit) = 4/12
+  Number of affected pavements made of the most susceptible materials if hit by a flood event: 3/4
+  Number of pavements considered of high value among those susceptible: 3/3
+  3/12 x 100 = 25% loss of high-value pavements
+  1/12 x 100 = 8.3% loss of medium-value pavements
+  A significant loss of the total value of the collection.</scale_c_description>
+    <uncertainty_min>1.0</uncertainty_min>
+    <scale_a_input_min>None</scale_a_input_min>
+    <scale_b_input_min>None</scale_b_input_min>
+    <scale_c_input_min>None</scale_c_input_min>
+    <risk_description>UV lamps not replaced periodically and not lowered in proximity to the area colonised by the microflora will lose their effectiveness as physical eradicators of biological colonisation.</risk_description>
+    <scale_a_score_min>5.0</scale_a_score_min>
+    <scale_b_score_min>2.0</scale_b_score_min>
+    <scale_c_score_min>2.0</scale_c_score_min>
+    <magnitude_score_min>9.0</magnitude_score_min>
+    <scale_a_score_max>None</scale_a_score_max>
+    <scale_b_score_max>3.0</scale_b_score_max>
+    <scale_c_score_max>3.0</scale_c_score_max>
+    <scale_a_input_max>None</scale_a_input_max>
+    <scale_b_input_max>None</scale_b_input_max>
+    <scale_c_input_max>None</scale_c_input_max>
+    <magnitude_score_max>11.0</magnitude_score_max>
+    <uncertainty_max>None</uncertainty_max>
+  </risk_analysis>
+  <risk_analysis>
+    <risk_analysis_id>19</risk_analysis_id>
+    <risk_id>10</risk_id>
+    <risk_agent>Dissociation</risk_agent>
+    <site_id>1</site_id>
+    <site>Remains of a Roman-era residential district </site>
+    <risk_name>None</risk_name>
+    <scale_a_description>None</scale_a_description>
+    <scale_b_description>None</scale_b_description>
+    <scale_c_description>None</scale_c_description>
+    <uncertainty_min>0.5</uncertainty_min>
+    <scale_a_input_min>None</scale_a_input_min>
+    <scale_b_input_min>None</scale_b_input_min>
+    <scale_c_input_min>None</scale_c_input_min>
+    <risk_description>The lack of written management guidelines and a scheduled maintenance plan for the findings will increase the degradation processes currently underway. The information acquired may be lost if there are not indicate responsibilities, action to be take and guidelines.</risk_description>
+    <scale_a_score_min>3.5</scale_a_score_min>
+    <scale_b_score_min>4.0</scale_b_score_min>
+    <scale_c_score_min>4.0</scale_c_score_min>
+    <magnitude_score_min>11.5</magnitude_score_min>
+    <scale_a_score_max>None</scale_a_score_max>
+    <scale_b_score_max>5.0</scale_b_score_max>
+    <scale_c_score_max>None</scale_c_score_max>
+    <scale_a_input_max>None</scale_a_input_max>
+    <scale_b_input_max>None</scale_b_input_max>
+    <scale_c_input_max>None</scale_c_input_max>
+    <magnitude_score_max>12.5</magnitude_score_max>
+    <uncertainty_max>None</uncertainty_max>
+  </risk_analysis>
+  <risk_analysis>
+    <risk_analysis_id>20</risk_analysis_id>
+    <risk_id>10</risk_id>
+    <risk_agent>Dissociation</risk_agent>
+    <site_id>1</site_id>
+    <site>Remains of a Roman-era residential district </site>
+    <risk_name>None</risk_name>
+    <scale_a_description>None</scale_a_description>
+    <scale_b_description>None</scale_b_description>
+    <scale_c_description>None</scale_c_description>
+    <uncertainty_min>1.0</uncertainty_min>
+    <scale_a_input_min>None</scale_a_input_min>
+    <scale_b_input_min>None</scale_b_input_min>
+    <scale_c_input_min>None</scale_c_input_min>
+    <risk_description> Lack of funding will prevent the replacement of the lighting system, the air recirculation system, the UV lamps and the installation of new ones and the shielding of the glass hatch from UV and IR rays.</risk_description>
+    <scale_a_score_min>1.0</scale_a_score_min>
+    <scale_b_score_min>4.0</scale_b_score_min>
+    <scale_c_score_min>4.0</scale_c_score_min>
+    <magnitude_score_min>9.0</magnitude_score_min>
+    <scale_a_score_max>None</scale_a_score_max>
+    <scale_b_score_max>5.0</scale_b_score_max>
+    <scale_c_score_max>5.0</scale_c_score_max>
+    <scale_a_input_max>None</scale_a_input_max>
+    <scale_b_input_max>None</scale_b_input_max>
+    <scale_c_input_max>None</scale_c_input_max>
+    <magnitude_score_max>11.0</magnitude_score_max>
+    <uncertainty_max>None</uncertainty_max>
+  </risk_analysis>
+  <risk_analysis>
+    <risk_analysis_id>21</risk_analysis_id>
+    <risk_id>10</risk_id>
+    <risk_agent>Dissociation</risk_agent>
+    <site_id>1</site_id>
+    <site>Remains of a Roman-era residential district </site>
+    <risk_name>None</risk_name>
+    <scale_a_description>None</scale_a_description>
+    <scale_b_description>None</scale_b_description>
+    <scale_c_description>None</scale_c_description>
+    <uncertainty_min>1.0</uncertainty_min>
+    <scale_a_input_min>None</scale_a_input_min>
+    <scale_b_input_min>None</scale_b_input_min>
+    <scale_c_input_min>None</scale_c_input_min>
+    <risk_description>Lack of funding will prevent the restoration of the remaining surfaces of the archaeological site and the scheduled maintenance of the archaeological site</risk_description>
+    <scale_a_score_min>1.0</scale_a_score_min>
+    <scale_b_score_min>3.0</scale_b_score_min>
+    <scale_c_score_min>3.5</scale_c_score_min>
+    <magnitude_score_min>7.5</magnitude_score_min>
+    <scale_a_score_max>None</scale_a_score_max>
+    <scale_b_score_max>4.0</scale_b_score_max>
+    <scale_c_score_max>4.0</scale_c_score_max>
+    <scale_a_input_max>None</scale_a_input_max>
+    <scale_b_input_max>None</scale_b_input_max>
+    <scale_c_input_max>None</scale_c_input_max>
+    <magnitude_score_max>9.5</magnitude_score_max>
+    <uncertainty_max>None</uncertainty_max>
+  </risk_analysis>
+  <risk_analysis>
+    <risk_analysis_id>22</risk_analysis_id>
+    <risk_id>10</risk_id>
+    <risk_agent>Dissociation</risk_agent>
+    <site_id>1</site_id>
+    <site>Remains of a Roman-era residential district </site>
+    <risk_name>None</risk_name>
+    <scale_a_description>None</scale_a_description>
+    <scale_b_description>None</scale_b_description>
+    <scale_c_description>None</scale_c_description>
+    <uncertainty_min>0.75</uncertainty_min>
+    <scale_a_input_min>None</scale_a_input_min>
+    <scale_b_input_min>None</scale_b_input_min>
+    <scale_c_input_min>None</scale_c_input_min>
+    <risk_description>The plastic bags containing the erratic tiles and the paper tags whit information regarding the finding place of the tiles will be lost because it had not been defined place for their storage and conservation</risk_description>
+    <scale_a_score_min>3.0</scale_a_score_min>
+    <scale_b_score_min>0.5</scale_b_score_min>
+    <scale_c_score_min>0.5</scale_c_score_min>
+    <magnitude_score_min>4.0</magnitude_score_min>
+    <scale_a_score_max>3.5</scale_a_score_max>
+    <scale_b_score_max>1.0</scale_b_score_max>
+    <scale_c_score_max>1.0</scale_c_score_max>
+    <scale_a_input_max>None</scale_a_input_max>
+    <scale_b_input_max>None</scale_b_input_max>
+    <scale_c_input_max>None</scale_c_input_max>
+    <magnitude_score_max>5.5</magnitude_score_max>
+    <uncertainty_max>None</uncertainty_max>
+  </risk_analysis>
+  <risk_analysis>
+    <risk_analysis_id>23</risk_analysis_id>
+    <risk_id>6</risk_id>
+    <risk_agent>Pollutants</risk_agent>
+    <site_id>1</site_id>
+    <site>Remains of a Roman-era residential district </site>
+    <risk_name>None</risk_name>
+    <scale_a_description>None</scale_a_description>
+    <scale_b_description>None</scale_b_description>
+    <scale_c_description>None</scale_c_description>
+    <uncertainty_min>0.5</uncertainty_min>
+    <scale_a_input_min>None</scale_a_input_min>
+    <scale_b_input_min>None</scale_b_input_min>
+    <scale_c_input_min>None</scale_c_input_min>
+    <risk_description>Substances will infiltrate from the bordering wall and will dirty the excavation.</risk_description>
+    <scale_a_score_min>3.5</scale_a_score_min>
+    <scale_b_score_min>4.0</scale_b_score_min>
+    <scale_c_score_min>3.0</scale_c_score_min>
+    <magnitude_score_min>10.0</magnitude_score_min>
+    <scale_a_score_max>None</scale_a_score_max>
+    <scale_b_score_max>4.5</scale_b_score_max>
+    <scale_c_score_max>3.5</scale_c_score_max>
+    <scale_a_input_max>None</scale_a_input_max>
+    <scale_b_input_max>None</scale_b_input_max>
+    <scale_c_input_max>None</scale_c_input_max>
+    <magnitude_score_max>11.0</magnitude_score_max>
+    <uncertainty_max>None</uncertainty_max>
+  </risk_analysis>
+  <risk_analysis>
+    <risk_analysis_id>24</risk_analysis_id>
+    <risk_id>6</risk_id>
+    <risk_agent>Pollutants</risk_agent>
+    <site_id>1</site_id>
+    <site>Remains of a Roman-era residential district </site>
+    <risk_name>None</risk_name>
+    <scale_a_description>None</scale_a_description>
+    <scale_b_description>None</scale_b_description>
+    <scale_c_description>None</scale_c_description>
+    <uncertainty_min>0.5</uncertainty_min>
+    <scale_a_input_min>3.5</scale_a_input_min>
+    <scale_b_input_min>4.0</scale_b_input_min>
+    <scale_c_input_min>3.0</scale_c_input_min>
+    <risk_description>Water from the sewer pipe along with ammonia, BOD/5 and hydrocarbon substances will flood the archaeological site, dirtying it.</risk_description>
+    <scale_a_score_min>None</scale_a_score_min>
+    <scale_b_score_min>4.5</scale_b_score_min>
+    <scale_c_score_min>3.5</scale_c_score_min>
+    <magnitude_score_min>10.5</magnitude_score_min>
+    <scale_a_score_max>None</scale_a_score_max>
+    <scale_b_score_max>None</scale_b_score_max>
+    <scale_c_score_max>None</scale_c_score_max>
+    <scale_a_input_max>None</scale_a_input_max>
+    <scale_b_input_max>None</scale_b_input_max>
+    <scale_c_input_max>None</scale_c_input_max>
+    <magnitude_score_max>11.5</magnitude_score_max>
+    <uncertainty_max>None</uncertainty_max>
+  </risk_analysis>
+  <risk_analysis>
+    <risk_analysis_id>25</risk_analysis_id>
+    <risk_id>6</risk_id>
+    <risk_agent>Pollutants</risk_agent>
+    <site_id>1</site_id>
+    <site>Remains of a Roman-era residential district </site>
+    <risk_name>None</risk_name>
+    <scale_a_description>None</scale_a_description>
+    <scale_b_description>None</scale_b_description>
+    <scale_c_description>None</scale_c_description>
+    <uncertainty_min>None</uncertainty_min>
+    <scale_a_input_min>None</scale_a_input_min>
+    <scale_b_input_min>None</scale_b_input_min>
+    <scale_c_input_min>None</scale_c_input_min>
+    <risk_description>None</risk_description>
+    <scale_a_score_min>None</scale_a_score_min>
+    <scale_b_score_min>None</scale_b_score_min>
+    <scale_c_score_min>None</scale_c_score_min>
+    <magnitude_score_min>None</magnitude_score_min>
+    <scale_a_score_max>None</scale_a_score_max>
+    <scale_b_score_max>None</scale_b_score_max>
+    <scale_c_score_max>None</scale_c_score_max>
+    <scale_a_input_max>None</scale_a_input_max>
+    <scale_b_input_max>None</scale_b_input_max>
+    <scale_c_input_max>None</scale_c_input_max>
+    <magnitude_score_max>None</magnitude_score_max>
+    <uncertainty_max>None</uncertainty_max>
   </risk_analysis>
 </risk_analyses>

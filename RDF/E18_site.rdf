@@ -15,7 +15,7 @@
         <rdfs:label>None</rdfs:label>
       </base:E30_Right>
     </base:P104_is_subject_to>
-    <base:P55_has_current_location>None</base:P55_has_current_location>
+    <base:P55_has_current_location>2.188333 48.877778</base:P55_has_current_location>
     <base:P1_is_identified_by>
       <base:E42_Identifier rdf:about="https://w3id.org/sirius/site/id/4"/>
     </base:P1_is_identified_by>
@@ -76,7 +76,7 @@
     </base:P52_has_current_owner>
   </base:E18_Physical_Thing>
   <base:E18_Physical_Thing rdf:about="https://w3id.org/sirius/cultural-heritage-site/2">
-    <base:P55_has_current_location>None</base:P55_has_current_location>
+    <base:P55_has_current_location>-0.1269 51.5195</base:P55_has_current_location>
     <base:P16i_was_used_for>
       <base:E7_Activity rdf:about="urn:uuid:1d8b15cb-f94f-4c80-9e43-089538e55b30">
         <base:P4_has_time-span rdf:resource="https://w3id.org/sirius/chronology/timespan/None"/>
@@ -166,7 +166,7 @@
     <base:P1_is_identified_by>
       <base:E42_Identifier rdf:about="https://w3id.org/sirius/site/id/3"/>
     </base:P1_is_identified_by>
-    <base:P55_has_current_location>None</base:P55_has_current_location>
+    <base:P55_has_current_location>2.241389 48.835278</base:P55_has_current_location>
     <base:P1_is_identified_by>
       <base:E41_Appellation rdf:about="urn:uuid:c7c7ed26-bcdd-4766-9750-9a09c9f2f950">
         <skos:prefLabel>Muro di Drogdone</skos:prefLabel>
@@ -188,10 +188,10 @@
     <base:P44_has_condition>
       <base:E3_Condition_State rdf:about="urn:uuid:5cb86d0c-24a0-49fa-b418-28292d244e05">
         <base:P2_has_type rdf:resource="https://w3id.org/sirius/socio-cultural-context"/>
-        <rdfs:label>None</rdfs:label>
+        <rdfs:label>None</rdfs:label> 
       </base:E3_Condition_State>
     </base:P44_has_condition>
-    <base:P55_has_current_location>N 44°25′08″ E 12°12′09″</base:P55_has_current_location>
+    <base:P55_has_current_location>12.2025 44.4189</base:P55_has_current_location>
     <base:P16i_was_used_for>
       <base:E7_Activity rdf:about="urn:uuid:756585b8-507e-498d-aab1-cab7fcd70ab1">
         <base:P4_has_time-span>

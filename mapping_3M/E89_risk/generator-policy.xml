@@ -8,7 +8,7 @@
    <generator name="URIwithTypeAndId" prefix="sirius" type="any">
       <pattern>/{type}/{id}</pattern>
    </generator>
-   <generator name="URIwith2TypesAndId" prefix="sari" type="any">
+   <generator name="URIwith2TypesAndId" prefix="sirius" type="any">
       <pattern>{type1}/{type2}/{id}</pattern>
    </generator>
    <generator name="URIwithGndId" prefix="gnd" type="any">
@@ -65,7 +65,7 @@
       <pattern>/risk-aspect/id/{id}</pattern>
    </generator>
    <generator name="risk-analysisID" prefix="sirius" type="any">
-      <pattern>risk-analysis/id/{id}</pattern>
+      <pattern>/risk-analysis/id/{id}</pattern>
    </generator>
    <generator name="URIwithID" prefix="sirius" type="any">
       <pattern>/{id}</pattern>
@@ -73,8 +73,8 @@
    <generator name="site_ID" prefix="sirius" type="any">
       <pattern>/site/id/{id}</pattern>
    </generator>
-   <generator name="ScaleAScore" prefix="sirius" type="any">
-      <pattern>/scale_a_score/{site_id}/{risk_id}/{score}</pattern>
+   <generator name="ScaleAScoreMIN" prefix="sirius" type="any">
+      <pattern>/scale_a_score_min/{site_id}/{risk_id}/{score}</pattern>
    </generator>
    <generator name="ScaleADescription" prefix="sirius" type="any">
       <pattern>/scale_a_description/{site_id}/{risk_id}/{description}</pattern>
@@ -88,11 +88,11 @@
    <generator name="type_score" prefix="sirius" type="any">
       <pattern>/type/{type}</pattern>
    </generator>
-   <generator name="ScaleBScore" prefix="sirius" type="any">
-      <pattern>/scale_b_score/{site_id}/{risk_id}/{score}</pattern>
+   <generator name="ScaleBScoreMIN" prefix="sirius" type="any">
+      <pattern>/scale_b_score_min/{site_id}/{risk_id}/{score}</pattern>
    </generator>
-   <generator name="ScaleCScore" prefix="sirius" type="any">
-      <pattern>/scale_c_score/{site_id}/{risk_id}/{score}</pattern>
+   <generator name="ScaleCScoreMIN" prefix="sirius" type="any">
+      <pattern>/scale_c_score_min/{site_id}/{risk_id}/{score}</pattern>
    </generator>
    <generator name="ScaleBDescription" prefix="sirius" type="any">
       <pattern>/scale_b_description/{site_id}/{risk_id}/{description}</pattern>
@@ -100,16 +100,46 @@
    <generator name="ScaleCDescription" prefix="sirius" type="any">
       <pattern>/scale_c_description/{site_id}/{risk_id}/{description}</pattern>
    </generator>
-   <generator name="magnitudeScore" prefix="sirius" type="any">
-      <pattern>/magnitude_score/{site_id}/{risk_id}/{score}</pattern>
+   <generator name="magnitudeScoreMIN" prefix="sirius" type="any">
+      <pattern>/magnitude_score_min/{site_id}/{risk_id}/{score}</pattern>
    </generator>
-   <generator name="uncertainty" prefix="sirius" type="any">
-      <pattern>/uncertainty/{site_id}/{risk_id}/{score}</pattern>
+   <generator name="uncertaintyMIN" prefix="sirius" type="any">
+      <pattern>/uncertainty_min/{site_id}/{risk_id}/{score}</pattern>
    </generator>
    <generator name="URIwithType" prefix="sirius" type="any">
       <pattern>/{type}</pattern>
    </generator>
    <generator name="URIwithAgentandID" prefix="sirius" type="any">
       <pattern>/agent/{type}/{id}</pattern>
+   </generator>
+   <generator name="ScaleAScoreMAX" prefix="sirius" type="any">
+      <pattern>/scale_a_score_max/{site_id}/{risk_id}/{score}</pattern>
+   </generator>
+   <generator name="ScaleBScoreMAX" prefix="sirius" type="any">
+      <pattern>/scale_b_score_max/{site_id}/{risk_id}/{score}</pattern>
+   </generator>
+   <generator name="ScaleCScoreMAX" prefix="sirius" type="any">
+      <pattern>/scale_c_score_max/{site_id}/{risk_id}/{score}</pattern>
+   </generator>
+   <generator name="uncertaintyMAX" prefix="sirius" type="any">
+      <pattern>/uncertainty_max/{site_id}/{risk_id}/{score}</pattern>
+   </generator>
+   <generator name="magnitudeScoreMAX" prefix="sirius" type="any">
+      <pattern>/magnitude_score_max/{site_id}/{risk_id}/{score}</pattern>
+   </generator>
+   <generator name="scaleAscore" prefix="sirius" type="any">
+      <pattern>/scale_a_score/{site_id}/{risk_analysis_id}/{risk_id}</pattern>
+   </generator>
+   <generator name="scaleBscore" prefix="sirius" type="any">
+      <pattern>/scale_b_score/{site_id}/{risk_analysis_id}/{risk_id}</pattern>
+   </generator>
+   <generator name="scaleCscore" prefix="sirius" type="any">
+      <pattern>/scale_c_score/{site_id}/{risk_analysis_id}/{risk_id}</pattern>
+   </generator>
+   <generator name="uncertaintyScore" prefix="sirius" type="any">
+      <pattern>/uncertainty_score/{site_id}/{risk_analysis_id}/{risk_id}</pattern>
+   </generator>
+   <generator name="magnitudeScore" prefix="sirius" type="any">
+      <pattern>/magnitude_score/{site_id}/{risk_analysis_id}/{risk_id}</pattern>
    </generator>
 </generator_policy>
