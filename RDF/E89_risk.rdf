@@ -17,19 +17,25 @@
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/5/16">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
             <cidoc:P11_had_participant>
-              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius/agent/5/16">
+              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius//agent/5">
                 <rdfs:label>Pests</rdfs:label>
               </cidoc:E39_Actor>
             </cidoc:P11_had_participant>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/uncertainty_score/1/16/5">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_max/1/5/None">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_max/1/16/5/None">
+                    <cidoc:P2_has_type>
+                      <cidoc:E55_Type rdf:about="https://w3id.org/sirius/type/uncertainty-score-max"/>
+                    </cidoc:P2_has_type>
                     <rdfs:label>None</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_min/1/5/2.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_min/1/16/5/2.0">
+                    <cidoc:P2_has_type>
+                      <cidoc:E55_Type rdf:about="https://w3id.org/sirius/type/uncertainty-score-min"/>
+                    </cidoc:P2_has_type>
                     <rdfs:label>2.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -41,12 +47,18 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/magnitude_score/1/16/5">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/5/11.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/16/5/11.0">
+                    <cidoc:P2_has_type>
+                      <cidoc:E55_Type rdf:about="https://w3id.org/sirius/type/magnitude-score-max"/>
+                    </cidoc:P2_has_type>
                     <rdfs:label>11.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_min/1/5/7.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_min/1/16/5/7.0">
+                    <cidoc:P2_has_type>
+                      <cidoc:E55_Type rdf:about="https://w3id.org/sirius/type/magnitude-score-min"/>
+                    </cidoc:P2_has_type>
                     <rdfs:label>7.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -58,12 +70,18 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_c_score/1/16/5">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_max/1/5/3.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_max/1/16/5/3.0">
+                    <cidoc:P2_has_type>
+                      <cidoc:E55_Type rdf:about="https://w3id.org/sirius/type/scale-c-score-max"/>
+                    </cidoc:P2_has_type>
                     <rdfs:label>3.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_min/1/5/1.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_min/1/16/5/1.0">
+                    <cidoc:P2_has_type>
+                      <cidoc:E55_Type rdf:about="https://w3id.org/sirius/type/scale-c-score-min"/>
+                    </cidoc:P2_has_type>
                     <rdfs:label>1.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -77,12 +95,18 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_b_score/1/16/5">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_max/1/5/3.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_max/1/16/5/3.0">
+                    <cidoc:P2_has_type>
+                      <cidoc:E55_Type rdf:about="https://w3id.org/sirius/type/scale-b-score-max"/>
+                    </cidoc:P2_has_type>
                     <rdfs:label>3.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_min/1/5/1.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_min/1/16/5/1.0">
+                    <cidoc:P2_has_type>
+                      <cidoc:E55_Type rdf:about="https://w3id.org/sirius/type/scale-b-score-min"/>
+                    </cidoc:P2_has_type>
                     <rdfs:label>1.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -96,12 +120,18 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_a_score/1/16/5">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_max/1/5/None">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_max/1/16/5/None">
+                    <cidoc:P2_has_type>
+                      <cidoc:E55_Type rdf:about="https://w3id.org/sirius/type/scale-a-score-max"/>
+                    </cidoc:P2_has_type>
                     <rdfs:label>None</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_min/1/5/5.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_min/1/16/5/5.0">
+                    <cidoc:P2_has_type>
+                      <cidoc:E55_Type rdf:about="https://w3id.org/sirius/type/scale-a-score-min"/>
+                    </cidoc:P2_has_type>
                     <rdfs:label>5.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -124,19 +154,21 @@
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/10/22">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
             <cidoc:P11_had_participant>
-              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius/agent/10/22">
+              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius//agent/10">
                 <rdfs:label>Dissociation</rdfs:label>
               </cidoc:E39_Actor>
             </cidoc:P11_had_participant>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/uncertainty_score/1/22/10">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_max/1/10/None">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_max/1/22/10/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-max"/>
                     <rdfs:label>None</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_min/1/10/0.75">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_min/1/22/10/0.75">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-min"/>
                     <rdfs:label>0.75</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -146,12 +178,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/magnitude_score/1/22/10">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/10/5.5">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/22/10/5.5">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-max"/>
                     <rdfs:label>5.5</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_min/1/10/4.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_min/1/22/10/4.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-min"/>
                     <rdfs:label>4.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -161,12 +195,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_c_score/1/22/10">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_max/1/10/1.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_max/1/22/10/1.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-max"/>
                     <rdfs:label>1.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_min/1/10/0.5">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_min/1/22/10/0.5">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-min"/>
                     <rdfs:label>0.5</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -178,12 +214,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_b_score/1/22/10">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_max/1/10/1.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_max/1/22/10/1.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-max"/>
                     <rdfs:label>1.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_min/1/10/0.5">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_min/1/22/10/0.5">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-min"/>
                     <rdfs:label>0.5</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -195,12 +233,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_a_score/1/22/10">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_max/1/10/3.5">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_max/1/22/10/3.5">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-max"/>
                     <rdfs:label>3.5</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_min/1/10/3.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_min/1/22/10/3.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-min"/>
                     <rdfs:label>3.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -221,19 +261,21 @@
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/6/25">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
             <cidoc:P11_had_participant>
-              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius/agent/6/25">
+              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius//agent/6">
                 <rdfs:label>Pollutants</rdfs:label>
               </cidoc:E39_Actor>
             </cidoc:P11_had_participant>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/uncertainty_score/1/25/6">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_max/1/6/None">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_max/1/25/6/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-max"/>
                     <rdfs:label>None</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_min/1/6/None">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_min/1/25/6/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-min"/>
                     <rdfs:label>None</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -243,12 +285,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/magnitude_score/1/25/6">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/6/None">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/25/6/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-max"/>
                     <rdfs:label>None</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_min/1/6/None">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_min/1/25/6/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-min"/>
                     <rdfs:label>None</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -258,12 +302,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_c_score/1/25/6">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_max/1/6/None">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_max/1/25/6/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-max"/>
                     <rdfs:label>None</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_min/1/6/None">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_min/1/25/6/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-min"/>
                     <rdfs:label>None</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -275,12 +321,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_b_score/1/25/6">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_max/1/6/None">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_max/1/25/6/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-max"/>
                     <rdfs:label>None</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_min/1/6/None">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_min/1/25/6/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-min"/>
                     <rdfs:label>None</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -292,12 +340,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_a_score/1/25/6">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_max/1/6/None">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_max/1/25/6/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-max"/>
                     <rdfs:label>None</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_min/1/6/None">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_min/1/25/6/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-min"/>
                     <rdfs:label>None</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -318,19 +368,21 @@
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/9/4">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
             <cidoc:P11_had_participant>
-              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius/agent/9/4">
+              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius//agent/9">
                 <rdfs:label>Incorrect RH</rdfs:label>
               </cidoc:E39_Actor>
             </cidoc:P11_had_participant>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/uncertainty_score/1/4/9">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_max/1/9/None">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_max/1/4/9/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-max"/>
                     <rdfs:label>None</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_min/1/9/None">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_min/1/4/9/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-min"/>
                     <rdfs:label>None</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -340,12 +392,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/magnitude_score/1/4/9">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/9/None">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/4/9/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-max"/>
                     <rdfs:label>None</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_min/1/9/13.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_min/1/4/9/13.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-min"/>
                     <rdfs:label>13.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -355,12 +409,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_c_score/1/4/9">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_max/1/9/None">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_max/1/4/9/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-max"/>
                     <rdfs:label>None</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_min/1/9/4.5">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_min/1/4/9/4.5">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-min"/>
                     <rdfs:label>4.5</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -378,12 +434,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_b_score/1/4/9">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_max/1/9/None">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_max/1/4/9/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-max"/>
                     <rdfs:label>None</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_min/1/9/3.5">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_min/1/4/9/3.5">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-min"/>
                     <rdfs:label>3.5</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -400,12 +458,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_a_score/1/4/9">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_max/1/9/None">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_max/1/4/9/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-max"/>
                     <rdfs:label>None</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_min/1/9/5.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_min/1/4/9/5.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-min"/>
                     <rdfs:label>5.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -426,16 +486,18 @@
         <cidoc:P129_is_about>
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/10/20">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
-            <cidoc:P11_had_participant>
-              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius/agent/10/20">
-                <rdfs:label>Dissociation</rdfs:label>
-              </cidoc:E39_Actor>
-            </cidoc:P11_had_participant>
+            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius//agent/10"/>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/uncertainty_score/1/20/10">
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/uncertainty_max/1/10/None"/>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_min/1/10/1.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_max/1/20/10/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-max"/>
+                    <rdfs:label>None</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_min/1/20/10/1.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-min"/>
                     <rdfs:label>1.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -445,12 +507,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/magnitude_score/1/20/10">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/10/11.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/20/10/11.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-max"/>
                     <rdfs:label>11.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_min/1/10/9.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_min/1/20/10/9.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-min"/>
                     <rdfs:label>9.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -460,12 +524,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_c_score/1/20/10">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_max/1/10/5.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_max/1/20/10/5.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-max"/>
                     <rdfs:label>5.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_min/1/10/4.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_min/1/20/10/4.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-min"/>
                     <rdfs:label>4.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -477,12 +543,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_b_score/1/20/10">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_max/1/10/5.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_max/1/20/10/5.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-max"/>
                     <rdfs:label>5.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_min/1/10/4.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_min/1/20/10/4.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-min"/>
                     <rdfs:label>4.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -494,12 +562,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_a_score/1/20/10">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_max/1/10/None">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_max/1/20/10/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-max"/>
                     <rdfs:label>None</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_min/1/10/1.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_min/1/20/10/1.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-min"/>
                     <rdfs:label>1.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -520,19 +590,21 @@
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/1/8">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
             <cidoc:P11_had_participant>
-              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius/agent/1/8">
+              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius//agent/1">
                 <rdfs:label>Physical forces</rdfs:label>
               </cidoc:E39_Actor>
             </cidoc:P11_had_participant>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/uncertainty_score/1/8/1">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_max/1/1/None">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_max/1/8/1/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-max"/>
                     <rdfs:label>None</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_min/1/1/1.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_min/1/8/1/1.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-min"/>
                     <rdfs:label>1.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -542,12 +614,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/magnitude_score/1/8/1">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/1/7.5">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/8/1/7.5">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-max"/>
                     <rdfs:label>7.5</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_min/1/1/5.5">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_min/1/8/1/5.5">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-min"/>
                     <rdfs:label>5.5</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -557,12 +631,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_c_score/1/8/1">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_max/1/1/1.5">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_max/1/8/1/1.5">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-max"/>
                     <rdfs:label>1.5</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_min/1/1/1.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_min/1/8/1/1.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-min"/>
                     <rdfs:label>1.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -574,12 +650,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_b_score/1/8/1">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_max/1/1/2.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_max/1/8/1/2.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-max"/>
                     <rdfs:label>2.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_min/1/1/1.5">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_min/1/8/1/1.5">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-min"/>
                     <rdfs:label>1.5</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -591,12 +669,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_a_score/1/8/1">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_max/1/1/4.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_max/1/8/1/4.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-max"/>
                     <rdfs:label>4.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_min/1/1/3.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_min/1/8/1/3.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-min"/>
                     <rdfs:label>3.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -617,19 +697,21 @@
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/4/2">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
             <cidoc:P11_had_participant>
-              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius/agent/4/2">
+              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius//agent/4">
                 <rdfs:label>Water</rdfs:label>
               </cidoc:E39_Actor>
             </cidoc:P11_had_participant>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/uncertainty_score/1/2/4">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_max/1/4/None">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_max/1/2/4/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-max"/>
                     <rdfs:label>None</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_min/1/4/1.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_min/1/2/4/1.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-min"/>
                     <rdfs:label>1.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -639,12 +721,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/magnitude_score/1/2/4">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/4/None">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/2/4/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-max"/>
                     <rdfs:label>None</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_min/1/4/12.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_min/1/2/4/12.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-min"/>
                     <rdfs:label>12.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -654,12 +738,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_c_score/1/2/4">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_max/1/4/None">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_max/1/2/4/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-max"/>
                     <rdfs:label>None</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_min/1/4/4.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_min/1/2/4/4.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-min"/>
                     <rdfs:label>4.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -676,12 +762,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_b_score/1/2/4">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_max/1/4/None">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_max/1/2/4/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-max"/>
                     <rdfs:label>None</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_min/1/4/4.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_min/1/2/4/4.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-min"/>
                     <rdfs:label>4.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -696,12 +784,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_a_score/1/2/4">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_max/1/4/None">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_max/1/2/4/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-max"/>
                     <rdfs:label>None</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_min/1/4/4.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_min/1/2/4/4.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-min"/>
                     <rdfs:label>4.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -723,19 +813,21 @@
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/3/10">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
             <cidoc:P11_had_participant>
-              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius/agent/3/10">
+              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius//agent/3">
                 <rdfs:label>Fire</rdfs:label>
               </cidoc:E39_Actor>
             </cidoc:P11_had_participant>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/uncertainty_score/1/10/3">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_max/1/3/None">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_max/1/10/3/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-max"/>
                     <rdfs:label>None</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_min/1/3/1.5">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_min/1/10/3/1.5">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-min"/>
                     <rdfs:label>1.5</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -745,12 +837,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/magnitude_score/1/10/3">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/3/8.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/10/3/8.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-max"/>
                     <rdfs:label>8.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_min/1/3/5.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_min/1/10/3/5.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-min"/>
                     <rdfs:label>5.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -760,12 +854,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_c_score/1/10/3">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_max/1/3/3.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_max/1/10/3/3.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-max"/>
                     <rdfs:label>3.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_min/1/3/2.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_min/1/10/3/2.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-min"/>
                     <rdfs:label>2.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -782,12 +878,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_b_score/1/10/3">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_max/1/3/3.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_max/1/10/3/3.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-max"/>
                     <rdfs:label>3.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_min/1/3/2.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_min/1/10/3/2.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-min"/>
                     <rdfs:label>2.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -802,12 +900,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_a_score/1/10/3">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_max/1/3/2.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_max/1/10/3/2.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-max"/>
                     <rdfs:label>2.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_min/1/3/1.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_min/1/10/3/1.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-min"/>
                     <rdfs:label>1.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -827,16 +927,18 @@
         <cidoc:P129_is_about>
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/1/5">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
-            <cidoc:P11_had_participant>
-              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius/agent/1/5">
-                <rdfs:label>Physical forces</rdfs:label>
-              </cidoc:E39_Actor>
-            </cidoc:P11_had_participant>
+            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius//agent/1"/>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/uncertainty_score/1/5/1">
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/uncertainty_max/1/1/None"/>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_min/1/1/2.25">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_max/1/5/1/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-max"/>
+                    <rdfs:label>None</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_min/1/5/1/2.25">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-min"/>
                     <rdfs:label>2.25</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -846,12 +948,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/magnitude_score/1/5/1">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/1/11.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/5/1/11.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-max"/>
                     <rdfs:label>11.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_min/1/1/9.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_min/1/5/1/9.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-min"/>
                     <rdfs:label>9.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -861,12 +965,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_c_score/1/5/1">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_max/1/1/4.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_max/1/5/1/4.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-max"/>
                     <rdfs:label>4.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_min/1/1/4.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_min/1/5/1/4.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-min"/>
                     <rdfs:label>4.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -878,12 +984,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_b_score/1/5/1">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_max/1/1/4.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_max/1/5/1/4.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-max"/>
                     <rdfs:label>4.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_min/1/1/2.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_min/1/5/1/2.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-min"/>
                     <rdfs:label>2.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -895,12 +1003,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_a_score/1/5/1">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_max/1/1/3.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_max/1/5/1/3.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-max"/>
                     <rdfs:label>3.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_min/1/1/2.5">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_min/1/5/1/2.5">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-min"/>
                     <rdfs:label>2.5</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -920,27 +1030,35 @@
         <cidoc:P129_is_about>
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/1/9">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
-            <cidoc:P11_had_participant>
-              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius/agent/1/9">
-                <rdfs:label>Physical forces</rdfs:label>
-              </cidoc:E39_Actor>
-            </cidoc:P11_had_participant>
+            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius//agent/1"/>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/uncertainty_score/1/9/1">
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/uncertainty_max/1/1/None"/>
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/uncertainty_min/1/1/1.0"/>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_max/1/9/1/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-max"/>
+                    <rdfs:label>None</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_min/1/9/1/1.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-min"/>
+                    <rdfs:label>1.0</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score"/>
               </crmsci:S21_Measurement>
             </cidoc:P39i_was_measured_by>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/magnitude_score/1/9/1">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/1/7.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/9/1/7.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-max"/>
                     <rdfs:label>7.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_min/1/1/5.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_min/1/9/1/5.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-min"/>
                     <rdfs:label>5.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -950,11 +1068,17 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_c_score/1/9/1">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_max/1/1/2.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_max/1/9/1/2.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-max"/>
                     <rdfs:label>2.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/scale_c_score_min/1/1/1.0"/>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_min/1/9/1/1.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-min"/>
+                    <rdfs:label>1.0</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
                 <cidoc:P3_has_note rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal"
                 >None</cidoc:P3_has_note>
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score"/>
@@ -962,9 +1086,15 @@
             </cidoc:P39i_was_measured_by>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_b_score/1/9/1">
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/scale_b_score_max/1/1/2.0"/>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_min/1/1/1.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_max/1/9/1/2.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-max"/>
+                    <rdfs:label>2.0</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_min/1/9/1/1.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-min"/>
                     <rdfs:label>1.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -976,11 +1106,17 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_a_score/1/9/1">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_max/1/1/None">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_max/1/9/1/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-max"/>
                     <rdfs:label>None</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/scale_a_score_min/1/1/3.0"/>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_min/1/9/1/3.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-min"/>
+                    <rdfs:label>3.0</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
                 <cidoc:P3_has_note rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal"
                 >None</cidoc:P3_has_note>
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score"/>
@@ -997,16 +1133,18 @@
         <cidoc:P129_is_about>
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/4/14">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
-            <cidoc:P11_had_participant>
-              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius/agent/4/14">
-                <rdfs:label>Water</rdfs:label>
-              </cidoc:E39_Actor>
-            </cidoc:P11_had_participant>
+            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius//agent/4"/>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/uncertainty_score/1/14/4">
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/uncertainty_max/1/4/None"/>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_min/1/4/0.75">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_max/1/14/4/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-max"/>
+                    <rdfs:label>None</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_min/1/14/4/0.75">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-min"/>
                     <rdfs:label>0.75</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -1016,12 +1154,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/magnitude_score/1/14/4">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/4/12.5">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/14/4/12.5">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-max"/>
                     <rdfs:label>12.5</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_min/1/4/11.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_min/1/14/4/11.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-min"/>
                     <rdfs:label>11.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -1031,11 +1171,17 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_c_score/1/14/4">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_max/1/4/4.5">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_max/1/14/4/4.5">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-max"/>
                     <rdfs:label>4.5</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/scale_c_score_min/1/4/4.0"/>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_min/1/14/4/4.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-min"/>
+                    <rdfs:label>4.0</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
                 <cidoc:P3_has_note rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal"
                 >None</cidoc:P3_has_note>
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score"/>
@@ -1044,11 +1190,17 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_b_score/1/14/4">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_max/1/4/4.5">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_max/1/14/4/4.5">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-max"/>
                     <rdfs:label>4.5</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/scale_b_score_min/1/4/4.0"/>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_min/1/14/4/4.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-min"/>
+                    <rdfs:label>4.0</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
                 <cidoc:P3_has_note rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal"
                 >None</cidoc:P3_has_note>
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score"/>
@@ -1057,12 +1209,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_a_score/1/14/4">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_max/1/4/3.5">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_max/1/14/4/3.5">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-max"/>
                     <rdfs:label>3.5</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_min/1/4/3.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_min/1/14/4/3.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-min"/>
                     <rdfs:label>3.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -1085,16 +1239,18 @@
         <cidoc:P129_is_about>
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/3/13">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
-            <cidoc:P11_had_participant>
-              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius/agent/3/13">
-                <rdfs:label>Fire</rdfs:label>
-              </cidoc:E39_Actor>
-            </cidoc:P11_had_participant>
+            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius//agent/3"/>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/uncertainty_score/1/13/3">
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/uncertainty_max/1/3/None"/>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_min/1/3/1.25">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_max/1/13/3/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-max"/>
+                    <rdfs:label>None</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_min/1/13/3/1.25">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-min"/>
                     <rdfs:label>1.25</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -1104,12 +1260,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/magnitude_score/1/13/3">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/3/7.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/13/3/7.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-max"/>
                     <rdfs:label>7.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_min/1/3/4.5">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_min/1/13/3/4.5">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-min"/>
                     <rdfs:label>4.5</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -1118,8 +1276,18 @@
             </cidoc:P39i_was_measured_by>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_c_score/1/13/3">
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/scale_c_score_max/1/3/3.0"/>
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/scale_c_score_min/1/3/2.0"/>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_max/1/13/3/3.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-max"/>
+                    <rdfs:label>3.0</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_min/1/13/3/2.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-min"/>
+                    <rdfs:label>2.0</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
                 <cidoc:P3_has_note rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal"
                 >None</cidoc:P3_has_note>
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score"/>
@@ -1127,8 +1295,18 @@
             </cidoc:P39i_was_measured_by>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_b_score/1/13/3">
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/scale_b_score_max/1/3/3.0"/>
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/scale_b_score_min/1/3/2.0"/>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_max/1/13/3/3.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-max"/>
+                    <rdfs:label>3.0</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_min/1/13/3/2.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-min"/>
+                    <rdfs:label>2.0</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
                 <cidoc:P3_has_note rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal"
                 >None</cidoc:P3_has_note>
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score"/>
@@ -1137,12 +1315,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_a_score/1/13/3">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_max/1/3/1.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_max/1/13/3/1.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-max"/>
                     <rdfs:label>1.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_min/1/3/0.5">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_min/1/13/3/0.5">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-min"/>
                     <rdfs:label>0.5</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -1163,19 +1343,21 @@
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/7/3">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
             <cidoc:P11_had_participant>
-              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius/agent/7/3">
+              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius//agent/7">
                 <rdfs:label>Light, UV, IR</rdfs:label>
               </cidoc:E39_Actor>
             </cidoc:P11_had_participant>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/uncertainty_score/1/3/7">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_max/1/7/None">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_max/1/3/7/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-max"/>
                     <rdfs:label>None</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_min/1/7/0.03">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_min/1/3/7/0.03">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-min"/>
                     <rdfs:label>0.03</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -1185,12 +1367,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/magnitude_score/1/3/7">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/7/None">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/3/7/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-max"/>
                     <rdfs:label>None</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_min/1/7/11.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_min/1/3/7/11.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-min"/>
                     <rdfs:label>11.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -1200,12 +1384,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_c_score/1/3/7">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_max/1/7/None">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_max/1/3/7/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-max"/>
                     <rdfs:label>None</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_min/1/7/4.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_min/1/3/7/4.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-min"/>
                     <rdfs:label>4.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -1221,12 +1407,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_b_score/1/3/7">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_max/1/7/None">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_max/1/3/7/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-max"/>
                     <rdfs:label>None</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_min/1/7/3.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_min/1/3/7/3.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-min"/>
                     <rdfs:label>3.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -1243,12 +1431,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_a_score/1/3/7">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_max/1/7/None">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_max/1/3/7/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-max"/>
                     <rdfs:label>None</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_min/1/7/4.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_min/1/3/7/4.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-min"/>
                     <rdfs:label>4.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -1271,16 +1461,18 @@
         <cidoc:P129_is_about>
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/6/17">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
-            <cidoc:P11_had_participant>
-              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius/agent/6/17">
-                <rdfs:label>Pollutants</rdfs:label>
-              </cidoc:E39_Actor>
-            </cidoc:P11_had_participant>
+            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius//agent/6"/>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/uncertainty_score/1/17/6">
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/uncertainty_max/1/6/None"/>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_min/1/6/0.5">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_max/1/17/6/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-max"/>
+                    <rdfs:label>None</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_min/1/17/6/0.5">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-min"/>
                     <rdfs:label>0.5</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -1290,12 +1482,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/magnitude_score/1/17/6">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/6/6.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/17/6/6.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-max"/>
                     <rdfs:label>6.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_min/1/6/5.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_min/1/17/6/5.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-min"/>
                     <rdfs:label>5.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -1305,12 +1499,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_c_score/1/17/6">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_max/1/6/1.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_max/1/17/6/1.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-max"/>
                     <rdfs:label>1.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_min/1/6/0.5">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_min/1/17/6/0.5">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-min"/>
                     <rdfs:label>0.5</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -1322,12 +1518,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_b_score/1/17/6">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_max/1/6/1.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_max/1/17/6/1.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-max"/>
                     <rdfs:label>1.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_min/1/6/0.5">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_min/1/17/6/0.5">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-min"/>
                     <rdfs:label>0.5</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -1338,9 +1536,15 @@
             </cidoc:P39i_was_measured_by>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_a_score/1/17/6">
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/scale_a_score_max/1/6/None"/>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_min/1/6/4.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_max/1/17/6/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-max"/>
+                    <rdfs:label>None</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_min/1/17/6/4.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-min"/>
                     <rdfs:label>4.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -1360,16 +1564,18 @@
         <cidoc:P129_is_about>
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/1/7">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
-            <cidoc:P11_had_participant>
-              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius/agent/1/7">
-                <rdfs:label>Physical forces</rdfs:label>
-              </cidoc:E39_Actor>
-            </cidoc:P11_had_participant>
+            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius//agent/1"/>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/uncertainty_score/1/7/1">
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/uncertainty_max/1/1/None"/>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_min/1/1/0.25">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_max/1/7/1/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-max"/>
+                    <rdfs:label>None</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_min/1/7/1/0.25">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-min"/>
                     <rdfs:label>0.25</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -1379,12 +1585,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/magnitude_score/1/7/1">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/1/11.5">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/7/1/11.5">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-max"/>
                     <rdfs:label>11.5</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_min/1/1/11.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_min/1/7/1/11.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-min"/>
                     <rdfs:label>11.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -1394,12 +1602,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_c_score/1/7/1">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_max/1/1/None">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_max/1/7/1/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-max"/>
                     <rdfs:label>None</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_min/1/1/5.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_min/1/7/1/5.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-min"/>
                     <rdfs:label>5.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -1411,12 +1621,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_b_score/1/7/1">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_max/1/1/None">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_max/1/7/1/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-max"/>
                     <rdfs:label>None</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_min/1/1/5.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_min/1/7/1/5.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-min"/>
                     <rdfs:label>5.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -1428,12 +1640,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_a_score/1/7/1">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_max/1/1/1.5">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_max/1/7/1/1.5">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-max"/>
                     <rdfs:label>1.5</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_min/1/1/1.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_min/1/7/1/1.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-min"/>
                     <rdfs:label>1.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -1453,27 +1667,35 @@
         <cidoc:P129_is_about>
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/6/23">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
-            <cidoc:P11_had_participant>
-              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius/agent/6/23">
-                <rdfs:label>Pollutants</rdfs:label>
-              </cidoc:E39_Actor>
-            </cidoc:P11_had_participant>
+            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius//agent/6"/>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/uncertainty_score/1/23/6">
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/uncertainty_max/1/6/None"/>
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/uncertainty_min/1/6/0.5"/>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_max/1/23/6/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-max"/>
+                    <rdfs:label>None</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_min/1/23/6/0.5">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-min"/>
+                    <rdfs:label>0.5</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score"/>
               </crmsci:S21_Measurement>
             </cidoc:P39i_was_measured_by>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/magnitude_score/1/23/6">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/6/11.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/23/6/11.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-max"/>
                     <rdfs:label>11.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_min/1/6/10.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_min/1/23/6/10.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-min"/>
                     <rdfs:label>10.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -1483,12 +1705,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_c_score/1/23/6">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_max/1/6/3.5">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_max/1/23/6/3.5">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-max"/>
                     <rdfs:label>3.5</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_min/1/6/3.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_min/1/23/6/3.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-min"/>
                     <rdfs:label>3.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -1500,12 +1724,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_b_score/1/23/6">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_max/1/6/4.5">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_max/1/23/6/4.5">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-max"/>
                     <rdfs:label>4.5</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_min/1/6/4.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_min/1/23/6/4.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-min"/>
                     <rdfs:label>4.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -1516,9 +1742,15 @@
             </cidoc:P39i_was_measured_by>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_a_score/1/23/6">
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/scale_a_score_max/1/6/None"/>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_min/1/6/3.5">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_max/1/23/6/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-max"/>
+                    <rdfs:label>None</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_min/1/23/6/3.5">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-min"/>
                     <rdfs:label>3.5</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -1538,30 +1770,52 @@
         <cidoc:P129_is_about>
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/4/1">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
-            <cidoc:P11_had_participant>
-              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius/agent/4/1">
-                <rdfs:label>Water</rdfs:label>
-              </cidoc:E39_Actor>
-            </cidoc:P11_had_participant>
+            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius//agent/4"/>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/uncertainty_score/1/1/4">
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/uncertainty_max/1/4/None"/>
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/uncertainty_min/1/4/0.75"/>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_max/1/1/4/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-max"/>
+                    <rdfs:label>None</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_min/1/1/4/0.75">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-min"/>
+                    <rdfs:label>0.75</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score"/>
               </crmsci:S21_Measurement>
             </cidoc:P39i_was_measured_by>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/magnitude_score/1/1/4">
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/magnitude_score_max/1/4/None"/>
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/magnitude_score_min/1/4/12.0"/>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/1/4/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-max"/>
+                    <rdfs:label>None</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_min/1/1/4/12.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-min"/>
+                    <rdfs:label>12.0</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score"/>
               </crmsci:S21_Measurement>
             </cidoc:P39i_was_measured_by>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_c_score/1/1/4">
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/scale_c_score_max/1/4/None"/>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_min/1/4/4.5">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_max/1/1/4/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-max"/>
+                    <rdfs:label>None</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_min/1/1/4/4.5">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-min"/>
                     <rdfs:label>4.5</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -1577,8 +1831,18 @@
             </cidoc:P39i_was_measured_by>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_b_score/1/1/4">
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/scale_b_score_max/1/4/None"/>
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/scale_b_score_min/1/4/4.0"/>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_max/1/1/4/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-max"/>
+                    <rdfs:label>None</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_min/1/1/4/4.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-min"/>
+                    <rdfs:label>4.0</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
                 <cidoc:P3_has_note rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal"
                 >Type of material moderately susceptible: natural and artificial stone materials.
   Loss of value for each object: efflorescence, cracking, removal and displacement of fragile portions such as tesserae, stone flakes.
@@ -1589,9 +1853,15 @@
             </cidoc:P39i_was_measured_by>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_a_score/1/1/4">
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/scale_a_score_max/1/4/None"/>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_min/1/4/3.5">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_max/1/1/4/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-max"/>
+                    <rdfs:label>None</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_min/1/1/4/3.5">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-min"/>
                     <rdfs:label>3.5</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -1611,27 +1881,35 @@
         <cidoc:P129_is_about>
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/6/24">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
-            <cidoc:P11_had_participant>
-              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius/agent/6/24">
-                <rdfs:label>Pollutants</rdfs:label>
-              </cidoc:E39_Actor>
-            </cidoc:P11_had_participant>
+            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius//agent/6"/>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/uncertainty_score/1/24/6">
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/uncertainty_max/1/6/None"/>
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/uncertainty_min/1/6/0.5"/>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_max/1/24/6/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-max"/>
+                    <rdfs:label>None</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_min/1/24/6/0.5">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-min"/>
+                    <rdfs:label>0.5</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score"/>
               </crmsci:S21_Measurement>
             </cidoc:P39i_was_measured_by>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/magnitude_score/1/24/6">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/6/11.5">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/24/6/11.5">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-max"/>
                     <rdfs:label>11.5</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_min/1/6/10.5">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_min/1/24/6/10.5">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-min"/>
                     <rdfs:label>10.5</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -1640,9 +1918,15 @@
             </cidoc:P39i_was_measured_by>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_c_score/1/24/6">
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/scale_c_score_max/1/6/None"/>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_min/1/6/3.5">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_max/1/24/6/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-max"/>
+                    <rdfs:label>None</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_min/1/24/6/3.5">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-min"/>
                     <rdfs:label>3.5</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -1653,9 +1937,15 @@
             </cidoc:P39i_was_measured_by>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_b_score/1/24/6">
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/scale_b_score_max/1/6/None"/>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_min/1/6/4.5">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_max/1/24/6/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-max"/>
+                    <rdfs:label>None</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_min/1/24/6/4.5">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-min"/>
                     <rdfs:label>4.5</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -1666,8 +1956,18 @@
             </cidoc:P39i_was_measured_by>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_a_score/1/24/6">
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/scale_a_score_max/1/6/None"/>
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/scale_a_score_min/1/6/None"/>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_max/1/24/6/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-max"/>
+                    <rdfs:label>None</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_min/1/24/6/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-min"/>
+                    <rdfs:label>None</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
                 <cidoc:P3_has_note rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal"
                 >None</cidoc:P3_has_note>
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score"/>
@@ -1684,16 +1984,18 @@
         <cidoc:P129_is_about>
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/3/11">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
-            <cidoc:P11_had_participant>
-              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius/agent/3/11">
-                <rdfs:label>Fire</rdfs:label>
-              </cidoc:E39_Actor>
-            </cidoc:P11_had_participant>
+            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius//agent/3"/>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/uncertainty_score/1/11/3">
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/uncertainty_max/1/3/None"/>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_min/1/3/1.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_max/1/11/3/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-max"/>
+                    <rdfs:label>None</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_min/1/11/3/1.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-min"/>
                     <rdfs:label>1.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -1703,12 +2005,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/magnitude_score/1/11/3">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/3/9.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/11/3/9.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-max"/>
                     <rdfs:label>9.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_min/1/3/7.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_min/1/11/3/7.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-min"/>
                     <rdfs:label>7.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -1718,12 +2022,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_c_score/1/11/3">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_max/1/3/4.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_max/1/11/3/4.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-max"/>
                     <rdfs:label>4.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_min/1/3/3.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_min/1/11/3/3.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-min"/>
                     <rdfs:label>3.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -1735,12 +2041,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_b_score/1/11/3">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_max/1/3/4.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_max/1/11/3/4.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-max"/>
                     <rdfs:label>4.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_min/1/3/3.5">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_min/1/11/3/3.5">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-min"/>
                     <rdfs:label>3.5</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -1751,8 +2059,18 @@
             </cidoc:P39i_was_measured_by>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_a_score/1/11/3">
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/scale_a_score_max/1/3/1.0"/>
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/scale_a_score_min/1/3/0.5"/>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_max/1/11/3/1.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-max"/>
+                    <rdfs:label>1.0</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_min/1/11/3/0.5">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-min"/>
+                    <rdfs:label>0.5</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
                 <cidoc:P3_has_note rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal"
                 >None</cidoc:P3_has_note>
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score"/>
@@ -1769,16 +2087,18 @@
         <cidoc:P129_is_about>
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/1/6">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
-            <cidoc:P11_had_participant>
-              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius/agent/1/6">
-                <rdfs:label>Physical forces</rdfs:label>
-              </cidoc:E39_Actor>
-            </cidoc:P11_had_participant>
+            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius//agent/1"/>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/uncertainty_score/1/6/1">
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/uncertainty_max/1/1/None"/>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_min/1/1/1.25">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_max/1/6/1/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-max"/>
+                    <rdfs:label>None</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_min/1/6/1/1.25">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-min"/>
                     <rdfs:label>1.25</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -1788,12 +2108,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/magnitude_score/1/6/1">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/1/9.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/6/1/9.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-max"/>
                     <rdfs:label>9.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_min/1/1/6.5">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_min/1/6/1/6.5">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-min"/>
                     <rdfs:label>6.5</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -1803,12 +2125,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_c_score/1/6/1">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_max/1/1/3.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_max/1/6/1/3.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-max"/>
                     <rdfs:label>3.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_min/1/1/2.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_min/1/6/1/2.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-min"/>
                     <rdfs:label>2.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -1820,11 +2144,17 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_b_score/1/6/1">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_max/1/1/3.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_max/1/6/1/3.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-max"/>
                     <rdfs:label>3.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/scale_b_score_min/1/1/2.0"/>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_min/1/6/1/2.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-min"/>
+                    <rdfs:label>2.0</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
                 <cidoc:P3_has_note rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal"
                 >None</cidoc:P3_has_note>
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score"/>
@@ -1832,8 +2162,18 @@
             </cidoc:P39i_was_measured_by>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_a_score/1/6/1">
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/scale_a_score_max/1/1/3.0"/>
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/scale_a_score_min/1/1/2.5"/>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_max/1/6/1/3.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-max"/>
+                    <rdfs:label>3.0</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_min/1/6/1/2.5">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-min"/>
+                    <rdfs:label>2.5</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
                 <cidoc:P3_has_note rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal"
                 >None</cidoc:P3_has_note>
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score"/>
@@ -1850,16 +2190,18 @@
         <cidoc:P129_is_about>
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/10/19">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
-            <cidoc:P11_had_participant>
-              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius/agent/10/19">
-                <rdfs:label>Dissociation</rdfs:label>
-              </cidoc:E39_Actor>
-            </cidoc:P11_had_participant>
+            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius//agent/10"/>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/uncertainty_score/1/19/10">
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/uncertainty_max/1/10/None"/>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_min/1/10/0.5">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_max/1/19/10/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-max"/>
+                    <rdfs:label>None</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_min/1/19/10/0.5">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-min"/>
                     <rdfs:label>0.5</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -1869,12 +2211,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/magnitude_score/1/19/10">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/10/12.5">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/19/10/12.5">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-max"/>
                     <rdfs:label>12.5</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_min/1/10/11.5">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_min/1/19/10/11.5">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-min"/>
                     <rdfs:label>11.5</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -1884,11 +2228,17 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_c_score/1/19/10">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_max/1/10/None">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_max/1/19/10/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-max"/>
                     <rdfs:label>None</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/scale_c_score_min/1/10/4.0"/>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_min/1/19/10/4.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-min"/>
+                    <rdfs:label>4.0</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
                 <cidoc:P3_has_note rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal"
                 >None</cidoc:P3_has_note>
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score"/>
@@ -1896,8 +2246,18 @@
             </cidoc:P39i_was_measured_by>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_b_score/1/19/10">
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/scale_b_score_max/1/10/5.0"/>
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/scale_b_score_min/1/10/4.0"/>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_max/1/19/10/5.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-max"/>
+                    <rdfs:label>5.0</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_min/1/19/10/4.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-min"/>
+                    <rdfs:label>4.0</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
                 <cidoc:P3_has_note rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal"
                 >None</cidoc:P3_has_note>
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score"/>
@@ -1905,9 +2265,15 @@
             </cidoc:P39i_was_measured_by>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_a_score/1/19/10">
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/scale_a_score_max/1/10/None"/>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_min/1/10/3.5">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_max/1/19/10/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-max"/>
+                    <rdfs:label>None</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_min/1/19/10/3.5">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-min"/>
                     <rdfs:label>3.5</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -1927,27 +2293,35 @@
         <cidoc:P129_is_about>
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/4/12">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
-            <cidoc:P11_had_participant>
-              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius/agent/4/12">
-                <rdfs:label>Water</rdfs:label>
-              </cidoc:E39_Actor>
-            </cidoc:P11_had_participant>
+            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius//agent/4"/>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/uncertainty_score/1/12/4">
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/uncertainty_max/1/4/None"/>
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/uncertainty_min/1/4/1.0"/>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_max/1/12/4/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-max"/>
+                    <rdfs:label>None</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_min/1/12/4/1.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-min"/>
+                    <rdfs:label>1.0</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score"/>
               </crmsci:S21_Measurement>
             </cidoc:P39i_was_measured_by>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/magnitude_score/1/12/4">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/4/9.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/12/4/9.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-max"/>
                     <rdfs:label>9.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_min/1/4/7.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_min/1/12/4/7.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-min"/>
                     <rdfs:label>7.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -1957,12 +2331,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_c_score/1/12/4">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_max/1/4/4.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_max/1/12/4/4.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-max"/>
                     <rdfs:label>4.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_min/1/4/3.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_min/1/12/4/3.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-min"/>
                     <rdfs:label>3.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -1974,12 +2350,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_b_score/1/12/4">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_max/1/4/4.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_max/1/12/4/4.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-max"/>
                     <rdfs:label>4.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_min/1/4/3.5">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_min/1/12/4/3.5">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-min"/>
                     <rdfs:label>3.5</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -1991,12 +2369,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_a_score/1/12/4">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_max/1/4/1.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_max/1/12/4/1.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-max"/>
                     <rdfs:label>1.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_min/1/4/0.5">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_min/1/12/4/0.5">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-min"/>
                     <rdfs:label>0.5</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -2016,16 +2396,18 @@
         <cidoc:P129_is_about>
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/5/15">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
-            <cidoc:P11_had_participant>
-              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius/agent/5/15">
-                <rdfs:label>Pests</rdfs:label>
-              </cidoc:E39_Actor>
-            </cidoc:P11_had_participant>
+            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius//agent/5"/>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/uncertainty_score/1/15/5">
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/uncertainty_max/1/5/None"/>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_min/1/5/0.5">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_max/1/15/5/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-max"/>
+                    <rdfs:label>None</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_min/1/15/5/0.5">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-min"/>
                     <rdfs:label>0.5</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -2035,22 +2417,34 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/magnitude_score/1/15/5">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/5/8.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/15/5/8.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-max"/>
                     <rdfs:label>8.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/magnitude_score_min/1/5/7.0"/>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_min/1/15/5/7.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-min"/>
+                    <rdfs:label>7.0</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score"/>
               </crmsci:S21_Measurement>
             </cidoc:P39i_was_measured_by>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_c_score/1/15/5">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_max/1/5/None">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_max/1/15/5/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-max"/>
                     <rdfs:label>None</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/scale_c_score_min/1/5/1.0"/>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_min/1/15/5/1.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-min"/>
+                    <rdfs:label>1.0</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
                 <cidoc:P3_has_note rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal"
                 >Number of pavements in the archaeological site at greatest risk of flooding (those near the door giving access to the pump room and the garden exit) = 4/12
   Number of affected pavements made of the most susceptible materials if hit by a flood event: 3/4
@@ -2064,11 +2458,17 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_b_score/1/15/5">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_max/1/5/2.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_max/1/15/5/2.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-max"/>
                     <rdfs:label>2.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/scale_b_score_min/1/5/1.0"/>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_min/1/15/5/1.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-min"/>
+                    <rdfs:label>1.0</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
                 <cidoc:P3_has_note rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal"
                 >Type of material moderately susceptible: natural and artificial stone materials.
   Loss of value for each object: efflorescence, cracking, removal and displacement of fragile portions such as tesserae, stone flakes.
@@ -2079,8 +2479,18 @@
             </cidoc:P39i_was_measured_by>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_a_score/1/15/5">
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/scale_a_score_max/1/5/None"/>
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/scale_a_score_min/1/5/5.0"/>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_max/1/15/5/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-max"/>
+                    <rdfs:label>None</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_min/1/15/5/5.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-min"/>
+                    <rdfs:label>5.0</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
                 <cidoc:P3_has_note rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal"
                 >Between 2010 and 2039, similar phenomena will occur more frequently than in the recent past (1961-1990). To date, there has been 1 event recorded in 28 years since the excavation, which did not directly affect the excavation but rather the nearby archive room.</cidoc:P3_has_note>
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score"/>
@@ -2097,16 +2507,18 @@
         <cidoc:P129_is_about>
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/7/18">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
-            <cidoc:P11_had_participant>
-              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius/agent/7/18">
-                <rdfs:label>Light, UV, IR</rdfs:label>
-              </cidoc:E39_Actor>
-            </cidoc:P11_had_participant>
+            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius//agent/7"/>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/uncertainty_score/1/18/7">
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/uncertainty_max/1/7/None"/>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_min/1/7/1.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_max/1/18/7/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-max"/>
+                    <rdfs:label>None</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_min/1/18/7/1.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-min"/>
                     <rdfs:label>1.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -2116,12 +2528,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/magnitude_score/1/18/7">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/7/11.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/18/7/11.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-max"/>
                     <rdfs:label>11.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_min/1/7/9.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_min/1/18/7/9.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-min"/>
                     <rdfs:label>9.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -2131,12 +2545,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_c_score/1/18/7">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_max/1/7/3.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_max/1/18/7/3.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-max"/>
                     <rdfs:label>3.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_min/1/7/2.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_min/1/18/7/2.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-min"/>
                     <rdfs:label>2.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -2153,12 +2569,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_b_score/1/18/7">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_max/1/7/3.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_max/1/18/7/3.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-max"/>
                     <rdfs:label>3.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_min/1/7/2.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_min/1/18/7/2.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-min"/>
                     <rdfs:label>2.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -2172,9 +2590,15 @@
             </cidoc:P39i_was_measured_by>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_a_score/1/18/7">
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/scale_a_score_max/1/7/None"/>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_min/1/7/5.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_max/1/18/7/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-max"/>
+                    <rdfs:label>None</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_min/1/18/7/5.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-min"/>
                     <rdfs:label>5.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -2194,27 +2618,35 @@
         <cidoc:P129_is_about>
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/10/21">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
-            <cidoc:P11_had_participant>
-              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius/agent/10/21">
-                <rdfs:label>Dissociation</rdfs:label>
-              </cidoc:E39_Actor>
-            </cidoc:P11_had_participant>
+            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius//agent/10"/>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/uncertainty_score/1/21/10">
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/uncertainty_max/1/10/None"/>
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/uncertainty_min/1/10/1.0"/>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_max/1/21/10/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-max"/>
+                    <rdfs:label>None</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_min/1/21/10/1.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-min"/>
+                    <rdfs:label>1.0</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score"/>
               </crmsci:S21_Measurement>
             </cidoc:P39i_was_measured_by>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/magnitude_score/1/21/10">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/10/9.5">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/21/10/9.5">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-max"/>
                     <rdfs:label>9.5</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_min/1/10/7.5">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_min/1/21/10/7.5">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-min"/>
                     <rdfs:label>7.5</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -2224,12 +2656,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_c_score/1/21/10">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_max/1/10/4.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_max/1/21/10/4.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-max"/>
                     <rdfs:label>4.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_min/1/10/3.5">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_min/1/21/10/3.5">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-min"/>
                     <rdfs:label>3.5</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -2241,12 +2675,14 @@
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_b_score/1/21/10">
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_max/1/10/4.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_max/1/21/10/4.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-max"/>
                     <rdfs:label>4.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
                 <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_min/1/10/3.0">
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_min/1/21/10/3.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-min"/>
                     <rdfs:label>3.0</rdfs:label>
                   </cidoc:E54_Dimension>
                 </cidoc:P40_observed_dimension>
@@ -2257,8 +2693,18 @@
             </cidoc:P39i_was_measured_by>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_a_score/1/21/10">
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/scale_a_score_max/1/10/None"/>
-                <cidoc:P40_observed_dimension rdf:resource="https://w3id.org/sirius/scale_a_score_min/1/10/1.0"/>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_max/1/21/10/None">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-max"/>
+                    <rdfs:label>None</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
+                <cidoc:P40_observed_dimension>
+                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_min/1/21/10/1.0">
+                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-min"/>
+                    <rdfs:label>1.0</rdfs:label>
+                  </cidoc:E54_Dimension>
+                </cidoc:P40_observed_dimension>
                 <cidoc:P3_has_note rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal"
                 >None</cidoc:P3_has_note>
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score"/>
