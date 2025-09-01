@@ -142,7 +142,7 @@
                 </cidoc:P2_has_type>
               </crmsci:S21_Measurement>
             </cidoc:P39i_was_measured_by>
-            <rdfs:label>None</rdfs:label>
+            <rdfs:label>Lack of scheduled cleaning plan</rdfs:label>
           </cidoc:E5_Event>
         </cidoc:P129_is_about>
       </cidoc:E89_Propositional_Object>
@@ -249,114 +249,7 @@
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score"/>
               </crmsci:S21_Measurement>
             </cidoc:P39i_was_measured_by>
-            <rdfs:label>None</rdfs:label>
-          </cidoc:E5_Event>
-        </cidoc:P129_is_about>
-      </cidoc:E89_Propositional_Object>
-    </cidoc:P129_is_about>
-    <cidoc:P129_is_about>
-      <cidoc:E89_Propositional_Object rdf:about="https://w3id.org/sirius/risk-analysis/id/25">
-        <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
-        <cidoc:P129_is_about>
-          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/6/25">
-            <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
-            <cidoc:P11_had_participant>
-              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius//agent/6">
-                <rdfs:label>Pollutants</rdfs:label>
-              </cidoc:E39_Actor>
-            </cidoc:P11_had_participant>
-            <cidoc:P39i_was_measured_by>
-              <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/uncertainty_score/1/25/6">
-                <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_max/1/25/6/None">
-                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-max"/>
-                    <rdfs:label>None</rdfs:label>
-                  </cidoc:E54_Dimension>
-                </cidoc:P40_observed_dimension>
-                <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/uncertainty_min/1/25/6/None">
-                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score-min"/>
-                    <rdfs:label>None</rdfs:label>
-                  </cidoc:E54_Dimension>
-                </cidoc:P40_observed_dimension>
-                <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty-score"/>
-              </crmsci:S21_Measurement>
-            </cidoc:P39i_was_measured_by>
-            <cidoc:P39i_was_measured_by>
-              <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/magnitude_score/1/25/6">
-                <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_max/1/25/6/None">
-                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-max"/>
-                    <rdfs:label>None</rdfs:label>
-                  </cidoc:E54_Dimension>
-                </cidoc:P40_observed_dimension>
-                <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/magnitude_score_min/1/25/6/None">
-                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score-min"/>
-                    <rdfs:label>None</rdfs:label>
-                  </cidoc:E54_Dimension>
-                </cidoc:P40_observed_dimension>
-                <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score"/>
-              </crmsci:S21_Measurement>
-            </cidoc:P39i_was_measured_by>
-            <cidoc:P39i_was_measured_by>
-              <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_c_score/1/25/6">
-                <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_max/1/25/6/None">
-                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-max"/>
-                    <rdfs:label>None</rdfs:label>
-                  </cidoc:E54_Dimension>
-                </cidoc:P40_observed_dimension>
-                <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_c_score_min/1/25/6/None">
-                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score-min"/>
-                    <rdfs:label>None</rdfs:label>
-                  </cidoc:E54_Dimension>
-                </cidoc:P40_observed_dimension>
-                <cidoc:P3_has_note rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal"
-                >None</cidoc:P3_has_note>
-                <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score"/>
-              </crmsci:S21_Measurement>
-            </cidoc:P39i_was_measured_by>
-            <cidoc:P39i_was_measured_by>
-              <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_b_score/1/25/6">
-                <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_max/1/25/6/None">
-                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-max"/>
-                    <rdfs:label>None</rdfs:label>
-                  </cidoc:E54_Dimension>
-                </cidoc:P40_observed_dimension>
-                <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_b_score_min/1/25/6/None">
-                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score-min"/>
-                    <rdfs:label>None</rdfs:label>
-                  </cidoc:E54_Dimension>
-                </cidoc:P40_observed_dimension>
-                <cidoc:P3_has_note rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal"
-                >None</cidoc:P3_has_note>
-                <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-b-score"/>
-              </crmsci:S21_Measurement>
-            </cidoc:P39i_was_measured_by>
-            <cidoc:P39i_was_measured_by>
-              <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_a_score/1/25/6">
-                <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_max/1/25/6/None">
-                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-max"/>
-                    <rdfs:label>None</rdfs:label>
-                  </cidoc:E54_Dimension>
-                </cidoc:P40_observed_dimension>
-                <cidoc:P40_observed_dimension>
-                  <cidoc:E54_Dimension rdf:about="https://w3id.org/sirius/scale_a_score_min/1/25/6/None">
-                    <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score-min"/>
-                    <rdfs:label>None</rdfs:label>
-                  </cidoc:E54_Dimension>
-                </cidoc:P40_observed_dimension>
-                <cidoc:P3_has_note rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal"
-                >None</cidoc:P3_has_note>
-                <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score"/>
-              </crmsci:S21_Measurement>
-            </cidoc:P39i_was_measured_by>
-            <rdfs:label>None</rdfs:label>
+            <rdfs:label>Loss of bags containing erratic mosaic tiles</rdfs:label>
           </cidoc:E5_Event>
         </cidoc:P129_is_about>
       </cidoc:E89_Propositional_Object>
@@ -475,7 +368,7 @@
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score"/>
               </crmsci:S21_Measurement>
             </cidoc:P39i_was_measured_by>
-            <rdfs:label>Sviluppo di efflorescenze</rdfs:label>
+            <rdfs:label>Development of efflorescence</rdfs:label>
           </cidoc:E5_Event>
         </cidoc:P129_is_about>
       </cidoc:E89_Propositional_Object>
@@ -578,7 +471,7 @@
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score"/>
               </crmsci:S21_Measurement>
             </cidoc:P39i_was_measured_by>
-            <rdfs:label>None</rdfs:label>
+            <rdfs:label>Lack of funds for the replacements of fittings and facilities</rdfs:label>
           </cidoc:E5_Event>
         </cidoc:P129_is_about>
       </cidoc:E89_Propositional_Object>
@@ -685,7 +578,7 @@
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score"/>
               </crmsci:S21_Measurement>
             </cidoc:P39i_was_measured_by>
-            <rdfs:label>Brekages and hits</rdfs:label>
+            <rdfs:label>Hits by technical operators</rdfs:label>
           </cidoc:E5_Event>
         </cidoc:P129_is_about>
       </cidoc:E89_Propositional_Object>
@@ -801,7 +694,7 @@
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score"/>
               </crmsci:S21_Measurement>
             </cidoc:P39i_was_measured_by>
-            <rdfs:label>Flooding of the archaeological site</rdfs:label>
+            <rdfs:label>Flooding of the archaeological site due to pump malfunction</rdfs:label>
           </cidoc:E5_Event>
         </cidoc:P129_is_about>
       </cidoc:E89_Propositional_Object>
@@ -916,7 +809,7 @@
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score"/>
               </crmsci:S21_Measurement>
             </cidoc:P39i_was_measured_by>
-            <rdfs:label>None</rdfs:label>
+            <rdfs:label>Fire for external agents</rdfs:label>
           </cidoc:E5_Event>
         </cidoc:P129_is_about>
       </cidoc:E89_Propositional_Object>
@@ -1019,7 +912,7 @@
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score"/>
               </crmsci:S21_Measurement>
             </cidoc:P39i_was_measured_by>
-            <rdfs:label>Moderate earthquake</rdfs:label>
+            <rdfs:label>Moderate earthquake case 1</rdfs:label>
           </cidoc:E5_Event>
         </cidoc:P129_is_about>
       </cidoc:E89_Propositional_Object>
@@ -1122,7 +1015,7 @@
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score"/>
               </crmsci:S21_Measurement>
             </cidoc:P39i_was_measured_by>
-            <rdfs:label>Brekages and hits</rdfs:label>
+            <rdfs:label>Hits by visitors</rdfs:label>
           </cidoc:E5_Event>
         </cidoc:P129_is_about>
       </cidoc:E89_Propositional_Object>
@@ -1225,7 +1118,7 @@
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score"/>
               </crmsci:S21_Measurement>
             </cidoc:P39i_was_measured_by>
-            <rdfs:label>None</rdfs:label>
+            <rdfs:label>Flooding for violent phenomena in a far future</rdfs:label>
           </cidoc:E5_Event>
         </cidoc:P129_is_about>
       </cidoc:E89_Propositional_Object>
@@ -1331,7 +1224,7 @@
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score"/>
               </crmsci:S21_Measurement>
             </cidoc:P39i_was_measured_by>
-            <rdfs:label>None</rdfs:label>
+            <rdfs:label>Use of fire extinguers on artifacts</rdfs:label>
           </cidoc:E5_Event>
         </cidoc:P129_is_about>
       </cidoc:E89_Propositional_Object>
@@ -1450,7 +1343,7 @@
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score"/>
               </crmsci:S21_Measurement>
             </cidoc:P39i_was_measured_by>
-            <rdfs:label>Disomogeneità termiche dovute all’illuminazione che comportano stress meccanici con conseguente crescita di patine biologiche</rdfs:label>
+            <rdfs:label>Radiations that leads to thermal inhomogeneities</rdfs:label>
           </cidoc:E5_Event>
         </cidoc:P129_is_about>
       </cidoc:E89_Propositional_Object>
@@ -1461,7 +1354,11 @@
         <cidoc:P129_is_about>
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/6/17">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
-            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius//agent/6"/>
+            <cidoc:P11_had_participant>
+              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius//agent/6">
+                <rdfs:label>Pollutants</rdfs:label>
+              </cidoc:E39_Actor>
+            </cidoc:P11_had_participant>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/uncertainty_score/1/17/6">
                 <cidoc:P40_observed_dimension>
@@ -1553,7 +1450,7 @@
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score"/>
               </crmsci:S21_Measurement>
             </cidoc:P39i_was_measured_by>
-            <rdfs:label>None</rdfs:label>
+            <rdfs:label>Discomfort due to high concentration of CO2</rdfs:label>
           </cidoc:E5_Event>
         </cidoc:P129_is_about>
       </cidoc:E89_Propositional_Object>
@@ -1759,7 +1656,7 @@
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score"/>
               </crmsci:S21_Measurement>
             </cidoc:P39i_was_measured_by>
-            <rdfs:label>None</rdfs:label>
+            <rdfs:label>Infiltration of substances from the bordering wall</rdfs:label>
           </cidoc:E5_Event>
         </cidoc:P129_is_about>
       </cidoc:E89_Propositional_Object>
@@ -1870,7 +1767,7 @@
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score"/>
               </crmsci:S21_Measurement>
             </cidoc:P39i_was_measured_by>
-            <rdfs:label>Flooding of the archaeological site</rdfs:label>
+            <rdfs:label>Flooding of archaeological site due to climatic events on a near future</rdfs:label>
           </cidoc:E5_Event>
         </cidoc:P129_is_about>
       </cidoc:E89_Propositional_Object>
@@ -1973,7 +1870,7 @@
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score"/>
               </crmsci:S21_Measurement>
             </cidoc:P39i_was_measured_by>
-            <rdfs:label>None</rdfs:label>
+            <rdfs:label>Dirt caused by ammonia, BOD/5 and hydrocarbon from the sewer pipe</rdfs:label>
           </cidoc:E5_Event>
         </cidoc:P129_is_about>
       </cidoc:E89_Propositional_Object>
@@ -2076,7 +1973,7 @@
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score"/>
               </crmsci:S21_Measurement>
             </cidoc:P39i_was_measured_by>
-            <rdfs:label>None</rdfs:label>
+            <rdfs:label>Fire for a short circuit</rdfs:label>
           </cidoc:E5_Event>
         </cidoc:P129_is_about>
       </cidoc:E89_Propositional_Object>
@@ -2179,7 +2076,7 @@
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score"/>
               </crmsci:S21_Measurement>
             </cidoc:P39i_was_measured_by>
-            <rdfs:label>Moderate earthquake</rdfs:label>
+            <rdfs:label>Moderate earthquake case 2</rdfs:label>
           </cidoc:E5_Event>
         </cidoc:P129_is_about>
       </cidoc:E89_Propositional_Object>
@@ -2282,7 +2179,7 @@
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score"/>
               </crmsci:S21_Measurement>
             </cidoc:P39i_was_measured_by>
-            <rdfs:label>None</rdfs:label>
+            <rdfs:label>Lack of written management guidelines</rdfs:label>
           </cidoc:E5_Event>
         </cidoc:P129_is_about>
       </cidoc:E89_Propositional_Object>
@@ -2385,7 +2282,7 @@
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score"/>
               </crmsci:S21_Measurement>
             </cidoc:P39i_was_measured_by>
-            <rdfs:label>None</rdfs:label>
+            <rdfs:label>Wetting the site due to use of fire hydrants</rdfs:label>
           </cidoc:E5_Event>
         </cidoc:P129_is_about>
       </cidoc:E89_Propositional_Object>
@@ -2496,7 +2393,7 @@
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score"/>
               </crmsci:S21_Measurement>
             </cidoc:P39i_was_measured_by>
-            <rdfs:label>None</rdfs:label>
+            <rdfs:label>Lack of biocide treatment</rdfs:label>
           </cidoc:E5_Event>
         </cidoc:P129_is_about>
       </cidoc:E89_Propositional_Object>
@@ -2607,7 +2504,7 @@
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score"/>
               </crmsci:S21_Measurement>
             </cidoc:P39i_was_measured_by>
-            <rdfs:label>None</rdfs:label>
+            <rdfs:label>Biocide efficacy of UV lamps thanks to the replacements of them</rdfs:label>
           </cidoc:E5_Event>
         </cidoc:P129_is_about>
       </cidoc:E89_Propositional_Object>
@@ -2710,7 +2607,7 @@
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-a-score"/>
               </crmsci:S21_Measurement>
             </cidoc:P39i_was_measured_by>
-            <rdfs:label>None</rdfs:label>
+            <rdfs:label>Lack of funds for restoration of the remaining artifacts</rdfs:label>
           </cidoc:E5_Event>
         </cidoc:P129_is_about>
       </cidoc:E89_Propositional_Object>

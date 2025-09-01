@@ -6,7 +6,7 @@
     <risk_agent>Water</risk_agent>
     <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
-    <risk_name>Flooding of the archaeological site</risk_name>
+    <risk_name>Flooding of archaeological site due to climatic events on a near future</risk_name>
     <scale_a_description>Between 2010 and 2039, similar phenomena will occur more frequently than in the recent past (1961-1990). To date, there has been 1 event recorded in 28 years since the excavation, which did not directly affect the excavation but rather the nearby archive room.</scale_a_description>
     <scale_b_description>Type of material moderately susceptible: natural and artificial stone materials.
   Loss of value for each object: efflorescence, cracking, removal and displacement of fragile portions such as tesserae, stone flakes.
@@ -42,7 +42,7 @@
     <risk_agent>Water</risk_agent>
     <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
-    <risk_name>Flooding of the archaeological site</risk_name>
+    <risk_name>Flooding of the archaeological site due to pump malfunction</risk_name>
     <scale_a_description>According to the archive records of the Chamber of Commerce and the Archaeological Superintendency of Bologna, there have been 2 serious episodes 11 years apart, the last of which was particularly severe and required remediation by a specialised company.
   2 events in 28 years, interval between the two events 11 years.
   </scale_a_description>
@@ -82,7 +82,7 @@
     <risk_agent>Light, UV, IR</risk_agent>
     <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
-    <risk_name>Disomogeneità termiche dovute all’illuminazione che comportano stress meccanici con conseguente crescita di patine biologiche</risk_name>
+    <risk_name>Radiations that leads to thermal inhomogeneities</risk_name>
     <scale_a_description>More intense peaks in the summers of 2021 and 2022 due to warmer temperatures together with emergency operations by the LMCU degree course in Conservation and Restoration of Cultural Heritage at Unibo contributed to the rise of the two peaks.
   One year after the biocidal treatment, biological colonisation reappeared, and in untreated areas during the summer months it grew exponentially due to high relative humidity, prolonged sun exposure and a constant temperature of 21-23 degrees.
   Cumulative process; in this case, the level of damage relevant to the context is selected and the time needed to accumulate this damage is assessed.
@@ -125,7 +125,8 @@
     <risk_agent>Incorrect RH</risk_agent>
     <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
-    <risk_name>Sviluppo di efflorescenze</risk_name>
+    <risk_name>Development of efflorescence
+</risk_name>
     <scale_a_description>Cumulative process; in this case, the level of damage relevant to the context is selected and the time needed to accumulate this damage is assessed.
   Time needed to accumulate the damage: every winter, so approximately every 6-8 months, the phenomenon of salt crystallisation occurs, starting around November and ending in March (about 5 months).
   </scale_a_description>
@@ -168,7 +169,7 @@
     <risk_agent>Physical forces</risk_agent>
     <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
-    <risk_name>Moderate earthquake</risk_name>
+    <risk_name>Moderate earthquake case 1</risk_name>
     <scale_a_description>Between 2010 and 2039, similar phenomena will occur more frequently than in the recent past (1961-1990). To date, there has been 1 event recorded in 28 years since the excavation, which did not directly affect the excavation but rather the nearby archive room.</scale_a_description>
     <scale_b_description>None</scale_b_description>
     <scale_c_description>None</scale_c_description>
@@ -196,7 +197,7 @@
     <risk_agent>Physical forces</risk_agent>
     <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
-    <risk_name>Moderate earthquake</risk_name>
+    <risk_name>Moderate earthquake case 2</risk_name>
     <scale_a_description>None</scale_a_description>
     <scale_b_description>None</scale_b_description>
     <scale_c_description>None</scale_c_description>
@@ -253,7 +254,7 @@
     <risk_agent>Physical forces</risk_agent>
     <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
-    <risk_name>Brekages and hits</risk_name>
+    <risk_name>Hits by technical operators</risk_name>
     <scale_a_description>None</scale_a_description>
     <scale_b_description>None</scale_b_description>
     <scale_c_description>None</scale_c_description>
@@ -282,7 +283,7 @@
     <risk_agent>Physical forces</risk_agent>
     <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
-    <risk_name>Brekages and hits</risk_name>
+    <risk_name>Hits by visitors</risk_name>
     <scale_a_description>None</scale_a_description>
     <scale_b_description>None</scale_b_description>
     <scale_c_description>None</scale_c_description>
@@ -310,7 +311,7 @@
     <risk_agent>Fire</risk_agent>
     <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
-    <risk_name>None</risk_name>
+    <risk_name>Fire for external agents</risk_name>
     <scale_a_description>Between 2010 and 2039, similar phenomena will occur more frequently than in the recent past (1961-1990). To date, there has been 1 event recorded in 28 years since the excavation, which did not directly affect the excavation but rather the nearby archive room.</scale_a_description>
     <scale_b_description>Type of material moderately susceptible: natural and artificial stone materials.
   Loss of value for each object: efflorescence, cracking, removal and displacement of fragile portions such as tesserae, stone flakes.
@@ -346,7 +347,7 @@
     <risk_agent>Fire</risk_agent>
     <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
-    <risk_name>None</risk_name>
+    <risk_name>Fire for a short circuit </risk_name>
     <scale_a_description>None</scale_a_description>
     <scale_b_description>None</scale_b_description>
     <scale_c_description>None</scale_c_description>
@@ -375,7 +376,7 @@
     <risk_agent>Water</risk_agent>
     <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
-    <risk_name>None</risk_name>
+    <risk_name>Wetting the site due to use of fire hydrants </risk_name>
     <scale_a_description>None</scale_a_description>
     <scale_b_description>None</scale_b_description>
     <scale_c_description>None</scale_c_description>
@@ -404,7 +405,7 @@
     <risk_agent>Fire</risk_agent>
     <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
-    <risk_name>None</risk_name>
+    <risk_name>Use of fire extinguers on artifacts</risk_name>
     <scale_a_description>None</scale_a_description>
     <scale_b_description>None</scale_b_description>
     <scale_c_description>None</scale_c_description>
@@ -432,7 +433,7 @@
     <risk_agent>Water</risk_agent>
     <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
-    <risk_name>None</risk_name>
+    <risk_name>Flooding for violent phenomena in a far future</risk_name>
     <scale_a_description>None</scale_a_description>
     <scale_b_description>None</scale_b_description>
     <scale_c_description>None</scale_c_description>
@@ -460,7 +461,7 @@
     <risk_agent>Pests</risk_agent>
     <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
-    <risk_name>None</risk_name>
+    <risk_name>Lack of biocide treatment</risk_name>
     <scale_a_description>Between 2010 and 2039, similar phenomena will occur more frequently than in the recent past (1961-1990). To date, there has been 1 event recorded in 28 years since the excavation, which did not directly affect the excavation but rather the nearby archive room.</scale_a_description>
     <scale_b_description>Type of material moderately susceptible: natural and artificial stone materials.
   Loss of value for each object: efflorescence, cracking, removal and displacement of fragile portions such as tesserae, stone flakes.
@@ -496,7 +497,7 @@
     <risk_agent>Pests</risk_agent>
     <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
-    <risk_name>None</risk_name>
+    <risk_name>Lack of scheduled cleaning plan</risk_name>
     <scale_a_description>None</scale_a_description>
     <scale_b_description>None</scale_b_description>
     <scale_c_description>None</scale_c_description>
@@ -524,7 +525,7 @@
     <risk_agent>Pollutants</risk_agent>
     <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
-    <risk_name>None</risk_name>
+    <risk_name>Discomfort due to high concentration of CO2</risk_name>
     <scale_a_description>None</scale_a_description>
     <scale_b_description>None</scale_b_description>
     <scale_c_description>None</scale_c_description>
@@ -553,7 +554,7 @@
     <risk_agent>Light, UV, IR</risk_agent>
     <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
-    <risk_name>None</risk_name>
+    <risk_name>Biocide efficacy of UV lamps thanks to the replacements of them</risk_name>
     <scale_a_description>Cumulative process that occurs consistently</scale_a_description>
     <scale_b_description>Type of material moderately susceptible: natural and artificial stone materials.
   Loss of value for each object: efflorescence, cracking, removal and displacement of fragile portions such as tesserae, stone flakes.
@@ -589,7 +590,7 @@
     <risk_agent>Dissociation</risk_agent>
     <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
-    <risk_name>None</risk_name>
+    <risk_name>Lack of written management guidelines</risk_name>
     <scale_a_description>None</scale_a_description>
     <scale_b_description>None</scale_b_description>
     <scale_c_description>None</scale_c_description>
@@ -617,7 +618,7 @@
     <risk_agent>Dissociation</risk_agent>
     <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
-    <risk_name>None</risk_name>
+    <risk_name>Lack of funds for the replacements of fittings and facilities</risk_name>
     <scale_a_description>None</scale_a_description>
     <scale_b_description>None</scale_b_description>
     <scale_c_description>None</scale_c_description>
@@ -645,7 +646,7 @@
     <risk_agent>Dissociation</risk_agent>
     <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
-    <risk_name>None</risk_name>
+    <risk_name>Lack of funds for restoration of the remaining artifacts</risk_name>
     <scale_a_description>None</scale_a_description>
     <scale_b_description>None</scale_b_description>
     <scale_c_description>None</scale_c_description>
@@ -673,7 +674,7 @@
     <risk_agent>Dissociation</risk_agent>
     <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
-    <risk_name>None</risk_name>
+    <risk_name>Loss of bags containing erratic mosaic tiles</risk_name>
     <scale_a_description>None</scale_a_description>
     <scale_b_description>None</scale_b_description>
     <scale_c_description>None</scale_c_description>
@@ -701,7 +702,7 @@
     <risk_agent>Pollutants</risk_agent>
     <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
-    <risk_name>None</risk_name>
+    <risk_name>Infiltration of substances from the bordering wall</risk_name>
     <scale_a_description>None</scale_a_description>
     <scale_b_description>None</scale_b_description>
     <scale_c_description>None</scale_c_description>
@@ -729,7 +730,7 @@
     <risk_agent>Pollutants</risk_agent>
     <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
-    <risk_name>None</risk_name>
+    <risk_name>Dirt caused by ammonia, BOD/5 and hydrocarbon from the sewer pipe</risk_name>
     <scale_a_description>None</scale_a_description>
     <scale_b_description>None</scale_b_description>
     <scale_c_description>None</scale_c_description>
@@ -749,34 +750,6 @@
     <scale_b_input_max>None</scale_b_input_max>
     <scale_c_input_max>None</scale_c_input_max>
     <magnitude_score_max>11.5</magnitude_score_max>
-    <uncertainty_max>None</uncertainty_max>
-  </risk_analysis>
-  <risk_analysis>
-    <risk_analysis_id>25</risk_analysis_id>
-    <risk_id>6</risk_id>
-    <risk_agent>Pollutants</risk_agent>
-    <site_id>1</site_id>
-    <site>Remains of a Roman-era residential district </site>
-    <risk_name>None</risk_name>
-    <scale_a_description>None</scale_a_description>
-    <scale_b_description>None</scale_b_description>
-    <scale_c_description>None</scale_c_description>
-    <uncertainty_min>None</uncertainty_min>
-    <scale_a_input_min>None</scale_a_input_min>
-    <scale_b_input_min>None</scale_b_input_min>
-    <scale_c_input_min>None</scale_c_input_min>
-    <risk_description>None</risk_description>
-    <scale_a_score_min>None</scale_a_score_min>
-    <scale_b_score_min>None</scale_b_score_min>
-    <scale_c_score_min>None</scale_c_score_min>
-    <magnitude_score_min>None</magnitude_score_min>
-    <scale_a_score_max>None</scale_a_score_max>
-    <scale_b_score_max>None</scale_b_score_max>
-    <scale_c_score_max>None</scale_c_score_max>
-    <scale_a_input_max>None</scale_a_input_max>
-    <scale_b_input_max>None</scale_b_input_max>
-    <scale_c_input_max>None</scale_c_input_max>
-    <magnitude_score_max>None</magnitude_score_max>
     <uncertainty_max>None</uncertainty_max>
   </risk_analysis>
 </risk_analyses>
