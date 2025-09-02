@@ -96,30 +96,24 @@ with open("xml/value_agents_occurrence.xml", "w", encoding="utf-8") as f:
     f.write(prettify_xml(root))
 
 
-# --- 5. agent_risk_sentence ---
+
+# --- 5. event_name_sentence ---
 cursor.execute("""
 SELECT 
-    ars.agent_risk_sentence_id,
-    ars.agent_id,
-    ra.risk_agent AS agent,
-    ars.site_id,
-    chs.cultural_heritage_site_appellation AS site,
-    ars.sentence_number,
-    ars.sentence_text
-FROM public.agent_risk_sentence ars
-JOIN public.risk_agents ra ON ars.agent_id = ra.risk_id
-JOIN public.cultural_heritage_site chs ON ars.site_id = chs.site_id
-ORDER BY ars.agent_risk_sentence_id;
+    event_name_id,
+    event_name
+FROM public.event_name_sentence
+ORDER BY event_name_id;
 """)
 rows = cursor.fetchall()
 columns = [desc[0] for desc in cursor.description]
 
-root = ET.Element("agent_risk_sentences")
+root = ET.Element("event_name_sentences")
 for row in rows:
-    item = ET.SubElement(root, "agent_risk_sentence")
+    item = ET.SubElement(root, "event_name_sentence")
     for col_name, col_value in zip(columns, row):
         ET.SubElement(item, col_name).text = str(col_value)
-with open("xml/agent_risk_sentence.xml", "w", encoding="utf-8") as f:
+with open("xml/event_name_sentence.xml", "w", encoding="utf-8") as f:
     f.write(prettify_xml(root))
 
 
@@ -131,6 +125,7 @@ SELECT
     r.risk_agent AS risk_agent,
     ra.site_id,
     chs.cultural_heritage_site_appellation AS site,
+    ra.event_name_id,
     ra.risk_name,
     ra.scale_a_description,
     ra.scale_b_description,
@@ -176,5 +171,5 @@ print("✅ XML files created for:")
 print("- value_aspect_dimension")
 print("- cultural_heritage_site")
 print("- value_agents_occurrence")
-print("- agent_risk_sentence")
+print("- event_name_sentence")
 print("- risk_analysis")
