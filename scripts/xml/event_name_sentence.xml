@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<event_name_sentences>
+  <event_name_sentence>
+    <event_name_id>1</event_name_id>
+    <event_name>Flooding of archaeological site due to climatic events on a near future</event_name>
+  </event_name_sentence>
+  <event_name_sentence>
+    <event_name_id>2</event_name_id>
+    <event_name>Flooding of the archaeological site due to pump malfunction</event_name>
+  </event_name_sentence>
+  <event_name_sentence>
+    <event_name_id>3</event_name_id>
+    <event_name>Radiations that leads to thermal inhomogeneities</event_name>
+  </event_name_sentence>
+  <event_name_sentence>
+    <event_name_id>4</event_name_id>
+    <event_name>Development of efflorescence
+</event_name>
+  </event_name_sentence>
+  <event_name_sentence>
+    <event_name_id>5</event_name_id>
+    <event_name>Moderate earthquake case 1</event_name>
+  </event_name_sentence>
+  <event_name_sentence>
+    <event_name_id>6</event_name_id>
+    <event_name>Moderate earthquake case 2</event_name>
+  </event_name_sentence>
+  <event_name_sentence>
+    <event_name_id>7</event_name_id>
+    <event_name>Strong earthquake</event_name>
+  </event_name_sentence>
+  <event_name_sentence>
+    <event_name_id>8</event_name_id>
+    <event_name>Hits by technical operators</event_name>
+  </event_name_sentence>
+  <event_name_sentence>
+    <event_name_id>9</event_name_id>
+    <event_name>Hits by visitors</event_name>
+  </event_name_sentence>
+  <event_name_sentence>
+    <event_name_id>10</event_name_id>
+    <event_name>Fire for external agents</event_name>
+  </event_name_sentence>
+  <event_name_sentence>
+    <event_name_id>11</event_name_id>
+    <event_name>Fire for a short circuit </event_name>
+  </event_name_sentence>
+  <event_name_sentence>
+    <event_name_id>12</event_name_id>
+    <event_name>Wetting the site due to use of fire hydrants </event_name>
+  </event_name_sentence>
+  <event_name_sentence>
+    <event_name_id>13</event_name_id>
+    <event_name>Use of fire extinguers on artifacts</event_name>
+  </event_name_sentence>
+  <event_name_sentence>
+    <event_name_id>14</event_name_id>
+    <event_name>Flooding for violent phenomena in a far future</event_name>
+  </event_name_sentence>
+  <event_name_sentence>
+    <event_name_id>15</event_name_id>
+    <event_name>Lack of biocide treatment</event_name>
+  </event_name_sentence>
+  <event_name_sentence>
+    <event_name_id>16</event_name_id>
+    <event_name>Lack of scheduled cleaning plan</event_name>
+  </event_name_sentence>
+  <event_name_sentence>
+    <event_name_id>17</event_name_id>
+    <event_name>Discomfort due to high concentration of CO2</event_name>
+  </event_name_sentence>
+  <event_name_sentence>
+    <event_name_id>18</event_name_id>
+    <event_name>Biocide efficacy of UV lamps thanks to the replacements of them</event_name>
+  </event_name_sentence>
+  <event_name_sentence>
+    <event_name_id>19</event_name_id>
+    <event_name>Lack of written management guidelines</event_name>
+  </event_name_sentence>
+  <event_name_sentence>
+    <event_name_id>20</event_name_id>
+    <event_name>Lack of funds for the replacements of fittings and facilities</event_name>
+  </event_name_sentence>
+  <event_name_sentence>
+    <event_name_id>21</event_name_id>
+    <event_name>Lack of funds for restoration of the remaining artifacts</event_name>
+  </event_name_sentence>
+  <event_name_sentence>
+    <event_name_id>22</event_name_id>
+    <event_name>Loss of bags containing erratic mosaic tiles</event_name>
+  </event_name_sentence>
+  <event_name_sentence>
+    <event_name_id>23</event_name_id>
+    <event_name>Infiltration of substances from the bordering wall</event_name>
+  </event_name_sentence>
+  <event_name_sentence>
+    <event_name_id>24</event_name_id>
+    <event_name>Dirt caused by ammonia, BOD/5 and hydrocarbon from the sewer pipe</event_name>
+  </event_name_sentence>
+</event_name_sentences>
