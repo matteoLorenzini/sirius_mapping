@@ -14,10 +14,10 @@
           <cidoc:E18_Physical_Thing rdf:about="https://w3id.org/sirius/cultural-heritage-site/1"/>
         </cidoc:P129_is_about>
         <cidoc:P129_is_about>
-          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/5/16">
+          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/16">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
             <cidoc:P11_had_participant>
-              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius//agent/5">
+              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius/agent/5">
                 <rdfs:label>Pests</rdfs:label>
               </cidoc:E39_Actor>
             </cidoc:P11_had_participant>
@@ -151,10 +151,10 @@
       <cidoc:E89_Propositional_Object rdf:about="https://w3id.org/sirius/risk-analysis/id/22">
         <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
         <cidoc:P129_is_about>
-          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/10/22">
+          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/22">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
             <cidoc:P11_had_participant>
-              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius//agent/10">
+              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius/agent/10">
                 <rdfs:label>Dissociation</rdfs:label>
               </cidoc:E39_Actor>
             </cidoc:P11_had_participant>
@@ -258,10 +258,10 @@
       <cidoc:E89_Propositional_Object rdf:about="https://w3id.org/sirius/risk-analysis/id/4">
         <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
         <cidoc:P129_is_about>
-          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/9/4">
+          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/4">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
             <cidoc:P11_had_participant>
-              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius//agent/9">
+              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius/agent/9">
                 <rdfs:label>Incorrect RH</rdfs:label>
               </cidoc:E39_Actor>
             </cidoc:P11_had_participant>
@@ -377,9 +377,9 @@
       <cidoc:E89_Propositional_Object rdf:about="https://w3id.org/sirius/risk-analysis/id/20">
         <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
         <cidoc:P129_is_about>
-          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/10/20">
+          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/20">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
-            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius//agent/10"/>
+            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius/agent/10"/>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/uncertainty_score/1/20/10">
                 <cidoc:P40_observed_dimension>
@@ -480,10 +480,10 @@
       <cidoc:E89_Propositional_Object rdf:about="https://w3id.org/sirius/risk-analysis/id/8">
         <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
         <cidoc:P129_is_about>
-          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/1/8">
+          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/8">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
             <cidoc:P11_had_participant>
-              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius//agent/1">
+              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius/agent/1">
                 <rdfs:label>Physical forces</rdfs:label>
               </cidoc:E39_Actor>
             </cidoc:P11_had_participant>
@@ -587,10 +587,10 @@
       <cidoc:E89_Propositional_Object rdf:about="https://w3id.org/sirius/risk-analysis/id/2">
         <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
         <cidoc:P129_is_about>
-          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/4/2">
+          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/2">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
             <cidoc:P11_had_participant>
-              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius//agent/4">
+              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius/agent/4">
                 <rdfs:label>Water</rdfs:label>
               </cidoc:E39_Actor>
             </cidoc:P11_had_participant>
@@ -703,10 +703,10 @@
       <cidoc:E89_Propositional_Object rdf:about="https://w3id.org/sirius/risk-analysis/id/10">
         <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
         <cidoc:P129_is_about>
-          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/3/10">
+          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/10">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
             <cidoc:P11_had_participant>
-              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius//agent/3">
+              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius/agent/3">
                 <rdfs:label>Fire</rdfs:label>
               </cidoc:E39_Actor>
             </cidoc:P11_had_participant>
@@ -818,9 +818,9 @@
       <cidoc:E89_Propositional_Object rdf:about="https://w3id.org/sirius/risk-analysis/id/5">
         <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
         <cidoc:P129_is_about>
-          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/1/5">
+          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/5">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
-            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius//agent/1"/>
+            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius/agent/1"/>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/uncertainty_score/1/5/1">
                 <cidoc:P40_observed_dimension>
@@ -921,9 +921,9 @@
       <cidoc:E89_Propositional_Object rdf:about="https://w3id.org/sirius/risk-analysis/id/9">
         <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
         <cidoc:P129_is_about>
-          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/1/9">
+          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/9">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
-            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius//agent/1"/>
+            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius/agent/1"/>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/uncertainty_score/1/9/1">
                 <cidoc:P40_observed_dimension>
@@ -1024,9 +1024,9 @@
       <cidoc:E89_Propositional_Object rdf:about="https://w3id.org/sirius/risk-analysis/id/14">
         <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
         <cidoc:P129_is_about>
-          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/4/14">
+          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/14">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
-            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius//agent/4"/>
+            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius/agent/4"/>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/uncertainty_score/1/14/4">
                 <cidoc:P40_observed_dimension>
@@ -1130,9 +1130,9 @@
       <cidoc:E89_Propositional_Object rdf:about="https://w3id.org/sirius/risk-analysis/id/13">
         <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
         <cidoc:P129_is_about>
-          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/3/13">
+          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/13">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
-            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius//agent/3"/>
+            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius/agent/3"/>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/uncertainty_score/1/13/3">
                 <cidoc:P40_observed_dimension>
@@ -1233,10 +1233,10 @@
       <cidoc:E89_Propositional_Object rdf:about="https://w3id.org/sirius/risk-analysis/id/3">
         <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
         <cidoc:P129_is_about>
-          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/7/3">
+          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/3">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
             <cidoc:P11_had_participant>
-              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius//agent/7">
+              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius/agent/7">
                 <rdfs:label>Light, UV, IR</rdfs:label>
               </cidoc:E39_Actor>
             </cidoc:P11_had_participant>
@@ -1352,10 +1352,10 @@
       <cidoc:E89_Propositional_Object rdf:about="https://w3id.org/sirius/risk-analysis/id/17">
         <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
         <cidoc:P129_is_about>
-          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/6/17">
+          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/17">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
             <cidoc:P11_had_participant>
-              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius//agent/6">
+              <cidoc:E39_Actor rdf:about="https://w3id.org/sirius/agent/6">
                 <rdfs:label>Pollutants</rdfs:label>
               </cidoc:E39_Actor>
             </cidoc:P11_had_participant>
@@ -1459,9 +1459,9 @@
       <cidoc:E89_Propositional_Object rdf:about="https://w3id.org/sirius/risk-analysis/id/7">
         <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
         <cidoc:P129_is_about>
-          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/1/7">
+          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/7">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
-            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius//agent/1"/>
+            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius/agent/1"/>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/uncertainty_score/1/7/1">
                 <cidoc:P40_observed_dimension>
@@ -1562,9 +1562,9 @@
       <cidoc:E89_Propositional_Object rdf:about="https://w3id.org/sirius/risk-analysis/id/23">
         <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
         <cidoc:P129_is_about>
-          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/6/23">
+          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/23">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
-            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius//agent/6"/>
+            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius/agent/6"/>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/uncertainty_score/1/23/6">
                 <cidoc:P40_observed_dimension>
@@ -1665,9 +1665,9 @@
       <cidoc:E89_Propositional_Object rdf:about="https://w3id.org/sirius/risk-analysis/id/1">
         <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
         <cidoc:P129_is_about>
-          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/4/1">
+          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/1">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
-            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius//agent/4"/>
+            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius/agent/4"/>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/uncertainty_score/1/1/4">
                 <cidoc:P40_observed_dimension>
@@ -1776,9 +1776,9 @@
       <cidoc:E89_Propositional_Object rdf:about="https://w3id.org/sirius/risk-analysis/id/24">
         <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
         <cidoc:P129_is_about>
-          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/6/24">
+          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/24">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
-            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius//agent/6"/>
+            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius/agent/6"/>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/uncertainty_score/1/24/6">
                 <cidoc:P40_observed_dimension>
@@ -1879,9 +1879,9 @@
       <cidoc:E89_Propositional_Object rdf:about="https://w3id.org/sirius/risk-analysis/id/11">
         <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
         <cidoc:P129_is_about>
-          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/3/11">
+          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/11">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
-            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius//agent/3"/>
+            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius/agent/3"/>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/uncertainty_score/1/11/3">
                 <cidoc:P40_observed_dimension>
@@ -1982,9 +1982,9 @@
       <cidoc:E89_Propositional_Object rdf:about="https://w3id.org/sirius/risk-analysis/id/6">
         <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
         <cidoc:P129_is_about>
-          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/1/6">
+          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/6">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
-            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius//agent/1"/>
+            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius/agent/1"/>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/uncertainty_score/1/6/1">
                 <cidoc:P40_observed_dimension>
@@ -2085,9 +2085,9 @@
       <cidoc:E89_Propositional_Object rdf:about="https://w3id.org/sirius/risk-analysis/id/19">
         <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
         <cidoc:P129_is_about>
-          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/10/19">
+          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/19">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
-            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius//agent/10"/>
+            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius/agent/10"/>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/uncertainty_score/1/19/10">
                 <cidoc:P40_observed_dimension>
@@ -2188,9 +2188,9 @@
       <cidoc:E89_Propositional_Object rdf:about="https://w3id.org/sirius/risk-analysis/id/12">
         <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
         <cidoc:P129_is_about>
-          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/4/12">
+          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/12">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
-            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius//agent/4"/>
+            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius/agent/4"/>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/uncertainty_score/1/12/4">
                 <cidoc:P40_observed_dimension>
@@ -2291,9 +2291,9 @@
       <cidoc:E89_Propositional_Object rdf:about="https://w3id.org/sirius/risk-analysis/id/15">
         <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
         <cidoc:P129_is_about>
-          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/5/15">
+          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/15">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
-            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius//agent/5"/>
+            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius/agent/5"/>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/uncertainty_score/1/15/5">
                 <cidoc:P40_observed_dimension>
@@ -2402,9 +2402,9 @@
       <cidoc:E89_Propositional_Object rdf:about="https://w3id.org/sirius/risk-analysis/id/18">
         <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
         <cidoc:P129_is_about>
-          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/7/18">
+          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/18">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
-            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius//agent/7"/>
+            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius/agent/7"/>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/uncertainty_score/1/18/7">
                 <cidoc:P40_observed_dimension>
@@ -2513,9 +2513,9 @@
       <cidoc:E89_Propositional_Object rdf:about="https://w3id.org/sirius/risk-analysis/id/21">
         <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
         <cidoc:P129_is_about>
-          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/10/21">
+          <cidoc:E5_Event rdf:about="https://w3id.org/sirius/risk-event/21">
             <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
-            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius//agent/10"/>
+            <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius/agent/10"/>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/uncertainty_score/1/21/10">
                 <cidoc:P40_observed_dimension>
