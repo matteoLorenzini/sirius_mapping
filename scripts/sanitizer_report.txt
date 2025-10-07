@@ -1,0 +1,9 @@
+Sanitizer report
+
+Original problematic terms and actions taken:
+URI: http://example.org/iccd/luogo_di_attività _produttiva
+  action: ('replaced_whitespace_then_percent', 'http://example.org/iccd/luogo_di_attivit%C3%A0__produttiva')
+
+URI: http://example.org/iccd/giacimento_in_cavità _naturale
+  action: ('replaced_whitespace_then_percent', 'http://example.org/iccd/giacimento_in_cavit%C3%A0__naturale')
+
