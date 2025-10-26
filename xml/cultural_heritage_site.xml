@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<cultural_heritage_sites>
+  <cultural_heritage_site>
+    <site_id>1</site_id>
+    <cultural_heritage_site_appellation>Remains of a Roman-era residential district </cultural_heritage_site_appellation>
+    <typology>Bene Archeologico</typology>
+    <coordinates>N 44°25′08″ E 12°12′09″</coordinates>
+    <chronology>III BC - Middle Ages</chronology>
+    <description>The archaeological site beneath Rimini's Chamber of Commerce lies in the western part of the Roman city and has been inhabited since the late Republican era. Key features include a polychrome mosaic from the 4th century and a 5th-century domus with an apsidal room in opus sectile that disrupted public infrastructure. The site remained important into the 6th century before falling into decline and being buried in the early Middle Ages. It was excavated in 1995–1996 by the Archaeological Superintendence of Emilia-Romagna. Conservation efforts began with a safety intervention in 1997, followed by restoration in 1999. Further restoration took place in 2022 and 2023 due to deterioration.
+</description>
+    <socio-cultural_context>None</socio-cultural_context>
+    <administrative_context> Chamber of Commerce in Rimini</administrative_context>
+    <financial_context> Chamber of Commerce in Rimini operational budget</financial_context>
+    <legal_context>Legislative Decree No. 42/2004, Article 1, Paragraph 4, Decreto Commissione Regionale (11/04/2016)
+</legal_context>
+    <stakeholders> Chamber of Commerce in Rimini, Provveditorato</stakeholders>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>2</site_id>
+    <cultural_heritage_site_appellation>Battistero degli Ariani</cultural_heritage_site_appellation>
+    <typology>Bene Individuo</typology>
+    <coordinates>44°25'07.5" N 12°12'08.8" E</coordinates>
+    <chronology>V secolo</chronology>
+    <description>Il “Battistero degli Ariani” fu costruito tra la fine del V e l’inizio del VI secolo ( durante la dominazionedei Goti di Teodorico, tra il 493 ed il 526 d.C ) per i cristiani di fede ariana, a completamento dell’anticaCattedrale, oggi denominata “Chiesa dello Spirito Santo”. Fu poi riconsacrato al culto ortodosso altempo della dominazione bizantina per volere di Giustiniano, divenendo oratorio dedicato alla VergineMaria. Nel corso dei secoli subì numerose trasformazioni fino a quando, nel 1914, lo Stato italiano loacquistò salvandolo così dalla condizione di degrado che ne stava caratterizzando la struttura edintraprendendo così una lunga operazione di restauro delle sue architetture e dei magnifici mosaici chene caratterizzano la cupola. Oggi l’area risulta molto frequentata dai cittadini ravennati e da numerosituristi.</description>
+    <socio-cultural_context>Sito monumentale ubicato in area urbana, visitabile da parte di cittadini e turisti previo acquisto di unbiglietto d’ingresso. Il luogo, su cui si affacciano alcune attività commerciali, risulta essere facilmenteraggiungibile grazie alle strade urbane presenti e all’area pedonale interdetta al traffico. Sono statifortunatamente ripristinati i percorsi attrezzati ( “piattaforma elevatrice” ) per il superamento dellebarriere architettoniche per poter così permettere a tutti, anche alle persone con disabilità, di poterviaccedere e poter visitare il monumento.</socio-cultural_context>
+    <administrative_context>Ministero della Cultura</administrative_context>
+    <financial_context>Il monumento risulta essere visitabile a fronte del pagamento di un biglietto d’ingresso ( unico oppurecumulativo con gli altri monumenti Unesco), difatti gran parte dei fondi risultano provenire da parte deiricavi del turismo nazionale ed internazionale per poi essere reimpiegati per la cura, gestione, tutela evalorizzazione dello stesso monumento e del contesto nel quale si trova inserito.Inoltre, la stessa ‘Legge n° 77’ emanata il 20 febbraio 2006, stabilisce che i siti UNESCO, essendo simbolodelle eccellenze facenti parte del Patrimonio Culturale grazie all’importantissimo valore storico -culturaleche li caratterizza, ed elementi rappresentanti del nostro Paese, afferma che gli interventi di cura, tutelae possibile restauro necessari dovrebbero avere priorità in ordine di assegnazione delle stesse risorsefinanziarie previste.</financial_context>
+    <legal_context>Tra i principali riferimenti normativi inerenti la salvaguardia del Patrimonio Culturale possiamoricordare: - “Codice dei Beni Culturali” ( anche detto “Decreto Legislativo n°42 del 2004”). L’edificioè infatti soggetto al vincolo di tutela “Ope Legis”, - alle Convenzioni internazionali con riferimentoanche alla “Legge n° 77 del 2006” riguardante le ‘Misure speciali di tutela e fruizione dei siti italiani diinteresse culturale, paesaggistico e ambientale’ inseriti nella &lt;&lt; lista del patrimonio mondiale &gt;&gt;, posti sottola tutela dell’Unesco (‘Organizzazione delle Nazioni Unite per la Scienza, l’Educazione e la Cultura’).</legal_context>
+    <stakeholders>Le parti maggiormente coinvolte in termini di gestione, cura, manutenzione, tutela e valorizzazionedel monumento risultano essere il Comune di Ravenna, la Soprintendenza per l’Archeologia, le Bellearti ed il Paesaggio. In più è possibile affermare come ne possano trarre beneficio, in termini culturalie sociali, anche l’Università, la Cittadinanza, le Fondazioni e le Associazioni culturali locali.</stakeholders>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>3</site_id>
+    <cultural_heritage_site_appellation>Muro di Drogdone</cultural_heritage_site_appellation>
+    <typology>None</typology>
+    <coordinates>None</coordinates>
+    <chronology>None</chronology>
+    <description>None</description>
+    <socio-cultural_context>None</socio-cultural_context>
+    <administrative_context>Proprieta' privata</administrative_context>
+    <financial_context>None</financial_context>
+    <legal_context>None</legal_context>
+    <stakeholders>None</stakeholders>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>4</site_id>
+    <cultural_heritage_site_appellation>Basilica dello Spirito Santo</cultural_heritage_site_appellation>
+    <typology>None</typology>
+    <coordinates>None</coordinates>
+    <chronology>None</chronology>
+    <description>None</description>
+    <socio-cultural_context>None</socio-cultural_context>
+    <administrative_context>Proprieta' ecclesiastica, Arcidiocesi di Ravenna-Cervia, Parrocchia di Santa Maria in Porto</administrative_context>
+    <financial_context>None</financial_context>
+    <legal_context>None</legal_context>
+    <stakeholders>None</stakeholders>
+  </cultural_heritage_site>
+</cultural_heritage_sites>

@@ -4,8 +4,10 @@ import xml.dom.minidom as minidom
 
 import os
 
-# Create the xml folder if it doesn't exist
-os.makedirs("xml", exist_ok=True)
+# Create the xml folder one level up from this script (parent/xml)
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+OUTPUT_DIR = os.path.normpath(os.path.join(BASE_DIR, "..", "xml"))
+os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # Function to prettify XML output
 def prettify_xml(elem):
@@ -49,7 +51,7 @@ for row in rows:
     item = ET.SubElement(root, "value_aspect_dimension")
     for col_name, col_value in zip(columns, row):
         ET.SubElement(item, col_name).text = str(col_value)
-with open("xml/value_aspect_dimension.xml", "w", encoding="utf-8") as f:
+with open(os.path.join(OUTPUT_DIR, "value_aspect_dimension.xml"), "w", encoding="utf-8") as f:
     f.write(prettify_xml(root))
 
 
@@ -63,7 +65,7 @@ for row in rows:
     item = ET.SubElement(root, "cultural_heritage_site")
     for col_name, col_value in zip(columns, row):
         ET.SubElement(item, col_name).text = str(col_value)
-with open("xml/cultural_heritage_site.xml", "w", encoding="utf-8") as f:
+with open(os.path.join(OUTPUT_DIR, "cultural_heritage_site.xml"), "w", encoding="utf-8") as f:
     f.write(prettify_xml(root))
 
 
@@ -92,10 +94,8 @@ for row in rows:
     item = ET.SubElement(root, "value_agents_occurrence")
     for col_name, col_value in zip(columns, row):
         ET.SubElement(item, col_name).text = str(col_value)
-with open("xml/value_agents_occurrence.xml", "w", encoding="utf-8") as f:
+with open(os.path.join(OUTPUT_DIR, "value_agents_occurrence.xml"), "w", encoding="utf-8") as f:
     f.write(prettify_xml(root))
-
-
 
 # --- 5. event_name_sentence ---
 cursor.execute("""
@@ -113,43 +113,40 @@ for row in rows:
     item = ET.SubElement(root, "event_name_sentence")
     for col_name, col_value in zip(columns, row):
         ET.SubElement(item, col_name).text = str(col_value)
-with open("xml/event_name_sentence.xml", "w", encoding="utf-8") as f:
+with open(os.path.join(OUTPUT_DIR, "event_name_sentence.xml"), "w", encoding="utf-8") as f:
     f.write(prettify_xml(root))
-
 
 # --- 6. risk_analysis ---
 cursor.execute("""
 SELECT 
     ra.risk_analysis_id,
     ra.risk_id,
-    r.risk_agent AS risk_agent,
+    r.risk_agent,
     ra.site_id,
     chs.cultural_heritage_site_appellation AS site,
     ra.event_name_id,
-    ra.risk_name,
-    ra.scale_a_description,
-    ra.scale_b_description,
-    ra.scale_c_description,
-    ra.uncertainty_min,
-    ra.scale_a_input_min,
-    ra.scale_b_input_min,
-    ra.scale_c_input_min,
+    ens.event_name,
     ra.risk_description,
-    ra.scale_a_score_min,
-    ra.scale_b_score_min,
-    ra.scale_c_score_min,
-    ra.magnitude_score_min,
-    ra.scale_a_score_max,
-    ra.scale_b_score_max,
-    ra.scale_c_score_max,
-    ra.scale_a_input_max,
-    ra.scale_b_input_max,
-    ra.scale_c_input_max,
-    ra.magnitude_score_max,
-    ra.uncertainty_max
+    ra.scale_a_val_1,
+    ra.scale_a_val_2,
+    ra.scale_a_val_3,
+    ra.scale_a_avg,
+    ra.scale_a_score,
+    ra.scale_b_val_1,
+    ra.scale_b_val_2,
+    ra.scale_b_val_3,
+    ra.scale_b_avg,
+    ra.scale_b_score,
+    ra.scale_c_val_1,
+    ra.scale_c_val_2,
+    ra.scale_c_val_3,
+    ra.scale_c_avg,
+    ra.scale_c_score,
+    ra.magnitude_score
 FROM public.risk_analysis ra
 JOIN public.risk_agents r ON ra.risk_id = r.risk_id
 JOIN public.cultural_heritage_site chs ON ra.site_id = chs.site_id
+LEFT JOIN public.event_name_sentence ens ON ra.event_name_id = ens.event_name_id
 ORDER BY ra.risk_analysis_id;
 """)
 rows = cursor.fetchall()
@@ -160,9 +157,8 @@ for row in rows:
     item = ET.SubElement(root, "risk_analysis")
     for col_name, col_value in zip(columns, row):
         ET.SubElement(item, col_name).text = str(col_value)
-with open("xml/risk_analysis.xml", "w", encoding="utf-8") as f:
+with open(os.path.join(OUTPUT_DIR, "risk_analysis.xml"), "w", encoding="utf-8") as f:
     f.write(prettify_xml(root))
-
 
 # --- 7. Done ---
 cursor.close()

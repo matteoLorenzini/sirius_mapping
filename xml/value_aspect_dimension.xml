@@ -1,0 +1,442 @@
+<?xml version="1.0" ?>
+<value_aspect_dimensions>
+  <value_aspect_dimension>
+    <value_aspect_dimension_id>1</value_aspect_dimension_id>
+    <site_id>1</site_id>
+    <site>Remains of a Roman-era residential district </site>
+    <aspect_id>1</aspect_id>
+    <aspect>form and design</aspect>
+    <dimension_id>1</dimension_id>
+    <dimension>artistic</dimension>
+    <value>The opus signinum and the apsidal room in opus sectile are rare examples in the la antique city of Rimini and in regional panorama. The remaining findings are examples of a fairly good workmanship</value>
+  </value_aspect_dimension>
+  <value_aspect_dimension>
+    <value_aspect_dimension_id>2</value_aspect_dimension_id>
+    <site_id>1</site_id>
+    <site>Remains of a Roman-era residential district </site>
+    <aspect_id>1</aspect_id>
+    <aspect>form and design</aspect>
+    <dimension_id>2</dimension_id>
+    <dimension>historic</dimension>
+    <value>Portion of city neighborhood with a stratigraphy dating from the Republican Age to the early Middle Ages. A useful material source for deepening historical knowledge of the Roman city of Rimini.</value>
+  </value_aspect_dimension>
+  <value_aspect_dimension>
+    <value_aspect_dimension_id>3</value_aspect_dimension_id>
+    <site_id>1</site_id>
+    <site>Remains of a Roman-era residential district </site>
+    <aspect_id>1</aspect_id>
+    <aspect>form and design</aspect>
+    <dimension_id>3</dimension_id>
+    <dimension>social</dimension>
+    <value>Late antique findings testify a presence of elites in the Rimini area.</value>
+  </value_aspect_dimension>
+  <value_aspect_dimension>
+    <value_aspect_dimension_id>4</value_aspect_dimension_id>
+    <site_id>1</site_id>
+    <site>Remains of a Roman-era residential district </site>
+    <aspect_id>1</aspect_id>
+    <aspect>form and design</aspect>
+    <dimension_id>4</dimension_id>
+    <dimension>scientific</dimension>
+    <value>The apsidal room in bichromatic opus sectile and the presence of the interrupted water channel are important evidences concerning the economic and social management of a public site in Late Antiquity.
+
+</value>
+  </value_aspect_dimension>
+  <value_aspect_dimension>
+    <value_aspect_dimension_id>5</value_aspect_dimension_id>
+    <site_id>1</site_id>
+    <site>Remains of a Roman-era residential district </site>
+    <aspect_id>2</aspect_id>
+    <aspect>material and substance</aspect>
+    <dimension_id>1</dimension_id>
+    <dimension>artistic</dimension>
+    <value>The building materials are not in a good state of preservation (conspicuous efflorescence, biological colonization), as well as the modern structures (concrete walls, frames, ventilation system and lights).</value>
+  </value_aspect_dimension>
+  <value_aspect_dimension>
+    <value_aspect_dimension_id>6</value_aspect_dimension_id>
+    <site_id>1</site_id>
+    <site>Remains of a Roman-era residential district </site>
+    <aspect_id>2</aspect_id>
+    <aspect>material and substance</aspect>
+    <dimension_id>2</dimension_id>
+    <dimension>historic</dimension>
+    <value>All the archaeological findings have undergone only one restoration intervention and sporadic maintenance. The building materials are almost entirely original.</value>
+  </value_aspect_dimension>
+  <value_aspect_dimension>
+    <value_aspect_dimension_id>7</value_aspect_dimension_id>
+    <site_id>1</site_id>
+    <site>Remains of a Roman-era residential district </site>
+    <aspect_id>2</aspect_id>
+    <aspect>material and substance</aspect>
+    <dimension_id>4</dimension_id>
+    <dimension>scientific</dimension>
+    <value>Diagnostic analyses carried out on the mortars and on lithotypes of the floral-patterned mosaic have provided a fairly accurate idea of the execution technique for the historical period.
+Further research is needed for the other archaeological remains, their related materials and execution technique.
+
+</value>
+  </value_aspect_dimension>
+  <value_aspect_dimension>
+    <value_aspect_dimension_id>8</value_aspect_dimension_id>
+    <site_id>1</site_id>
+    <site>Remains of a Roman-era residential district </site>
+    <aspect_id>3</aspect_id>
+    <aspect>use and functions</aspect>
+    <dimension_id>1</dimension_id>
+    <dimension>artistic</dimension>
+    <value>The archaeological site that is not open to the public but can be visited after notification to the Superintendency and the Provveditorato. It is not accessible for people with mobility disabilities.</value>
+  </value_aspect_dimension>
+  <value_aspect_dimension>
+    <value_aspect_dimension_id>9</value_aspect_dimension_id>
+    <site_id>1</site_id>
+    <site>Remains of a Roman-era residential district </site>
+    <aspect_id>3</aspect_id>
+    <aspect>use and functions</aspect>
+    <dimension_id>2</dimension_id>
+    <dimension>historic</dimension>
+    <value>Discovered in 1995, the archaeological evidence has been kept in situ.</value>
+  </value_aspect_dimension>
+  <value_aspect_dimension>
+    <value_aspect_dimension_id>10</value_aspect_dimension_id>
+    <site_id>1</site_id>
+    <site>Remains of a Roman-era residential district </site>
+    <aspect_id>3</aspect_id>
+    <aspect>use and functions</aspect>
+    <dimension_id>3</dimension_id>
+    <dimension>social</dimension>
+    <value>Rare visits by visitors over time.
+
+</value>
+  </value_aspect_dimension>
+  <value_aspect_dimension>
+    <value_aspect_dimension_id>11</value_aspect_dimension_id>
+    <site_id>1</site_id>
+    <site>Remains of a Roman-era residential district </site>
+    <aspect_id>3</aspect_id>
+    <aspect>use and functions</aspect>
+    <dimension_id>4</dimension_id>
+    <dimension>scientific</dimension>
+    <value>Rare visits by academics over time.</value>
+  </value_aspect_dimension>
+  <value_aspect_dimension>
+    <value_aspect_dimension_id>12</value_aspect_dimension_id>
+    <site_id>1</site_id>
+    <site>Remains of a Roman-era residential district </site>
+    <aspect_id>4</aspect_id>
+    <aspect>Tradition, Technics and Workmanship</aspect>
+    <dimension_id>1</dimension_id>
+    <dimension>artistic</dimension>
+    <value>The archaeological floors preserve their original subfloors. Many marble crustae in the opus sectile, , have been preserved</value>
+  </value_aspect_dimension>
+  <value_aspect_dimension>
+    <value_aspect_dimension_id>13</value_aspect_dimension_id>
+    <site_id>1</site_id>
+    <site>Remains of a Roman-era residential district </site>
+    <aspect_id>4</aspect_id>
+    <aspect>Tradition, Technics and Workmanship</aspect>
+    <dimension_id>2</dimension_id>
+    <dimension>historic</dimension>
+    <value>The execution techniques and superfetations show the evolution of the portion of the neighborhood over the centuries.</value>
+  </value_aspect_dimension>
+  <value_aspect_dimension>
+    <value_aspect_dimension_id>14</value_aspect_dimension_id>
+    <site_id>1</site_id>
+    <site>Remains of a Roman-era residential district </site>
+    <aspect_id>4</aspect_id>
+    <aspect>Tradition, Technics and Workmanship</aspect>
+    <dimension_id>4</dimension_id>
+    <dimension>scientific</dimension>
+    <value>The study of the execution techniques, combined with the stratigraphy, allowed a more accurate dating of the mosaics.</value>
+  </value_aspect_dimension>
+  <value_aspect_dimension>
+    <value_aspect_dimension_id>15</value_aspect_dimension_id>
+    <site_id>1</site_id>
+    <site>Remains of a Roman-era residential district </site>
+    <aspect_id>5</aspect_id>
+    <aspect>Location &amp; Setting</aspect>
+    <dimension_id>1</dimension_id>
+    <dimension>artistic</dimension>
+    <value>The building at 28 Sigismund Street is not subject to cultural constraint
+
+</value>
+  </value_aspect_dimension>
+  <value_aspect_dimension>
+    <value_aspect_dimension_id>16</value_aspect_dimension_id>
+    <site_id>1</site_id>
+    <site>Remains of a Roman-era residential district </site>
+    <aspect_id>5</aspect_id>
+    <aspect>Location &amp; Setting</aspect>
+    <dimension_id>2</dimension_id>
+    <dimension>historic</dimension>
+    <value>The presence of the archaeological site was intended to be a part of the tourist path called “Rimini Underground.”</value>
+  </value_aspect_dimension>
+  <value_aspect_dimension>
+    <value_aspect_dimension_id>17</value_aspect_dimension_id>
+    <site_id>1</site_id>
+    <site>Remains of a Roman-era residential district </site>
+    <aspect_id>5</aspect_id>
+    <aspect>Location &amp; Setting</aspect>
+    <dimension_id>3</dimension_id>
+    <dimension>social</dimension>
+    <value>The presence of the archaeological site complicates management of the property. Two accidents of leaking sludge from the Roman sewer line in connection with external contaminants have caused deep </value>
+  </value_aspect_dimension>
+  <value_aspect_dimension>
+    <value_aspect_dimension_id>18</value_aspect_dimension_id>
+    <site_id>1</site_id>
+    <site>Remains of a Roman-era residential district </site>
+    <aspect_id>6</aspect_id>
+    <aspect>Spirit &amp; Feelings</aspect>
+    <dimension_id>1</dimension_id>
+    <dimension>artistic</dimension>
+    <value>The site shows valuable examples of Roman workmanship and other lesser-known evidence. With proper explanation, the site could be attractive to visitors.</value>
+  </value_aspect_dimension>
+  <value_aspect_dimension>
+    <value_aspect_dimension_id>19</value_aspect_dimension_id>
+    <site_id>1</site_id>
+    <site>Remains of a Roman-era residential district </site>
+    <aspect_id>6</aspect_id>
+    <aspect>Spirit &amp; Feelings</aspect>
+    <dimension_id>2</dimension_id>
+    <dimension>historic</dimension>
+    <value>The archaeological site has been helpful in corroborating some theses about the presence of high-ranking elites during the Late Antique period in Rimini.</value>
+  </value_aspect_dimension>
+  <value_aspect_dimension>
+    <value_aspect_dimension_id>20</value_aspect_dimension_id>
+    <site_id>1</site_id>
+    <site>Remains of a Roman-era residential district </site>
+    <aspect_id>6</aspect_id>
+    <aspect>Spirit &amp; Feelings</aspect>
+    <dimension_id>3</dimension_id>
+    <dimension>social</dimension>
+    <value>It could give back a glimpse of the historical evolution of the city of Rimini, although its lack of usability means that the site remains semi-unknown</value>
+  </value_aspect_dimension>
+  <value_aspect_dimension>
+    <value_aspect_dimension_id>21</value_aspect_dimension_id>
+    <site_id>2</site_id>
+    <site>Battistero degli Ariani</site>
+    <aspect_id>1</aspect_id>
+    <aspect>form and design</aspect>
+    <dimension_id>1</dimension_id>
+    <dimension>artistic</dimension>
+    <value>Pianta ottagonale; absidiole nel registro inferiore; finestre ad arco nel registro superiore; deambulatorio lungo il perimetro esterno; cupola mosaicata: Cristo, Giovanni Battista, acqua; colomba; etimasia raffigurante croce gemmata; cuscino; trono; processione dei dodici apostoli (con Paolo di Tarso), palme, corone, Paradiso [sfondo aureo, prato, cielo] forma circolare; affreschi: croce gemmata, grottesche, mascheroni/putti.</value>
+  </value_aspect_dimension>
+  <value_aspect_dimension>
+    <value_aspect_dimension_id>22</value_aspect_dimension_id>
+    <site_id>2</site_id>
+    <site>Battistero degli Ariani</site>
+    <aspect_id>1</aspect_id>
+    <aspect>form and design</aspect>
+    <dimension_id>2</dimension_id>
+    <dimension>historic</dimension>
+    <value>493 circa-526 circa, esempio unico di battistero destinato al culto ariano</value>
+  </value_aspect_dimension>
+  <value_aspect_dimension>
+    <value_aspect_dimension_id>23</value_aspect_dimension_id>
+    <site_id>2</site_id>
+    <site>Battistero degli Ariani</site>
+    <aspect_id>1</aspect_id>
+    <aspect>form and design</aspect>
+    <dimension_id>3</dimension_id>
+    <dimension>social</dimension>
+    <value>architettura: rispecchia la tradzione costruttiva cristiana; cupola: riflette sia lingiaggio decorativo promosso dall'ostrogoto Teodorico, sia influenze neoniane.</value>
+  </value_aspect_dimension>
+  <value_aspect_dimension>
+    <value_aspect_dimension_id>24</value_aspect_dimension_id>
+    <site_id>2</site_id>
+    <site>Battistero degli Ariani</site>
+    <aspect_id>1</aspect_id>
+    <aspect>form and design</aspect>
+    <dimension_id>4</dimension_id>
+    <dimension>scientific</dimension>
+    <value>edificio, per forma e assetto, non può essere ritenuto un esempio attendibile di architettura del V-VIII secolo; citare fonti; cupola mosaicata: per iconografia e assetto complessivo  riflette la tipologia stileica ariana nonstante interventi di restauro interpretativo dell'iconografia; citafore fonti</value>
+  </value_aspect_dimension>
+  <value_aspect_dimension>
+    <value_aspect_dimension_id>25</value_aspect_dimension_id>
+    <site_id>2</site_id>
+    <site>Battistero degli Ariani</site>
+    <aspect_id>2</aspect_id>
+    <aspect>material and substance</aspect>
+    <dimension_id>1</dimension_id>
+    <dimension>artistic</dimension>
+    <value>edificio: uso  di materiali tradizionali per l'epoca di relaizzazione; cupola mosaicata: uso  dii materiali tradizionali per l'epoca di realizzazione;</value>
+  </value_aspect_dimension>
+  <value_aspect_dimension>
+    <value_aspect_dimension_id>26</value_aspect_dimension_id>
+    <site_id>2</site_id>
+    <site>Battistero degli Ariani</site>
+    <aspect_id>2</aspect_id>
+    <aspect>material and substance</aspect>
+    <dimension_id>2</dimension_id>
+    <dimension>historic</dimension>
+    <value>edificio: coerente  con i materiali impiegati con l'epoca di realizzazione? cupola mosaicata: cfr. Mariangela</value>
+  </value_aspect_dimension>
+  <value_aspect_dimension>
+    <value_aspect_dimension_id>27</value_aspect_dimension_id>
+    <site_id>2</site_id>
+    <site>Battistero degli Ariani</site>
+    <aspect_id>2</aspect_id>
+    <aspect>material and substance</aspect>
+    <dimension_id>3</dimension_id>
+    <dimension>social</dimension>
+    <value>materiali  orignari coerenti con la destinazione d'uso e la committenza;</value>
+  </value_aspect_dimension>
+  <value_aspect_dimension>
+    <value_aspect_dimension_id>28</value_aspect_dimension_id>
+    <site_id>2</site_id>
+    <site>Battistero degli Ariani</site>
+    <aspect_id>2</aspect_id>
+    <aspect>material and substance</aspect>
+    <dimension_id>4</dimension_id>
+    <dimension>scientific</dimension>
+    <value>dal vaglio del materiale storiografico e archivistico si può attribuire con scientificità l'uso dei materiali al V-VI secolo distinti dagli interventi di restauro successivi; citare fonti</value>
+  </value_aspect_dimension>
+  <value_aspect_dimension>
+    <value_aspect_dimension_id>29</value_aspect_dimension_id>
+    <site_id>2</site_id>
+    <site>Battistero degli Ariani</site>
+    <aspect_id>3</aspect_id>
+    <aspect>use and functions</aspect>
+    <dimension_id>1</dimension_id>
+    <dimension>artistic</dimension>
+    <value>L'edificio originariamente è stato destinato alla somministrazione del sacramento battesimale cristiano in linea con altri edifici coevi (V-VI secolo) costruiti con la medesima funzione; successivamente è stato riconosciuto bene culturale statale italiano  ottenendo il riconoscimento di bene UNESCO nel 1996 per il suo pregio artistico e architettonico;</value>
+  </value_aspect_dimension>
+  <value_aspect_dimension>
+    <value_aspect_dimension_id>30</value_aspect_dimension_id>
+    <site_id>2</site_id>
+    <site>Battistero degli Ariani</site>
+    <aspect_id>3</aspect_id>
+    <aspect>use and functions</aspect>
+    <dimension_id>2</dimension_id>
+    <dimension>historic</dimension>
+    <value>L'edificio ha mutato la sua funzione dal momento della sua costruzione fino a oggi: da battistero ariano diventa nrl 1xxx bene culturale statale e nel 1996 è insignito del riconoscimento di bene UNESCO</value>
+  </value_aspect_dimension>
+  <value_aspect_dimension>
+    <value_aspect_dimension_id>31</value_aspect_dimension_id>
+    <site_id>2</site_id>
+    <site>Battistero degli Ariani</site>
+    <aspect_id>3</aspect_id>
+    <aspect>use and functions</aspect>
+    <dimension_id>3</dimension_id>
+    <dimension>social</dimension>
+    <value>Il Battistero degli Ariani è oggi un bene culturale statale italiano e UNESCO accessibile al pubblico isoltato n fascie orarie mattutine contrariamente a quanto  stabilito dalla normativa italiana che regola l'accesso ai monumenti storico-artistici e architettonici nazionali. </value>
+  </value_aspect_dimension>
+  <value_aspect_dimension>
+    <value_aspect_dimension_id>32</value_aspect_dimension_id>
+    <site_id>2</site_id>
+    <site>Battistero degli Ariani</site>
+    <aspect_id>3</aspect_id>
+    <aspect>use and functions</aspect>
+    <dimension_id>4</dimension_id>
+    <dimension>scientific</dimension>
+    <value>Circa la funzione originaria di luogo deputato al sacramento battesimale, allo stato attuale, non permegono elementi connesse al rito religioso, ma se ne ricava la funzione tramite l'esame dell'assetto architettonico e del soggetto iconografico realizzato sulla cupola; la nonchè dal vaglio della cospicua letteratura cristiana medievale; la funzione odierna di bene culturale italiano e UNESCO ne garantisce la tutela e la valorizzazion degli usi e funzioni originari.</value>
+  </value_aspect_dimension>
+  <value_aspect_dimension>
+    <value_aspect_dimension_id>33</value_aspect_dimension_id>
+    <site_id>2</site_id>
+    <site>Battistero degli Ariani</site>
+    <aspect_id>4</aspect_id>
+    <aspect>Tradition, Technics and Workmanship</aspect>
+    <dimension_id>1</dimension_id>
+    <dimension>artistic</dimension>
+    <value>edificio: uso  di tecniche esecutive tradizionali per l'epoca di relaizzazione; cupola mosaicata: uso  dii tecniche esecutive tradizionali per l'epoca di realizzazione;</value>
+  </value_aspect_dimension>
+  <value_aspect_dimension>
+    <value_aspect_dimension_id>34</value_aspect_dimension_id>
+    <site_id>2</site_id>
+    <site>Battistero degli Ariani</site>
+    <aspect_id>4</aspect_id>
+    <aspect>Tradition, Technics and Workmanship</aspect>
+    <dimension_id>2</dimension_id>
+    <dimension>historic</dimension>
+    <value>edificio: coerente  con i materiali impiegati con l'epoca di realizzazione? cupola mosaicata: cfr. Mariangela</value>
+  </value_aspect_dimension>
+  <value_aspect_dimension>
+    <value_aspect_dimension_id>35</value_aspect_dimension_id>
+    <site_id>2</site_id>
+    <site>Battistero degli Ariani</site>
+    <aspect_id>4</aspect_id>
+    <aspect>Tradition, Technics and Workmanship</aspect>
+    <dimension_id>3</dimension_id>
+    <dimension>social</dimension>
+    <value>tecniche esecutive  orignarie coerenti con la destinazione d'uso e la committenza;</value>
+  </value_aspect_dimension>
+  <value_aspect_dimension>
+    <value_aspect_dimension_id>36</value_aspect_dimension_id>
+    <site_id>2</site_id>
+    <site>Battistero degli Ariani</site>
+    <aspect_id>4</aspect_id>
+    <aspect>Tradition, Technics and Workmanship</aspect>
+    <dimension_id>4</dimension_id>
+    <dimension>scientific</dimension>
+    <value>dal vaglio del materiale storiografico e archivistico si può attribuire con scientificità il ricorso a tecniche esecutive risalenti al  V-VI secolo distinte dagli interventi di restauro successivi; citare fonti</value>
+  </value_aspect_dimension>
+  <value_aspect_dimension>
+    <value_aspect_dimension_id>37</value_aspect_dimension_id>
+    <site_id>2</site_id>
+    <site>Battistero degli Ariani</site>
+    <aspect_id>5</aspect_id>
+    <aspect>Location &amp; Setting</aspect>
+    <dimension_id>1</dimension_id>
+    <dimension>artistic</dimension>
+    <value>L'assetto architettonico e storico-artistico è parzialmente compremesso dalle surperfetazioni recenti (abitazioni private e struttura universitaria);</value>
+  </value_aspect_dimension>
+  <value_aspect_dimension>
+    <value_aspect_dimension_id>38</value_aspect_dimension_id>
+    <site_id>2</site_id>
+    <site>Battistero degli Ariani</site>
+    <aspect_id>5</aspect_id>
+    <aspect>Location &amp; Setting</aspect>
+    <dimension_id>2</dimension_id>
+    <dimension>historic</dimension>
+    <value>Il Battistero non è più in dialogo con la chiesa di coeva edificazione, oggi chiesa di Santo Spirito,  e con il Muro di Drogdone  entrambi prossimi al Battistero.</value>
+  </value_aspect_dimension>
+  <value_aspect_dimension>
+    <value_aspect_dimension_id>39</value_aspect_dimension_id>
+    <site_id>2</site_id>
+    <site>Battistero degli Ariani</site>
+    <aspect_id>5</aspect_id>
+    <aspect>Location &amp; Setting</aspect>
+    <dimension_id>3</dimension_id>
+    <dimension>social</dimension>
+    <value>Il  Battistero ha avuto e continua ad avere un ruolo cruciale nel mantenimento e nella valorizzazione della piazza degli Ariani garantendo un flusso turistico notevole; attorno al monumento sono sorte attività commerciali la cui sopravvivenza,  altrimenti, sarebbe penalizzata poichè le stesse sono distanti dai principalii assi viari commerciali della città. Il contesto e gli sviluppi storico-sociali della piazzetta degli Ariani sono stati oggetto di una rilevante indagine compiuta nel 2013 e confluita in una mostra allestita nell'area adiacente il Battistero destinata a un pubblico ampio.</value>
+  </value_aspect_dimension>
+  <value_aspect_dimension>
+    <value_aspect_dimension_id>40</value_aspect_dimension_id>
+    <site_id>2</site_id>
+    <site>Battistero degli Ariani</site>
+    <aspect_id>5</aspect_id>
+    <aspect>Location &amp; Setting</aspect>
+    <dimension_id>4</dimension_id>
+    <dimension>scientific</dimension>
+    <value>La posizione dell'edificio in relazione agli edifici attigui è stato oggetto di indagini e di studi approfonditi nel 2013, fonte: xxx</value>
+  </value_aspect_dimension>
+  <value_aspect_dimension>
+    <value_aspect_dimension_id>41</value_aspect_dimension_id>
+    <site_id>2</site_id>
+    <site>Battistero degli Ariani</site>
+    <aspect_id>6</aspect_id>
+    <aspect>Spirit &amp; Feelings</aspect>
+    <dimension_id>1</dimension_id>
+    <dimension>artistic</dimension>
+    <value>Considerati l'ambiente minimale caratterizzante la strutttura archietettonica, sia all'interno, sia all'estero,  il visitatore resta fortemente impressionato dalla richezza iconogrfica, tecnicha e cromatica della cupola mosaicata;</value>
+  </value_aspect_dimension>
+  <value_aspect_dimension>
+    <value_aspect_dimension_id>42</value_aspect_dimension_id>
+    <site_id>2</site_id>
+    <site>Battistero degli Ariani</site>
+    <aspect_id>6</aspect_id>
+    <aspect>Spirit &amp; Feelings</aspect>
+    <dimension_id>2</dimension_id>
+    <dimension>historic</dimension>
+    <value> La presenza del Battistero ha contribuito a plasmare l'identità culturale di Ravenna elevandola a laboratorio artistico, scientifico e sperimentale dell'arte del mosaico. l'indotto commerciale sviluppatosi attorno al Battistero ha fortemente condizionato l'offerta proposta dalle attività commerciali (Libreria Longo più specializzata sui siti UNESCO di Ravenna, negozio Lego ha posto miniature Lego di Dante).</value>
+  </value_aspect_dimension>
+  <value_aspect_dimension>
+    <value_aspect_dimension_id>43</value_aspect_dimension_id>
+    <site_id>2</site_id>
+    <site>Battistero degli Ariani</site>
+    <aspect_id>6</aspect_id>
+    <aspect>Spirit &amp; Feelings</aspect>
+    <dimension_id>3</dimension_id>
+    <dimension>social</dimension>
+    <value>Il Battistero, grazie alla sua costituzione, rimanda alla funzione originale di luogo deputato alla somministrazione del sacramento battesimale secondo il culto ariano.</value>
+  </value_aspect_dimension>
+</value_aspect_dimensions>
