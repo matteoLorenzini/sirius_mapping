@@ -142,4 +142,7 @@
    <generator name="magnitudeScoreMAX" prefix="sirius" type="any">
       <pattern>/magnitude_score_max/{site_id}/{risk_analysis_id}/{risk_id}/{score}</pattern>
    </generator>
+   <generator name="URIwithTwoIDs" prefix="sirius" type="any">
+      <pattern>/{type}/{id1}/{id2}</pattern>
+   </generator>
 </generator_policy>

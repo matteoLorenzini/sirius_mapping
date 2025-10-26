@@ -4,7 +4,7 @@
       version="1.0"
       xsi:noNamespaceSchemaLocation="https://isl.ics.forth.gr/x3ml/schema/x3ml.xsd">
    <info>
-      <title>sirius_risk</title>
+      <title>sirius_risk_(cloned)</title>
       <general_description/>
       <source>
          <source_info>
@@ -63,10 +63,7 @@
             <target_node>
                <entity>
                   <type>cidoc:E89_Propositional_Object</type>
-                  <instance_generator name="URIwithTypeAndId">
-                     <arg name="type" type="constant">risk-analysis</arg>
-                     <arg name="id" type="xpath">risk_analysis/risk_analysis_id/text()</arg>
-                  </instance_generator>
+                  <instance_generator name="UUID"/>
                   <additional>
                      <relationship>cidoc:P2_has_type</relationship>
                      <entity>
@@ -127,12 +124,13 @@
                <target_node>
                   <entity>
                      <type>cidoc:E5_Event</type>
-                     <instance_generator name="URIwithTypeAndId">
+                     <instance_generator name="URIwithTwoIDs">
                         <arg name="type" type="constant">risk-event</arg>
-                        <arg name="id" type="xpath">text()</arg>
+                        <arg name="id1" type="xpath">../risk_analysis_id/text()</arg>
+                        <arg name="id2" type="xpath">text()</arg>
                      </instance_generator>
                      <label_generator name="Literal">
-                        <arg name="text" type="xpath">../risk_name/text()</arg>
+                        <arg name="text" type="xpath">../risk_agent/text()</arg>
                      </label_generator>
                      <additional>
                         <relationship>cidoc:P39i_was_measured_by</relationship>
@@ -169,17 +167,17 @@
                                     <arg name="site_id" type="xpath">../site_id/text()</arg>
                                     <arg name="risk_analysis_id" type="xpath">../risk_analysis_id/text()</arg>
                                     <arg name="risk_id" type="xpath">../risk_id/text()</arg>
-                                    <arg name="score" type="xpath">../scale_a_score_min/text()</arg>
+                                    <arg name="score" type="xpath">../scale_a_val_1/text()</arg>
                                  </instance_generator>
                                  <label_generator name="Literal">
-                                    <arg name="text" type="xpath">../scale_a_score_min/text()</arg>
+                                    <arg name="text" type="xpath">../scale_a_val_1/text()</arg>
                                  </label_generator>
                                  <additional>
                                     <relationship>cidoc:P2_has_type</relationship>
                                     <entity>
                                        <type>cidoc:E55_Type</type>
                                        <instance_generator name="URIwithType">
-                                          <arg name="type" type="constant">type/scale-a-score-min</arg>
+                                          <arg name="type" type="constant">type/scale_a_val_1</arg>
                                        </instance_generator>
                                     </entity>
                                  </additional>
@@ -193,17 +191,41 @@
                                     <arg name="site_id" type="xpath">../site_id/text()</arg>
                                     <arg name="risk_analysis_id" type="xpath">../risk_analysis_id/text()</arg>
                                     <arg name="risk_id" type="xpath">../risk_id/text()</arg>
-                                    <arg name="score" type="xpath">../scale_a_score_max/text()</arg>
+                                    <arg name="score" type="xpath">../scale_a_val_2/text()</arg>
                                  </instance_generator>
                                  <label_generator name="Literal">
-                                    <arg name="text" type="xpath">../scale_a_score_max/text()</arg>
+                                    <arg name="text" type="xpath">../scale_a_val_2/text()</arg>
                                  </label_generator>
                                  <additional>
                                     <relationship>cidoc:P2_has_type</relationship>
                                     <entity>
                                        <type>cidoc:E55_Type</type>
                                        <instance_generator name="URIwithType">
-                                          <arg name="type" type="constant">type/scale-a-score-max</arg>
+                                          <arg name="type" type="constant">type/scale_a_val_2</arg>
+                                       </instance_generator>
+                                    </entity>
+                                 </additional>
+                              </entity>
+                           </additional>
+                           <additional>
+                              <relationship>cidoc:P40_observed_dimension</relationship>
+                              <entity>
+                                 <type>cidoc:E54_Dimension</type>
+                                 <instance_generator name="ScaleAScoreMAX">
+                                    <arg name="site_id" type="xpath">../site_id/text()</arg>
+                                    <arg name="risk_analysis_id" type="xpath">../risk_analysis_id/text()</arg>
+                                    <arg name="risk_id" type="xpath">../risk_id/text()</arg>
+                                    <arg name="score" type="xpath">../scale_a_val_3/text()</arg>
+                                 </instance_generator>
+                                 <label_generator name="Literal">
+                                    <arg name="text" type="xpath">../scale_a_val_3/text()</arg>
+                                 </label_generator>
+                                 <additional>
+                                    <relationship>cidoc:P2_has_type</relationship>
+                                    <entity>
+                                       <type>cidoc:E55_Type</type>
+                                       <instance_generator name="URIwithType">
+                                          <arg name="type" type="constant">type/scale_a_val_3</arg>
                                        </instance_generator>
                                     </entity>
                                  </additional>
@@ -246,17 +268,17 @@
                                     <arg name="site_id" type="xpath">../site_id/text()</arg>
                                     <arg name="risk_analysis_id" type="xpath">../risk_analysis_id/text()</arg>
                                     <arg name="risk_id" type="xpath">../risk_id/text()</arg>
-                                    <arg name="score" type="xpath">../scale_b_score_min/text()</arg>
+                                    <arg name="score" type="xpath">../scale_b_val_1/text()</arg>
                                  </instance_generator>
                                  <label_generator name="Literal">
-                                    <arg name="text" type="xpath">../scale_b_score_min/text()</arg>
+                                    <arg name="text" type="xpath">../scale_b_val_1/text()</arg>
                                  </label_generator>
                                  <additional>
                                     <relationship>cidoc:P2_has_type</relationship>
                                     <entity>
                                        <type>cidoc:E55_Type</type>
                                        <instance_generator name="URIwithType">
-                                          <arg name="type" type="constant">type/scale-b-score-min</arg>
+                                          <arg name="type" type="constant">type/scale_b_val_1</arg>
                                        </instance_generator>
                                     </entity>
                                  </additional>
@@ -270,17 +292,41 @@
                                     <arg name="site_id" type="xpath">../site_id/text()</arg>
                                     <arg name="risk_analysis_id" type="xpath">../risk_analysis_id/text()</arg>
                                     <arg name="risk_id" type="xpath">../risk_id/text()</arg>
-                                    <arg name="score" type="xpath">../scale_b_score_max/text()</arg>
+                                    <arg name="score" type="xpath">../scale_b_val_2/text()</arg>
                                  </instance_generator>
                                  <label_generator name="Literal">
-                                    <arg name="text" type="xpath">../scale_b_score_max/text()</arg>
+                                    <arg name="text" type="xpath">../scale_b_val_2/text()</arg>
                                  </label_generator>
                                  <additional>
                                     <relationship>cidoc:P2_has_type</relationship>
                                     <entity>
                                        <type>cidoc:E55_Type</type>
                                        <instance_generator name="URIwithType">
-                                          <arg name="type" type="constant">type/scale-b-score-max</arg>
+                                          <arg name="type" type="constant">type/scale_b_val_2</arg>
+                                       </instance_generator>
+                                    </entity>
+                                 </additional>
+                              </entity>
+                           </additional>
+                           <additional>
+                              <relationship>cidoc:P40_observed_dimension</relationship>
+                              <entity>
+                                 <type>cidoc:E54_Dimension</type>
+                                 <instance_generator name="ScaleBScoreMAX">
+                                    <arg name="site_id" type="xpath">../site_id/text()</arg>
+                                    <arg name="risk_analysis_id" type="xpath">../risk_analysis_id/text()</arg>
+                                    <arg name="risk_id" type="xpath">../risk_id/text()</arg>
+                                    <arg name="score" type="xpath">../scale_b_val_3/text()</arg>
+                                 </instance_generator>
+                                 <label_generator name="Literal">
+                                    <arg name="text" type="xpath">../scale_b_val_3/text()</arg>
+                                 </label_generator>
+                                 <additional>
+                                    <relationship>cidoc:P2_has_type</relationship>
+                                    <entity>
+                                       <type>cidoc:E55_Type</type>
+                                       <instance_generator name="URIwithType">
+                                          <arg name="type" type="constant">type/scale_b_val_3</arg>
                                        </instance_generator>
                                     </entity>
                                  </additional>
@@ -323,17 +369,17 @@
                                     <arg name="site_id" type="xpath">../site_id/text()</arg>
                                     <arg name="risk_analysis_id" type="xpath">../risk_analysis_id/text()</arg>
                                     <arg name="risk_id" type="xpath">../risk_id/text()</arg>
-                                    <arg name="score" type="xpath">../scale_c_score_min/text()</arg>
+                                    <arg name="score" type="xpath">../scale_c_val_1/text()</arg>
                                  </instance_generator>
                                  <label_generator name="Literal">
-                                    <arg name="text" type="xpath">../scale_c_score_min/text()</arg>
+                                    <arg name="text" type="xpath">../scale_c_val_1/text()</arg>
                                  </label_generator>
                                  <additional>
                                     <relationship>cidoc:P2_has_type</relationship>
                                     <entity>
                                        <type>cidoc:E55_Type</type>
                                        <instance_generator name="URIwithType">
-                                          <arg name="type" type="constant">type/scale-c-score-min</arg>
+                                          <arg name="type" type="constant">type/scale_c_val_1</arg>
                                        </instance_generator>
                                     </entity>
                                  </additional>
@@ -347,17 +393,41 @@
                                     <arg name="site_id" type="xpath">../site_id/text()</arg>
                                     <arg name="risk_analysis_id" type="xpath">../risk_analysis_id/text()</arg>
                                     <arg name="risk_id" type="xpath">../risk_id/text()</arg>
-                                    <arg name="score" type="xpath">../scale_c_score_max/text()</arg>
+                                    <arg name="score" type="xpath">../scale_c_val_2/text()</arg>
                                  </instance_generator>
                                  <label_generator name="Literal">
-                                    <arg name="text" type="xpath">../scale_c_score_max/text()</arg>
+                                    <arg name="text" type="xpath">../scale_c_val_2/text()</arg>
                                  </label_generator>
                                  <additional>
                                     <relationship>cidoc:P2_has_type</relationship>
                                     <entity>
                                        <type>cidoc:E55_Type</type>
                                        <instance_generator name="URIwithType">
-                                          <arg name="type" type="constant">type/scale-c-score-max</arg>
+                                          <arg name="type" type="constant">type/scale_c_val_2</arg>
+                                       </instance_generator>
+                                    </entity>
+                                 </additional>
+                              </entity>
+                           </additional>
+                           <additional>
+                              <relationship>cidoc:P40_observed_dimension</relationship>
+                              <entity>
+                                 <type>cidoc:E54_Dimension</type>
+                                 <instance_generator name="ScaleCScoreMAX">
+                                    <arg name="site_id" type="xpath">../site_id/text()</arg>
+                                    <arg name="risk_analysis_id" type="xpath">../risk_analysis_id/text()</arg>
+                                    <arg name="risk_id" type="xpath">../risk_id/text()</arg>
+                                    <arg name="score" type="xpath">../scale_c_val_3/text()</arg>
+                                 </instance_generator>
+                                 <label_generator name="Literal">
+                                    <arg name="text" type="xpath">../scale_c_val_3/text()</arg>
+                                 </label_generator>
+                                 <additional>
+                                    <relationship>cidoc:P2_has_type</relationship>
+                                    <entity>
+                                       <type>cidoc:E55_Type</type>
+                                       <instance_generator name="URIwithType">
+                                          <arg name="type" type="constant">type/scale_c_val_3</arg>
                                        </instance_generator>
                                     </entity>
                                  </additional>
@@ -391,41 +461,23 @@
                                     <arg name="site_id" type="xpath">../site_id/text()</arg>
                                     <arg name="risk_analysis_id" type="xpath">../risk_analysis_id/text()</arg>
                                     <arg name="risk_id" type="xpath">../risk_id/text()</arg>
-                                    <arg name="score" type="xpath">../magnitude_score_min/text()</arg>
+                                    <arg name="score" type="xpath">../magnitude_score/text()</arg>
                                  </instance_generator>
-                                 <label_generator name="Literal">
-                                    <arg name="text" type="xpath">../magnitude_score_min/text()</arg>
-                                 </label_generator>
                                  <additional>
                                     <relationship>cidoc:P2_has_type</relationship>
                                     <entity>
                                        <type>cidoc:E55_Type</type>
                                        <instance_generator name="URIwithType">
-                                          <arg name="type" type="constant">type/magnitude-score-min</arg>
+                                          <arg name="type" type="constant">type/magnitude_score</arg>
                                        </instance_generator>
                                     </entity>
                                  </additional>
-                              </entity>
-                           </additional>
-                           <additional>
-                              <relationship>cidoc:P40_observed_dimension</relationship>
-                              <entity>
-                                 <type>cidoc:E54_Dimension</type>
-                                 <instance_generator name="magnitudeScoreMAX">
-                                    <arg name="site_id" type="xpath">../site_id/text()</arg>
-                                    <arg name="risk_analysis_id" type="xpath">../risk_analysis_id/text()</arg>
-                                    <arg name="risk_id" type="xpath">../risk_id/text()</arg>
-                                    <arg name="score" type="xpath">../magnitude_score_max/text()</arg>
-                                 </instance_generator>
-                                 <label_generator name="Literal">
-                                    <arg name="text" type="xpath">../magnitude_score_max/text()</arg>
-                                 </label_generator>
                                  <additional>
-                                    <relationship>cidoc:P2_has_type</relationship>
+                                    <relationship>cidoc:P90_has_value</relationship>
                                     <entity>
-                                       <type>cidoc:E55_Type</type>
-                                       <instance_generator name="URIwithType">
-                                          <arg name="type" type="constant">type/magnitude-score-max</arg>
+                                       <type>rdfs:Literal</type>
+                                       <instance_generator name="Literal">
+                                          <arg name="text" type="xpath">../magnitude_score/text()</arg>
                                        </instance_generator>
                                     </entity>
                                  </additional>
@@ -447,7 +499,7 @@
                               <entity>
                                  <type>cidoc:E55_Type</type>
                                  <instance_generator name="type_score">
-                                    <arg name="type" type="constant">uncertainty-score</arg>
+                                    <arg name="type" type="constant">uncertainty</arg>
                                  </instance_generator>
                               </entity>
                            </additional>
@@ -459,41 +511,17 @@
                                     <arg name="site_id" type="xpath">../site_id/text()</arg>
                                     <arg name="risk_analysis_id" type="xpath">../risk_analysis_id/text()</arg>
                                     <arg name="risk_id" type="xpath">../risk_id/text()</arg>
-                                    <arg name="score" type="xpath">../uncertainty_min/text()</arg>
+                                    <arg name="score" type="xpath">../uncertainty/text()</arg>
                                  </instance_generator>
                                  <label_generator name="Literal">
-                                    <arg name="text" type="xpath">../uncertainty_min/text()</arg>
+                                    <arg name="text" type="xpath">../uncertainty/text()</arg>
                                  </label_generator>
                                  <additional>
                                     <relationship>cidoc:P2_has_type</relationship>
                                     <entity>
                                        <type>cidoc:E55_Type</type>
                                        <instance_generator name="URIwithType">
-                                          <arg name="type" type="constant">type/uncertainty-score-min</arg>
-                                       </instance_generator>
-                                    </entity>
-                                 </additional>
-                              </entity>
-                           </additional>
-                           <additional>
-                              <relationship>cidoc:P40_observed_dimension</relationship>
-                              <entity>
-                                 <type>cidoc:E54_Dimension</type>
-                                 <instance_generator name="uncertaintyMAX">
-                                    <arg name="site_id" type="xpath">../site_id/text()</arg>
-                                    <arg name="risk_analysis_id" type="xpath">../risk_analysis_id/text()</arg>
-                                    <arg name="risk_id" type="xpath">../risk_id/text()</arg>
-                                    <arg name="score" type="xpath">../uncertainty_max/text()</arg>
-                                 </instance_generator>
-                                 <label_generator name="Literal">
-                                    <arg name="text" type="xpath">../uncertainty_max/text()</arg>
-                                 </label_generator>
-                                 <additional>
-                                    <relationship>cidoc:P2_has_type</relationship>
-                                    <entity>
-                                       <type>cidoc:E55_Type</type>
-                                       <instance_generator name="URIwithType">
-                                          <arg name="type" type="constant">type/uncertainty-score-max</arg>
+                                          <arg name="type" type="constant">type/uncertainty-score</arg>
                                        </instance_generator>
                                     </entity>
                                  </additional>

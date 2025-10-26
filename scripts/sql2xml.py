@@ -142,7 +142,11 @@ SELECT
     ra.scale_c_val_3,
     ra.scale_c_avg,
     ra.scale_c_score,
-    ra.magnitude_score
+    ra.magnitude_score,
+    ra.uncertainty,
+    ra.scale_a_description,
+    ra.scale_b_description,
+    ra.scale_c_description
 FROM public.risk_analysis ra
 JOIN public.risk_agents r ON ra.risk_id = r.risk_id
 JOIN public.cultural_heritage_site chs ON ra.site_id = chs.site_id
