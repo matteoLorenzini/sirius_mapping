@@ -1,0 +1,445 @@
+@prefix ex: <http://example.org/thesaurus/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ex:Acetic_acid a skos:Concept ;
+    skos:broader ex:Airborne ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Acidic vapor causing deterioration."@en ;
+    skos:prefLabel "Acetic acid"@en .
+
+ex:Bacteria a skos:Concept ;
+    skos:broader ex:Microorganism ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Microbes causing decay or corrosion."@en ;
+    skos:prefLabel "Bacteria"@en .
+
+ex:Bats a skos:Concept ;
+    skos:broader ex:Pests ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Flying mammals potentially harmful."@en ;
+    skos:prefLabel "Bats"@en .
+
+ex:Birds a skos:Concept ;
+    skos:broader ex:Pests ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Birds causing material damage."@en ;
+    skos:prefLabel "Birds"@en .
+
+ex:Blocked_eavestroughs a skos:Concept ;
+    skos:broader ex:Technological_or_mechanical ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Gutters blocked, causing overflow."@en ;
+    skos:prefLabel "Blocked eavestroughs"@en .
+
+ex:Broken_water_line a skos:Concept ;
+    skos:broader ex:Technological_or_mechanical ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Damaged pipes leading to leakage."@en ;
+    skos:prefLabel "Broken water line"@en .
+
+ex:Careless_use_of_water a skos:Concept ;
+    skos:broader ex:Technological_or_mechanical ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Improper water use leading to damage."@en ;
+    skos:prefLabel "Careless use of water"@en .
+
+ex:Collision a skos:Concept ;
+    skos:broader ex:Artificial ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Impact between objects causing harm."@en ;
+    skos:prefLabel "Collision"@en .
+
+ex:Construction_Works a skos:Concept ;
+    skos:broader ex:Artificial ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Building activities impacting environment."@en ;
+    skos:prefLabel "Construction Works"@en .
+
+ex:Dissociation a skos:Concept ;
+    skos:broader ex:Agent ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Separation or loss of context."@en ;
+    skos:prefLabel "Dissociation"@en .
+
+ex:Earthquakes a skos:Concept ;
+    skos:broader ex:Natural_Physical_Forces ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Seismic events causing ground movement."@en ;
+    skos:prefLabel "Earthquakes"@en .
+
+ex:Fine_particles a skos:Concept ;
+    skos:broader ex:Airborne ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Small airborne solids damaging surfaces."@en ;
+    skos:prefLabel "Fine particles"@en .
+
+ex:Fire a skos:Concept ;
+    skos:broader ex:Agent ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Combustion causing damage to material."@en ;
+    skos:prefLabel "Fire"@en .
+
+ex:Flash_flood a skos:Concept ;
+    skos:broader ex:Natural_Water ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Sudden flooding due to heavy rain."@en ;
+    skos:prefLabel "Flash flood"@en .
+
+ex:Fungi a skos:Concept ;
+    skos:broader ex:Microorganism ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Spore-producing organisms damaging material."@en ;
+    skos:prefLabel "Fungi"@en .
+
+ex:High_water_table a skos:Concept ;
+    skos:broader ex:Natural_Water ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Elevated groundwater causing dampness."@en ;
+    skos:prefLabel "High water table"@en .
+
+ex:Hurricane a skos:Concept ;
+    skos:broader ex:Natural_Water ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Severe tropical storm causing damage."@en ;
+    skos:prefLabel "Hurricane"@en .
+
+ex:Hydrogen_sulfide a skos:Concept ;
+    skos:broader ex:Airborne ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Corrosive gas damaging materials."@en ;
+    skos:prefLabel "Hydrogen sulfide"@en .
+
+ex:Ice_jam a skos:Concept ;
+    skos:broader ex:Natural_Water ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Blocked river flow by ice."@en ;
+    skos:prefLabel "Ice jam"@en .
+
+ex:Incorrect_RH a skos:Concept ;
+    skos:broader ex:Agent ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Improper humidity affecting preservation."@en ;
+    skos:prefLabel "Incorrect RH"@en .
+
+ex:Incorrect_Transportation a skos:Concept ;
+    skos:broader ex:Artificial ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Improper transport causing damage."@en ;
+    skos:prefLabel "Incorrect Transportation"@en .
+
+ex:Incorrect_handling a skos:Concept ;
+    skos:broader ex:Artificial ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Mishandling causing harm to objects."@en ;
+    skos:prefLabel "Incorrect handling"@en .
+
+ex:Incorrect_storage a skos:Concept ;
+    skos:broader ex:Artificial ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Improper storage leading to damage."@en ;
+    skos:prefLabel "Incorrect storage"@en .
+
+ex:Incorrect_temperature a skos:Concept ;
+    skos:broader ex:Agent ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Wrong temperature leading to damage."@en ;
+    skos:prefLabel "Incorrect temperature"@en .
+
+ex:InfraRed a skos:Concept ;
+    skos:broader ex:Electro_Magnetic_Radiation ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Infrared radiation affecting materials."@en ;
+    skos:prefLabel "InfraRed"@en .
+
+ex:Insects a skos:Concept ;
+    skos:broader ex:Pests ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Small animals damaging materials."@en ;
+    skos:prefLabel "Insects"@en .
+
+ex:Intrinsic_pollutants a skos:Concept ;
+    skos:broader ex:Pollutants ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Pollutants originating within material."@en ;
+    skos:prefLabel "Intrinsic pollutants"@en .
+
+ex:Leak_from_air_condition_system a skos:Concept ;
+    skos:broader ex:Technological_or_mechanical ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "AC system leaks causing water damage."@en ;
+    skos:prefLabel "Leak from air condition system"@en .
+
+ex:Leak_from_heating_system a skos:Concept ;
+    skos:broader ex:Technological_or_mechanical ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Heating system leak causing water damage."@en ;
+    skos:prefLabel "Leak from heating system"@en .
+
+ex:Leak_from_ventilation_system a skos:Concept ;
+    skos:broader ex:Technological_or_mechanical ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Ventilation leaks causing moisture issues."@en ;
+    skos:prefLabel "Leak from ventilation system"@en .
+
+ex:Leaking_roof a skos:Concept ;
+    skos:broader ex:Technological_or_mechanical ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Roof leaks letting water in."@en ;
+    skos:prefLabel "Leaking roof"@en .
+
+ex:Light a skos:Concept ;
+    skos:broader ex:Electro_Magnetic_Radiation ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Visible radiation affecting objects."@en ;
+    skos:prefLabel "Light"@en .
+
+ex:Located_by_or_close_to_a_body_of_water a skos:Concept ;
+    skos:broader ex:Natural_Water ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Proximity to water increases risk."@en ;
+    skos:prefLabel "Located by or close to a body of water"@en .
+
+ex:Nitrogen_dioxide a skos:Concept ;
+    skos:broader ex:Airborne ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Reactive gas causing corrosion."@en ;
+    skos:prefLabel "Nitrogen dioxide"@en .
+
+ex:Overflowing_drains a skos:Concept ;
+    skos:broader ex:Technological_or_mechanical ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Drains unable to remove water."@en ;
+    skos:prefLabel "Overflowing drains"@en .
+
+ex:Overflowing_sinks a skos:Concept ;
+    skos:broader ex:Technological_or_mechanical ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Sinks overflowing, causing water issues."@en ;
+    skos:prefLabel "Overflowing sinks"@en .
+
+ex:Overflowing_toilets a skos:Concept ;
+    skos:broader ex:Technological_or_mechanical ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Toilets overflowing, causing water accumulation."@en ;
+    skos:prefLabel "Overflowing toilets"@en .
+
+ex:Pollutants_transferred_by_contact a skos:Concept ;
+    skos:broader ex:Pollutants ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Substances transferred via direct touch."@en ;
+    skos:prefLabel "Pollutants transferred by contact"@en .
+
+ex:Poorly_improperly_insulated_building a skos:Concept ;
+    skos:broader ex:Technological_or_mechanical ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Insufficient insulation causing moisture problems."@en ;
+    skos:prefLabel "Poorly/improperly insulated building"@en .
+
+ex:Rainstorm a skos:Concept ;
+    skos:broader ex:Natural_Water ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Heavy rain causing potential damage."@en ;
+    skos:prefLabel "Rainstorm"@en .
+
+ex:Rodents a skos:Concept ;
+    skos:broader ex:Pests ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Mammals that gnaw and damage."@en ;
+    skos:prefLabel "Rodents"@en .
+
+ex:Sewer_failure a skos:Concept ;
+    skos:broader ex:Technological_or_mechanical ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Malfunctioning sewers causing flooding."@en ;
+    skos:prefLabel "Sewer failure"@en .
+
+ex:Sleet_hail_ice_storm a skos:Concept ;
+    skos:broader ex:Natural_Water ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Frozen precipitation causing hazards."@en ;
+    skos:prefLabel "Sleet, hail, ice storm"@en .
+
+ex:Slow_rising_flood a skos:Concept ;
+    skos:broader ex:Natural_Water ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Gradual increase in water levels."@en ;
+    skos:prefLabel "Slow rising flood"@en .
+
+ex:Spring_melt_or_run_off a skos:Concept ;
+    skos:broader ex:Natural_Water ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Melting snow causing water runoff."@en ;
+    skos:prefLabel "Spring melt or run off"@en .
+
+ex:Sprinkler_system_malfunction a skos:Concept ;
+    skos:broader ex:Technological_or_mechanical ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Sprinklers failing or activating accidentally."@en ;
+    skos:prefLabel "Sprinkler system malfunction"@en .
+
+ex:Storm_drains_sewers a skos:Concept ;
+    skos:broader ex:Technological_or_mechanical ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Drains or sewers managing stormwater."@en ;
+    skos:prefLabel "Storm drains/sewers"@en .
+
+ex:Sulfur_dioxide a skos:Concept ;
+    skos:broader ex:Airborne ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Gas causing acidification."@en ;
+    skos:prefLabel "Sulfur dioxide"@en .
+
+ex:Thieves a skos:Concept ;
+    skos:broader ex:Criminals ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Steal property unlawfully."@en ;
+    skos:prefLabel "Thieves"@en .
+
+ex:Traffic a skos:Concept ;
+    skos:broader ex:Artificial ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Movement of vehicles or people."@en ;
+    skos:prefLabel "Traffic"@en .
+
+ex:Ultraviolet a skos:Concept ;
+    skos:broader ex:Electro_Magnetic_Radiation ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "UV light causing fading or damage."@en ;
+    skos:prefLabel "Ultraviolet"@en .
+
+ex:Use_of_water_during_construction_and_renovations a skos:Concept ;
+    skos:broader ex:Technological_or_mechanical ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Water used during building activities."@en ;
+    skos:prefLabel "Use of water during construction and renovations"@en .
+
+ex:Vandals a skos:Concept ;
+    skos:broader ex:Criminals ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "People who deliberately destroy property."@en ;
+    skos:prefLabel "Vandals"@en .
+
+ex:War a skos:Concept ;
+    skos:broader ex:Artificial ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Conflict causing widespread destruction."@en ;
+    skos:prefLabel "War"@en ;
+    skos:related ex:Criminals .
+
+ex:Water_vapour a skos:Concept ;
+    skos:broader ex:Airborne ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Moisture in air causing damage."@en ;
+    skos:prefLabel "Water vapour"@en .
+
+ex:Wind_Erosion a skos:Concept ;
+    skos:broader ex:Wind ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Loss of material by wind action."@en ;
+    skos:prefLabel "Wind Erosion"@en .
+
+ex:Windstorm a skos:Concept ;
+    skos:broader ex:Natural_Water ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Strong winds with rain or snow."@en ;
+    skos:prefLabel "Windstorm"@en .
+
+ex:Ozone a skos:Concept ;
+    skos:broader ex:Airborne ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Oxygen molecule causing oxidation."@en ;
+    skos:prefLabel "Ozone"@en .
+
+ex:tsunami a skos:Concept ;
+    skos:broader ex:Natural_Water ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Large sea wave caused by disturbance."@en ;
+    skos:prefLabel "tsunami"@en .
+
+ex:Wind a skos:Concept ;
+    skos:broader ex:Natural_Physical_Forces ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Moving air causing physical effects."@en ;
+    skos:prefLabel "Wind"@en .
+
+ex:Microorganism a skos:Concept ;
+    skos:broader ex:Pests ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Tiny organisms causing damage."@en ;
+    skos:prefLabel "Microorganism"@en .
+
+ex:Natural_Physical_Forces a skos:Concept ;
+    skos:broader ex:Physical_Forces ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Natural environmental sources or agents."@en ;
+    skos:prefLabel "Natural Physical Forces"@en .
+
+ex:Physical_Forces a skos:Concept ;
+    skos:broader ex:Agent ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Physical force can damage objects directly by causing rotation, deformation, stress, and pressure. It may also damage objects indirectly by causing collision between objects or object parts. Damage from physical force ranges from imperceptible hairline fissures and minute losses, to large-scale effects such as crushing objects, collapsing floors, and, in extreme cases, destroying buildings."@en ;
+    skos:prefLabel "Physical Forces"@en .
+
+ex:Water a skos:Concept ;
+    skos:broader ex:Agent ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Liquid capable of causing deterioration."@en ;
+    skos:prefLabel "Water"@en .
+
+ex:Criminals a skos:Concept ;
+    skos:broader ex:Agent ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Persons committing unlawful acts."@en ;
+    skos:prefLabel "Criminals"@en .
+
+ex:Electro_Magnetic_Radiation a skos:Concept ;
+    skos:broader ex:Agent ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Energy waves impacting materials."@en ;
+    skos:prefLabel "Electro Magnetic Radiation"@en .
+
+ex:Pollutants a skos:Concept ;
+    skos:broader ex:Agent ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Harmful substances affecting materials."@en ;
+    skos:prefLabel "Pollutants"@en .
+
+ex:Pests a skos:Concept ;
+    skos:broader ex:Agent ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Living organisms that are able to disfigure, damage, and destroy material culture."@en ;
+    skos:prefLabel "Pests"@en .
+
+ex:Airborne a skos:Concept ;
+    skos:broader ex:Pollutants ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Pollutants carried by air."@en ;
+    skos:prefLabel "Airborne"@en .
+
+ex:Artificial a skos:Concept ;
+    skos:broader ex:Physical_Forces ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Human-made sources or agents."@en ;
+    skos:prefLabel "Artificial"@en .
+
+ex:Agent a skos:Concept ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "General agent causing effects or change."@en ;
+    skos:prefLabel "Agent"@en .
+
+ex:Natural_Water a skos:Concept ;
+    skos:broader ex:Water ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Natural environmental sources or agents."@en ;
+    skos:prefLabel "Natural Water"@en .
+
+ex:Technological_or_mechanical a skos:Concept ;
+    skos:broader ex:Water ;
+    skos:inScheme ex:DamageCausingAgentsScheme ;
+    skos:note "Technology or machinery related agents."@en ;
+    skos:prefLabel "Technological or mechanical"@en .
+
+ex:DamageCausingAgentsScheme a skos:ConceptScheme ;
+    skos:note "A thesaurus of agents that cause material damage, both natural and artificial."@en ;
+    skos:prefLabel "Damage-Causing Agents Thesaurus"@en .
+

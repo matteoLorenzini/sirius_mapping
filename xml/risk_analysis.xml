@@ -26,9 +26,9 @@
     <scale_c_score>4.0</scale_c_score>
     <magnitude_score>11.5</magnitude_score>
     <uncertainty>0.5</uncertainty>
-    <scale_a_description>None</scale_a_description>
-    <scale_b_description>None</scale_b_description>
-    <scale_c_description>None</scale_c_description>
+    <scale_a_description>test scale A</scale_a_description>
+    <scale_b_description>Test Scale B</scale_b_description>
+    <scale_c_description>Test Scale C</scale_c_description>
   </risk_analysis>
   <risk_analysis>
     <risk_analysis_id>4</risk_analysis_id>
@@ -56,8 +56,8 @@
     <scale_c_score>4.0</scale_c_score>
     <magnitude_score>12.0</magnitude_score>
     <uncertainty>0.0</uncertainty>
-    <scale_a_description>None</scale_a_description>
-    <scale_b_description>None</scale_b_description>
-    <scale_c_description>None</scale_c_description>
+    <scale_a_description>test Scale A</scale_a_description>
+    <scale_b_description>Test scale B</scale_b_description>
+    <scale_c_description>Test scale C</scale_c_description>
   </risk_analysis>
 </risk_analyses>

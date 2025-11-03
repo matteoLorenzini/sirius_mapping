@@ -1,123 +1,101 @@
-# SIRIUS Mapping - Cultural Heritage Risk Management System
+# SIRIUS Mapping – Cultural Heritage Risk Management
 
-A comprehensive data transformation and semantic mapping toolkit for cultural heritage risk management, featuring PostgreSQL-to-XML conversion and CIDOC-CRM RDF mapping capabilities.
-The system bridges the gap between traditional relational database storage and semantic web technologies, enabling:
+Utilities to extract data from PostgreSQL to XML, build SKOS thesauri, and produce RDF aligned to CIDOC-CRM.
 
-- **Risk Assessment Documentation**: Comprehensive tracking of risks affecting cultural heritage sites
-- **Semantic Interoperability**: CIDOC-CRM compliant RDF mappings for cultural heritage data
-- **Data Integration**: Standardized XML exports for cross-platform compatibility
-- **Heritage Management**: Structured approach to cultural site preservation and risk mitigation
-
-## 📁 Repository Structure
+## Repository structure
 
 ```text
 sirius_mapping/
 ├── scripts/
-│   ├── sql2xml.py              # PostgreSQL to XML conversion tool
-│   └── xml/                    # Generated XML exports
-│       ├── agent_risk_sentence.xml
-│       ├── cultural_heritage_site.xml
-│       ├── risk_analysis.xml
-│       ├── value_agents_occurrence.xml
-│       └── value_aspect_dimension.xml
-├── mapping_3M/
-│   ├── E18_site/              # CIDOC-CRM E18 Physical Thing mappings
-│   ├── E89_nara/              # NARA (National Archives) mappings
-│   └── E89_risk/              # Risk assessment mappings
+│   ├── sql2xml.py                 # PostgreSQL → XML exporter (outputs to ../xml)
+│   ├── iccd_skos.py               # Build SKOS from ICCD Excel (optional)
+│   └── updatedb.py                # Example: update DB fields from XML (optional)
+├── xml/                           # Generated XML (created at repo root)
+│   ├── cultural_heritage_site.xml
+│   ├── event_name_sentence.xml
+│   ├── risk_analysis.xml          # includes risk_agent and event_name_id
+│   ├── value_agents_occurrence.xml
+│   └── value_aspect_dimension.xml
+├── SKOS/
+│   ├── nomenclatura_eventi.csv
+│   ├── thesaurus_agenti_eventi.ttl
+│   ├── enhanced_full_thesaurus.ttl
+│   └── update_skos_from_csv.py    # Rebuild SKOS from CSV (encoding-safe)
 ├── RDF/
-│   ├── E18_site.rdf           # Cultural heritage sites RDF
-│   ├── E89_nara.rdf           # NARA compliance RDF
-│   └── E89_risk_analysis.rdf  # Risk analysis RDF
-├── LICENSE                    # GNU GPL v3 License
-└── README.md                  # This file
+│   ├── E18_site.rdf
+│   ├── E89_nara.rdf
+│   └── E89_risk_analysis.rdf
+├── mapping_3M/
+│   ├── E18_site/
+│   ├── E89_nara/
+│   └── E89_risk/
+├── LICENSE
+└── README.md
 ```
 
-## 🔧 Core Components
+## What’s new
+- XML outputs now always go to repo_root/xml (one level up from scripts).
+- agent_risk_sentence removed; new event_name_sentence.xml added.
+- risk_analysis.xml exports both risk_id + risk_agent and the new event_name_id.
+- SKOS can be rebuilt from SKOS/nomenclatura_eventi.csv via update_skos_from_csv.py (handles encodings and delimiters).
 
-### 1. Database Export Tool (`scripts/sql2xml.py`)
+## Setup (Windows)
 
-A Python script that extracts data from a PostgreSQL database (`gestione_rischio`) and converts it to structured XML format. The tool processes:
-
-- **Cultural Heritage Sites**: Complete site information and metadata
-- **Risk Analysis**: Comprehensive risk assessments with scoring systems
-- **Value-Aspect Dimensions**: Site valuations across multiple criteria
-- **Agent Risk Sentences**: Detailed risk descriptions and documentation
-- **Value Agent Occurrences**: Risk occurrence tracking and relationships
-
-**Key Features:**
-
-- Preserves both numerical IDs and human-readable labels
-- Maintains referential integrity through foreign key relationships
-- Generates well-formatted XML with proper encoding (UTF-8)
-- Includes comprehensive JOIN operations for complete data context
-
-### 2. CIDOC-CRM Mappings (`mapping_3M/` & `RDF/`)
-
-Semantic mappings following the [CIDOC Conceptual Reference Model](http://www.cidoc-crm.org/) standard:
-
-- **E18_Physical_Thing**: Cultural heritage sites and physical objects
-- **E89_Propositional_Object**: Risk assessments and analytical propositions
-- **NARA Integration**: National Archives compliance mappings
-
-### 3. RDF Output
-
-Semantic web-ready RDF files that provide:
-
-- CIDOC-CRM compliant cultural heritage descriptions
-- Linked data capabilities for heritage information systems
-- Standardized vocabularies using SKOS and OWL
-
-## 🛠️ Technical Requirements
-
-- **Python 3.x** with libraries:
-  - `psycopg2` (PostgreSQL adapter)
-  - `xml.etree.ElementTree` (XML processing)
-  - `xml.dom.minidom` (XML formatting)
-- **PostgreSQL** database with `gestione_rischio` schema
-- **RDF processing tools** (for semantic data handling)
-
-## 🚀 Usage
-
-### Database Export
-
-1. Ensure PostgreSQL database `gestione_rischio` is accessible
-2. Configure database connection parameters in `sql2xml.py`
-3. Run the export script:
-
-```bash
-cd scripts
-python sql2xml.py
+```powershell
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+pip install psycopg2-binary rdflib pandas
 ```
 
-Generated XML files will be saved in the `scripts/xml/` directory.
+## Export XML from PostgreSQL
 
-### Data Structure
+Configure DB in scripts/sql2xml.py (host, database, user, password).
 
-The system processes five main entity types:
+Run from repo root or anywhere:
+```powershell
+python .\scripts\sql2xml.py
+```
 
-1. **Cultural Heritage Sites** - Physical locations and their properties
-2. **Risk Analysis** - Quantitative and qualitative risk assessments
-3. **Value Aspect Dimensions** - Multi-dimensional site valuations
-4. **Agent Risk Sentences** - Textual risk descriptions
-5. **Value Agent Occurrences** - Risk event tracking
+Outputs written to:
+- .\xml\cultural_heritage_site.xml
+- .\xml\event_name_sentence.xml
+- .\xml\risk_analysis.xml
+- .\xml\value_agents_occurrence.xml
+- .\xml\value_aspect_dimension.xml
 
-Each export includes both numerical identifiers and descriptive labels for maximum data utility.
+Notes:
+- risk_analysis.xml includes: risk_analysis_id, risk_id, risk_agent, site_id, event_name_id, scale_*_description, risk_description, scores/inputs, uncertainty.
 
-## 🎯 Use Cases
+## Update SKOS thesaurus from CSV
 
-- **Heritage Conservation**: Risk-based prioritization of conservation efforts
-- **Policy Making**: Data-driven cultural heritage protection policies
-- **Academic Research**: Standardized datasets for heritage studies
-- **Digital Humanities**: Semantic web integration for cultural data
-- **Risk Management**: Systematic approach to heritage site preservation
+Build SKOS/SKOS/enhanced_full_thesaurus.ttl from SKOS/nomenclatura_eventi.csv:
+```powershell
+python .\SKOS\update_skos_from_csv.py
+```
+Features:
+- Auto-detects encoding (utf-8-sig, utf-8, cp1252, latin-1) and delimiter (; | , tab).
+- Supports common headers for IDs, labels, broader links, definitions, alt labels.
+- Writes Turtle to SKOS/enhanced_full_thesaurus.ttl.
 
-## 📊 Data Model
+## Optional: Build SKOS from ICCD Excel
 
-The system implements a comprehensive relational model covering:
+If using the Excel-based builder:
+```powershell
+python .\scripts\iccd_skos.py
+```
+- Reads ICCD workbook (row 1 as header; columns A..F as 6 hierarchy levels).
+- Filters “BENI IMMOBILI” as root and generates a SKOS hierarchy.
 
-- Site identification and classification
-- Multi-dimensional risk assessment (scales A, B, C)
-- Uncertainty quantification
-- Temporal risk tracking
-- Stakeholder and administrative context
-- Value attribution across multiple aspects and dimensions
+## Troubleshooting
+
+- relation “schema.table” does not exist:
+  - Verify schema/table names; use public.risk_analysis or set search_path.
+- XML saved to the wrong folder:
+  - sql2xml.py creates repo_root/xml and always writes there.
+- CSV UnicodeDecodeError:
+  - update_skos_from_csv.py auto-detects encoding and normalizes NBSP.
+- SKOS hierarchy looks unordered in RDF/XML:
+  - RDF is graph-based; use Turtle or a SKOS browser (Protégé, SKOS Play!) to inspect hierarchy.
+
+## License
+GNU GPL v3. See LICENSE.
