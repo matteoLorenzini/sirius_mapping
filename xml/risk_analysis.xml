@@ -7,7 +7,7 @@
     <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
     <event_name_id>8</event_name_id>
-    <event_name>Flooding_Event</event_name>
+    <event_name>Flood</event_name>
     <risk_description>The site between 2010 and 2039 will flood due to the increase of 1.2 times per year in rainy periods of more than five consecutive days and for precipitations greater than 200 mm per day more frequent than 6-13 times per year compared to the recent past (1961-1990).</risk_description>
     <scale_a_val_1>28.0</scale_a_val_1>
     <scale_a_val_2>None</scale_a_val_2>
@@ -37,7 +37,7 @@
     <site_id>1</site_id>
     <site>Remains of a Roman-era residential district </site>
     <event_name_id>8</event_name_id>
-    <event_name>Flooding_Event</event_name>
+    <event_name>Flood</event_name>
     <risk_description>The pumps will become damaged or break, causing water and pollutants to rise up, flooding and dirtying the archaeological site.</risk_description>
     <scale_a_val_1>11.0</scale_a_val_1>
     <scale_a_val_2>None</scale_a_val_2>

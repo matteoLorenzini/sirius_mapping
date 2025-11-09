@@ -3,7 +3,7 @@
   <value_agents_occurrence>
     <value_agent_occurrence_id>1</value_agent_occurrence_id>
     <risk_id>1</risk_id>
-    <risk_agent>Physical forces</risk_agent>
+    <risk_agent>Physical_Forces</risk_agent>
     <occurrence_id>1</occurrence_id>
     <occurrence>Rare events</occurrence>
     <site_id>1</site_id>
@@ -14,7 +14,7 @@
   <value_agents_occurrence>
     <value_agent_occurrence_id>2</value_agent_occurrence_id>
     <risk_id>1</risk_id>
-    <risk_agent>Physical forces</risk_agent>
+    <risk_agent>Physical_Forces</risk_agent>
     <occurrence_id>2</occurrence_id>
     <occurrence>Common events</occurrence>
     <site_id>1</site_id>
@@ -24,7 +24,7 @@
   <value_agents_occurrence>
     <value_agent_occurrence_id>3</value_agent_occurrence_id>
     <risk_id>1</risk_id>
-    <risk_agent>Physical forces</risk_agent>
+    <risk_agent>Physical_Forces</risk_agent>
     <occurrence_id>3</occurrence_id>
     <occurrence>Cumulative processes </occurrence>
     <site_id>1</site_id>
@@ -148,7 +148,7 @@ Presence of cobwebs and insects.
   <value_agents_occurrence>
     <value_agent_occurrence_id>14</value_agent_occurrence_id>
     <risk_id>7</risk_id>
-    <risk_agent>Light, UV, IR</risk_agent>
+    <risk_agent>Light_UV_IR</risk_agent>
     <occurrence_id>3</occurrence_id>
     <occurrence>Cumulative processes </occurrence>
     <site_id>1</site_id>
@@ -158,7 +158,7 @@ Presence of cobwebs and insects.
   <value_agents_occurrence>
     <value_agent_occurrence_id>15</value_agent_occurrence_id>
     <risk_id>8</risk_id>
-    <risk_agent>Incorrect temperature</risk_agent>
+    <risk_agent>Incorrect_temperature</risk_agent>
     <occurrence_id>3</occurrence_id>
     <occurrence>Cumulative processes </occurrence>
     <site_id>1</site_id>
@@ -170,7 +170,7 @@ Presence of cobwebs and insects.
   <value_agents_occurrence>
     <value_agent_occurrence_id>16</value_agent_occurrence_id>
     <risk_id>9</risk_id>
-    <risk_agent>Incorrect RH</risk_agent>
+    <risk_agent>Incorrect_RH</risk_agent>
     <occurrence_id>3</occurrence_id>
     <occurrence>Cumulative processes </occurrence>
     <site_id>1</site_id>
