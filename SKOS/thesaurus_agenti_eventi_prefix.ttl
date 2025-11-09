@@ -22,7 +22,7 @@ event:Careless_use_of_water a skos:Concept ;
     skos:prefLabel "Careless use of water"@en .
 
 event:InfraRed a skos:Concept ;
-    skos:broader agent:Light_UV_I ;
+    skos:broader agent:Light_UV_IR ;
     skos:inScheme agent:DamageCausingAgentsScheme ;
     skos:note "Infrared radiation affecting materials."@en ;
     skos:prefLabel "InfraRed"@en .
@@ -52,7 +52,7 @@ event:Leaking_roof a skos:Concept ;
     skos:prefLabel "Leaking roof"@en .
 
 event:Light a skos:Concept ;
-    skos:broader agent:Light_UV_I ;
+    skos:broader agent:Light_UV_IR ;
     skos:inScheme agent:DamageCausingAgentsScheme ;
     skos:note "Visible radiation affecting objects."@en ;
     skos:prefLabel "Light"@en .
@@ -100,7 +100,7 @@ event:Storm_drains_sewers a skos:Concept ;
     skos:prefLabel "Storm drains/sewers"@en .
 
 event:Ultraviolet a skos:Concept ;
-    skos:broader agent:Light_UV_I ;
+    skos:broader agent:Light_UV_IR ;
     skos:inScheme agent:DamageCausingAgentsScheme ;
     skos:note "UV light causing fading or damage."@en ;
     skos:prefLabel "Ultraviolet"@en .
@@ -468,12 +468,12 @@ event:Extreme_Handling_Hazards a skos:Concept ;
     skos:prefLabel "Extreme handling hazards"@en .
 
 event:Fading_by_Artificial_Lights a skos:Concept ;
-    skos:broader agent:Light_UV_I ;
+    skos:broader agent:Light_UV_IR ;
     skos:inScheme agent:DamageCausingAgentsScheme ;
     skos:prefLabel "Fading by artificial lights (UV, IR and VIS compound of the spectrum)"@en .
 
 event:Fading_by_Natural_Light a skos:Concept ;
-    skos:broader agent:Light_UV_I ;
+    skos:broader agent:Light_UV_IR ;
     skos:inScheme agent:DamageCausingAgentsScheme ;
     skos:prefLabel "Fading by natural light (all spectrum)"@en .
 
@@ -603,7 +603,7 @@ event:Hydrogen_Sulphide_L3 a skos:Concept ;
     skos:prefLabel "Hydrogen sulphide"@en .
 
 event:IR_Heats_Surface a skos:Concept ;
-    skos:broader agent:Light_UV_I ;
+    skos:broader agent:Light_UV_IR ;
     skos:inScheme agent:DamageCausingAgentsScheme ;
     skos:prefLabel "IR heats the surface (linked to incorrect temperature)"@en .
 
@@ -1268,7 +1268,7 @@ event:Tsunami_L3 a skos:Concept ;
     skos:prefLabel "Tsunami"@en .
 
 event:UV_Causing_Disintegration a skos:Concept ;
-    skos:broader agent:Light_UV_I ;
+    skos:broader agent:Light_UV_IR ;
     skos:inScheme agent:DamageCausingAgentsScheme ;
     skos:prefLabel "UV (natural and artificial) which caused yellowing, chalking, weakening, disintegration of materials"@en .
 
@@ -1579,7 +1579,7 @@ agent:Due_Failure_to_Act a skos:Concept ;
         event:Object_Not_Tracked_Closely ;
     skos:prefLabel "Due failure to act"@en .
 
-agent:Light_UV_I a skos:Concept ;
+agent:Light_UV_IR a skos:Concept ;
     skos:broader agent:Agent ;
     skos:inScheme agent:DamageCausingAgentsScheme ;
     skos:narrower event:Fading_by_Artificial_Lights,
