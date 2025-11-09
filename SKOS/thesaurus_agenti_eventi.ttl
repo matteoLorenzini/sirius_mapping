@@ -511,7 +511,7 @@ ex:Presence_of_Security_Lighting a skos:Concept ;
 
 ex:Presence_of_Security_at_the_Entrance a skos:Concept ;
     skos:inScheme ex:DamageCausingAgentsScheme ;
-    skos:prefLabel "Presence of security at the entrance"@en ;
+    skos:prefLabel " "@en ;
     skos:broader ex:Linked_to_Security_Systems .
 
 ex:Presence_of_Guardians_Night a skos:Concept ;

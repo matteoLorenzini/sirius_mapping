@@ -1,0 +1,1886 @@
+@prefix agent: <https://w3id.org/sirius/agent/> .
+@prefix event: <https://w3id.org/sirius/event/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+
+event:Blocked_eavestroughs a skos:Concept ;
+    skos:broader event:Technological_or_mechanical ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:note "Gutters blocked, causing overflow."@en ;
+    skos:prefLabel "Blocked eavestroughs"@en .
+
+event:Broken_water_line a skos:Concept ;
+    skos:broader event:Technological_or_mechanical ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:note "Damaged pipes leading to leakage."@en ;
+    skos:prefLabel "Broken water line"@en .
+
+event:Careless_use_of_water a skos:Concept ;
+    skos:broader event:Technological_or_mechanical ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:note "Improper water use leading to damage."@en ;
+    skos:prefLabel "Careless use of water"@en .
+
+event:InfraRed a skos:Concept ;
+    skos:broader agent:Light_UV_I ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:note "Infrared radiation affecting materials."@en ;
+    skos:prefLabel "InfraRed"@en .
+
+event:Leak_from_air_condition_system a skos:Concept ;
+    skos:broader event:Technological_or_mechanical ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:note "AC system leaks causing water damage."@en ;
+    skos:prefLabel "Leak from air condition system"@en .
+
+event:Leak_from_heating_system a skos:Concept ;
+    skos:broader event:Technological_or_mechanical ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:note "Heating system leak causing water damage."@en ;
+    skos:prefLabel "Leak from heating system"@en .
+
+event:Leak_from_ventilation_system a skos:Concept ;
+    skos:broader event:Technological_or_mechanical ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:note "Ventilation leaks causing moisture issues."@en ;
+    skos:prefLabel "Leak from ventilation system"@en .
+
+event:Leaking_roof a skos:Concept ;
+    skos:broader event:Technological_or_mechanical ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:note "Roof leaks letting water in."@en ;
+    skos:prefLabel "Leaking roof"@en .
+
+event:Light a skos:Concept ;
+    skos:broader agent:Light_UV_I ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:note "Visible radiation affecting objects."@en ;
+    skos:prefLabel "Light"@en .
+
+event:Overflowing_drains a skos:Concept ;
+    skos:broader event:Technological_or_mechanical ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:note "Drains unable to remove water."@en ;
+    skos:prefLabel "Overflowing drains"@en .
+
+event:Overflowing_sinks a skos:Concept ;
+    skos:broader event:Technological_or_mechanical ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:note "Sinks overflowing, causing water issues."@en ;
+    skos:prefLabel "Overflowing sinks"@en .
+
+event:Overflowing_toilets a skos:Concept ;
+    skos:broader event:Technological_or_mechanical ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:note "Toilets overflowing, causing water accumulation."@en ;
+    skos:prefLabel "Overflowing toilets"@en .
+
+event:Poorly_improperly_insulated_building a skos:Concept ;
+    skos:broader event:Technological_or_mechanical ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:note "Insufficient insulation causing moisture problems."@en ;
+    skos:prefLabel "Poorly/improperly insulated building"@en .
+
+event:Sewer_failure a skos:Concept ;
+    skos:broader event:Technological_or_mechanical ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:note "Malfunctioning sewers causing flooding."@en ;
+    skos:prefLabel "Sewer failure"@en .
+
+event:Sprinkler_system_malfunction a skos:Concept ;
+    skos:broader event:Technological_or_mechanical ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:note "Sprinklers failing or activating accidentally."@en ;
+    skos:prefLabel "Sprinkler system malfunction"@en .
+
+event:Storm_drains_sewers a skos:Concept ;
+    skos:broader event:Technological_or_mechanical ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:note "Drains or sewers managing stormwater."@en ;
+    skos:prefLabel "Storm drains/sewers"@en .
+
+event:Ultraviolet a skos:Concept ;
+    skos:broader agent:Light_UV_I ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:note "UV light causing fading or damage."@en ;
+    skos:prefLabel "Ultraviolet"@en .
+
+event:Use_of_water_during_construction_and_renovations a skos:Concept ;
+    skos:broader event:Technological_or_mechanical ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:note "Water used during building activities."@en ;
+    skos:prefLabel "Use of water during construction and renovations"@en .
+
+event:Wind_Erosion a skos:Concept ;
+    skos:broader <http://example.org/thesaurus/Wind> ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:note "Loss of material by wind action."@en ;
+    skos:prefLabel "Wind Erosion"@en .
+
+event:Absence_of_Barriers_Birds a skos:Concept ;
+    skos:broader agent:Birds_Bats_and_Domestic_Animals ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Absence of barriers protective clothing for birds"@en .
+
+event:Absence_of_Camera_CCTV a skos:Concept ;
+    skos:broader agent:Linked_to_Security_Systems ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Absence of camera (CCTV-Closed-circuit television cameras)"@en .
+
+event:Absence_of_Screen_or_Steel_Bars a skos:Concept ;
+    skos:broader agent:Linked_to_Security_Systems ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Absence of screen or steel bars on windows/doors"@en .
+
+event:Absence_of_Signs a skos:Concept ;
+    skos:broader agent:Linked_to_Security_Systems ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Absence of signs (prohibitions)"@en .
+
+event:Accidental_Fire a skos:Concept ;
+    skos:broader agent:Fire ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Accidental fire"@en .
+
+event:Acetic_Acid_L3 a skos:Concept ;
+    skos:broader agent:Intrinsic_Pollutants_L2 ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Acetic acid"@en .
+
+event:Acids_from_Mineral_Specimens a skos:Concept ;
+    skos:broader agent:Pollutants_Transferred_by_Contact_L2 ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Acids from some mineral specimens"@en .
+
+event:Acoustic_Sources a skos:Concept ;
+    skos:broader agent:Low_Level_Forces_Variable_Incidence_Low_Intensity ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Acoustic sources (audible and sub-audible, air-borne)"@en .
+
+event:Activities_Maintenance_Not_Proscribed a skos:Concept ;
+    skos:broader agent:Due_Failure_to_Act ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Activities of maintenance staff not proscribed enough"@en .
+
+event:Adhesives_on_Object a skos:Concept ;
+    skos:broader agent:Pollutants_Transferred_by_Contact_L2 ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Adhesives on object"@en .
+
+event:Air_Land_Attacks a skos:Concept ;
+    skos:broader agent:Linked_to_Armed_Conflict ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Air/land attacks"@en .
+
+event:Algae_and_Cyanobacteria a skos:Concept ;
+    skos:broader agent:Microorganism_L2 ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Algae and cyanobacteria"@en .
+
+event:Armed_Conflict_L3 a skos:Concept ;
+    skos:broader agent:Linked_to_Armed_Conflict ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Armed conflict"@en .
+
+event:Arson a skos:Concept ;
+    skos:broader agent:Fire ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Arson"@en .
+
+event:Arthropods_Specify_Types a skos:Concept ;
+    skos:broader agent:Insects_and_Rodents ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Arthropods (specify types)"@en .
+
+event:Avalanche_Glacier_Burst a skos:Concept ;
+    skos:broader agent:Natural_Climate_Change_Human_Induced ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Avalanche/glacier burst"@en .
+
+event:Bacteria_L3 a skos:Concept ;
+    skos:broader agent:Microorganism_L2 ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Bacteria (heterotrophic and autotrophic)"@en .
+
+event:Basement_Attics_Non_Compartmented a skos:Concept ;
+    skos:broader agent:Fire ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Basement and attics non compartmented"@en .
+
+event:Bats_L3 a skos:Concept ;
+    skos:broader agent:Birds_Bats_and_Domestic_Animals ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Bats"@en .
+
+event:Biological_Damage_High_Temp_Growth a skos:Concept ;
+    skos:broader agent:Temperature_Too_High ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Biological damage during events when temperature is high enough for growth"@en .
+
+event:Bird_Guano_Deposits a skos:Concept ;
+    skos:broader agent:Birds_Bats_and_Domestic_Animals ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Bird guano deposits"@en .
+
+event:Birds_Specify_Type a skos:Concept ;
+    skos:broader agent:Birds_Bats_and_Domestic_Animals ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Birds (specify which type)"@en .
+
+event:Blocked_Eaves a skos:Concept ;
+    skos:broader agent:Technological_Mechanical_L2 ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Blocked eaves"@en .
+
+event:Bombing a skos:Concept ;
+    skos:broader agent:Linked_to_Armed_Conflict ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Bombing"@en .
+
+event:Broken_Water_Line_L3 a skos:Concept ;
+    skos:broader agent:Technological_Mechanical_L2 ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Broken water line (freezing or construction)"@en .
+
+event:Bryophytes a skos:Concept ;
+    skos:broader agent:Microorganism_L2 ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Bryophytes"@en .
+
+event:Building_Material_Non_Fire_Resistive a skos:Concept ;
+    skos:broader agent:Fire ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Building material (non-fire resistive)"@en .
+
+event:Building_Vibration a skos:Concept ;
+    skos:broader agent:Low_Level_Forces_Variable_Incidence_Low_Intensity ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Building vibration (occupant activities, mechanical equipment, road traffic)"@en .
+
+event:Bush_or_Grass_Fires a skos:Concept ;
+    skos:broader agent:Fire ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Bush or grass fires"@en .
+
+event:Carbonyl_Sulphide a skos:Concept ;
+    skos:broader agent:Airborne_Pollutants_Atmospheric_Source ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Carbonyl sulphide"@en .
+
+event:Careless_Use_of_Water_Events a skos:Concept ;
+    skos:broader agent:Technological_Mechanical_L2 ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Careless use of water during special events, social function"@en .
+
+event:Choice_of_Unstable_Products a skos:Concept ;
+    skos:broader agent:Related_to_Staff_Care ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Choice of unstable products or poor systems for catalogues and labels"@en .
+
+event:Civil_Unrest a skos:Concept ;
+    skos:broader agent:Linked_to_Vandalism ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Civil Unrest"@en .
+
+event:Cleaning_Supplies_Inappropriately_Stored a skos:Concept ;
+    skos:broader agent:Fire ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Cleaning supplies, solvents, paints, waxes inappropriately stored"@en .
+
+event:Collection_Care_Secondary_Responsibility_L3 a skos:Concept ;
+    skos:broader agent:Management_of_the_Responsibility ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Collection care is secondary or tertiary responsibility of staff"@en .
+
+event:Collection_Data_Many_Sources a skos:Concept ;
+    skos:broader agent:Related_to_Object_Building_Site ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Collection/site/building data form many sources"@en .
+
+event:Collection_Data_Obsolescence_Repository a skos:Concept ;
+    skos:broader agent:Related_to_Object_Building_Site ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Collection/site/building data digitalized in obsolescence repository"@en .
+
+event:Collection_Not_Held_Dedicated_Spaces a skos:Concept ;
+    skos:broader agent:Management_of_the_Responsibility ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Collection on held in dedicated spaces"@en .
+
+event:Composite_Object_Harmful_Compounds a skos:Concept ;
+    skos:broader agent:Intrinsic_Pollutants_L2 ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Composite object having harmful compounds (alum, iron, gall ink, corrosion copper in contact with leather, adhesive tape ‘original’)"@en .
+
+event:Composite_Objects_Sulphur_Metals a skos:Concept ;
+    skos:broader agent:Intrinsic_Pollutants_L2 ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Composite objects made of sulphur-based compounds and metals"@en .
+
+event:Compromised_Security_Systems a skos:Concept ;
+    skos:broader agent:Linked_to_Armed_Conflict ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Compromised security systems"@en .
+
+event:Concealed_Voids a skos:Concept ;
+    skos:broader agent:Fire ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Concealed voids above ceilings, below floors and behind walls"@en .
+
+event:Construction_Renovation_Activities_Heat a skos:Concept ;
+    skos:broader agent:Fire ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Construction and renovation activities such as work (welding, paint removal, cutting…) the use of casting materials that heat"@en .
+
+event:Construction_Vibration_Blasting a skos:Concept ;
+    skos:broader agent:Low_Level_Forces_Variable_Incidence_Low_Intensity ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Construction vibration (controlled blasting, pile driving…)"@en .
+
+event:Construction_Vibrations a skos:Concept ;
+    skos:broader agent:Working_Forces_High_Incidence_Moderate_to_High_Intensity ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Construction vibrations"@en .
+
+event:Coordination_Protocol_Exists a skos:Concept ;
+    skos:broader agent:Related_to_Institutional_and_Political_Context ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "There is a coordination protocol between public institutions designated to protect cultural heritage."@en .
+
+event:Critical_RH_Corrosion a skos:Concept ;
+    skos:broader agent:RH_Critical_Value ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Critical RH which causes corrosion of material"@en .
+
+event:Critical_RH_Glass_Crizzling a skos:Concept ;
+    skos:broader agent:RH_Critical_Value ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Critical RH which causes glass crizzling and weeping"@en .
+
+event:Critical_RH_Minerals_Crimple a skos:Concept ;
+    skos:broader agent:RH_Critical_Value ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Critical RH which causes minerals crimple, weep"@en .
+
+event:Cultural_Heritage_Target_for_Warfare a skos:Concept ;
+    skos:broader agent:Related_to_Social_and_Cultural_Context ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Cultural heritage is a potential target for warfare (even in the past)"@en .
+
+event:Cultural_Value_Not_Appreciated a skos:Concept ;
+    skos:broader agent:Related_to_Staff_Care ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Cultural value not understood or appreciate by custodians"@en .
+
+event:Cumulative_Chemical_Damage_High_Temp a skos:Concept ;
+    skos:broader agent:Temperature_Too_High ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Cumulative chemical damage from all exposures to temperature that is high enough to cause rapid decay"@en .
+
+event:Cyberattacks a skos:Concept ;
+    skos:broader agent:Linked_to_Armed_Conflict ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Cyberattacks"@en .
+
+event:Damp_Causes_Colorants_Bleed a skos:Concept ;
+    skos:broader agent:Damp_Over_75_Percent ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Damp which causes colorants bleed"@en .
+
+event:Damp_Causes_Mechanical_Damage a skos:Concept ;
+    skos:broader agent:Damp_Over_75_Percent ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Damp which causes mechanical damage"@en .
+
+event:Damp_Causes_Mould a skos:Concept ;
+    skos:broader agent:Damp_Over_75_Percent ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Damp which causes mould"@en .
+
+event:Data_Breach a skos:Concept ;
+    skos:broader agent:Linked_to_Armed_Conflict ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Data breach"@en .
+
+event:Dejections_of_Domestic_Animals a skos:Concept ;
+    skos:broader agent:Birds_Bats_and_Domestic_Animals ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Dejections of domestic animals"@en .
+
+event:Difficulties_Accessing_Site a skos:Concept ;
+    skos:broader agent:Related_to_Elements_Next_to_Site ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "There are difficulties in accessing the site with emergency vehicles (architectural barriers, narrow roads, etc.)."@en .
+
+event:Digital_Media_Susceptible_to_Obsolescence a skos:Concept ;
+    skos:broader agent:Related_to_Object_Building_Site ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Digital media susceptible to obsolescence"@en .
+
+event:Direct_Physical_Effect_Temp_Fluctuation a skos:Concept ;
+    skos:broader agent:Temperature_Fluctuation_L2 ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Direct physical effect of temperature fluctuations (expansion, shrinkage, fatigue, cracking and conservation of materials)"@en .
+
+event:Droughts a skos:Concept ;
+    skos:broader agent:Natural_Climate_Change_Human_Induced ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Droughts"@en .
+
+event:Earthquake_L3 a skos:Concept ;
+    skos:broader agent:Catastrophic_Forces_Low_Incidence_High_Intensity ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Earthquake"@en .
+
+event:Electrical_Sources_HVAC a skos:Concept ;
+    skos:broader agent:Fire ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Electrical sources (overloaded wiring, electrical panels, electric equipment and appliances and HVAC system (heating/ventilation/air conditioning) systems"@en .
+
+event:Electronic_Records_Not_Migrated a skos:Concept ;
+    skos:broader agent:Due_Failure_to_Act ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Electronic records not transcribed or migrated to ensure continued accessibility"@en .
+
+event:Emergency_Fund_Accessible a skos:Concept ;
+    skos:broader agent:Related_to_Economic_Context ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "In emergency situations, there is a fund that is accessible, flexible, and easy to use."@en .
+
+event:Errors_in_Transcription a skos:Concept ;
+    skos:broader agent:Due_to_Action ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Errors in transcription"@en .
+
+event:Excavation a skos:Concept ;
+    skos:broader agent:Working_Forces_High_Incidence_Moderate_to_High_Intensity ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Excavation"@en .
+
+event:Exposure_to_Adjacent_Burning_Buildings a skos:Concept ;
+    skos:broader agent:Fire ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Exposure to adjacent burning buildings"@en .
+
+event:Extreme_Handling_Hazards a skos:Concept ;
+    skos:broader agent:Catastrophic_Forces_Low_Incidence_High_Intensity ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Extreme handling hazards"@en .
+
+event:Fading_by_Artificial_Lights a skos:Concept ;
+    skos:broader agent:Light_UV_I ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Fading by artificial lights (UV, IR and VIS compound of the spectrum)"@en .
+
+event:Fading_by_Natural_Light a skos:Concept ;
+    skos:broader agent:Light_UV_I ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Fading by natural light (all spectrum)"@en .
+
+event:Failure_to_Foster_Appreciation a skos:Concept ;
+    skos:broader agent:Management_of_the_Responsibility ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Failure to foster appreciation values"@en .
+
+event:Failure_to_Promote_Site a skos:Concept ;
+    skos:broader agent:Related_to_Social_and_Cultural_Context ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Failure to promote the site"@en .
+
+event:Fatty_Acids_from_People a skos:Concept ;
+    skos:broader agent:Pollutants_Transferred_by_Contact_L2 ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Fatty acids from people or from greasy objects like skin/leather"@en .
+
+event:Fire_Due_to_Relevant_Incidence a skos:Concept ;
+    skos:broader agent:Fire ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Fire due to relevant incidence (linked to factories)"@en .
+
+event:Fire_and_Arson a skos:Concept ;
+    skos:broader agent:Linked_to_Armed_Conflict ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Fire and arson"@en .
+
+event:Flash_Flood_L3 a skos:Concept ;
+    skos:broader agent:Natural_Climate_Change_Human_Induced ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Flash flood"@en .
+
+event:Flood_L3 a skos:Concept ;
+    skos:broader agent:Natural_Climate_Change_Human_Induced ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Flood"@en .
+
+event:Floor_Collapse a skos:Concept ;
+    skos:broader agent:Catastrophic_Forces_Low_Incidence_High_Intensity ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Floor collapse"@en .
+
+event:Fragile_Material_of_the_Entrance a skos:Concept ;
+    skos:broader agent:Linked_to_Security_Systems ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Fragile material of the entrance (wood)"@en .
+
+event:Fragile_Object a skos:Concept ;
+    skos:broader agent:Related_to_Object_Building_Site ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Fragile object (difficult to label)"@en .
+
+event:Fungi_L3 a skos:Concept ;
+    skos:broader agent:Microorganism_L2 ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Fungi"@en .
+
+event:Gas_Leaks a skos:Concept ;
+    skos:broader agent:Fire ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Gas leaks"@en .
+
+event:Gravitational_Loads a skos:Concept ;
+    skos:broader agent:Working_Forces_High_Incidence_Moderate_to_High_Intensity ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Gravitational loads (distortions compressing)"@en .
+
+event:Gravity_Improper_Supports a skos:Concept ;
+    skos:broader agent:Cumulative_Forces_High_Incidence_Low_Intensity ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Gravity (improperly designed supports or lead to distortion or breakage or objects)"@en .
+
+event:Handling_for_Photo_Shoot a skos:Concept ;
+    skos:broader agent:Working_Forces_High_Incidence_Moderate_to_High_Intensity ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Handling (for photo shoot, installation, crating…)"@en .
+
+event:Health_Hazards a skos:Concept ;
+    skos:broader agent:Airborne_Pollutants_Atmospheric_Source ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Health hazards"@en .
+
+event:Heatwave a skos:Concept ;
+    skos:broader agent:Temperature_Too_High ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Heatwave"@en .
+
+event:Hedges_Not_Taller_Than_0_4_M a skos:Concept ;
+    skos:broader agent:Linked_to_Security_Systems ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Hedges not taller than 0,4 m"@en .
+
+event:High_Cultural_Value a skos:Concept ;
+    skos:broader agent:Related_to_Object_Building_Site ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "High cultural value"@en .
+
+event:High_Diversity_of_Objects a skos:Concept ;
+    skos:broader agent:Related_to_Object_Building_Site ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "High diversity of objects"@en .
+
+event:High_Water_Table_L3 a skos:Concept ;
+    skos:broader agent:Natural_Climate_Change_Human_Induced ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "High water table"@en .
+
+event:Hot_Days_Physical_Damage a skos:Concept ;
+    skos:broader agent:Temperature_Too_High ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Increasing of number of hot days and cumulative exposure which cause physical damage (brittle)"@en .
+
+event:Human_Dejections a skos:Concept ;
+    skos:broader agent:Birds_Bats_and_Domestic_Animals ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Human dejections"@en .
+
+event:Hurricane_L3 a skos:Concept ;
+    skos:broader agent:Natural_Climate_Change_Human_Induced ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Hurricane"@en .
+
+event:Hydrogen_Sulphide_L3 a skos:Concept ;
+    skos:broader agent:Airborne_Pollutants_Atmospheric_Source ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Hydrogen sulphide"@en .
+
+event:IR_Heats_Surface a skos:Concept ;
+    skos:broader agent:Light_UV_I ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "IR heats the surface (linked to incorrect temperature)"@en .
+
+event:Ice_Jam_L3 a skos:Concept ;
+    skos:broader agent:Natural_Climate_Change_Human_Induced ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Ice jam"@en .
+
+event:Illegal_Acquired_Object a skos:Concept ;
+    skos:broader agent:Related_to_Object_Building_Site ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Illegal acquired object"@en .
+
+event:Impregnation_of_Residue_Cleaning_Agents a skos:Concept ;
+    skos:broader agent:Pollutants_Transferred_by_Contact_L2 ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Impregnation of residue of cleaning agents"@en .
+
+event:Impregnation_of_Salt_Brick_Stone a skos:Concept ;
+    skos:broader agent:Pollutants_Transferred_by_Contact_L2 ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Impregnation of salt from brick or stone floor of foundation"@en .
+
+event:Improper_Disposal_Flammable_Liquids a skos:Concept ;
+    skos:broader agent:Fire ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Improper use, storage, and/or disposal of flammable liquids such as thinners"@en .
+
+event:Incidental_Fire a skos:Concept ;
+    skos:broader agent:Linked_to_Armed_Conflict ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Incidental fire"@en .
+
+event:Incomplete_Record_Keeping a skos:Concept ;
+    skos:broader agent:Related_to_Staff_Care ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Incomplete or inadequate record keeping"@en .
+
+event:Insects_Specify_Types a skos:Concept ;
+    skos:broader agent:Insects_and_Rodents ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Insects (specify types)"@en .
+
+event:Insufficient_Part_Time_Staff a skos:Concept ;
+    skos:broader agent:Management_of_the_Responsibility ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Insufficient part-time staff"@en .
+
+event:International_Targeting a skos:Concept ;
+    skos:broader agent:Linked_to_Armed_Conflict ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "International targeting"@en .
+
+event:Landmines a skos:Concept ;
+    skos:broader agent:Linked_to_Armed_Conflict ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Landmines"@en .
+
+event:Large_Numbers_of_Objects a skos:Concept ;
+    skos:broader agent:Related_to_Object_Building_Site ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Large numbers of objects"@en .
+
+event:Large_Open_Staircase a skos:Concept ;
+    skos:broader agent:Fire ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Large open staircase that allows fire and smoke to spread"@en .
+
+event:Leak_from_Heating_System_L3 a skos:Concept ;
+    skos:broader agent:Technological_Mechanical_L2 ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Leak from heating system,"@en .
+
+event:Leaking_Roof_L3 a skos:Concept ;
+    skos:broader agent:Technological_Mechanical_L2 ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Leaking roof"@en .
+
+event:Legal_Requirements_Ownership a skos:Concept ;
+    skos:broader agent:Due_Failure_to_Act ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Legal requirements to continue ownership"@en .
+
+event:Lichens a skos:Concept ;
+    skos:broader agent:Microorganism_L2 ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Lichens"@en .
+
+event:Lightning a skos:Concept ;
+    skos:broader agent:Fire ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Lightning"@en .
+
+event:Located_by_or_Close_to_a_Body_of_Water_L3 a skos:Concept ;
+    skos:broader agent:Natural_Climate_Change_Human_Induced ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Located by or close to a body of water"@en .
+
+event:Looting a skos:Concept ;
+    skos:broader agent:Linked_to_Armed_Conflict ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Looting"@en .
+
+event:Management_Secondary_Responsibility a skos:Concept ;
+    skos:broader agent:Related_to_Institutional_and_Political_Context ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "The management of the site is a secondary or tertiary responsibility of the staff."@en .
+
+event:Material_Penetrations a skos:Concept ;
+    skos:broader agent:Fire ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Material where the penetrations pass through floors, ceilings and walls"@en .
+
+event:Misplacing_Objects a skos:Concept ;
+    skos:broader agent:Due_to_Action ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Misplacing objects"@en .
+
+event:Mould a skos:Concept ;
+    skos:broader agent:Microorganism_L2 ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Mould"@en .
+
+event:Neglect_of_Heritage_L3 a skos:Concept ;
+    skos:broader agent:Linked_to_Vandalism ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Neglect of heritage"@en .
+
+event:Neglect_of_Heritage_L3b a skos:Concept ;
+    skos:broader agent:Linked_to_Armed_Conflict ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Neglect of heritage"@en .
+
+event:Nest_of_Birds a skos:Concept ;
+    skos:broader agent:Birds_Bats_and_Domestic_Animals ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Nest of birds"@en .
+
+event:Nitrogen_Dioxide_L3 a skos:Concept ;
+    skos:broader agent:Airborne_Pollutants_Atmospheric_Source ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Nitrogen dioxide"@en .
+
+event:Nitrogen_Oxide_Compounds_Hydrolysis a skos:Concept ;
+    skos:broader agent:Intrinsic_Pollutants_L2 ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Nitrogen oxide compounds from hydrolysis of cellulose acetate and cellulose nitrate"@en .
+
+event:No_Designated_Storage_Place a skos:Concept ;
+    skos:broader agent:Related_to_Emergency_Response ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "There is no designated place to store assets removed from the cultural context"@en .
+
+event:No_Drills_Carried_Out a skos:Concept ;
+    skos:broader agent:Related_to_Emergency_Response ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "No drills are carried out to test procedures for securing cultural heritage."@en .
+
+event:No_List_of_Priorities a skos:Concept ;
+    skos:broader agent:Related_to_Emergency_Response ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "There is no list of priorities for the most significant evidence."@en .
+
+event:No_Means_Tools_Owned_by_Agency a skos:Concept ;
+    skos:broader agent:Related_to_Emergency_Response ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "there are no means/tools owned by the protection agency to deal with emergencies"@en .
+
+event:No_Programs_for_Additional_Revenue a skos:Concept ;
+    skos:broader agent:Related_to_Economic_Context ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "There are no programs to generate additional revenue."@en .
+
+event:No_Staff_Dedicated_to_Maintenance a skos:Concept ;
+    skos:broader agent:Related_to_Institutional_and_Political_Context ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "There is no staff dedicated solely to the maintenance of equipment (lighting, pumps, etc.)"@en .
+
+event:No_Subsidies_for_Site a skos:Concept ;
+    skos:broader agent:Related_to_Economic_Context ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "There are no subsidies from the community or private individuals to support the archaeological site."@en .
+
+event:No_Written_Emergency_Protocol a skos:Concept ;
+    skos:broader agent:Related_to_Emergency_Response ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "There is no written emergency protocol for cultural heritage for specific risks."@en .
+
+event:Object_Identification_Not_Permanent a skos:Concept ;
+    skos:broader agent:Due_Failure_to_Act ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Object identification is not permanent"@en .
+
+event:Object_Not_Adequately_Identified a skos:Concept ;
+    skos:broader agent:Due_Failure_to_Act ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Object non adequately identified to prevent discarding"@en .
+
+event:Object_Not_Fashionable a skos:Concept ;
+    skos:broader agent:Related_to_Object_Building_Site ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Object currently not “fashionable”"@en .
+
+event:Object_Not_Tracked_Closely a skos:Concept ;
+    skos:broader agent:Due_Failure_to_Act ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Object not tracked closely enough to prevent their lost"@en .
+
+event:Object_Valued_for_Uses a skos:Concept ;
+    skos:broader agent:Related_to_Object_Building_Site ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Object valued for uses not common to bulk of collection"@en .
+
+event:Object_for_Destructive_Sampling a skos:Concept ;
+    skos:broader agent:Related_to_Object_Building_Site ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Object for destructive sampling or destructive research"@en .
+
+event:Oily_Material_From_Leather a skos:Concept ;
+    skos:broader agent:Pollutants_Transferred_by_Contact_L2 ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Oily material from leather"@en .
+
+event:Older_Heating_Electric_Wiring a skos:Concept ;
+    skos:broader agent:Fire ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Older heating system and electric wiring"@en .
+
+event:Open_Flames a skos:Concept ;
+    skos:broader agent:Fire ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Open flames (such as candles and food warmers used during catered events)"@en .
+
+event:Openings_Ductwork_Pipes a skos:Concept ;
+    skos:broader agent:Fire ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Openings around installed or removed ductwork; electrical pipes not fire resistive"@en .
+
+event:Operational_Disruption a skos:Concept ;
+    skos:broader agent:Linked_to_Armed_Conflict ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Operational disruption"@en .
+
+event:Organic_Acid_Carboxylic_Acids a skos:Concept ;
+    skos:broader agent:Airborne_Pollutants_Atmospheric_Source ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Organic acid (carboxylic acids)"@en .
+
+event:Other_Professionals_Not_Understand_Value a skos:Concept ;
+    skos:broader agent:Related_to_Elements_Next_to_Site ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Other professionals do not understand the value of the cultural context."@en .
+
+event:Other_Professionals_Values_Not_Comprehended a skos:Concept ;
+    skos:broader agent:Related_to_Staff_Care ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Other professional’s sense of collection values and issue not comprehended"@en .
+
+event:Overall_Poor_Condition a skos:Concept ;
+    skos:broader agent:Related_to_Object_Building_Site ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Overall poor condition of collection"@en .
+
+event:Overflowing_Sinks_Toilets_Drains a skos:Concept ;
+    skos:broader agent:Technological_Mechanical_L2 ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Overflowing sinks (toilets, drains)"@en .
+
+event:Ozone_L3 a skos:Concept ;
+    skos:broader agent:Airborne_Pollutants_Atmospheric_Source ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Ozone"@en .
+
+event:PM_10 a skos:Concept ;
+    skos:broader agent:Airborne_Pollutants_Atmospheric_Source ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "PM 10"@en .
+
+event:PM_2_5 a skos:Concept ;
+    skos:broader agent:Airborne_Pollutants_Atmospheric_Source ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "PM 2.5"@en .
+
+event:Paper_Clips_on_Paper a skos:Concept ;
+    skos:broader agent:Pollutants_Transferred_by_Contact_L2 ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Paper clips on paper"@en .
+
+event:Particles_Soot_Salts a skos:Concept ;
+    skos:broader agent:Airborne_Pollutants_Atmospheric_Source ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Particles (soot, salts)"@en .
+
+event:Physical_Damage_High_Temp_Events a skos:Concept ;
+    skos:broader agent:Temperature_Too_High ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Physical damage during events when the temperature is too high"@en .
+
+event:Plasticizer_Form_PVC a skos:Concept ;
+    skos:broader agent:Pollutants_Transferred_by_Contact_L2 ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Plasticizer form PVC (polyvinyl chloride)"@en .
+
+event:Poor_Organization_of_Collection a skos:Concept ;
+    skos:broader agent:Related_to_Staff_Care ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Poor organization of the collection-area-building-site"@en .
+
+event:Poorly_Improperly_Insulated_Building_L3 a skos:Concept ;
+    skos:broader agent:Technological_Mechanical_L2 ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Poorly/improperly insulate building"@en .
+
+event:Power_Outages a skos:Concept ;
+    skos:broader agent:Airborne_Pollutants_Atmospheric_Source ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Power outages"@en .
+
+event:Presence_of_Custodians_Day a skos:Concept ;
+    skos:broader agent:Linked_to_Security_Systems ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Presence of custodians (day)"@en .
+
+event:Presence_of_Guardians_Night a skos:Concept ;
+    skos:broader agent:Linked_to_Security_Systems ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Presence of guardians (night)"@en .
+
+event:Presence_of_Security_Lighting a skos:Concept ;
+    skos:broader agent:Linked_to_Security_Systems ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Presence of security lighting"@en .
+
+event:Presence_of_Security_Lightning_Vandal_Proof a skos:Concept ;
+    skos:broader agent:Linked_to_Security_Systems ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Presence of security lightning enclosed in vandal-proof casing"@en .
+
+event:Presence_of_Security_at_the_Entrance a skos:Concept ;
+    skos:broader agent:Linked_to_Security_Systems ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel " "@en .
+
+event:Priority_Due_Diligence_Lower a skos:Concept ;
+    skos:broader agent:Management_of_the_Responsibility ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Priority for due diligence much lower than priority for product delivery"@en .
+
+event:Protection_Institution_Receives_Support a skos:Concept ;
+    skos:broader agent:Related_to_Institutional_and_Political_Context ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "The protection institution receives technical guidelines and financial support from the government to reduce risks related to heritage."@en .
+
+event:Proximity_Combustible_Materials a skos:Concept ;
+    skos:broader agent:Fire ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Proximity of combustible materials to heat source as portable heaters"@en .
+
+event:Proximity_to_Forest a skos:Concept ;
+    skos:broader agent:Fire ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Proximity to forest"@en .
+
+event:RH_Above_0_Percent_Chemical_Disintegration a skos:Concept ;
+    skos:broader agent:RH_Above_0_Percent ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "RH above 0% which cause internal chemical disintegration (hydrolysis, dye instability, residual chemicals)"@en .
+
+event:RH_Fluctuations_Damages_Organic a skos:Concept ;
+    skos:broader agent:RH_Fluctuations_L2 ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "RH fluctuations which cause damages o other organic objects"@en .
+
+event:RH_Fluctuations_Paintings_Crack a skos:Concept ;
+    skos:broader agent:RH_Fluctuations_L2 ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "RH fluctuations which cause paintings or paint layers may crack, delaminate or flake"@en .
+
+event:RH_Fluctuations_Paper_Delaminate a skos:Concept ;
+    skos:broader agent:RH_Fluctuations_L2 ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "RH fluctuations which cause flat sheets of paper, film, tape, with an image or data layer may delaminate, fracture or distort permanently"@en .
+
+event:RH_Fluctuations_Plus_Minus_10 a skos:Concept ;
+    skos:broader agent:RH_Fluctuations_L2 ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "RH fluctuations +/- 10%"@en .
+
+event:RH_Fluctuations_Plus_Minus_20 a skos:Concept ;
+    skos:broader agent:RH_Fluctuations_L2 ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "RH fluctuations +/- 20%"@en .
+
+event:RH_Fluctuations_Plus_Minus_40 a skos:Concept ;
+    skos:broader agent:RH_Fluctuations_L2 ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "RH fluctuations +/- 40% "@en .
+
+event:RH_Fluctuations_Plus_Minus_5 a skos:Concept ;
+    skos:broader agent:RH_Fluctuations_L2 ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "RH fluctuations +/- 5%"@en .
+
+event:RH_Fluctuations_Wood_Crack a skos:Concept ;
+    skos:broader agent:RH_Fluctuations_L2 ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "RH fluctuations which cause wood or wood assemblies may crack, split, delaminate or distort permanently"@en .
+
+event:Rainstorm_L3 a skos:Concept ;
+    skos:broader agent:Natural_Climate_Change_Human_Induced ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Rainstorm"@en .
+
+event:Record_Keeping_Staff_Access a skos:Concept ;
+    skos:broader agent:Linked_to_Security_Systems ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Record keeping of staff access during and after opening hours /sign-in sheet/ electronic tracking system"@en .
+
+event:Recording_Data_Illegible a skos:Concept ;
+    skos:broader agent:Due_to_Action ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Recording object and collection data in an illegible manner"@en .
+
+event:Recording_Data_Non_Permanent a skos:Concept ;
+    skos:broader agent:Due_to_Action ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Recording object and collection data in non-permanent manners"@en .
+
+event:Regular_Monitoring_Not_Carried_Out a skos:Concept ;
+    skos:broader agent:Related_to_Institutional_and_Political_Context ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Regular monitoring of the state of conservation is not carried out"@en .
+
+event:Relationship_with_Community_Weak a skos:Concept ;
+    skos:broader agent:Related_to_Social_and_Cultural_Context ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "The relationship with the community surrounding the site is weak"@en .
+
+event:Release_of_Toxic_Chemicals a skos:Concept ;
+    skos:broader agent:Airborne_Pollutants_Atmospheric_Source ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Release of toxic chemicals"@en .
+
+event:Relevant_Incidence_Factories a skos:Concept ;
+    skos:broader agent:Airborne_Pollutants_Atmospheric_Source ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Relevant incidence (linked to factories)"@en .
+
+event:Removing_Identifying_Labels a skos:Concept ;
+    skos:broader agent:Due_to_Action ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Removing identifying labels or tags from object"@en .
+
+event:Rodents_L3 a skos:Concept ;
+    skos:broader agent:Insects_and_Rodents ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Rodents"@en .
+
+event:Roof_Collapse a skos:Concept ;
+    skos:broader agent:Catastrophic_Forces_Low_Incidence_High_Intensity ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Roof collapse"@en .
+
+event:Roof_Not_Reinforced a skos:Concept ;
+    skos:broader agent:Related_to_Emergency_Response ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "The roof has not been reinforced to withstand major weather events"@en .
+
+event:Roof_Opening_Not_Locked a skos:Concept ;
+    skos:broader agent:Linked_to_Security_Systems ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Roof opening not locked and alarmed"@en .
+
+event:Salts_Impregnation_Burial_Seawater a skos:Concept ;
+    skos:broader agent:Pollutants_Transferred_by_Contact_L2 ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Salts impregnation during burial or immersion in seawater"@en .
+
+event:Security_Threat a skos:Concept ;
+    skos:broader agent:Linked_to_Vandalism ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Security threat"@en .
+
+event:Sewer_Failure_Back_Up_L3 a skos:Concept ;
+    skos:broader agent:Technological_Mechanical_L2 ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Sewer failure/back up"@en .
+
+event:Shipment_Disaster a skos:Concept ;
+    skos:broader agent:Catastrophic_Forces_Low_Incidence_High_Intensity ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Shipment disaster"@en .
+
+event:Shipment_Loading_Unloading a skos:Concept ;
+    skos:broader agent:Working_Forces_High_Incidence_Moderate_to_High_Intensity ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Shipment (loading, unloading, cargo transfer)"@en .
+
+event:Shipping_Cumulative a skos:Concept ;
+    skos:broader agent:Cumulative_Forces_High_Incidence_Low_Intensity ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Shipping"@en .
+
+event:Shooting a skos:Concept ;
+    skos:broader agent:Linked_to_Armed_Conflict ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Shooting"@en .
+
+event:Shortages_of_Funds_Personnel a skos:Concept ;
+    skos:broader agent:Related_to_Institutional_and_Political_Context ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "There are shortages of funds, personnel, emergency personnel, lack of communication between departments, unclear rules, decisions made from above, lack of political will, overlapping unclear rules/methodologies"@en .
+
+event:Site_Generates_Income a skos:Concept ;
+    skos:broader agent:Related_to_Economic_Context ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "The site generates income for surrounding businesses."@en .
+
+event:Site_Not_Appropriated_for_Public a skos:Concept ;
+    skos:broader agent:Related_to_Institutional_and_Political_Context ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "The site has not appropriated conditions for opening to the public."@en .
+
+event:Sleet_and_Ice_Storm_L3 a skos:Concept ;
+    skos:broader agent:Natural_Climate_Change_Human_Induced ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Sleet and ice storm"@en .
+
+event:Slow_Rising_Flood_L3 a skos:Concept ;
+    skos:broader agent:Natural_Climate_Change_Human_Induced ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Slow rising flood"@en .
+
+event:Small_Object_Size a skos:Concept ;
+    skos:broader agent:Related_to_Object_Building_Site ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Small object size (difficult to label)"@en .
+
+event:Smoke_From_a_Fire a skos:Concept ;
+    skos:broader agent:Airborne_Pollutants_Atmospheric_Source ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Smoke (from a fire)"@en .
+
+event:Smoking_Materials a skos:Concept ;
+    skos:broader agent:Fire ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Smoking materials"@en .
+
+event:Spread_Misinformation a skos:Concept ;
+    skos:broader agent:Linked_to_Armed_Conflict ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Spread misinformation"@en .
+
+event:Spring_Melt_or_Run_Off_L3 a skos:Concept ;
+    skos:broader agent:Natural_Climate_Change_Human_Induced ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Spring melt or run off"@en .
+
+event:Sprinkler_System_Malfunction_L3 a skos:Concept ;
+    skos:broader agent:Technological_Mechanical_L2 ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Sprinkler system malfunction"@en .
+
+event:Staff_Not_Aware_of_Legal_Issue a skos:Concept ;
+    skos:broader agent:Related_to_Staff_Care ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Staff not aware of legal issue"@en .
+
+event:Staff_Not_Aware_of_Storage_Organization a skos:Concept ;
+    skos:broader agent:Related_to_Staff_Care ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Staff not adequately aware of storage organization"@en .
+
+event:Staff_Not_Trained_in_Collection_Management a skos:Concept ;
+    skos:broader agent:Management_of_the_Responsibility ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Staff not trained in collection management"@en .
+
+event:Staining_Materials_From_Wood a skos:Concept ;
+    skos:broader agent:Pollutants_Transferred_by_Contact_L2 ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Staining materials from wood (knots)"@en .
+
+event:Storm_Drains_Sewer_Unable_to_Cope a skos:Concept ;
+    skos:broader agent:Technological_Mechanical_L2 ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Storm drains/sewer (unable to cope)"@en .
+
+event:Subsidence a skos:Concept ;
+    skos:broader agent:Cumulative_Forces_High_Incidence_Low_Intensity ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Subsidence"@en .
+
+event:Sulphur_Base_Gases a skos:Concept ;
+    skos:broader agent:Airborne_Pollutants_Atmospheric_Source ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Sulphur-base gases"@en .
+
+event:Sulphur_Compounds_Natural_Rubber a skos:Concept ;
+    skos:broader agent:Pollutants_Transferred_by_Contact_L2 ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Sulphur compounds from natural rubber"@en .
+
+event:Sulphur_Dioxide_L3 a skos:Concept ;
+    skos:broader agent:Airborne_Pollutants_Atmospheric_Source ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Sulphur dioxide"@en .
+
+event:Symbolic_Attack a skos:Concept ;
+    skos:broader agent:Linked_to_Armed_Conflict ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Symbolic attack"@en .
+
+event:Temperature_Too_Low_Brittle a skos:Concept ;
+    skos:broader agent:Temperature_Too_Low ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Temperature too low to cause physical damage (brittle)"@en .
+
+event:Territory_Political_Instability a skos:Concept ;
+    skos:broader agent:Related_to_Institutional_and_Political_Context ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "The territory suffers from political instability, weak governance, or conflicts"@en .
+
+event:Terror_Attack a skos:Concept ;
+    skos:broader agent:Linked_to_Armed_Conflict ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Terror attack"@en .
+
+event:Theft_L3 a skos:Concept ;
+    skos:broader agent:Linked_to_Vandalism ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Theft"@en .
+
+event:Tradition_of_Illegal_Acquisition_L3 a skos:Concept ;
+    skos:broader agent:Related_to_Object_Building_Site ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Tradition of illegal object acquisition"@en .
+
+event:Tradition_of_Illegal_Acquisition_L3b a skos:Concept ;
+    skos:broader agent:Related_to_Object_Building_Site ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Tradition of illegal object acquisition (duplicate)"@en .
+
+event:Transit_In_House a skos:Concept ;
+    skos:broader agent:Working_Forces_High_Incidence_Moderate_to_High_Intensity ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Transit (in-house)"@en .
+
+event:Trash_Containers a skos:Concept ;
+    skos:broader agent:Fire ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Trash containers"@en .
+
+event:Trees_Not_Taller_Than_6_M a skos:Concept ;
+    skos:broader agent:Linked_to_Security_Systems ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Trees not taller than 6 m"@en .
+
+event:Tsunami_L3 a skos:Concept ;
+    skos:broader agent:Natural_Climate_Change_Human_Induced ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Tsunami"@en .
+
+event:UV_Causing_Disintegration a skos:Concept ;
+    skos:broader agent:Light_UV_I ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "UV (natural and artificial) which caused yellowing, chalking, weakening, disintegration of materials"@en .
+
+event:Unexploded_Ordnance a skos:Concept ;
+    skos:broader agent:Linked_to_Armed_Conflict ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Unexploded ordnance"@en .
+
+event:Unregulated_Access a skos:Concept ;
+    skos:broader agent:Related_to_Staff_Care ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Unregulated or unrestricted access to collections-area-building-site"@en .
+
+event:Unresolved_Copyright_Issues a skos:Concept ;
+    skos:broader agent:Related_to_Object_Building_Site ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Unresolved copyright or ownership issues"@en .
+
+event:Unsafe_Buildings_Near_Site a skos:Concept ;
+    skos:broader agent:Related_to_Elements_Next_to_Site ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "There are unsafe/abandoned/dilapidated buildings near the archaeological site."@en .
+
+event:Unstrained_Volunteers a skos:Concept ;
+    skos:broader agent:Related_to_Staff_Care ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Unstrained volunteers (staff not aware of correct procedures"@en .
+
+event:Use_of_Water_Construction a skos:Concept ;
+    skos:broader agent:Technological_Mechanical_L2 ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Use of water during construction and renovation/maintenance/restoration"@en .
+
+event:Vandalism_L3 a skos:Concept ;
+    skos:broader agent:Linked_to_Vandalism ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Vandalism"@en .
+
+event:Vascular_Plants a skos:Concept ;
+    skos:broader agent:Microorganism_L2 ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Vascular plants"@en .
+
+event:Ventilation_AC_System a skos:Concept ;
+    skos:broader agent:Technological_Mechanical_L2 ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Ventilation system or air conditioning system"@en .
+
+event:Vibration_Loud_Music a skos:Concept ;
+    skos:broader agent:Low_Level_Forces_Variable_Incidence_Low_Intensity ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Vibration (loud music)"@en .
+
+event:Viscous_Compounds_Polyurethane a skos:Concept ;
+    skos:broader agent:Pollutants_Transferred_by_Contact_L2 ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Viscous compounds from old polyurethane foams"@en .
+
+event:War_and_Vandalism_Breakage a skos:Concept ;
+    skos:broader agent:Catastrophic_Forces_Low_Incidence_High_Intensity ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "War and vandalism (breakage)"@en .
+
+event:Warfare_Drone_Missile_Attacks a skos:Concept ;
+    skos:broader agent:Linked_to_Armed_Conflict ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Warfare, drone/missile attacks"@en .
+
+event:Water_Chemical_Spills a skos:Concept ;
+    skos:broader agent:Accidents_Water ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Water used in cleaning up chemical spills"@en .
+
+event:Water_Damage_Due_Fire a skos:Concept ;
+    skos:broader agent:Accidents_Water ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Water damage due fire (sprinkler system discharge or/and fire hoses)"@en .
+
+event:Water_Scarcity a skos:Concept ;
+    skos:broader agent:Natural_Climate_Change_Human_Induced ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Water scarcity"@en .
+
+event:Wildfires a skos:Concept ;
+    skos:broader agent:Fire ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Wildfires"@en .
+
+event:Windstorm_L3 a skos:Concept ;
+    skos:broader agent:Natural_Climate_Change_Human_Induced ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:prefLabel "Windstorm"@en .
+
+agent:RH_Above_0_Percent a skos:Concept ;
+    skos:broader agent:Incorrect_RH ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:narrower event:RH_Above_0_Percent_Chemical_Disintegration ;
+    skos:prefLabel "RH above 0%"@en .
+
+agent:Temperature_Fluctuation_L2 a skos:Concept ;
+    skos:broader agent:Incorrect_temperature ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:narrower event:Direct_Physical_Effect_Temp_Fluctuation ;
+    skos:prefLabel "Temperature fluctuation"@en .
+
+agent:Temperature_Too_Low a skos:Concept ;
+    skos:broader agent:Incorrect_temperature ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:narrower event:Temperature_Too_Low_Brittle ;
+    skos:prefLabel "Temperature too low"@en .
+
+agent:Accidents_Water a skos:Concept ;
+    skos:broader agent:Water ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:narrower event:Water_Chemical_Spills,
+        event:Water_Damage_Due_Fire ;
+    skos:prefLabel "Accidents"@en .
+
+agent:Criminals a skos:Concept ;
+    skos:broader agent:Agent ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:narrower agent:Linked_to_Armed_Conflict,
+        agent:Linked_to_Security_Systems,
+        agent:Linked_to_Vandalism ;
+    skos:note "Persons committing unlawful acts."@en ;
+    skos:prefLabel "Criminals"@en .
+
+agent:Incorrect_temperature a skos:Concept ;
+    skos:broader agent:Agent ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:narrower agent:Temperature_Fluctuation_L2,
+        agent:Temperature_Too_High,
+        agent:Temperature_Too_Low ;
+    skos:note "Wrong temperature leading to damage."@en ;
+    skos:prefLabel "Incorrect temperature"@en .
+
+agent:Pollutants a skos:Concept ;
+    skos:broader agent:Agent ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:narrower agent:Airborne_Pollutants_Atmospheric_Source,
+        agent:Intrinsic_Pollutants_L2,
+        agent:Pollutants_Transferred_by_Contact_L2 ;
+    skos:note "Harmful substances affecting materials."@en ;
+    skos:prefLabel "Pollutants"@en .
+
+agent:Cumulative_Forces_High_Incidence_Low_Intensity a skos:Concept ;
+    skos:broader agent:Physical_Forces ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:narrower event:Gravity_Improper_Supports,
+        event:Shipping_Cumulative,
+        event:Subsidence ;
+    skos:prefLabel "Cumulative forces (high incidence, low intensity)"@en .
+
+agent:Damp_Over_75_Percent a skos:Concept ;
+    skos:broader agent:Incorrect_RH ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:narrower event:Damp_Causes_Colorants_Bleed,
+        event:Damp_Causes_Mechanical_Damage,
+        event:Damp_Causes_Mould ;
+    skos:prefLabel "Damp, over 75%"@en .
+
+agent:Incorrect_RH a skos:Concept ;
+    skos:broader agent:Agent ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:narrower agent:Damp_Over_75_Percent,
+        agent:RH_Above_0_Percent,
+        agent:RH_Critical_Value,
+        agent:RH_Fluctuations_L2 ;
+    skos:note "Improper humidity affecting preservation."@en ;
+    skos:prefLabel "Incorrect RH"@en .
+
+agent:Insects_and_Rodents a skos:Concept ;
+    skos:broader agent:Pests ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:narrower event:Arthropods_Specify_Types,
+        event:Insects_Specify_Types,
+        event:Rodents_L3 ;
+    skos:prefLabel "Insects and rodents"@en .
+
+agent:Pests a skos:Concept ;
+    skos:broader agent:Agent ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:narrower agent:Birds_Bats_and_Domestic_Animals,
+        agent:Insects_and_Rodents,
+        agent:Microorganism_L2 ;
+    skos:note "Living organisms that are able to disfigure, damage, and destroy material culture."@en ;
+    skos:prefLabel "Pests"@en .
+
+agent:Physical_Forces a skos:Concept ;
+    skos:broader agent:Agent ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:narrower agent:Catastrophic_Forces_Low_Incidence_High_Intensity,
+        agent:Cumulative_Forces_High_Incidence_Low_Intensity,
+        agent:Low_Level_Forces_Variable_Incidence_Low_Intensity,
+        agent:Working_Forces_High_Incidence_Moderate_to_High_Intensity ;
+    skos:note "Physical force can damage objects directly by causing rotation, deformation, stress, and pressure. It may also damage objects indirectly by causing collision between objects or object parts. Damage from physical force ranges from imperceptible hairline fissures and minute losses, to large-scale effects such as crushing objects, collapsing floors, and, in extreme cases, destroying buildings."@en ;
+    skos:prefLabel "Physical Forces"@en .
+
+agent:RH_Critical_Value a skos:Concept ;
+    skos:broader agent:Incorrect_RH ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:narrower event:Critical_RH_Corrosion,
+        event:Critical_RH_Glass_Crizzling,
+        event:Critical_RH_Minerals_Crimple ;
+    skos:prefLabel "RH above or below a critical value for the object materials"@en .
+
+agent:Related_to_Elements_Next_to_Site a skos:Concept ;
+    skos:broader agent:Dissociation ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:narrower event:Difficulties_Accessing_Site,
+        event:Other_Professionals_Not_Understand_Value,
+        event:Unsafe_Buildings_Near_Site ;
+    skos:prefLabel "Related to elements next to the object/buildings/site"@en .
+
+agent:Related_to_Social_and_Cultural_Context a skos:Concept ;
+    skos:broader agent:Dissociation ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:narrower event:Cultural_Heritage_Target_for_Warfare,
+        event:Failure_to_Promote_Site,
+        event:Relationship_with_Community_Weak ;
+    skos:prefLabel "Related to social and cultural context"@en .
+
+agent:Water a skos:Concept ;
+    skos:broader agent:Agent ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:narrower agent:Accidents_Water,
+        agent:Natural_Climate_Change_Human_Induced,
+        agent:Technological_Mechanical_L2 ;
+    skos:note "Liquid capable of causing deterioration."@en ;
+    skos:prefLabel "Water"@en .
+
+agent:Intrinsic_Pollutants_L2 a skos:Concept ;
+    skos:broader agent:Pollutants ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:narrower event:Acetic_Acid_L3,
+        event:Composite_Object_Harmful_Compounds,
+        event:Composite_Objects_Sulphur_Metals,
+        event:Nitrogen_Oxide_Compounds_Hydrolysis ;
+    skos:prefLabel "Intrinsic pollutants"@en .
+
+agent:Low_Level_Forces_Variable_Incidence_Low_Intensity a skos:Concept ;
+    skos:broader agent:Physical_Forces ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:narrower event:Acoustic_Sources,
+        event:Building_Vibration,
+        event:Construction_Vibration_Blasting,
+        event:Vibration_Loud_Music ;
+    skos:prefLabel "Low level forces (variable incidence, low intensity)"@en .
+
+agent:Related_to_Economic_Context a skos:Concept ;
+    skos:broader agent:Dissociation ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:narrower event:Emergency_Fund_Accessible,
+        event:No_Programs_for_Additional_Revenue,
+        event:No_Subsidies_for_Site,
+        event:Site_Generates_Income ;
+    skos:prefLabel "Related to economic context"@en .
+
+agent:Due_to_Action a skos:Concept ;
+    skos:broader agent:Dissociation ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:narrower event:Errors_in_Transcription,
+        event:Misplacing_Objects,
+        event:Recording_Data_Illegible,
+        event:Recording_Data_Non_Permanent,
+        event:Removing_Identifying_Labels ;
+    skos:prefLabel "Due to action"@en .
+
+agent:Linked_to_Vandalism a skos:Concept ;
+    skos:broader agent:Criminals ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:narrower event:Civil_Unrest,
+        event:Neglect_of_Heritage_L3,
+        event:Security_Threat,
+        event:Theft_L3,
+        event:Vandalism_L3 ;
+    skos:prefLabel "Linked to vandalism"@en .
+
+agent:Temperature_Too_High a skos:Concept ;
+    skos:broader agent:Incorrect_temperature ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:narrower event:Biological_Damage_High_Temp_Growth,
+        event:Cumulative_Chemical_Damage_High_Temp,
+        event:Heatwave,
+        event:Hot_Days_Physical_Damage,
+        event:Physical_Damage_High_Temp_Events ;
+    skos:prefLabel "Temperature too high"@en .
+
+agent:Catastrophic_Forces_Low_Incidence_High_Intensity a skos:Concept ;
+    skos:broader agent:Physical_Forces ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:narrower event:Earthquake_L3,
+        event:Extreme_Handling_Hazards,
+        event:Floor_Collapse,
+        event:Roof_Collapse,
+        event:Shipment_Disaster,
+        event:War_and_Vandalism_Breakage ;
+    skos:prefLabel "Catastrophic forces (low incidence, high intensity) "@en .
+
+agent:Due_Failure_to_Act a skos:Concept ;
+    skos:broader agent:Dissociation ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:narrower event:Activities_Maintenance_Not_Proscribed,
+        event:Electronic_Records_Not_Migrated,
+        event:Legal_Requirements_Ownership,
+        event:Object_Identification_Not_Permanent,
+        event:Object_Not_Adequately_Identified,
+        event:Object_Not_Tracked_Closely ;
+    skos:prefLabel "Due failure to act"@en .
+
+agent:Light_UV_I a skos:Concept ;
+    skos:broader agent:Agent ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:narrower event:Fading_by_Artificial_Lights,
+        event:Fading_by_Natural_Light,
+        event:IR_Heats_Surface,
+        event:UV_Causing_Disintegration ;
+    skos:note "Energy waves impacting materials."@en ;
+    skos:prefLabel "Light, UV, I"@en .
+
+agent:Management_of_the_Responsibility a skos:Concept ;
+    skos:broader agent:Dissociation ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:narrower event:Collection_Care_Secondary_Responsibility_L3,
+        event:Collection_Not_Held_Dedicated_Spaces,
+        event:Failure_to_Foster_Appreciation,
+        event:Insufficient_Part_Time_Staff,
+        event:Priority_Due_Diligence_Lower,
+        event:Staff_Not_Trained_in_Collection_Management ;
+    skos:prefLabel "Management of the responsibility"@en .
+
+agent:Related_to_Emergency_Response a skos:Concept ;
+    skos:broader agent:Dissociation ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:narrower event:No_Designated_Storage_Place,
+        event:No_Drills_Carried_Out,
+        event:No_List_of_Priorities,
+        event:No_Means_Tools_Owned_by_Agency,
+        event:No_Written_Emergency_Protocol,
+        event:Roof_Not_Reinforced ;
+    skos:prefLabel "Related to emergency response of the cultural site"@en .
+
+agent:Working_Forces_High_Incidence_Moderate_to_High_Intensity a skos:Concept ;
+    skos:broader agent:Physical_Forces ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:narrower event:Construction_Vibrations,
+        event:Excavation,
+        event:Gravitational_Loads,
+        event:Handling_for_Photo_Shoot,
+        event:Shipment_Loading_Unloading,
+        event:Transit_In_House ;
+    skos:prefLabel "Working forces (high incidence, moderate to high intensity)"@en .
+
+agent:Birds_Bats_and_Domestic_Animals a skos:Concept ;
+    skos:broader agent:Pests ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:narrower event:Absence_of_Barriers_Birds,
+        event:Bats_L3,
+        event:Bird_Guano_Deposits,
+        event:Birds_Specify_Type,
+        event:Dejections_of_Domestic_Animals,
+        event:Human_Dejections,
+        event:Nest_of_Birds ;
+    skos:prefLabel "Birds, bats and domestic animals"@en .
+
+agent:Microorganism_L2 a skos:Concept ;
+    skos:broader agent:Pests ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:narrower event:Algae_and_Cyanobacteria,
+        event:Bacteria_L3,
+        event:Bryophytes,
+        event:Fungi_L3,
+        event:Lichens,
+        event:Mould,
+        event:Vascular_Plants ;
+    skos:prefLabel "Microorganism"@en .
+
+agent:RH_Fluctuations_L2 a skos:Concept ;
+    skos:broader agent:Incorrect_RH ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:narrower event:RH_Fluctuations_Damages_Organic,
+        event:RH_Fluctuations_Paintings_Crack,
+        event:RH_Fluctuations_Paper_Delaminate,
+        event:RH_Fluctuations_Plus_Minus_10,
+        event:RH_Fluctuations_Plus_Minus_20,
+        event:RH_Fluctuations_Plus_Minus_40,
+        event:RH_Fluctuations_Plus_Minus_5,
+        event:RH_Fluctuations_Wood_Crack ;
+    skos:prefLabel "RH fluctuations"@en .
+
+agent:Related_to_Institutional_and_Political_Context a skos:Concept ;
+    skos:broader agent:Dissociation ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:narrower event:Coordination_Protocol_Exists,
+        event:Management_Secondary_Responsibility,
+        event:No_Staff_Dedicated_to_Maintenance,
+        event:Protection_Institution_Receives_Support,
+        event:Regular_Monitoring_Not_Carried_Out,
+        event:Shortages_of_Funds_Personnel,
+        event:Site_Not_Appropriated_for_Public,
+        event:Territory_Political_Instability ;
+    skos:prefLabel "Related to institutional and political context"@en .
+
+agent:Dissociation a skos:Concept ;
+    skos:broader agent:Agent ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:narrower agent:Due_Failure_to_Act,
+        agent:Due_to_Action,
+        agent:Management_of_the_Responsibility,
+        agent:Related_to_Economic_Context,
+        agent:Related_to_Elements_Next_to_Site,
+        agent:Related_to_Emergency_Response,
+        agent:Related_to_Institutional_and_Political_Context,
+        agent:Related_to_Object_Building_Site,
+        agent:Related_to_Social_and_Cultural_Context,
+        agent:Related_to_Staff_Care ;
+    skos:note "Separation or loss of context."@en ;
+    skos:prefLabel "Dissociation"@en .
+
+agent:Related_to_Staff_Care a skos:Concept ;
+    skos:broader agent:Dissociation ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:narrower event:Choice_of_Unstable_Products,
+        event:Cultural_Value_Not_Appreciated,
+        event:Incomplete_Record_Keeping,
+        event:Other_Professionals_Values_Not_Comprehended,
+        event:Poor_Organization_of_Collection,
+        event:Staff_Not_Aware_of_Legal_Issue,
+        event:Staff_Not_Aware_of_Storage_Organization,
+        event:Unregulated_Access,
+        event:Unstrained_Volunteers ;
+    skos:prefLabel "Related to staff care"@en .
+
+agent:Agent a skos:Concept ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:note "General agent causing effects or change."@en ;
+    skos:prefLabel "Agent"@en .
+
+agent:Pollutants_Transferred_by_Contact_L2 a skos:Concept ;
+    skos:broader agent:Pollutants ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:narrower event:Acids_from_Mineral_Specimens,
+        event:Adhesives_on_Object,
+        event:Fatty_Acids_from_People,
+        event:Impregnation_of_Residue_Cleaning_Agents,
+        event:Impregnation_of_Salt_Brick_Stone,
+        event:Oily_Material_From_Leather,
+        event:Paper_Clips_on_Paper,
+        event:Plasticizer_Form_PVC,
+        event:Salts_Impregnation_Burial_Seawater,
+        event:Staining_Materials_From_Wood,
+        event:Sulphur_Compounds_Natural_Rubber,
+        event:Viscous_Compounds_Polyurethane ;
+    skos:prefLabel "Pollutants transferred by contact"@en .
+
+agent:Technological_Mechanical_L2 a skos:Concept ;
+    skos:broader agent:Water ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:narrower event:Blocked_Eaves,
+        event:Broken_Water_Line_L3,
+        event:Careless_Use_of_Water_Events,
+        event:Leak_from_Heating_System_L3,
+        event:Leaking_Roof_L3,
+        event:Overflowing_Sinks_Toilets_Drains,
+        event:Poorly_Improperly_Insulated_Building_L3,
+        event:Sewer_Failure_Back_Up_L3,
+        event:Sprinkler_System_Malfunction_L3,
+        event:Storm_Drains_Sewer_Unable_to_Cope,
+        event:Use_of_Water_Construction,
+        event:Ventilation_AC_System ;
+    skos:prefLabel "Technological/mechanical "@en .
+
+agent:Linked_to_Security_Systems a skos:Concept ;
+    skos:broader agent:Criminals ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:narrower event:Absence_of_Camera_CCTV,
+        event:Absence_of_Screen_or_Steel_Bars,
+        event:Absence_of_Signs,
+        event:Fragile_Material_of_the_Entrance,
+        event:Hedges_Not_Taller_Than_0_4_M,
+        event:Presence_of_Custodians_Day,
+        event:Presence_of_Guardians_Night,
+        event:Presence_of_Security_Lighting,
+        event:Presence_of_Security_Lightning_Vandal_Proof,
+        event:Presence_of_Security_at_the_Entrance,
+        event:Record_Keeping_Staff_Access,
+        event:Roof_Opening_Not_Locked,
+        event:Trees_Not_Taller_Than_6_M ;
+    skos:prefLabel "Linked to security systems"@en .
+
+event:Technological_or_mechanical a skos:Concept ;
+    skos:broader agent:Water ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:note "Technology or machinery related agents."@en ;
+    skos:prefLabel "Technological or mechanical"@en .
+
+agent:Airborne_Pollutants_Atmospheric_Source a skos:Concept ;
+    skos:broader agent:Pollutants ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:narrower event:Carbonyl_Sulphide,
+        event:Health_Hazards,
+        event:Hydrogen_Sulphide_L3,
+        event:Nitrogen_Dioxide_L3,
+        event:Organic_Acid_Carboxylic_Acids,
+        event:Ozone_L3,
+        event:PM_10,
+        event:PM_2_5,
+        event:Particles_Soot_Salts,
+        event:Power_Outages,
+        event:Release_of_Toxic_Chemicals,
+        event:Relevant_Incidence_Factories,
+        event:Smoke_From_a_Fire,
+        event:Sulphur_Base_Gases,
+        event:Sulphur_Dioxide_L3 ;
+    skos:prefLabel "Airborne pollutants: atmospheric source and emissive products"@en .
+
+agent:Natural_Climate_Change_Human_Induced a skos:Concept ;
+    skos:broader agent:Water ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:narrower event:Avalanche_Glacier_Burst,
+        event:Droughts,
+        event:Flash_Flood_L3,
+        event:Flood_L3,
+        event:High_Water_Table_L3,
+        event:Hurricane_L3,
+        event:Ice_Jam_L3,
+        event:Located_by_or_Close_to_a_Body_of_Water_L3,
+        event:Rainstorm_L3,
+        event:Sleet_and_Ice_Storm_L3,
+        event:Slow_Rising_Flood_L3,
+        event:Spring_Melt_or_Run_Off_L3,
+        event:Tsunami_L3,
+        event:Water_Scarcity,
+        event:Windstorm_L3 ;
+    skos:prefLabel "Natural – Climate change and human induced"@en .
+
+agent:Related_to_Object_Building_Site a skos:Concept ;
+    skos:broader agent:Dissociation ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:narrower event:Collection_Data_Many_Sources,
+        event:Collection_Data_Obsolescence_Repository,
+        event:Digital_Media_Susceptible_to_Obsolescence,
+        event:Fragile_Object,
+        event:High_Cultural_Value,
+        event:High_Diversity_of_Objects,
+        event:Illegal_Acquired_Object,
+        event:Large_Numbers_of_Objects,
+        event:Object_Not_Fashionable,
+        event:Object_Valued_for_Uses,
+        event:Object_for_Destructive_Sampling,
+        event:Overall_Poor_Condition,
+        event:Small_Object_Size,
+        event:Tradition_of_Illegal_Acquisition_L3,
+        event:Tradition_of_Illegal_Acquisition_L3b,
+        event:Unresolved_Copyright_Issues ;
+    skos:prefLabel "Related to the object/building/site"@en .
+
+agent:Linked_to_Armed_Conflict a skos:Concept ;
+    skos:broader agent:Criminals ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:narrower event:Air_Land_Attacks,
+        event:Armed_Conflict_L3,
+        event:Bombing,
+        event:Compromised_Security_Systems,
+        event:Cyberattacks,
+        event:Data_Breach,
+        event:Fire_and_Arson,
+        event:Incidental_Fire,
+        event:International_Targeting,
+        event:Landmines,
+        event:Looting,
+        event:Neglect_of_Heritage_L3b,
+        event:Operational_Disruption,
+        event:Shooting,
+        event:Spread_Misinformation,
+        event:Symbolic_Attack,
+        event:Terror_Attack,
+        event:Unexploded_Ordnance,
+        event:Warfare_Drone_Missile_Attacks ;
+    skos:prefLabel "Linked to armed conflict"@en .
+
+agent:Fire a skos:Concept ;
+    skos:broader agent:Agent ;
+    skos:inScheme agent:DamageCausingAgentsScheme ;
+    skos:narrower event:Accidental_Fire,
+        event:Arson,
+        event:Basement_Attics_Non_Compartmented,
+        event:Building_Material_Non_Fire_Resistive,
+        event:Bush_or_Grass_Fires,
+        event:Cleaning_Supplies_Inappropriately_Stored,
+        event:Concealed_Voids,
+        event:Construction_Renovation_Activities_Heat,
+        event:Electrical_Sources_HVAC,
+        event:Exposure_to_Adjacent_Burning_Buildings,
+        event:Fire_Due_to_Relevant_Incidence,
+        event:Gas_Leaks,
+        event:Improper_Disposal_Flammable_Liquids,
+        event:Large_Open_Staircase,
+        event:Lightning,
+        event:Material_Penetrations,
+        event:Older_Heating_Electric_Wiring,
+        event:Open_Flames,
+        event:Openings_Ductwork_Pipes,
+        event:Proximity_Combustible_Materials,
+        event:Proximity_to_Forest,
+        event:Smoking_Materials,
+        event:Trash_Containers,
+        event:Wildfires ;
+    skos:note "Combustion causing damage to material."@en ;
+    skos:prefLabel "Fire"@en .
+
+agent:DamageCausingAgentsScheme a skos:ConceptScheme ;
+    skos:note "A thesaurus of agents that cause material damage, both natural and artificial."@en ;
+    skos:prefLabel "Damage-Causing Agents Thesaurus"@en .
+
