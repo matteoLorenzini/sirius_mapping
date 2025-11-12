@@ -3,53 +3,11 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 
-event:Blocked_eavestroughs a skos:Concept ;
-    skos:broader event:Technological_or_mechanical ;
-    skos:inScheme agent:DamageCausingAgentsScheme ;
-    skos:note "Gutters blocked, causing overflow."@en ;
-    skos:prefLabel "Blocked eavestroughs"@en .
-
-event:Broken_water_line a skos:Concept ;
-    skos:broader event:Technological_or_mechanical ;
-    skos:inScheme agent:DamageCausingAgentsScheme ;
-    skos:note "Damaged pipes leading to leakage."@en ;
-    skos:prefLabel "Broken water line"@en .
-
-event:Careless_use_of_water a skos:Concept ;
-    skos:broader event:Technological_or_mechanical ;
-    skos:inScheme agent:DamageCausingAgentsScheme ;
-    skos:note "Improper water use leading to damage."@en ;
-    skos:prefLabel "Careless use of water"@en .
-
 event:InfraRed a skos:Concept ;
     skos:broader agent:Light_UV_IR ;
     skos:inScheme agent:DamageCausingAgentsScheme ;
     skos:note "Infrared radiation affecting materials."@en ;
     skos:prefLabel "InfraRed"@en .
-
-event:Leak_from_air_condition_system a skos:Concept ;
-    skos:broader event:Technological_or_mechanical ;
-    skos:inScheme agent:DamageCausingAgentsScheme ;
-    skos:note "AC system leaks causing water damage."@en ;
-    skos:prefLabel "Leak from air condition system"@en .
-
-event:Leak_from_heating_system a skos:Concept ;
-    skos:broader event:Technological_or_mechanical ;
-    skos:inScheme agent:DamageCausingAgentsScheme ;
-    skos:note "Heating system leak causing water damage."@en ;
-    skos:prefLabel "Leak from heating system"@en .
-
-event:Leak_from_ventilation_system a skos:Concept ;
-    skos:broader event:Technological_or_mechanical ;
-    skos:inScheme agent:DamageCausingAgentsScheme ;
-    skos:note "Ventilation leaks causing moisture issues."@en ;
-    skos:prefLabel "Leak from ventilation system"@en .
-
-event:Leaking_roof a skos:Concept ;
-    skos:broader event:Technological_or_mechanical ;
-    skos:inScheme agent:DamageCausingAgentsScheme ;
-    skos:note "Roof leaks letting water in."@en ;
-    skos:prefLabel "Leaking roof"@en .
 
 event:Light a skos:Concept ;
     skos:broader agent:Light_UV_IR ;
@@ -57,59 +15,12 @@ event:Light a skos:Concept ;
     skos:note "Visible radiation affecting objects."@en ;
     skos:prefLabel "Light"@en .
 
-event:Overflowing_drains a skos:Concept ;
-    skos:broader event:Technological_or_mechanical ;
-    skos:inScheme agent:DamageCausingAgentsScheme ;
-    skos:note "Drains unable to remove water."@en ;
-    skos:prefLabel "Overflowing drains"@en .
-
-event:Overflowing_sinks a skos:Concept ;
-    skos:broader event:Technological_or_mechanical ;
-    skos:inScheme agent:DamageCausingAgentsScheme ;
-    skos:note "Sinks overflowing, causing water issues."@en ;
-    skos:prefLabel "Overflowing sinks"@en .
-
-event:Overflowing_toilets a skos:Concept ;
-    skos:broader event:Technological_or_mechanical ;
-    skos:inScheme agent:DamageCausingAgentsScheme ;
-    skos:note "Toilets overflowing, causing water accumulation."@en ;
-    skos:prefLabel "Overflowing toilets"@en .
-
-event:Poorly_improperly_insulated_building a skos:Concept ;
-    skos:broader event:Technological_or_mechanical ;
-    skos:inScheme agent:DamageCausingAgentsScheme ;
-    skos:note "Insufficient insulation causing moisture problems."@en ;
-    skos:prefLabel "Poorly/improperly insulated building"@en .
-
-event:Sewer_failure a skos:Concept ;
-    skos:broader event:Technological_or_mechanical ;
-    skos:inScheme agent:DamageCausingAgentsScheme ;
-    skos:note "Malfunctioning sewers causing flooding."@en ;
-    skos:prefLabel "Sewer failure"@en .
-
-event:Sprinkler_system_malfunction a skos:Concept ;
-    skos:broader event:Technological_or_mechanical ;
-    skos:inScheme agent:DamageCausingAgentsScheme ;
-    skos:note "Sprinklers failing or activating accidentally."@en ;
-    skos:prefLabel "Sprinkler system malfunction"@en .
-
-event:Storm_drains_sewers a skos:Concept ;
-    skos:broader event:Technological_or_mechanical ;
-    skos:inScheme agent:DamageCausingAgentsScheme ;
-    skos:note "Drains or sewers managing stormwater."@en ;
-    skos:prefLabel "Storm drains/sewers"@en .
-
 event:Ultraviolet a skos:Concept ;
     skos:broader agent:Light_UV_IR ;
     skos:inScheme agent:DamageCausingAgentsScheme ;
     skos:note "UV light causing fading or damage."@en ;
     skos:prefLabel "Ultraviolet"@en .
 
-event:Use_of_water_during_construction_and_renovations a skos:Concept ;
-    skos:broader event:Technological_or_mechanical ;
-    skos:inScheme agent:DamageCausingAgentsScheme ;
-    skos:note "Water used during building activities."@en ;
-    skos:prefLabel "Use of water during construction and renovations"@en .
 
 event:Wind_Erosion a skos:Concept ;
     skos:broader <http://example.org/thesaurus/Wind> ;
@@ -432,7 +343,7 @@ event:Earthquake a skos:Concept ;
     skos:inScheme agent:DamageCausingAgentsScheme ;
     skos:prefLabel "Earthquake"@en .
 
-event:Electrical_Sources_HVAC a skos:Concept ;
+event:Electrical_Sources a skos:Concept ;
     skos:broader agent:Fire ;
     skos:inScheme agent:DamageCausingAgentsScheme ;
     skos:prefLabel "Electrical sources (overloaded wiring, electrical panels, electric equipment and appliances and HVAC system (heating/ventilation/air conditioning) systems"@en .
@@ -547,7 +458,7 @@ event:Gravity_Improper_Supports a skos:Concept ;
     skos:inScheme agent:DamageCausingAgentsScheme ;
     skos:prefLabel "Gravity (improperly designed supports or lead to distortion or breakage or objects)"@en .
 
-event:Handling_for_Photo_Shoot a skos:Concept ;
+event:Handling a skos:Concept ;
     skos:broader agent:Working_Forces_High_Incidence_Moderate_to_High_Intensity ;
     skos:inScheme agent:DamageCausingAgentsScheme ;
     skos:prefLabel "Handling (for photo shoot, installation, crating…)"@en .
@@ -1297,7 +1208,7 @@ event:Unstrained_Volunteers a skos:Concept ;
     skos:inScheme agent:DamageCausingAgentsScheme ;
     skos:prefLabel "Unstrained volunteers (staff not aware of correct procedures"@en .
 
-event:Use_of_Water_Construction a skos:Concept ;
+event:Use_of_Water_Activity a skos:Concept ;
     skos:broader agent:Technological_Mechanical ;
     skos:inScheme agent:DamageCausingAgentsScheme ;
     skos:prefLabel "Use of water during construction and renovation/maintenance/restoration"@en .
@@ -1617,7 +1528,7 @@ agent:Working_Forces_High_Incidence_Moderate_to_High_Intensity a skos:Concept ;
     skos:narrower event:Construction_Vibrations,
         event:Excavation,
         event:Gravitational_Loads,
-        event:Handling_for_Photo_Shoot,
+        event:Handling,
         event:Shipment_Loading_Unloading,
         event:Transit_In_House ;
     skos:prefLabel "Working forces (high incidence, moderate to high intensity)"@en .
@@ -1737,7 +1648,7 @@ agent:Technological_Mechanical a skos:Concept ;
         event:Sewer_Failure_Back_Up,
         event:Sprinkler_System_Malfunction,
         event:Storm_Drains_Sewer_Unable_to_Cope,
-        event:Use_of_Water_Construction,
+        event:Use_of_Water_Activity,
         event:Ventilation_AC_System ;
     skos:prefLabel "Technological/mechanical "@en .
 
@@ -1758,12 +1669,6 @@ agent:Linked_to_Security_Systems a skos:Concept ;
         event:Roof_Opening_Not_Locked,
         event:Trees_Not_Taller_Than_6_M ;
     skos:prefLabel "Linked to security systems"@en .
-
-event:Technological_or_mechanical a skos:Concept ;
-    skos:broader agent:Water ;
-    skos:inScheme agent:DamageCausingAgentsScheme ;
-    skos:note "Technology or machinery related agents."@en ;
-    skos:prefLabel "Technological or mechanical"@en .
 
 agent:Airborne_Pollutants_Atmospheric_Source a skos:Concept ;
     skos:broader agent:Pollutants ;
@@ -1861,7 +1766,7 @@ agent:Fire a skos:Concept ;
         event:Cleaning_Supplies_Inappropriately_Stored,
         event:Concealed_Voids,
         event:Construction_Renovation_Activities_Heat,
-        event:Electrical_Sources_HVAC,
+        event:Electrical_Sources,
         event:Exposure_to_Adjacent_Burning_Buildings,
         event:Fire_Due_to_Relevant_Incidence,
         event:Gas_Leaks,
