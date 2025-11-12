@@ -2,7 +2,7 @@
 <event_name_sentences>
   <event_name_sentence>
     <event_name_id>1</event_name_id>
-    <event_name>Seismic_Event</event_name>
+    <event_name>Earthquake</event_name>
   </event_name_sentence>
   <event_name_sentence>
     <event_name_id>2</event_name_id>
@@ -10,11 +10,11 @@
   </event_name_sentence>
   <event_name_sentence>
     <event_name_id>3</event_name_id>
-    <event_name>Mechanical_Impact_Event</event_name>
+    <event_name>Handling</event_name>
   </event_name_sentence>
   <event_name_sentence>
     <event_name_id>4</event_name_id>
-    <event_name>Fire_Event</event_name>
+    <event_name>Fire_Due_to_Relevant_Incidence</event_name>
   </event_name_sentence>
   <event_name_sentence>
     <event_name_id>5</event_name_id>
@@ -22,11 +22,11 @@
   </event_name_sentence>
   <event_name_sentence>
     <event_name_id>6</event_name_id>
-    <event_name>Firefighting_Event</event_name>
+    <event_name>Electrical_Sources</event_name>
   </event_name_sentence>
   <event_name_sentence>
     <event_name_id>7</event_name_id>
-    <event_name>Hydrological_Event</event_name>
+    <event_name>Use_of_Water_Activity</event_name>
   </event_name_sentence>
   <event_name_sentence>
     <event_name_id>8</event_name_id>
@@ -38,7 +38,7 @@
   </event_name_sentence>
   <event_name_sentence>
     <event_name_id>10</event_name_id>
-    <event_name>Biological_Colonization_Event</event_name>
+    <event_name>Bacteria</event_name>
   </event_name_sentence>
   <event_name_sentence>
     <event_name_id>11</event_name_id>
@@ -46,7 +46,7 @@
   </event_name_sentence>
   <event_name_sentence>
     <event_name_id>12</event_name_id>
-    <event_name>Chemical_Contamination_Event</event_name>
+    <event_name>Impregnation_of_Salt_Brick_Stone</event_name>
   </event_name_sentence>
   <event_name_sentence>
     <event_name_id>13</event_name_id>
@@ -54,7 +54,7 @@
   </event_name_sentence>
   <event_name_sentence>
     <event_name_id>14</event_name_id>
-    <event_name>Radiation_Exposure_Event</event_name>
+    <event_name>IR_Heats_Surface</event_name>
   </event_name_sentence>
   <event_name_sentence>
     <event_name_id>15</event_name_id>
@@ -66,7 +66,7 @@
   </event_name_sentence>
   <event_name_sentence>
     <event_name_id>17</event_name_id>
-    <event_name>Salt_Crystallization_Event</event_name>
+    <event_name>RH_Fluctuations</event_name>
   </event_name_sentence>
   <event_name_sentence>
     <event_name_id>18</event_name_id>
@@ -79,5 +79,29 @@
   <event_name_sentence>
     <event_name_id>20</event_name_id>
     <event_name>Information_Loss_Event</event_name>
+  </event_name_sentence>
+  <event_name_sentence>
+    <event_name_id>21</event_name_id>
+    <event_name>Impregnation_of_Residue_Cleaning_Agents</event_name>
+  </event_name_sentence>
+  <event_name_sentence>
+    <event_name_id>22</event_name_id>
+    <event_name>PM_10</event_name>
+  </event_name_sentence>
+  <event_name_sentence>
+    <event_name_id>23</event_name_id>
+    <event_name>UV_Causing_Disintegration</event_name>
+  </event_name_sentence>
+  <event_name_sentence>
+    <event_name_id>24</event_name_id>
+    <event_name>Regular_Monitoring_Not_Carried_Out</event_name>
+  </event_name_sentence>
+  <event_name_sentence>
+    <event_name_id>25</event_name_id>
+    <event_name>No_Staff_Dedicated_to_Maintenance</event_name>
+  </event_name_sentence>
+  <event_name_sentence>
+    <event_name_id>26</event_name_id>
+    <event_name>Poor_Organization_of_Collection</event_name>
   </event_name_sentence>
 </event_name_sentences>
