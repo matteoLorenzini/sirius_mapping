@@ -1,0 +1,40 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:base="http://www.cidoc-crm.org/cidoc-crm/"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:crmgeo="http://www.ics.forth.gr/isl/CRMgeo/"
+    xmlns:sirius="https://w3id.org/sirius/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <crmgeo:E53_Place rdf:about="https://w3id.org/sirius/place/1">
+    <base:P168_place_is_defined_by>
+      <rdfs:Literal rdf:about="https://w3id.org/sirius/44.05755%2012.56528">
+        <rdfs:label>44.05755 12.56528</rdfs:label>
+      </rdfs:Literal>
+    </base:P168_place_is_defined_by>
+    <crmgeo:P1_is_identified_by>
+      <crmgeo:E44_Place_Appellation rdf:about="urn:uuid:9ef57047-851e-4c9b-a6a9-81a7494531d2">
+        <skos:prefLabel>Rimini</skos:prefLabel>
+      </crmgeo:E44_Place_Appellation>
+    </crmgeo:P1_is_identified_by>
+    <crmgeo:P1_is_identified_by>
+      <crmgeo:E42_Identifier rdf:about="https://w3id.org/sirius/place/id/1"/>
+    </crmgeo:P1_is_identified_by>
+  </crmgeo:E53_Place>
+  <crmgeo:E53_Place rdf:about="https://w3id.org/sirius/place/2">
+    <base:P168_place_is_defined_by>
+      <rdfs:Literal rdf:about="https://w3id.org/sirius/44.41344%2012.20121">
+        <rdfs:label>44.41344 12.20121</rdfs:label>
+      </rdfs:Literal>
+    </base:P168_place_is_defined_by>
+    <crmgeo:P1_is_identified_by>
+      <crmgeo:E44_Place_Appellation rdf:about="urn:uuid:be7db0a7-663f-456a-9681-4af6c54ff77a">
+        <skos:prefLabel>Ravenna</skos:prefLabel>
+      </crmgeo:E44_Place_Appellation>
+    </crmgeo:P1_is_identified_by>
+    <crmgeo:P1_is_identified_by>
+      <crmgeo:E42_Identifier rdf:about="https://w3id.org/sirius/place/id/2"/>
+    </crmgeo:P1_is_identified_by>
+  </crmgeo:E53_Place>
+</rdf:RDF>

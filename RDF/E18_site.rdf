@@ -4,53 +4,111 @@
     xmlns:owl="http://www.w3.org/2002/07/owl#"
     xmlns:base="http://www.cidoc-crm.org/cidoc-crm/"
     xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:crmgeo="http://www.ics.forth.gr/isl/CRMgeo/"
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
     xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
-  <base:E18_Physical_Thing rdf:about="https://w3id.org/sirius/cultural-heritage-site/4">
+  <base:E18_Physical_Thing rdf:about="https://w3id.org/sirius/cultural-heritage-site/2">
     <base:P104_is_subject_to>
-      <base:E30_Right rdf:about="urn:uuid:c0b0e1dc-2540-4600-89da-c16e70676bbe">
+      <base:E30_Right rdf:about="urn:uuid:d1df282e-7d29-482d-992d-7a0627411b58">
         <base:P2_has_type>
           <base:E55_Type rdf:about="https://w3id.org/sirius/legal-context"/>
         </base:P2_has_type>
-        <rdfs:label>None</rdfs:label>
+        <rdfs:label>Tra i principali riferimenti normativi inerenti la salvaguardia del Patrimonio Culturale possiamoricordare: - “Codice dei Beni Culturali” ( anche detto “Decreto Legislativo n°42 del 2004”). L’edificioè infatti soggetto al vincolo di tutela “Ope Legis”, - alle Convenzioni internazionali con riferimentoanche alla “Legge n° 77 del 2006” riguardante le ‘Misure speciali di tutela e fruizione dei siti italiani diinteresse culturale, paesaggistico e ambientale’ inseriti nella &lt;&lt; lista del patrimonio mondiale &gt;&gt;, posti sottola tutela dell’Unesco (‘Organizzazione delle Nazioni Unite per la Scienza, l’Educazione e la Cultura’).</rdfs:label>
       </base:E30_Right>
     </base:P104_is_subject_to>
-    <base:P55_has_current_location>2.188333 48.877778</base:P55_has_current_location>
-    <base:P1_is_identified_by>
-      <base:E42_Identifier rdf:about="https://w3id.org/sirius/site/id/4"/>
-    </base:P1_is_identified_by>
-    <base:P44_has_condition>
-      <base:E3_Condition_State rdf:about="urn:uuid:cd36ca1c-16c3-44e6-a01d-fa932339454e">
-        <base:P2_has_type>
-          <base:E55_Type rdf:about="https://w3id.org/sirius/socio-cultural-context"/>
-        </base:P2_has_type>
-        <rdfs:label>None</rdfs:label>
-      </base:E3_Condition_State>
-    </base:P44_has_condition>
-    <base:P2_has_type>
-      <base:E55_Type rdf:about="https://w3id.org/sirius/cultural-heritage-site"/>
-    </base:P2_has_type>
-    <base:P1_is_identified_by>
-      <base:E41_Appellation rdf:about="urn:uuid:fa0d3bf3-30ec-4957-aed3-2ee85613d7ff">
-        <skos:prefLabel>Basilica dello Spirito Santo</skos:prefLabel>
-      </base:E41_Appellation>
-    </base:P1_is_identified_by>
-    <base:P3_has_note xml:lang="en">None</base:P3_has_note>
+    <base:P55_has_current_location>
+      <base:E53_Place rdf:about="https://w3id.org/sirius/place/2"/>
+    </base:P55_has_current_location>
+    <base:P16i_was_used_for>
+      <base:E7_Activity rdf:about="urn:uuid:022bc9cb-59ce-4b98-8055-1d232336f9c1">
+        <base:P4_has_time-span>
+          <base:E52_Time-Span rdf:about="https://w3id.org/sirius/chronology/timespan/V%20secolo">
+            <skos:prefLabel>V secolo</skos:prefLabel>
+          </base:E52_Time-Span>
+        </base:P4_has_time-span>
+      </base:E7_Activity>
+    </base:P16i_was_used_for>
     <base:P105_right_held_by>
-      <base:E74_Group rdf:about="urn:uuid:4f0a0753-fc75-4887-b85e-87e77e035408">
+      <base:E74_Group rdf:about="urn:uuid:205ade57-c06b-404f-9bef-3020e6b985d8">
         <base:P2_has_type>
           <base:E55_Type rdf:about="https://w3id.org/sirius/stakeholders"/>
         </base:P2_has_type>
+        <rdfs:label>Le parti maggiormente coinvolte in termini di gestione, cura, manutenzione, tutela e valorizzazionedel monumento risultano essere il Comune di Ravenna, la Soprintendenza per l’Archeologia, le Bellearti ed il Paesaggio. In più è possibile affermare come ne possano trarre beneficio, in termini culturalie sociali, anche l’Università, la Cittadinanza, le Fondazioni e le Associazioni culturali locali.</rdfs:label>
+      </base:E74_Group>
+    </base:P105_right_held_by>
+    <base:P55_has_current_location>44°25'07.5" N 12°12'08.8" E</base:P55_has_current_location>
+    <base:P44_has_condition>
+      <base:E3_Condition_State rdf:about="urn:uuid:aec05440-63ee-4d47-a647-d99cdfff0df7">
+        <base:P2_has_type>
+          <base:E55_Type rdf:about="https://w3id.org/sirius/socio-cultural-context"/>
+        </base:P2_has_type>
+        <rdfs:label>Sito monumentale ubicato in area urbana, visitabile da parte di cittadini e turisti previo acquisto di unbiglietto d’ingresso. Il luogo, su cui si affacciano alcune attività commerciali, risulta essere facilmenteraggiungibile grazie alle strade urbane presenti e all’area pedonale interdetta al traffico. Sono statifortunatamente ripristinati i percorsi attrezzati ( “piattaforma elevatrice” ) per il superamento dellebarriere architettoniche per poter così permettere a tutti, anche alle persone con disabilità, di poterviaccedere e poter visitare il monumento.</rdfs:label>
+      </base:E3_Condition_State>
+    </base:P44_has_condition>
+    <base:P2_has_type>
+      <base:E55_Type rdf:about="https://w3id.org/sirius/Bene%20Individuo">
+        <skos:prefLabel xml:lang="it">Bene Individuo</skos:prefLabel>
+      </base:E55_Type>
+    </base:P2_has_type>
+    <base:P52_has_current_owner>
+      <base:E74_Group rdf:about="urn:uuid:5bf01e46-9fe6-452d-a2b9-1d270449c2e4">
+        <base:P2_has_type>
+          <base:E55_Type rdf:about="https://w3id.org/sirius/administrative-context"/>
+        </base:P2_has_type>
+        <rdfs:label>Ministero della Cultura</rdfs:label>
+      </base:E74_Group>
+    </base:P52_has_current_owner>
+    <base:P1_is_identified_by>
+      <base:E42_Identifier rdf:about="https://w3id.org/sirius/site/id/2"/>
+    </base:P1_is_identified_by>
+    <base:P50_has_current_keeper>
+      <base:E74_Group rdf:about="urn:uuid:f1947f14-2b7e-4361-8a6d-4cffa3a74f49">
+        <base:P2_has_type>
+          <base:E55_Type rdf:about="https://w3id.org/sirius/financial-context"/>
+        </base:P2_has_type>
+        <rdfs:label>Il monumento risulta essere visitabile a fronte del pagamento di un biglietto d’ingresso ( unico oppurecumulativo con gli altri monumenti Unesco), difatti gran parte dei fondi risultano provenire da parte deiricavi del turismo nazionale ed internazionale per poi essere reimpiegati per la cura, gestione, tutela evalorizzazione dello stesso monumento e del contesto nel quale si trova inserito.Inoltre, la stessa ‘Legge n° 77’ emanata il 20 febbraio 2006, stabilisce che i siti UNESCO, essendo simbolodelle eccellenze facenti parte del Patrimonio Culturale grazie all’importantissimo valore storico -culturaleche li caratterizza, ed elementi rappresentanti del nostro Paese, afferma che gli interventi di cura, tutelae possibile restauro necessari dovrebbero avere priorità in ordine di assegnazione delle stesse risorsefinanziarie previste.</rdfs:label>
+      </base:E74_Group>
+    </base:P50_has_current_keeper>
+    <base:P1_is_identified_by>
+      <base:E41_Appellation rdf:about="urn:uuid:199f49bd-90c8-47a5-8b44-61de017e0b7f">
+        <skos:prefLabel>Battistero degli Ariani</skos:prefLabel>
+      </base:E41_Appellation>
+    </base:P1_is_identified_by>
+    <base:P2_has_type>
+      <base:E55_Type rdf:about="https://w3id.org/sirius/cultural-heritage-site"/>
+    </base:P2_has_type>
+    <base:P3_has_note xml:lang="en">Il “Battistero degli Ariani” fu costruito tra la fine del V e l’inizio del VI secolo ( durante la dominazionedei Goti di Teodorico, tra il 493 ed il 526 d.C ) per i cristiani di fede ariana, a completamento dell’anticaCattedrale, oggi denominata “Chiesa dello Spirito Santo”. Fu poi riconsacrato al culto ortodosso altempo della dominazione bizantina per volere di Giustiniano, divenendo oratorio dedicato alla VergineMaria. Nel corso dei secoli subì numerose trasformazioni fino a quando, nel 1914, lo Stato italiano loacquistò salvandolo così dalla condizione di degrado che ne stava caratterizzando la struttura edintraprendendo così una lunga operazione di restauro delle sue architetture e dei magnifici mosaici chene caratterizzano la cupola. Oggi l’area risulta molto frequentata dai cittadini ravennati e da numerosituristi.</base:P3_has_note>
+  </base:E18_Physical_Thing>
+  <base:E18_Physical_Thing rdf:about="https://w3id.org/sirius/cultural-heritage-site/3">
+    <base:P52_has_current_owner>
+      <base:E74_Group rdf:about="urn:uuid:ec878284-d1b6-43ac-8830-4123ba232c61">
+        <base:P2_has_type rdf:resource="https://w3id.org/sirius/administrative-context"/>
+        <rdfs:label>Proprieta' privata</rdfs:label>
+      </base:E74_Group>
+    </base:P52_has_current_owner>
+    <base:P2_has_type rdf:resource="https://w3id.org/sirius/cultural-heritage-site"/>
+    <base:P105_right_held_by>
+      <base:E74_Group rdf:about="urn:uuid:fe48025c-ad09-44df-9251-126a3464948f">
+        <base:P2_has_type rdf:resource="https://w3id.org/sirius/stakeholders"/>
         <rdfs:label>None</rdfs:label>
       </base:E74_Group>
     </base:P105_right_held_by>
-    <base:P2_has_type>
-      <base:E55_Type rdf:about="https://w3id.org/sirius/None">
-        <skos:prefLabel xml:lang="it">None</skos:prefLabel>
-      </base:E55_Type>
-    </base:P2_has_type>
+    <base:P3_has_note xml:lang="en">None</base:P3_has_note>
+    <base:P55_has_current_location rdf:resource="https://w3id.org/sirius/place/2"/>
+    <base:P50_has_current_keeper>
+      <base:E74_Group rdf:about="urn:uuid:6a685a99-ceb2-4625-8229-8a923ce3111d">
+        <base:P2_has_type rdf:resource="https://w3id.org/sirius/financial-context"/>
+        <rdfs:label>None</rdfs:label>
+      </base:E74_Group>
+    </base:P50_has_current_keeper>
+    <base:P104_is_subject_to>
+      <base:E30_Right rdf:about="urn:uuid:5d5aea19-fddd-4509-858e-267bea7511f5">
+        <base:P2_has_type rdf:resource="https://w3id.org/sirius/legal-context"/>
+        <rdfs:label>None</rdfs:label>
+      </base:E30_Right>
+    </base:P104_is_subject_to>
     <base:P16i_was_used_for>
-      <base:E7_Activity rdf:about="urn:uuid:26346ffc-9c37-42e0-9421-da674295b891">
+      <base:E7_Activity rdf:about="urn:uuid:2e4124db-cf32-4ff3-a750-a6006c1bd554">
         <base:P4_has_time-span>
           <base:E52_Time-Span rdf:about="https://w3id.org/sirius/chronology/timespan/None">
             <skos:prefLabel>None</skos:prefLabel>
@@ -58,142 +116,97 @@
         </base:P4_has_time-span>
       </base:E7_Activity>
     </base:P16i_was_used_for>
-    <base:P50_has_current_keeper>
-      <base:E74_Group rdf:about="urn:uuid:e08f57e1-17be-41a1-a3e8-7ea1d27dfd99">
-        <base:P2_has_type>
-          <base:E55_Type rdf:about="https://w3id.org/sirius/financial-context"/>
-        </base:P2_has_type>
-        <rdfs:label>None</rdfs:label>
-      </base:E74_Group>
-    </base:P50_has_current_keeper>
-    <base:P52_has_current_owner>
-      <base:E74_Group rdf:about="urn:uuid:a7e0ea5e-ce4d-4741-b0bd-573af7a4e97e">
-        <base:P2_has_type>
-          <base:E55_Type rdf:about="https://w3id.org/sirius/administrative-context"/>
-        </base:P2_has_type>
-        <rdfs:label>Proprieta' ecclesiastica, Arcidiocesi di Ravenna-Cervia, Parrocchia di Santa Maria in Porto</rdfs:label>
-      </base:E74_Group>
-    </base:P52_has_current_owner>
-  </base:E18_Physical_Thing>
-  <base:E18_Physical_Thing rdf:about="https://w3id.org/sirius/cultural-heritage-site/2">
-    <base:P55_has_current_location>-0.1269 51.5195</base:P55_has_current_location>
-    <base:P16i_was_used_for>
-      <base:E7_Activity rdf:about="urn:uuid:1d8b15cb-f94f-4c80-9e43-089538e55b30">
-        <base:P4_has_time-span rdf:resource="https://w3id.org/sirius/chronology/timespan/None"/>
-      </base:E7_Activity>
-    </base:P16i_was_used_for>
-    <base:P2_has_type rdf:resource="https://w3id.org/sirius/None"/>
-    <base:P1_is_identified_by>
-      <base:E41_Appellation rdf:about="urn:uuid:1757899d-ef7b-4af0-bbac-f6ff474e65e7">
-        <skos:prefLabel>Battistero degli Ariani</skos:prefLabel>
-      </base:E41_Appellation>
-    </base:P1_is_identified_by>
-    <base:P105_right_held_by>
-      <base:E74_Group rdf:about="urn:uuid:681cc3d1-bcb6-4d05-8c18-dfe213533672">
-        <base:P2_has_type rdf:resource="https://w3id.org/sirius/stakeholders"/>
-        <rdfs:label>None</rdfs:label>
-      </base:E74_Group>
-    </base:P105_right_held_by>
-    <base:P104_is_subject_to>
-      <base:E30_Right rdf:about="urn:uuid:0e3d0f6b-e618-4cdb-90bd-8c99fe177227">
-        <base:P2_has_type rdf:resource="https://w3id.org/sirius/legal-context"/>
-        <rdfs:label>None</rdfs:label>
-      </base:E30_Right>
-    </base:P104_is_subject_to>
-    <base:P50_has_current_keeper>
-      <base:E74_Group rdf:about="urn:uuid:42ca1b7e-4ee2-454d-958d-0abe61f15e5b">
-        <base:P2_has_type rdf:resource="https://w3id.org/sirius/financial-context"/>
-        <rdfs:label>None</rdfs:label>
-      </base:E74_Group>
-    </base:P50_has_current_keeper>
-    <base:P3_has_note xml:lang="en">Battistero degli Ariani Descrizione test</base:P3_has_note>
-    <base:P1_is_identified_by>
-      <base:E42_Identifier rdf:about="https://w3id.org/sirius/site/id/2"/>
-    </base:P1_is_identified_by>
-    <base:P52_has_current_owner>
-      <base:E74_Group rdf:about="urn:uuid:e3bb5223-06d1-4c82-be29-bf4e87049fe9">
-        <base:P2_has_type rdf:resource="https://w3id.org/sirius/administrative-context"/>
-        <rdfs:label>Ministero della Cultura</rdfs:label>
-      </base:E74_Group>
-    </base:P52_has_current_owner>
-    <base:P44_has_condition>
-      <base:E3_Condition_State rdf:about="urn:uuid:f9051003-1af7-4abe-9994-f89ef381458a">
-        <base:P2_has_type rdf:resource="https://w3id.org/sirius/socio-cultural-context"/>
-        <rdfs:label>None</rdfs:label>
-      </base:E3_Condition_State>
-    </base:P44_has_condition>
-    <base:P2_has_type rdf:resource="https://w3id.org/sirius/cultural-heritage-site"/>
-  </base:E18_Physical_Thing>
-  <base:E18_Physical_Thing rdf:about="https://w3id.org/sirius/cultural-heritage-site/3">
-    <base:P105_right_held_by>
-      <base:E74_Group rdf:about="urn:uuid:ef9bc17d-c4e9-4eda-8811-d813321ff633">
-        <base:P2_has_type rdf:resource="https://w3id.org/sirius/stakeholders"/>
-        <rdfs:label>None</rdfs:label>
-      </base:E74_Group>
-    </base:P105_right_held_by>
-    <base:P52_has_current_owner>
-      <base:E74_Group rdf:about="urn:uuid:5eee452a-ce58-4782-b31a-32c56c6632f9">
-        <base:P2_has_type rdf:resource="https://w3id.org/sirius/administrative-context"/>
-        <rdfs:label>Proprieta' privata</rdfs:label>
-      </base:E74_Group>
-    </base:P52_has_current_owner>
-    <base:P50_has_current_keeper>
-      <base:E74_Group rdf:about="urn:uuid:7c34ad5e-c3d4-418e-8fbb-bcd7099d272d">
-        <base:P2_has_type rdf:resource="https://w3id.org/sirius/financial-context"/>
-        <rdfs:label>None</rdfs:label>
-      </base:E74_Group>
-    </base:P50_has_current_keeper>
-    <base:P2_has_type rdf:resource="https://w3id.org/sirius/cultural-heritage-site"/>
-    <base:P3_has_note xml:lang="en">None</base:P3_has_note>
-    <base:P44_has_condition>
-      <base:E3_Condition_State rdf:about="urn:uuid:44590bfb-1542-45f7-ac73-6596db7db3cc">
-        <base:P2_has_type rdf:resource="https://w3id.org/sirius/socio-cultural-context"/>
-        <rdfs:label>None</rdfs:label>
-      </base:E3_Condition_State>
-    </base:P44_has_condition>
-    <base:P104_is_subject_to>
-      <base:E30_Right rdf:about="urn:uuid:8642511b-4a7a-400b-b997-0b2f47e9addf">
-        <base:P2_has_type rdf:resource="https://w3id.org/sirius/legal-context"/>
-        <rdfs:label>None</rdfs:label>
-      </base:E30_Right>
-    </base:P104_is_subject_to>
-    <base:P2_has_type rdf:resource="https://w3id.org/sirius/None"/>
-    <base:P16i_was_used_for>
-      <base:E7_Activity rdf:about="urn:uuid:be3a281d-7fbb-4afd-85d9-712b78fa3374">
-        <base:P4_has_time-span rdf:resource="https://w3id.org/sirius/chronology/timespan/None"/>
-      </base:E7_Activity>
-    </base:P16i_was_used_for>
+    <base:P2_has_type>
+      <base:E55_Type rdf:about="https://w3id.org/sirius/None">
+        <skos:prefLabel xml:lang="it">None</skos:prefLabel>
+      </base:E55_Type>
+    </base:P2_has_type>
     <base:P1_is_identified_by>
       <base:E42_Identifier rdf:about="https://w3id.org/sirius/site/id/3"/>
     </base:P1_is_identified_by>
-    <base:P55_has_current_location>2.241389 48.835278</base:P55_has_current_location>
+    <base:P55_has_current_location>None</base:P55_has_current_location>
     <base:P1_is_identified_by>
-      <base:E41_Appellation rdf:about="urn:uuid:c7c7ed26-bcdd-4766-9750-9a09c9f2f950">
+      <base:E41_Appellation rdf:about="urn:uuid:5c4faacd-62ed-4b4a-819e-25d3cd791989">
         <skos:prefLabel>Muro di Drogdone</skos:prefLabel>
       </base:E41_Appellation>
     </base:P1_is_identified_by>
-  </base:E18_Physical_Thing>
-  <base:E18_Physical_Thing rdf:about="https://w3id.org/sirius/cultural-heritage-site/1">
-    <base:P104_is_subject_to>
-      <base:E30_Right rdf:about="urn:uuid:2e130608-85aa-4f09-91bd-aa4fbccc8fa4">
-        <base:P2_has_type rdf:resource="https://w3id.org/sirius/legal-context"/>
-        <rdfs:label>Legislative Decree No. 42/2004, Article 1, Paragraph 4, Decreto Commissione Regionale (11/04/2016)</rdfs:label>
-      </base:E30_Right>
-    </base:P104_is_subject_to>
-    <base:P1_is_identified_by>
-      <base:E41_Appellation rdf:about="urn:uuid:da3851d6-5975-4173-b260-36bf33ab0bc6">
-        <skos:prefLabel>Remains of a Roman-era residential district</skos:prefLabel>
-      </base:E41_Appellation>
-    </base:P1_is_identified_by>
     <base:P44_has_condition>
-      <base:E3_Condition_State rdf:about="urn:uuid:5cb86d0c-24a0-49fa-b418-28292d244e05">
+      <base:E3_Condition_State rdf:about="urn:uuid:8be3c432-0a04-4bc1-855e-41f8ed96451f">
         <base:P2_has_type rdf:resource="https://w3id.org/sirius/socio-cultural-context"/>
-        <rdfs:label>None</rdfs:label> 
+        <rdfs:label>None</rdfs:label>
       </base:E3_Condition_State>
     </base:P44_has_condition>
-    <base:P55_has_current_location>12.5655796 44.0598933</base:P55_has_current_location>
+  </base:E18_Physical_Thing>
+  <base:E18_Physical_Thing rdf:about="https://w3id.org/sirius/cultural-heritage-site/4">
+    <base:P55_has_current_location>None</base:P55_has_current_location>
+    <base:P105_right_held_by>
+      <base:E74_Group rdf:about="urn:uuid:9a890d31-e4cc-4e2b-94de-0a73fdc9eb51">
+        <base:P2_has_type rdf:resource="https://w3id.org/sirius/stakeholders"/>
+        <rdfs:label>None</rdfs:label>
+      </base:E74_Group>
+    </base:P105_right_held_by>
+    <base:P1_is_identified_by>
+      <base:E42_Identifier rdf:about="https://w3id.org/sirius/site/id/4"/>
+    </base:P1_is_identified_by>
+    <base:P2_has_type rdf:resource="https://w3id.org/sirius/cultural-heritage-site"/>
+    <base:P1_is_identified_by>
+      <base:E41_Appellation rdf:about="urn:uuid:777b03d2-a63a-4aae-a96e-15aa1ae5395e">
+        <skos:prefLabel>Basilica dello Spirito Santo</skos:prefLabel>
+      </base:E41_Appellation>
+    </base:P1_is_identified_by>
+    <base:P3_has_note xml:lang="en">None</base:P3_has_note>
+    <base:P55_has_current_location rdf:resource="https://w3id.org/sirius/place/2"/>
+    <base:P2_has_type rdf:resource="https://w3id.org/sirius/None"/>
+    <base:P50_has_current_keeper>
+      <base:E74_Group rdf:about="urn:uuid:100c3b0e-36ce-4bea-99a5-58f84becebae">
+        <base:P2_has_type rdf:resource="https://w3id.org/sirius/financial-context"/>
+        <rdfs:label>None</rdfs:label>
+      </base:E74_Group>
+    </base:P50_has_current_keeper>
+    <base:P52_has_current_owner>
+      <base:E74_Group rdf:about="urn:uuid:0b5e3047-88f6-4050-af77-bf7f616357c3">
+        <base:P2_has_type rdf:resource="https://w3id.org/sirius/administrative-context"/>
+        <rdfs:label>Proprieta' ecclesiastica, Arcidiocesi di Ravenna-Cervia, Parrocchia di Santa Maria in Porto</rdfs:label>
+      </base:E74_Group>
+    </base:P52_has_current_owner>
     <base:P16i_was_used_for>
-      <base:E7_Activity rdf:about="urn:uuid:756585b8-507e-498d-aab1-cab7fcd70ab1">
+      <base:E7_Activity rdf:about="urn:uuid:f43e2a4f-97b8-49bc-a76a-aa8767978fb4">
+        <base:P4_has_time-span rdf:resource="https://w3id.org/sirius/chronology/timespan/None"/>
+      </base:E7_Activity>
+    </base:P16i_was_used_for>
+    <base:P104_is_subject_to>
+      <base:E30_Right rdf:about="urn:uuid:b07eba85-1b5e-440a-8abd-9f22fd4d69a9">
+        <base:P2_has_type rdf:resource="https://w3id.org/sirius/legal-context"/>
+        <rdfs:label>None</rdfs:label>
+      </base:E30_Right>
+    </base:P104_is_subject_to>
+    <base:P44_has_condition>
+      <base:E3_Condition_State rdf:about="urn:uuid:31854c51-1c60-46b4-afbc-f54576d6b400">
+        <base:P2_has_type rdf:resource="https://w3id.org/sirius/socio-cultural-context"/>
+        <rdfs:label>None</rdfs:label>
+      </base:E3_Condition_State>
+    </base:P44_has_condition>
+  </base:E18_Physical_Thing>
+  <base:E18_Physical_Thing rdf:about="https://w3id.org/sirius/cultural-heritage-site/1">
+    <base:P105_right_held_by>
+      <base:E74_Group rdf:about="urn:uuid:7a95fe34-0187-4762-af0e-41dbb50fa290">
+        <base:P2_has_type rdf:resource="https://w3id.org/sirius/stakeholders"/>
+        <rdfs:label>Chamber of Commerce in Rimini, Provveditorato</rdfs:label>
+      </base:E74_Group>
+    </base:P105_right_held_by>
+    <base:P52_has_current_owner>
+      <base:E74_Group rdf:about="urn:uuid:b0bf8cc6-a238-4a8f-a1c1-0ba39b01cf6d">
+        <base:P2_has_type rdf:resource="https://w3id.org/sirius/administrative-context"/>
+        <rdfs:label>Chamber of Commerce in Rimini</rdfs:label>
+      </base:E74_Group>
+    </base:P52_has_current_owner>
+    <base:P55_has_current_location>N 44°25′08″ E 12°12′09″</base:P55_has_current_location>
+    <base:P2_has_type rdf:resource="https://w3id.org/sirius/cultural-heritage-site"/>
+    <base:P1_is_identified_by>
+      <base:E42_Identifier rdf:about="https://w3id.org/sirius/site/id/1"/>
+    </base:P1_is_identified_by>
+    <base:P16i_was_used_for>
+      <base:E7_Activity rdf:about="urn:uuid:1400697b-b638-41e8-b89d-b19b3c7c53d2">
         <base:P4_has_time-span>
           <base:E52_Time-Span rdf:about="https://w3id.org/sirius/chronology/timespan/III%20BC%20-%20Middle%20Ages">
             <skos:prefLabel>III BC - Middle Ages</skos:prefLabel>
@@ -201,29 +214,33 @@
         </base:P4_has_time-span>
       </base:E7_Activity>
     </base:P16i_was_used_for>
-    <base:P2_has_type rdf:resource="https://w3id.org/sirius/cultural-heritage-site"/>
-    <base:P1_is_identified_by>
-      <base:E42_Identifier rdf:about="https://w3id.org/sirius/site/id/1"/>
-    </base:P1_is_identified_by>
+    <base:P44_has_condition>
+      <base:E3_Condition_State rdf:about="urn:uuid:c5451a63-d325-44c3-852a-530fa8b18277">
+        <base:P2_has_type rdf:resource="https://w3id.org/sirius/socio-cultural-context"/>
+        <rdfs:label>None</rdfs:label>
+      </base:E3_Condition_State>
+    </base:P44_has_condition>
     <base:P3_has_note xml:lang="en">The archaeological site beneath Rimini's Chamber of Commerce lies in the western part of the Roman city and has been inhabited since the late Republican era. Key features include a polychrome mosaic from the 4th century and a 5th-century domus with an apsidal room in opus sectile that disrupted public infrastructure. The site remained important into the 6th century before falling into decline and being buried in the early Middle Ages. It was excavated in 1995–1996 by the Archaeological Superintendence of Emilia-Romagna. Conservation efforts began with a safety intervention in 1997, followed by restoration in 1999. Further restoration took place in 2022 and 2023 due to deterioration.</base:P3_has_note>
-    <base:P105_right_held_by>
-      <base:E74_Group rdf:about="urn:uuid:f4f8cabf-268b-47ed-951e-832345afcd91">
-        <base:P2_has_type rdf:resource="https://w3id.org/sirius/stakeholders"/>
-        <rdfs:label>Chamber of Commerce in Rimini, Provveditorato</rdfs:label>
-      </base:E74_Group>
-    </base:P105_right_held_by>
-    <base:P52_has_current_owner>
-      <base:E74_Group rdf:about="urn:uuid:7ef5b1c4-74bb-45f4-8772-40297effb922">
-        <base:P2_has_type rdf:resource="https://w3id.org/sirius/administrative-context"/>
-        <rdfs:label>Chamber of Commerce in Rimini</rdfs:label>
-      </base:E74_Group>
-    </base:P52_has_current_owner>
+    <base:P55_has_current_location>
+      <base:E53_Place rdf:about="https://w3id.org/sirius/place/1"/>
+    </base:P55_has_current_location>
     <base:P50_has_current_keeper>
-      <base:E74_Group rdf:about="urn:uuid:49702d34-bdde-4db3-b14e-4438be3c390d">
+      <base:E74_Group rdf:about="urn:uuid:082cced4-034b-4c5b-b0ef-6f2960568f9d">
         <base:P2_has_type rdf:resource="https://w3id.org/sirius/financial-context"/>
         <rdfs:label>Chamber of Commerce in Rimini operational budget</rdfs:label>
       </base:E74_Group>
     </base:P50_has_current_keeper>
+    <base:P1_is_identified_by>
+      <base:E41_Appellation rdf:about="urn:uuid:dc39e991-c996-4684-8b76-d9e0d081bc46">
+        <skos:prefLabel>Remains of a Roman-era residential district</skos:prefLabel>
+      </base:E41_Appellation>
+    </base:P1_is_identified_by>
+    <base:P104_is_subject_to>
+      <base:E30_Right rdf:about="urn:uuid:cbf73104-deb6-418a-87e0-5c5b7cf781c9">
+        <base:P2_has_type rdf:resource="https://w3id.org/sirius/legal-context"/>
+        <rdfs:label>Legislative Decree No. 42/2004, Article 1, Paragraph 4, Decreto Commissione Regionale (11/04/2016)</rdfs:label>
+      </base:E30_Right>
+    </base:P104_is_subject_to>
     <base:P2_has_type>
       <base:E55_Type rdf:about="https://w3id.org/sirius/Bene%20Archeologico">
         <skos:prefLabel xml:lang="it">Bene Archeologico</skos:prefLabel>

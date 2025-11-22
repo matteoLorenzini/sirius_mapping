@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x3ml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      source_type="xpath"
+      version="1.0"
+      xsi:noNamespaceSchemaLocation="https://isl.ics.forth.gr/x3ml/schema/x3ml.xsd">
+   <info>
+      <title>sirius_place</title>
+      <general_description/>
+      <source>
+         <source_info>
+            <source_schema schema_file="place.xml" type="xml" version="">place</source_schema>
+            <namespaces>
+               <namespace prefix="" uri=""/>
+            </namespaces>
+         </source_info>
+      </source>
+      <target>
+         <target_info>
+            <target_schema schema_file="cidoc_crm_v6.2.1-2018April.rdfs"
+                           type="rdfs"
+                           version="">cidoc_crm_v6.2.1-2018April</target_schema>
+            <namespaces>
+               <namespace prefix="xsd" uri="http://www.w3.org/2001/XMLSchema#"/>
+               <namespace prefix="rdfs" uri="http://www.w3.org/2000/01/rdf-schema#"/>
+               <namespace prefix="owl" uri="http://www.w3.org/2002/07/owl#"/>
+               <namespace prefix="rdf" uri="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+               <namespace prefix="base" uri="http://www.cidoc-crm.org/cidoc-crm/"/>
+               <namespace prefix="sirius" uri="https://w3id.org/sirius/"/>
+            </namespaces>
+         </target_info>
+         <target_info>
+            <target_schema schema_file="CRMgeo_v1.2.rdfs" type="rdfs" version="">CRMgeo_v1.2</target_schema>
+            <namespaces>
+               <namespace prefix="xsd" uri="http://www.w3.org/2001/XMLSchema#"/>
+               <namespace prefix="rdfs" uri="http://www.w3.org/2000/01/rdf-schema#"/>
+               <namespace prefix="owl" uri="http://www.w3.org/2002/07/owl#"/>
+               <namespace prefix="rdf" uri="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+               <namespace prefix="crmgeo" uri="http://www.ics.forth.gr/isl/CRMgeo/"/>
+            </namespaces>
+         </target_info>
+      </target>
+      <mapping_info>
+         <mapping_created_by_org/>
+         <mapping_created_by_person/>
+         <in_collaboration_with/>
+      </mapping_info>
+      <example_data_info>
+         <example_data_from/>
+         <example_data_contact_person/>
+         <example_data_source_record/>
+         <generator_policy_info/>
+         <example_data_target_record/>
+         <thesaurus_info/>
+      </example_data_info>
+   </info>
+   <namespaces>
+      <namespace prefix="sirius" uri="https://w3id.org/sirius/"/>
+   </namespaces>
+   <mappings>
+      <mapping>
+         <domain>
+            <source_node>/places/place</source_node>
+            <target_node>
+               <entity>
+                  <type>crmgeo:E53_Place</type>
+                  <instance_generator name="URIwithTypeAndId">
+                     <arg name="type" type="constant">place</arg>
+                     <arg name="id" type="xpath">place_id/text()</arg>
+                  </instance_generator>
+               </entity>
+            </target_node>
+         </domain>
+         <link>
+            <path>
+               <source_relation>
+                  <relation>place_id</relation>
+               </source_relation>
+               <target_relation>
+                  <relationship>crmgeo:P1_is_identified_by</relationship>
+               </target_relation>
+            </path>
+            <range>
+               <source_node>place_id</source_node>
+               <target_node>
+                  <entity>
+                     <type>crmgeo:E42_Identifier</type>
+                     <instance_generator name="place_id">
+                        <arg name="id" type="xpath">text()</arg>
+                     </instance_generator>
+                  </entity>
+               </target_node>
+            </range>
+         </link>
+         <link>
+            <path>
+               <source_relation>
+                  <relation>place_name</relation>
+               </source_relation>
+               <target_relation>
+                  <relationship>crmgeo:P1_is_identified_by</relationship>
+               </target_relation>
+            </path>
+            <range>
+               <source_node>place_name</source_node>
+               <target_node>
+                  <entity>
+                     <type>crmgeo:E44_Place_Appellation</type>
+                     <instance_generator name="URIorUUID">
+                        <arg name="text" type="xpath">../place_id</arg>
+                     </instance_generator>
+                     <label_generator name="prefLabel">
+                        <arg name="text" type="xpath">text()</arg>
+                     </label_generator>
+                  </entity>
+               </target_node>
+            </range>
+         </link>
+         <link>
+            <path>
+               <source_relation>
+                  <relation>coordinates</relation>
+               </source_relation>
+               <target_relation>
+                  <relationship>base:P168_place_is_defined_by</relationship>
+               </target_relation>
+            </path>
+            <range>
+               <source_node>coordinates</source_node>
+               <target_node>
+                  <entity>
+                     <type>rdfs:Literal</type>
+                     <instance_generator name="coordinates">
+                        <arg name="coordinates" type="xpath">text()</arg>
+                     </instance_generator>
+                     <label_generator name="Literal">
+                        <arg name="text" type="xpath">text()</arg>
+                     </label_generator>
+                  </entity>
+               </target_node>
+            </range>
+         </link>
+      </mapping>
+   </mappings>
+</x3ml>
