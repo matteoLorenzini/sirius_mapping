@@ -216,7 +216,8 @@ try:
         coords = geonames_coords(record.get("place_name"))
         if coords:
             lat, lon = coords
-            ET.SubElement(item, "coordinates").text = f"{lat},{lon}"
+            # space-separated coordinates instead of comma
+            ET.SubElement(item, "coordinates").text = f"{lat} {lon}"
         else:
             ET.SubElement(item, "coordinates").text = ""
     with open(os.path.join(OUTPUT_DIR, "place.xml"), "w", encoding="utf-8") as f:
