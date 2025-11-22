@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<places>
+  <place>
+    <place_id>1</place_id>
+    <place_name>Rimini</place_name>
+    <coordinates>44.05755,12.56528</coordinates>
+  </place>
+  <place>
+    <place_id>2</place_id>
+    <place_name>Ravenna</place_name>
+    <coordinates>44.41344,12.20121</coordinates>
+  </place>
+</places>

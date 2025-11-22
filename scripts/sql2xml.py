@@ -1,7 +1,7 @@
 import psycopg2
 import xml.etree.ElementTree as ET
 import xml.dom.minidom as minidom
-
+import requests
 import os
 
 # Create the xml folder one level up from this script (parent/xml)
@@ -10,6 +10,39 @@ OUTPUT_DIR = os.path.normpath(os.path.join(BASE_DIR, "..", "xml"))
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # Function to prettify XML output
+def prettify_xml(elem):
+    rough_string = ET.tostring(elem, 'utf-8')
+    reparsed = minidom.parseString(rough_string)
+    return reparsed.toprettyxml(indent="  ")
+
+# GeoNames credentials (password not needed for searchJSON)
+GEONAMES_USERNAME = "mlorenzini"
+GEONAMES_TIMEOUT = 6
+
+def geonames_coords(name: str):
+    """Return (lat, lon) from GeoNames or None if not found."""
+    if not name:
+        return None
+    try:
+        r = requests.get(
+            "http://api.geonames.org/searchJSON",
+            params={
+                "name_equals": name,
+                "maxRows": 1,
+                "username": GEONAMES_USERNAME
+            },
+            timeout=GEONAMES_TIMEOUT
+        )
+        if r.status_code != 200:
+            return None
+        data = r.json()
+        if data.get("totalResultsCount", 0) == 0:
+            return None
+        g = data["geonames"][0]
+        return g.get("lat"), g.get("lng")
+    except Exception:
+        return None
+
 def prettify_xml(elem):
     rough_string = ET.tostring(elem, 'utf-8')
     reparsed = minidom.parseString(rough_string)
@@ -164,7 +197,35 @@ for row in rows:
 with open(os.path.join(OUTPUT_DIR, "risk_analysis.xml"), "w", encoding="utf-8") as f:
     f.write(prettify_xml(root))
 
-# --- 7. Done ---
+# --- 7. place (new) ---
+try:
+    cursor.execute("""
+    SELECT place_id, place_name
+    FROM public.place
+    ORDER BY place_id;
+    """)
+    rows = cursor.fetchall()
+    columns = [desc[0] for desc in cursor.description]
+
+    root = ET.Element("places")
+    for row in rows:
+        item = ET.SubElement(root, "place")
+        record = dict(zip(columns, row))
+        for col_name, col_value in record.items():
+            ET.SubElement(item, col_name).text = str(col_value)
+        coords = geonames_coords(record.get("place_name"))
+        if coords:
+            lat, lon = coords
+            ET.SubElement(item, "coordinates").text = f"{lat},{lon}"
+        else:
+            ET.SubElement(item, "coordinates").text = ""
+    with open(os.path.join(OUTPUT_DIR, "place.xml"), "w", encoding="utf-8") as f:
+        f.write(prettify_xml(root))
+    print("- place")
+except Exception as e:
+    print(f"Skipped place export (error: {e})")
+
+# --- 8. Done ---
 cursor.close()
 conn.close()
 print("✅ XML files created for:")

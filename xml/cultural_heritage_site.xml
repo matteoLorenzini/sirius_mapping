@@ -14,6 +14,7 @@
     <legal_context>Legislative Decree No. 42/2004, Article 1, Paragraph 4, Decreto Commissione Regionale (11/04/2016)
 </legal_context>
     <stakeholders> Chamber of Commerce in Rimini, Provveditorato</stakeholders>
+    <place_id>1</place_id>
   </cultural_heritage_site>
   <cultural_heritage_site>
     <site_id>2</site_id>
@@ -27,6 +28,7 @@
     <financial_context>Il monumento risulta essere visitabile a fronte del pagamento di un biglietto d’ingresso ( unico oppurecumulativo con gli altri monumenti Unesco), difatti gran parte dei fondi risultano provenire da parte deiricavi del turismo nazionale ed internazionale per poi essere reimpiegati per la cura, gestione, tutela evalorizzazione dello stesso monumento e del contesto nel quale si trova inserito.Inoltre, la stessa ‘Legge n° 77’ emanata il 20 febbraio 2006, stabilisce che i siti UNESCO, essendo simbolodelle eccellenze facenti parte del Patrimonio Culturale grazie all’importantissimo valore storico -culturaleche li caratterizza, ed elementi rappresentanti del nostro Paese, afferma che gli interventi di cura, tutelae possibile restauro necessari dovrebbero avere priorità in ordine di assegnazione delle stesse risorsefinanziarie previste.</financial_context>
     <legal_context>Tra i principali riferimenti normativi inerenti la salvaguardia del Patrimonio Culturale possiamoricordare: - “Codice dei Beni Culturali” ( anche detto “Decreto Legislativo n°42 del 2004”). L’edificioè infatti soggetto al vincolo di tutela “Ope Legis”, - alle Convenzioni internazionali con riferimentoanche alla “Legge n° 77 del 2006” riguardante le ‘Misure speciali di tutela e fruizione dei siti italiani diinteresse culturale, paesaggistico e ambientale’ inseriti nella &lt;&lt; lista del patrimonio mondiale &gt;&gt;, posti sottola tutela dell’Unesco (‘Organizzazione delle Nazioni Unite per la Scienza, l’Educazione e la Cultura’).</legal_context>
     <stakeholders>Le parti maggiormente coinvolte in termini di gestione, cura, manutenzione, tutela e valorizzazionedel monumento risultano essere il Comune di Ravenna, la Soprintendenza per l’Archeologia, le Bellearti ed il Paesaggio. In più è possibile affermare come ne possano trarre beneficio, in termini culturalie sociali, anche l’Università, la Cittadinanza, le Fondazioni e le Associazioni culturali locali.</stakeholders>
+    <place_id>2</place_id>
   </cultural_heritage_site>
   <cultural_heritage_site>
     <site_id>3</site_id>
@@ -40,6 +42,7 @@
     <financial_context>None</financial_context>
     <legal_context>None</legal_context>
     <stakeholders>None</stakeholders>
+    <place_id>2</place_id>
   </cultural_heritage_site>
   <cultural_heritage_site>
     <site_id>4</site_id>
@@ -53,5 +56,6 @@
     <financial_context>None</financial_context>
     <legal_context>None</legal_context>
     <stakeholders>None</stakeholders>
+    <place_id>2</place_id>
   </cultural_heritage_site>
 </cultural_heritage_sites>
