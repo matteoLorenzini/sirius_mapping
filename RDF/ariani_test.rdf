@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:cis="http://dati.beniculturali.it/cis/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+         xmlns:SAN="http://dati.san.beniculturali.it/SAN/"
+         xmlns:oad="http://lod.xdams.org/reload/oad/"
+         xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/"
+         xmlns:ICCDfoto="http://dati.beniculturali.it/iccd/fotografico/"
+         xmlns:accessCondition="https://w3id.org/italia/onto/AccessCondition/"
+         xmlns:potapit="https://w3id.org/italia/onto/POT/"
+         xmlns:smapit="https://w3id.org/italia/onto/SM/"
+         xmlns:tiapit="https://w3id.org/italia/onto/TI/"
+         xmlns:l0="https://w3id.org/italia/onto/l0/"
+         xmlns:roapit="https://w3id.org/italia/onto/RO/"
+         xmlns:clvapit="https://w3id.org/italia/onto/CLV/"
+         xmlns:cpevapit="https://w3id.org/italia/onto/CPEV/"
+         xmlns:cpvapit="https://w3id.org/italia/onto/CPV/"
+         xmlns:it-Lang="https://w3id.org/italia/onto/Language/"
+         xmlns:it-MU="https://w3id.org/italia/onto/MU/"
+         xmlns:arco="https://w3id.org/arco/ontology/arco/"
+         xmlns:arco-res="https://w3id.org/arco/resource/"
+         xmlns:core="https://w3id.org/arco/ontology/core/"
+         xmlns:a-loc="https://w3id.org/arco/ontology/location/"
+         xmlns:a-cat="https://w3id.org/arco/ontology/catalogue/"
+         xmlns:a-dd="https://w3id.org/arco/ontology/denotative-description/"
+         xmlns:a-cd="https://w3id.org/arco/ontology/context-description/"
+         xmlns:a-ce="https://w3id.org/arco/ontology/cultural-event/"
+         xmlns:rico="http://www.ica.org/standards/RiC/ontology#"
+         xmlns:xs="http://www.w3.org/2001/XMLSchema"
+         xmlns:covapit="https://w3id.org/italia/onto/COV/"
+         xmlns:a-cc="https://w3id.org/arco/ontology/cataloguing-campaign/"
+         xmlns:a-cod="https://w3id.org/arco/ontology/construction-description/"
+         xmlns:a-ip="https://w3id.org/arco/ontology/immovable-property/"
+         xmlns:a-mp="https://w3id.org/arco/ontology/movable-property/"
+         xmlns:a-nsd="https://w3id.org/arco/ontology/natural-specimen-description/"
+         xmlns:arco-lite="https://w3id.org/arco/ontology/arco-lite/"
+         xmlns:pico="http://data.cochrane.org/ontologies/pico/"
+         xmlns:geonames="http://www.geonames.org/ontology#"
+         xmlns:schema="https://schema.org/"
+         xmlns:skosx="http://www.w3.org/2008/05/skos#"
+         xml:base="https://w3id.org/arco/resource/">
+   
+   <rdf:Description rdf:about="ArchitecturalOrLandscapeHeritage/0800161634">
+      <pico:preview rdf:resource="http://www.sigecweb.beniculturali.it/images/fullsize/ICCD1014730/ICCD10580164_107082.jpg"/>
+      <pico:preview rdf:resource="http://www.sigecweb.beniculturali.it/images/fullsize/ICCD1014730/ICCD10580165_107081.jpg"/>
+      <pico:preview rdf:resource="http://www.sigecweb.beniculturali.it/images/fullsize/ICCD1014730/ICCD10580166_120578.jpg"/>
+      <pico:preview rdf:resource="http://www.sigecweb.beniculturali.it/images/fullsize/ICCD1014730/ICCD10580167_120579.jpg"/>
+      <pico:preview rdf:resource="http://www.sigecweb.beniculturali.it/images/fullsize/ICCD1014730/ICCD10580168_7292.jpg"/>
+      <pico:preview rdf:resource="http://www.sigecweb.beniculturali.it/images/fullsize/ICCD1014730/ICCD10580169_7293.jpg"/>
+      <pico:preview rdf:resource="http://www.sigecweb.beniculturali.it/images/fullsize/ICCD1014730/ICCD10580170_7291.jpg"/>
+      <pico:preview rdf:resource="http://www.sigecweb.beniculturali.it/images/fullsize/ICCD1014730/ICCD10580171_7296.jpg"/>
+      <pico:preview rdf:resource="http://www.sigecweb.beniculturali.it/images/fullsize/ICCD1014730/ICCD10580172_7294.jpg"/>
+      <dc:coverage>Ravenna (RA)</dc:coverage>
+      <dc:identifier>0800161634</dc:identifier>
+      <dc:rights>proprietà Stato</dc:rights>
+      <dc:source rdf:resource="https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/0800161634"/>
+      <dc:source rdf:resource="CatalogueRecordA/0800161634"/>
+      <dc:subject>Battistero degli Ariani</dc:subject>
+      <dc:subject rdf:resource="http://culturaitalia.it/pico/thesaurus/4.1#beni_architettonici"/>
+      <dc:title>Battistero degli Ariani (battistero)battistero ( )</dc:title>
+      <dc:type>battistero</dc:type>
+      <dcterms:isReferencedBy rdf:resource="CatalogueRecordA/0800161634"/>
+      <dcterms:spatial rdf:resource="Address/d1f4c3b57198db0f146c0e06ffeff97d"/>
+      <rdf:type rdf:resource="https://w3id.org/arco/ontology/arco/ArchitecturalOrLandscapeHeritage"/>
+      <rdf:type rdf:resource="https://w3id.org/arco/ontology/arco/ImmovableCulturalProperty"/>
+      <rdf:type rdf:resource="https://w3id.org/arco/ontology/construction-description/Construction"/>
+      <rdf:type rdf:resource="https://w3id.org/arco/ontology/immovable-property/Construction"/>
+      <rdfs:comment>battistero, Battistero degli Ariani</rdfs:comment>
+      <rdfs:label xml:lang="en">Battistero degli Ariani (battistero) - Ravenna (RA) </rdfs:label>
+      <rdfs:label xml:lang="it">Battistero degli Ariani (battistero) - Ravenna (RA) </rdfs:label>
+      <foaf:depiction rdf:resource="http://www.sigecweb.beniculturali.it/images/fullsize/ICCD1014730/ICCD10580164_107082.jpg"/>
+      <foaf:depiction rdf:resource="http://www.sigecweb.beniculturali.it/images/fullsize/ICCD1014730/ICCD10580165_107081.jpg"/>
+      <foaf:depiction rdf:resource="http://www.sigecweb.beniculturali.it/images/fullsize/ICCD1014730/ICCD10580166_120578.jpg"/>
+      <foaf:depiction rdf:resource="http://www.sigecweb.beniculturali.it/images/fullsize/ICCD1014730/ICCD10580167_120579.jpg"/>
+      <foaf:depiction rdf:resource="http://www.sigecweb.beniculturali.it/images/fullsize/ICCD1014730/ICCD10580168_7292.jpg"/>
+      <foaf:depiction rdf:resource="http://www.sigecweb.beniculturali.it/images/fullsize/ICCD1014730/ICCD10580169_7293.jpg"/>
+      <foaf:depiction rdf:resource="http://www.sigecweb.beniculturali.it/images/fullsize/ICCD1014730/ICCD10580170_7291.jpg"/>
+      <foaf:depiction rdf:resource="http://www.sigecweb.beniculturali.it/images/fullsize/ICCD1014730/ICCD10580171_7296.jpg"/>
+      <foaf:depiction rdf:resource="http://www.sigecweb.beniculturali.it/images/fullsize/ICCD1014730/ICCD10580172_7294.jpg"/>
+      <arco:catalogueNumber>00161634</arco:catalogueNumber>
+      <arco:hasCataloguingAgency rdf:resource="Agent/18bbcb6a0c4cf10d6d3261dec664c3b2"/>
+      <arco:hasHeritageProtectionAgency rdf:resource="Agent/6896f0e5280f61922280aea7f9320363"/>
+      <arco:regionIdentifier>08</arco:regionIdentifier>
+      <arco:uniqueIdentifier>0800161634</arco:uniqueIdentifier>
+      <a-cat:isDescribedByCatalogueRecord rdf:resource="CatalogueRecordA/0800161634"/>
+      <a-cod:hasConstructionElement rdf:resource="HorizontalElement/0800161634-909f81679d59d680bebf235649c15750"/>
+      <a-cod:hasConstructionElement rdf:resource="VerticalElement/0800161634-17f39b557b305ad91e67b685b648e1ae"/>
+      <a-cod:hasCovering rdf:resource="Roofing/0800161634-17f39b557b305ad91e67b685b648e1ae"/>
+      <a-cod:hasLayout rdf:resource="PlanLayout/0800161634-centrale-ottagonale"/>
+      <a-cd:hasAuthorshipAttribution rdf:resource="CulturalScopeAttribution/0800161634-cultural-scope-attribution-1"/>
+      <a-cd:hasDating rdf:resource="Dating/0800161634-1"/>
+      <a-cd:hasDocumentation rdf:resource="GraphicOrCartographicDocumentation/0800161634-graphic-cartographic-documentation-1"/>
+      <a-cd:hasDocumentation rdf:resource="GraphicOrCartographicDocumentation/0800161634-graphic-cartographic-documentation-2"/>
+      <a-cd:hasDocumentation rdf:resource="GraphicOrCartographicDocumentation/0800161634-graphic-cartographic-documentation-3"/>
+      <a-cd:hasDocumentation rdf:resource="PhotographicDocumentation/0800161634-photographic-documentation-1"/>
+      <a-cd:hasDocumentation rdf:resource="PhotographicDocumentation/0800161634-photographic-documentation-2"/>
+      <a-cd:hasDocumentation rdf:resource="PhotographicDocumentation/0800161634-photographic-documentation-3"/>
+      <a-cd:hasDocumentation rdf:resource="PhotographicDocumentation/0800161634-photographic-documentation-4"/>
+      <a-cd:hasDocumentation rdf:resource="PhotographicDocumentation/0800161634-photographic-documentation-5"/>
+      <a-cd:hasDocumentation rdf:resource="PhotographicDocumentation/0800161634-photographic-documentation-6"/>
+      <a-cd:hasDocumentation rdf:resource="PhotographicDocumentation/0800161634-photographic-documentation-7"/>
+      <a-cd:hasDocumentation rdf:resource="PhotographicDocumentation/0800161634-photographic-documentation-8"/>
+      <a-cd:hasDocumentation rdf:resource="PhotographicDocumentation/0800161634-photographic-documentation-9"/>
+      <a-cd:hasDocumentation rdf:resource="SourceAndDocument/0800161634-source-document-1"/>
+      <a-cd:hasDocumentation rdf:resource="SourceAndDocument/0800161634-source-document-2"/>
+      <a-cd:hasLegalSituation rdf:resource="LegalSituation/0800161634-legal-situation-proprieta-stato"/>
+      <a-cd:hasProtectiveMeasure rdf:resource="ProtectiveMeasure/0800161634-protective-measure-1"/>
+      <a-cd:hasProtectiveMeasure rdf:resource="ProtectiveMeasure/0800161634-protective-measure-2"/>
+      <a-cd:hasUrbanPlanningInstrument rdf:resource="UrbanPlanningInstrument/0800161634-urban-planning-instrument-1"/>
+      <a-cd:hasUse rdf:resource="Use/0800161634-current-use-1"/>
+      <a-cd:hasUse rdf:resource="Use/0800161634-historical-use-1"/>
+      <core:hasAgentRole rdf:resource="AgentRole/0800161634-cataloguing-agency"/>
+      <core:hasAgentRole rdf:resource="AgentRole/0800161634-heritage-protection-agency"/>
+      <a-dd:hasCulturalPropertyType rdf:resource="CulturalPropertyType/03b6b866c74e34a93821e5ee9c0d2ca2"/>
+      <a-dd:hasDesignationInTime rdf:resource="DesignationInTime/0800161634-battistero-degli-ariani"/>
+      <a-ip:hasConstructionElement rdf:resource="HorizontalElement/0800161634-909f81679d59d680bebf235649c15750"/>
+      <a-ip:hasConstructionElement rdf:resource="VerticalElement/0800161634-17f39b557b305ad91e67b685b648e1ae"/>
+      <a-ip:hasCovering rdf:resource="Roofing/0800161634-17f39b557b305ad91e67b685b648e1ae"/>
+      <a-ip:hasLayout rdf:resource="Layout/0800161634-centrale-ottagonale"/>
+      <a-loc:hasCadastralIdentity rdf:resource="CadastralIdentity/0800161634-1"/>
+      <a-loc:hasCulturalPropertyAddress rdf:resource="Address/d1f4c3b57198db0f146c0e06ffeff97d"/>
+      <a-loc:hasTimeIndexedTypedLocation rdf:resource="TimeIndexedTypedLocation/0800161634-current"/>
+   </rdf:Description>
+    <rdf:Description rdf:about="ArchitecturalOrLandscapeHeritage/0800266227">
+      <pico:preview rdf:resource="http://www.sigecweb.beniculturali.it/images/fullsize/ICCD1014730/ICCD10580174_107093.jpg"/>
+      <dc:coverage>Ravenna (RA)</dc:coverage>
+      <dc:identifier>0800266227</dc:identifier>
+      <dc:rights>proprietà privata</dc:rights>
+      <dc:source rdf:resource="https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/0800266227"/>
+      <dc:source rdf:resource="CatalogueRecordA/0800266227"/>
+      <dc:subject>Casa di Drogdone (avanzi)</dc:subject>
+      <dc:subject rdf:resource="http://culturaitalia.it/pico/thesaurus/4.1#beni_architettonici"/>
+      <dc:title>Casa di Drogdone (avanzi) (casa)casa ( )</dc:title>
+      <dc:type>casa</dc:type>
+      <dcterms:isReferencedBy rdf:resource="CatalogueRecordA/0800266227"/>
+      <dcterms:spatial rdf:resource="Address/d1f4c3b57198db0f146c0e06ffeff97d"/>
+      <rdf:type rdf:resource="https://w3id.org/arco/ontology/arco/ArchitecturalOrLandscapeHeritage"/>
+      <rdf:type rdf:resource="https://w3id.org/arco/ontology/arco/ImmovableCulturalProperty"/>
+      <rdf:type rdf:resource="https://w3id.org/arco/ontology/construction-description/Construction"/>
+      <rdf:type rdf:resource="https://w3id.org/arco/ontology/immovable-property/Construction"/>
+      <rdfs:comment>casa, Casa di Drogdone (avanzi)</rdfs:comment>
+      <rdfs:label xml:lang="en">Casa di Drogdone (avanzi) (casa) - Ravenna (RA) </rdfs:label>
+      <rdfs:label xml:lang="it">Casa di Drogdone (avanzi) (casa) - Ravenna (RA) </rdfs:label>
+      <foaf:depiction rdf:resource="http://www.sigecweb.beniculturali.it/images/fullsize/ICCD1014730/ICCD10580174_107093.jpg"/>
+      <arco:catalogueNumber>00266227</arco:catalogueNumber>
+      <arco:hasCataloguingAgency rdf:resource="Agent/18bbcb6a0c4cf10d6d3261dec664c3b2"/>
+      <arco:hasHeritageProtectionAgency rdf:resource="Agent/6896f0e5280f61922280aea7f9320363"/>
+      <arco:regionIdentifier>08</arco:regionIdentifier>
+      <arco:uniqueIdentifier>0800266227</arco:uniqueIdentifier>
+      <a-cat:isDescribedByCatalogueRecord rdf:resource="CatalogueRecordA/0800266227"/>
+      <a-cod:hasConstructionElement rdf:resource="VerticalElement/0800266227-17f39b557b305ad91e67b685b648e1ae"/>
+      <a-cd:hasAuthorshipAttribution rdf:resource="CulturalScopeAttribution/0800266227-cultural-scope-attribution-1"/>
+      <a-cd:hasDating rdf:resource="Dating/0800266227-1"/>
+      <a-cd:hasDocumentation rdf:resource="GraphicOrCartographicDocumentation/0800266227-graphic-cartographic-documentation-1"/>
+      <a-cd:hasDocumentation rdf:resource="PhotographicDocumentation/0800266227-photographic-documentation-1"/>
+      <a-cd:hasDocumentation rdf:resource="SourceAndDocument/0800266227-source-document-1"/>
+      <a-cd:hasLegalSituation rdf:resource="LegalSituation/0800266227-legal-situation-proprieta-privata"/>
+      <a-cd:hasProtectiveMeasure rdf:resource="ProtectiveMeasure/0800266227-protective-measure-1"/>
+      <a-cd:hasUrbanPlanningInstrument rdf:resource="UrbanPlanningInstrument/0800266227-urban-planning-instrument-1"/>
+      <a-cd:hasUse rdf:resource="Use/0800266227-current-use-1"/>
+      <a-cd:hasUse rdf:resource="Use/0800266227-historical-use-1"/>
+      <core:hasAgentRole rdf:resource="AgentRole/0800266227-cataloguing-agency"/>
+      <core:hasAgentRole rdf:resource="AgentRole/0800266227-heritage-protection-agency"/>
+      <a-dd:hasCulturalPropertyType rdf:resource="CulturalPropertyType/202447d5d44ce12531f7207cb33b6bf7"/>
+      <a-dd:hasDesignationInTime rdf:resource="DesignationInTime/0800266227-casa-di-drogdone-avanzi"/>
+      <a-ip:hasConstructionElement rdf:resource="VerticalElement/0800266227-17f39b557b305ad91e67b685b648e1ae"/>
+      <a-loc:hasCadastralIdentity rdf:resource="CadastralIdentity/0800266227-1"/>
+      <a-loc:hasCulturalPropertyAddress rdf:resource="Address/d1f4c3b57198db0f146c0e06ffeff97d"/>
+      <a-loc:hasTimeIndexedTypedLocation rdf:resource="TimeIndexedTypedLocation/0800266227-current"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="GraphicOrCartographicDocumentation/0800161634-graphic-cartographic-documentation-1">
+      <rdf:type rdf:resource="https://w3id.org/arco/ontology/context-description/GraphicOrCartographicDocumentation"/>
+      <rdfs:label xml:lang="it">Documentazione grafica o cartografica 1 del bene culturale: 0800161634</rdfs:label>
+      <rdfs:label xml:lang="en">Graphic or cartographic documentation 1 of cultural property: 0800161634</rdfs:label>
+      <a-cd:documentationIdentifier>SBAPRA00161634_all</a-cd:documentationIdentifier>
+      <a-cd:hasDocumentationType rdf:resource="DocumentationType/mappa-catastale"/>
+      <a-cd:hasScale rdf:resource="Scale/1-1000"/>
+      <a-cd:isDocumentationOf rdf:resource="ArchitecturalOrLandscapeHeritage/0800161634"/>
+      <core:hasCategory rdf:resource="https://w3id.org/arco/ontology/context-description/AttachedDocumentation"/>
+      <core:note>estratto mappa catastale</core:note>
+      <smapit:URL rdf:resource="http://www.sigecweb.beniculturali.it/images/fullsize/ICCD1014730/ICCD10574511_00161634_all..jpg"/>
+      <tiapit:time>1993</tiapit:time>
+      <l0:name xml:lang="en">Documentazione grafica o cartografica 1 del bene culturale: 0800161634</l0:name>
+      <l0:name xml:lang="en">Graphic or cartographic documentation 1 of cultural property: 0800161634</l0:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="GraphicOrCartographicDocumentation/0800161634-graphic-cartographic-documentation-2">
+      <rdf:type rdf:resource="https://w3id.org/arco/ontology/context-description/GraphicOrCartographicDocumentation"/>
+      <rdfs:label xml:lang="it">Documentazione grafica o cartografica 2 del bene culturale: 0800161634</rdfs:label>
+      <rdfs:label xml:lang="en">Graphic or cartographic documentation 2 of cultural property: 0800161634</rdfs:label>
+      <a-cd:documentationIdentifier>SBAPRA00161634_all.1</a-cd:documentationIdentifier>
+      <a-cd:hasDocumentationType rdf:resource="DocumentationType/mappa-catastale"/>
+      <a-cd:hasScale rdf:resource="Scale/1-1000"/>
+      <a-cd:isDocumentationOf rdf:resource="ArchitecturalOrLandscapeHeritage/0800161634"/>
+      <core:hasCategory rdf:resource="https://w3id.org/arco/ontology/context-description/AttachedDocumentation"/>
+      <core:note>estratto mappa catastale (scheda storica)</core:note>
+      <smapit:URL rdf:resource="http://www.sigecweb.beniculturali.it/images/fullsize/ICCD1014730/ICCD10575719_161634_all.1.jpg"/>
+      <tiapit:time>1927</tiapit:time>
+      <l0:name xml:lang="en">Documentazione grafica o cartografica 2 del bene culturale: 0800161634</l0:name>
+      <l0:name xml:lang="en">Graphic or cartographic documentation 2 of cultural property: 0800161634</l0:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="GraphicOrCartographicDocumentation/0800266227-graphic-cartographic-documentation-1">
+      <rdf:type rdf:resource="https://w3id.org/arco/ontology/context-description/GraphicOrCartographicDocumentation"/>
+      <rdfs:label xml:lang="it">Documentazione grafica o cartografica 1 del bene culturale: 0800266227</rdfs:label>
+      <rdfs:label xml:lang="en">Graphic or cartographic documentation 1 of cultural property: 0800266227</rdfs:label>
+      <a-cd:documentationIdentifier>SBAPRA00266227_all</a-cd:documentationIdentifier>
+      <a-cd:hasDocumentationType rdf:resource="DocumentationType/mappa-catastale"/>
+      <a-cd:hasScale rdf:resource="Scale/1-1000"/>
+      <a-cd:isDocumentationOf rdf:resource="ArchitecturalOrLandscapeHeritage/0800266227"/>
+      <core:hasCategory rdf:resource="https://w3id.org/arco/ontology/context-description/AttachedDocumentation"/>
+      <core:note>estratto mappa catastale</core:note>
+      <smapit:URL rdf:resource="http://www.sigecweb.beniculturali.it/images/fullsize/ICCD1014730/ICCD10574513_00266227_all..jpg"/>
+      <tiapit:time>1993</tiapit:time>
+      <l0:name xml:lang="en">Documentazione grafica o cartografica 1 del bene culturale: 0800266227</l0:name>
+      <l0:name xml:lang="en">Graphic or cartographic documentation 1 of cultural property: 0800266227</l0:name>
+   </rdf:Description>
+ </rdf:RDF>

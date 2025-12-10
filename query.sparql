@@ -1,0 +1,63 @@
+PREFIX xsd:  <http://www.w3.org/2001/XMLSchema#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX cidoc:<http://www.cidoc-crm.org/cidoc-crm/>
+
+#############################################
+### 1) Update cidoc:P90_has_value
+#############################################
+DELETE {
+  ?dim cidoc:P90_has_value ?oldVal .
+}
+INSERT {
+  ?dim cidoc:P90_has_value ?newVal .
+}
+WHERE {
+  ?dim cidoc:P90_has_value ?oldVal .
+
+  BIND( STR(?oldVal) AS ?str )
+
+  # Only string values need conversion
+  FILTER(
+       LCASE(?str) = "none"
+    || REGEX(?str, "^[0-9]+(\\.[0-9]+)?$")
+  )
+
+  BIND(
+    IF(
+      LCASE(?str) = "none",
+      xsd:decimal(0),
+      xsd:decimal(?str)
+    )
+    AS ?newVal
+  )
+};
+
+#############################################
+### 2) Update rdfs:label (used in A/B/C scale + uncertainty)
+#############################################
+DELETE {
+  ?dim rdfs:label ?oldLabel .
+}
+INSERT {
+  ?dim rdfs:label ?newLabel .
+}
+WHERE {
+  ?dim rdfs:label ?oldLabel .
+
+  BIND( STR(?oldLabel) AS ?str )
+
+  # Only update numeric-like or "None"
+  FILTER(
+       LCASE(?str) = "none"
+    || REGEX(?str, "^[0-9]+(\\.[0-9]+)?$")
+  )
+
+  BIND(
+    IF(
+      LCASE(?str) = "none",
+      xsd:decimal(0),
+      xsd:decimal(?str)
+    )
+    AS ?newLabel
+  )
+}
