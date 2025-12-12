@@ -1,0 +1,1519 @@
+<rdf:RDF xmlns:res="http://www.w3.org/2005/sparql-results#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:Description rdf:nodeID="rset">
+<rdf:type rdf:resource="http://www.w3.org/2005/sparql-results#ResultSet" />
+    <res:resultVariable>subject</res:resultVariable>
+    <res:resultVariable>use</res:resultVariable>
+    <res:resultVariable>useFunction</res:resultVariable>
+    <res:resultVariable>useFunctionLabel</res:resultVariable>
+    <res:solution rdf:nodeID="r0">
+      <res:binding rdf:nodeID="r0c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161634"/></res:binding>
+      <res:binding rdf:nodeID="r0c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161634-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r0c2"><res:variable>useFunction</res:variable><res:value>monumento</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r1">
+      <res:binding rdf:nodeID="r1c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161634"/></res:binding>
+      <res:binding rdf:nodeID="r1c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161634-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r1c2"><res:variable>useFunction</res:variable><res:value>battistero</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r2">
+      <res:binding rdf:nodeID="r2c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161770"/></res:binding>
+      <res:binding rdf:nodeID="r2c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161770-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r2c2"><res:variable>useFunction</res:variable><res:value>museo</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r3">
+      <res:binding rdf:nodeID="r3c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161770"/></res:binding>
+      <res:binding rdf:nodeID="r3c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161770-current-use-2"/></res:binding>
+      <res:binding rdf:nodeID="r3c2"><res:variable>useFunction</res:variable><res:value>chiesa</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r4">
+      <res:binding rdf:nodeID="r4c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161770"/></res:binding>
+      <res:binding rdf:nodeID="r4c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161770-current-use-3"/></res:binding>
+      <res:binding rdf:nodeID="r4c2"><res:variable>useFunction</res:variable><res:value>uffici</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r5">
+      <res:binding rdf:nodeID="r5c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161784"/></res:binding>
+      <res:binding rdf:nodeID="r5c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161784-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r5c2"><res:variable>useFunction</res:variable><res:value>basilica</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r6">
+      <res:binding rdf:nodeID="r6c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161784"/></res:binding>
+      <res:binding rdf:nodeID="r6c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161784-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r6c2"><res:variable>useFunction</res:variable><res:value>basilica</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r7">
+      <res:binding rdf:nodeID="r7c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161813"/></res:binding>
+      <res:binding rdf:nodeID="r7c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161813-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r7c2"><res:variable>useFunction</res:variable><res:value>chiesa</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r8">
+      <res:binding rdf:nodeID="r8c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161813"/></res:binding>
+      <res:binding rdf:nodeID="r8c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161813-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r8c2"><res:variable>useFunction</res:variable><res:value>chiesa</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r9">
+      <res:binding rdf:nodeID="r9c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266232"/></res:binding>
+      <res:binding rdf:nodeID="r9c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266232-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r9c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r10">
+      <res:binding rdf:nodeID="r10c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800319246-bene-individuo"/></res:binding>
+      <res:binding rdf:nodeID="r10c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800319246-bene-individuo-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r10c2"><res:variable>useFunction</res:variable><res:value>Sede della Prefettura di Ravenna</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r11">
+      <res:binding rdf:nodeID="r11c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800319246-bene-individuo"/></res:binding>
+      <res:binding rdf:nodeID="r11c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800319246-bene-individuo-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r11c2"><res:variable>useFunction</res:variable><res:value>Sede del legato Pontificio</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r12">
+      <res:binding rdf:nodeID="r12c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161645"/></res:binding>
+      <res:binding rdf:nodeID="r12c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161645-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r12c2"><res:variable>useFunction</res:variable><res:value>uffici</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r13">
+      <res:binding rdf:nodeID="r13c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161645"/></res:binding>
+      <res:binding rdf:nodeID="r13c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161645-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r13c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r14">
+      <res:binding rdf:nodeID="r14c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161646"/></res:binding>
+      <res:binding rdf:nodeID="r14c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161646-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r14c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r15">
+      <res:binding rdf:nodeID="r15c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161646"/></res:binding>
+      <res:binding rdf:nodeID="r15c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161646-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r15c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r16">
+      <res:binding rdf:nodeID="r16c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161649"/></res:binding>
+      <res:binding rdf:nodeID="r16c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161649-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r16c2"><res:variable>useFunction</res:variable><res:value>uffici</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r17">
+      <res:binding rdf:nodeID="r17c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161649"/></res:binding>
+      <res:binding rdf:nodeID="r17c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161649-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r17c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r18">
+      <res:binding rdf:nodeID="r18c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161650"/></res:binding>
+      <res:binding rdf:nodeID="r18c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161650-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r18c2"><res:variable>useFunction</res:variable><res:value>negozio</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r19">
+      <res:binding rdf:nodeID="r19c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161650"/></res:binding>
+      <res:binding rdf:nodeID="r19c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161650-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r19c2"><res:variable>useFunction</res:variable><res:value>chiesa</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r20">
+      <res:binding rdf:nodeID="r20c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161653"/></res:binding>
+      <res:binding rdf:nodeID="r20c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161653-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r20c2"><res:variable>useFunction</res:variable><res:value>palestra/ uffici</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r21">
+      <res:binding rdf:nodeID="r21c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161653"/></res:binding>
+      <res:binding rdf:nodeID="r21c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161653-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r21c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r22">
+      <res:binding rdf:nodeID="r22c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161654"/></res:binding>
+      <res:binding rdf:nodeID="r22c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161654-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r22c2"><res:variable>useFunction</res:variable><res:value>abitazioni/ uffici</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r23">
+      <res:binding rdf:nodeID="r23c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161654"/></res:binding>
+      <res:binding rdf:nodeID="r23c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161654-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r23c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r24">
+      <res:binding rdf:nodeID="r24c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161655"/></res:binding>
+      <res:binding rdf:nodeID="r24c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161655-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r24c2"><res:variable>useFunction</res:variable><res:value>uffici/ residenze sul retro</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r25">
+      <res:binding rdf:nodeID="r25c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161655"/></res:binding>
+      <res:binding rdf:nodeID="r25c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161655-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r25c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r26">
+      <res:binding rdf:nodeID="r26c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161656"/></res:binding>
+      <res:binding rdf:nodeID="r26c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161656-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r26c2"><res:variable>useFunction</res:variable><res:value>abitazione/ uffici</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r27">
+      <res:binding rdf:nodeID="r27c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161656"/></res:binding>
+      <res:binding rdf:nodeID="r27c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161656-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r27c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r28">
+      <res:binding rdf:nodeID="r28c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161658"/></res:binding>
+      <res:binding rdf:nodeID="r28c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161658-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r28c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r29">
+      <res:binding rdf:nodeID="r29c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161658"/></res:binding>
+      <res:binding rdf:nodeID="r29c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161658-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r29c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r30">
+      <res:binding rdf:nodeID="r30c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161659"/></res:binding>
+      <res:binding rdf:nodeID="r30c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161659-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r30c2"><res:variable>useFunction</res:variable><res:value>uffici</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r31">
+      <res:binding rdf:nodeID="r31c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161659"/></res:binding>
+      <res:binding rdf:nodeID="r31c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161659-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r31c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r32">
+      <res:binding rdf:nodeID="r32c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161663"/></res:binding>
+      <res:binding rdf:nodeID="r32c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161663-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r32c2"><res:variable>useFunction</res:variable><res:value>inutilizzato</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r33">
+      <res:binding rdf:nodeID="r33c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161663"/></res:binding>
+      <res:binding rdf:nodeID="r33c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161663-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r33c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r34">
+      <res:binding rdf:nodeID="r34c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161664"/></res:binding>
+      <res:binding rdf:nodeID="r34c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161664-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r34c2"><res:variable>useFunction</res:variable><res:value>non utilizzato</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r35">
+      <res:binding rdf:nodeID="r35c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161664"/></res:binding>
+      <res:binding rdf:nodeID="r35c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161664-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r35c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r36">
+      <res:binding rdf:nodeID="r36c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161665"/></res:binding>
+      <res:binding rdf:nodeID="r36c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161665-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r36c2"><res:variable>useFunction</res:variable><res:value>uffici</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r37">
+      <res:binding rdf:nodeID="r37c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161665"/></res:binding>
+      <res:binding rdf:nodeID="r37c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161665-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r37c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r38">
+      <res:binding rdf:nodeID="r38c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161671"/></res:binding>
+      <res:binding rdf:nodeID="r38c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161671-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r38c2"><res:variable>useFunction</res:variable><res:value>inutilizzato</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r39">
+      <res:binding rdf:nodeID="r39c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161671"/></res:binding>
+      <res:binding rdf:nodeID="r39c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161671-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r39c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r40">
+      <res:binding rdf:nodeID="r40c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161672"/></res:binding>
+      <res:binding rdf:nodeID="r40c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161672-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r40c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r41">
+      <res:binding rdf:nodeID="r41c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161672"/></res:binding>
+      <res:binding rdf:nodeID="r41c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161672-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r41c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r42">
+      <res:binding rdf:nodeID="r42c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161675"/></res:binding>
+      <res:binding rdf:nodeID="r42c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161675-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r42c2"><res:variable>useFunction</res:variable><res:value>inutilizzato/ abitazione/ deposito di imbianchini</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r43">
+      <res:binding rdf:nodeID="r43c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161675"/></res:binding>
+      <res:binding rdf:nodeID="r43c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161675-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r43c2"><res:variable>useFunction</res:variable><res:value>chiesa</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r44">
+      <res:binding rdf:nodeID="r44c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161679"/></res:binding>
+      <res:binding rdf:nodeID="r44c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161679-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r44c2"><res:variable>useFunction</res:variable><res:value>residenza</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r45">
+      <res:binding rdf:nodeID="r45c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161679"/></res:binding>
+      <res:binding rdf:nodeID="r45c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161679-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r45c2"><res:variable>useFunction</res:variable><res:value>residenza</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r46">
+      <res:binding rdf:nodeID="r46c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161680"/></res:binding>
+      <res:binding rdf:nodeID="r46c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161680-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r46c2"><res:variable>useFunction</res:variable><res:value>residenza</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r47">
+      <res:binding rdf:nodeID="r47c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161680"/></res:binding>
+      <res:binding rdf:nodeID="r47c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161680-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r47c2"><res:variable>useFunction</res:variable><res:value>residenza</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r48">
+      <res:binding rdf:nodeID="r48c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161681"/></res:binding>
+      <res:binding rdf:nodeID="r48c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161681-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r48c2"><res:variable>useFunction</res:variable><res:value>circolo cittadino</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r49">
+      <res:binding rdf:nodeID="r49c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161681"/></res:binding>
+      <res:binding rdf:nodeID="r49c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161681-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r49c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r50">
+      <res:binding rdf:nodeID="r50c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161682"/></res:binding>
+      <res:binding rdf:nodeID="r50c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161682-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r50c2"><res:variable>useFunction</res:variable><res:value>monumento</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r51">
+      <res:binding rdf:nodeID="r51c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161682"/></res:binding>
+      <res:binding rdf:nodeID="r51c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161682-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r51c2"><res:variable>useFunction</res:variable><res:value>chiesa</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r52">
+      <res:binding rdf:nodeID="r52c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161683"/></res:binding>
+      <res:binding rdf:nodeID="r52c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161683-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r52c2"><res:variable>useFunction</res:variable><res:value>ristorante</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r53">
+      <res:binding rdf:nodeID="r53c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161683"/></res:binding>
+      <res:binding rdf:nodeID="r53c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161683-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r53c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r54">
+      <res:binding rdf:nodeID="r54c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161684"/></res:binding>
+      <res:binding rdf:nodeID="r54c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161684-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r54c2"><res:variable>useFunction</res:variable><res:value>uffici</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r55">
+      <res:binding rdf:nodeID="r55c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161684"/></res:binding>
+      <res:binding rdf:nodeID="r55c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161684-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r55c2"><res:variable>useFunction</res:variable><res:value>abitazione/ locanda</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r56">
+      <res:binding rdf:nodeID="r56c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161685"/></res:binding>
+      <res:binding rdf:nodeID="r56c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161685-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r56c2"><res:variable>useFunction</res:variable><res:value>Ist. ecclesiastico/ abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r57">
+      <res:binding rdf:nodeID="r57c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161685"/></res:binding>
+      <res:binding rdf:nodeID="r57c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161685-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r57c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r58">
+      <res:binding rdf:nodeID="r58c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161686"/></res:binding>
+      <res:binding rdf:nodeID="r58c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161686-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r58c2"><res:variable>useFunction</res:variable><res:value>inutilizzato</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r59">
+      <res:binding rdf:nodeID="r59c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161686"/></res:binding>
+      <res:binding rdf:nodeID="r59c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161686-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r59c2"><res:variable>useFunction</res:variable><res:value>orfanotrofio</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r60">
+      <res:binding rdf:nodeID="r60c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161688"/></res:binding>
+      <res:binding rdf:nodeID="r60c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161688-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r60c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r61">
+      <res:binding rdf:nodeID="r61c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161688"/></res:binding>
+      <res:binding rdf:nodeID="r61c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161688-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r61c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r62">
+      <res:binding rdf:nodeID="r62c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161690"/></res:binding>
+      <res:binding rdf:nodeID="r62c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161690-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r62c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r63">
+      <res:binding rdf:nodeID="r63c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161690"/></res:binding>
+      <res:binding rdf:nodeID="r63c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161690-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r63c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r64">
+      <res:binding rdf:nodeID="r64c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161691"/></res:binding>
+      <res:binding rdf:nodeID="r64c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161691-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r64c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r65">
+      <res:binding rdf:nodeID="r65c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161691"/></res:binding>
+      <res:binding rdf:nodeID="r65c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161691-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r65c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r66">
+      <res:binding rdf:nodeID="r66c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161692"/></res:binding>
+      <res:binding rdf:nodeID="r66c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161692-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r66c2"><res:variable>useFunction</res:variable><res:value>banca</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r67">
+      <res:binding rdf:nodeID="r67c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161692"/></res:binding>
+      <res:binding rdf:nodeID="r67c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161692-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r67c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r68">
+      <res:binding rdf:nodeID="r68c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161693"/></res:binding>
+      <res:binding rdf:nodeID="r68c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161693-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r68c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r69">
+      <res:binding rdf:nodeID="r69c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161693"/></res:binding>
+      <res:binding rdf:nodeID="r69c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161693-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r69c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r70">
+      <res:binding rdf:nodeID="r70c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161694"/></res:binding>
+      <res:binding rdf:nodeID="r70c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161694-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r70c2"><res:variable>useFunction</res:variable><res:value>monumento</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r71">
+      <res:binding rdf:nodeID="r71c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161694"/></res:binding>
+      <res:binding rdf:nodeID="r71c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161694-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r71c2"><res:variable>useFunction</res:variable><res:value>Mausoleo di Teodorico</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r72">
+      <res:binding rdf:nodeID="r72c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161695"/></res:binding>
+      <res:binding rdf:nodeID="r72c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161695-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r72c2"><res:variable>useFunction</res:variable><res:value>Uffici, sede universitaria</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r73">
+      <res:binding rdf:nodeID="r73c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161695"/></res:binding>
+      <res:binding rdf:nodeID="r73c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161695-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r73c2"><res:variable>useFunction</res:variable><res:value>Abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r74">
+      <res:binding rdf:nodeID="r74c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161697"/></res:binding>
+      <res:binding rdf:nodeID="r74c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161697-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r74c2"><res:variable>useFunction</res:variable><res:value>abitazioni, uffici, negozi</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r75">
+      <res:binding rdf:nodeID="r75c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161697"/></res:binding>
+      <res:binding rdf:nodeID="r75c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161697-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r75c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r76">
+      <res:binding rdf:nodeID="r76c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161698"/></res:binding>
+      <res:binding rdf:nodeID="r76c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161698-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r76c2"><res:variable>useFunction</res:variable><res:value>Assessorato all Cultura</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r77">
+      <res:binding rdf:nodeID="r77c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161698"/></res:binding>
+      <res:binding rdf:nodeID="r77c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161698-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r77c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r78">
+      <res:binding rdf:nodeID="r78c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161699"/></res:binding>
+      <res:binding rdf:nodeID="r78c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161699-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r78c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r79">
+      <res:binding rdf:nodeID="r79c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161699"/></res:binding>
+      <res:binding rdf:nodeID="r79c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161699-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r79c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r80">
+      <res:binding rdf:nodeID="r80c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161702"/></res:binding>
+      <res:binding rdf:nodeID="r80c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161702-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r80c2"><res:variable>useFunction</res:variable><res:value>abitazione/ uffici</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r81">
+      <res:binding rdf:nodeID="r81c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161702"/></res:binding>
+      <res:binding rdf:nodeID="r81c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161702-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r81c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r82">
+      <res:binding rdf:nodeID="r82c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161703"/></res:binding>
+      <res:binding rdf:nodeID="r82c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161703-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r82c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r83">
+      <res:binding rdf:nodeID="r83c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161703"/></res:binding>
+      <res:binding rdf:nodeID="r83c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161703-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r83c2"><res:variable>useFunction</res:variable><res:value>seminario</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r84">
+      <res:binding rdf:nodeID="r84c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161704"/></res:binding>
+      <res:binding rdf:nodeID="r84c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161704-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r84c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r85">
+      <res:binding rdf:nodeID="r85c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161704"/></res:binding>
+      <res:binding rdf:nodeID="r85c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161704-current-use-2"/></res:binding>
+      <res:binding rdf:nodeID="r85c2"><res:variable>useFunction</res:variable><res:value>uffici</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r86">
+      <res:binding rdf:nodeID="r86c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161704"/></res:binding>
+      <res:binding rdf:nodeID="r86c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161704-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r86c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r87">
+      <res:binding rdf:nodeID="r87c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161705"/></res:binding>
+      <res:binding rdf:nodeID="r87c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161705-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r87c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r88">
+      <res:binding rdf:nodeID="r88c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161705"/></res:binding>
+      <res:binding rdf:nodeID="r88c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161705-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r88c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r89">
+      <res:binding rdf:nodeID="r89c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161706"/></res:binding>
+      <res:binding rdf:nodeID="r89c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161706-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r89c2"><res:variable>useFunction</res:variable><res:value>abitazione/ negozi</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r90">
+      <res:binding rdf:nodeID="r90c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161706"/></res:binding>
+      <res:binding rdf:nodeID="r90c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161706-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r90c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r91">
+      <res:binding rdf:nodeID="r91c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161707"/></res:binding>
+      <res:binding rdf:nodeID="r91c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161707-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r91c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r92">
+      <res:binding rdf:nodeID="r92c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161707"/></res:binding>
+      <res:binding rdf:nodeID="r92c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161707-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r92c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r93">
+      <res:binding rdf:nodeID="r93c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161708"/></res:binding>
+      <res:binding rdf:nodeID="r93c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161708-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r93c2"><res:variable>useFunction</res:variable><res:value>uffici</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r94">
+      <res:binding rdf:nodeID="r94c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161708"/></res:binding>
+      <res:binding rdf:nodeID="r94c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161708-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r94c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r95">
+      <res:binding rdf:nodeID="r95c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161709"/></res:binding>
+      <res:binding rdf:nodeID="r95c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161709-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r95c2"><res:variable>useFunction</res:variable><res:value>uffici</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r96">
+      <res:binding rdf:nodeID="r96c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161709"/></res:binding>
+      <res:binding rdf:nodeID="r96c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161709-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r96c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r97">
+      <res:binding rdf:nodeID="r97c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161711"/></res:binding>
+      <res:binding rdf:nodeID="r97c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161711-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r97c2"><res:variable>useFunction</res:variable><res:value>disabitato</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r98">
+      <res:binding rdf:nodeID="r98c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161711"/></res:binding>
+      <res:binding rdf:nodeID="r98c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161711-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r98c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r99">
+      <res:binding rdf:nodeID="r99c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161712"/></res:binding>
+      <res:binding rdf:nodeID="r99c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161712-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r99c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r100">
+      <res:binding rdf:nodeID="r100c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161712"/></res:binding>
+      <res:binding rdf:nodeID="r100c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161712-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r100c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r101">
+      <res:binding rdf:nodeID="r101c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161717"/></res:binding>
+      <res:binding rdf:nodeID="r101c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161717-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r101c2"><res:variable>useFunction</res:variable><res:value>non utilizzato</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r102">
+      <res:binding rdf:nodeID="r102c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161717"/></res:binding>
+      <res:binding rdf:nodeID="r102c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161717-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r102c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r103">
+      <res:binding rdf:nodeID="r103c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161719"/></res:binding>
+      <res:binding rdf:nodeID="r103c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161719-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r103c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r104">
+      <res:binding rdf:nodeID="r104c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161727"/></res:binding>
+      <res:binding rdf:nodeID="r104c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161727-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r104c2"><res:variable>useFunction</res:variable><res:value>abitazione-uffici</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r105">
+      <res:binding rdf:nodeID="r105c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161727"/></res:binding>
+      <res:binding rdf:nodeID="r105c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161727-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r105c2"><res:variable>useFunction</res:variable><res:value>chiesa</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r106">
+      <res:binding rdf:nodeID="r106c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161728"/></res:binding>
+      <res:binding rdf:nodeID="r106c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161728-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r106c2"><res:variable>useFunction</res:variable><res:value>uffici, sede bancaria</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r107">
+      <res:binding rdf:nodeID="r107c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161728"/></res:binding>
+      <res:binding rdf:nodeID="r107c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161728-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r107c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r108">
+      <res:binding rdf:nodeID="r108c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161730"/></res:binding>
+      <res:binding rdf:nodeID="r108c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161730-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r108c2"><res:variable>useFunction</res:variable><res:value>inutilizzato</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r109">
+      <res:binding rdf:nodeID="r109c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161730"/></res:binding>
+      <res:binding rdf:nodeID="r109c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161730-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r109c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r110">
+      <res:binding rdf:nodeID="r110c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161731"/></res:binding>
+      <res:binding rdf:nodeID="r110c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161731-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r110c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r111">
+      <res:binding rdf:nodeID="r111c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161733"/></res:binding>
+      <res:binding rdf:nodeID="r111c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161733-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r111c2"><res:variable>useFunction</res:variable><res:value>abitazione-negozi</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r112">
+      <res:binding rdf:nodeID="r112c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161733"/></res:binding>
+      <res:binding rdf:nodeID="r112c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161733-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r112c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r113">
+      <res:binding rdf:nodeID="r113c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161734"/></res:binding>
+      <res:binding rdf:nodeID="r113c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161734-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r113c2"><res:variable>useFunction</res:variable><res:value>struttura difensiva</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r114">
+      <res:binding rdf:nodeID="r114c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161735"/></res:binding>
+      <res:binding rdf:nodeID="r114c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161735-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r114c2"><res:variable>useFunction</res:variable><res:value>museo</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r115">
+      <res:binding rdf:nodeID="r115c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161735"/></res:binding>
+      <res:binding rdf:nodeID="r115c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161735-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r115c2"><res:variable>useFunction</res:variable><res:value>chiesa</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r116">
+      <res:binding rdf:nodeID="r116c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161738"/></res:binding>
+      <res:binding rdf:nodeID="r116c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161738-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r116c2"><res:variable>useFunction</res:variable><res:value>uffici-sede di partito</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r117">
+      <res:binding rdf:nodeID="r117c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161738"/></res:binding>
+      <res:binding rdf:nodeID="r117c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161738-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r117c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r118">
+      <res:binding rdf:nodeID="r118c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161739"/></res:binding>
+      <res:binding rdf:nodeID="r118c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161739-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r118c2"><res:variable>useFunction</res:variable><res:value>uffici</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r119">
+      <res:binding rdf:nodeID="r119c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161739"/></res:binding>
+      <res:binding rdf:nodeID="r119c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161739-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r119c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r120">
+      <res:binding rdf:nodeID="r120c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161740"/></res:binding>
+      <res:binding rdf:nodeID="r120c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161740-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r120c2"><res:variable>useFunction</res:variable><res:value>scuola</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r121">
+      <res:binding rdf:nodeID="r121c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161740"/></res:binding>
+      <res:binding rdf:nodeID="r121c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161740-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r121c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r122">
+      <res:binding rdf:nodeID="r122c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161750"/></res:binding>
+      <res:binding rdf:nodeID="r122c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161750-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r122c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r123">
+      <res:binding rdf:nodeID="r123c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161750"/></res:binding>
+      <res:binding rdf:nodeID="r123c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161750-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r123c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r124">
+      <res:binding rdf:nodeID="r124c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161751"/></res:binding>
+      <res:binding rdf:nodeID="r124c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161751-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r124c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r125">
+      <res:binding rdf:nodeID="r125c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161751"/></res:binding>
+      <res:binding rdf:nodeID="r125c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161751-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r125c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r126">
+      <res:binding rdf:nodeID="r126c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161753"/></res:binding>
+      <res:binding rdf:nodeID="r126c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161753-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r126c2"><res:variable>useFunction</res:variable><res:value>uffici</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r127">
+      <res:binding rdf:nodeID="r127c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161753"/></res:binding>
+      <res:binding rdf:nodeID="r127c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161753-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r127c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r128">
+      <res:binding rdf:nodeID="r128c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161758"/></res:binding>
+      <res:binding rdf:nodeID="r128c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161758-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r128c2"><res:variable>useFunction</res:variable><res:value>uso pubblico-museale</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r129">
+      <res:binding rdf:nodeID="r129c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161758"/></res:binding>
+      <res:binding rdf:nodeID="r129c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161758-current-use-2"/></res:binding>
+      <res:binding rdf:nodeID="r129c2"><res:variable>useFunction</res:variable><res:value>disabitato</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r130">
+      <res:binding rdf:nodeID="r130c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161758"/></res:binding>
+      <res:binding rdf:nodeID="r130c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161758-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r130c2"><res:variable>useFunction</res:variable><res:value>complesso monasteriale</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r131">
+      <res:binding rdf:nodeID="r131c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161759"/></res:binding>
+      <res:binding rdf:nodeID="r131c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161759-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r131c2"><res:variable>useFunction</res:variable><res:value>uffici</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r132">
+      <res:binding rdf:nodeID="r132c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161759"/></res:binding>
+      <res:binding rdf:nodeID="r132c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161759-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r132c2"><res:variable>useFunction</res:variable><res:value>convento</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r133">
+      <res:binding rdf:nodeID="r133c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161760"/></res:binding>
+      <res:binding rdf:nodeID="r133c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161760-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r133c2"><res:variable>useFunction</res:variable><res:value>in fase di restauro</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r134">
+      <res:binding rdf:nodeID="r134c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161760"/></res:binding>
+      <res:binding rdf:nodeID="r134c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161760-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r134c2"><res:variable>useFunction</res:variable><res:value>chiesa</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r135">
+      <res:binding rdf:nodeID="r135c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161764"/></res:binding>
+      <res:binding rdf:nodeID="r135c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161764-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r135c2"><res:variable>useFunction</res:variable><res:value>abitazione, uffici</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r136">
+      <res:binding rdf:nodeID="r136c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161764"/></res:binding>
+      <res:binding rdf:nodeID="r136c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161764-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r136c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r137">
+      <res:binding rdf:nodeID="r137c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161767"/></res:binding>
+      <res:binding rdf:nodeID="r137c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161767-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r137c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r138">
+      <res:binding rdf:nodeID="r138c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161767"/></res:binding>
+      <res:binding rdf:nodeID="r138c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161767-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r138c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r139">
+      <res:binding rdf:nodeID="r139c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161769"/></res:binding>
+      <res:binding rdf:nodeID="r139c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161769-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r139c2"><res:variable>useFunction</res:variable><res:value>uffici</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r140">
+      <res:binding rdf:nodeID="r140c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161769"/></res:binding>
+      <res:binding rdf:nodeID="r140c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161769-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r140c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r141">
+      <res:binding rdf:nodeID="r141c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161776"/></res:binding>
+      <res:binding rdf:nodeID="r141c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161776-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r141c2"><res:variable>useFunction</res:variable><res:value>uffici</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r142">
+      <res:binding rdf:nodeID="r142c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161776"/></res:binding>
+      <res:binding rdf:nodeID="r142c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161776-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r142c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r143">
+      <res:binding rdf:nodeID="r143c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161777"/></res:binding>
+      <res:binding rdf:nodeID="r143c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161777-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r143c2"><res:variable>useFunction</res:variable><res:value>chiesa</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r144">
+      <res:binding rdf:nodeID="r144c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161777"/></res:binding>
+      <res:binding rdf:nodeID="r144c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161777-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r144c2"><res:variable>useFunction</res:variable><res:value>chiesa</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r145">
+      <res:binding rdf:nodeID="r145c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161778"/></res:binding>
+      <res:binding rdf:nodeID="r145c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161778-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r145c2"><res:variable>useFunction</res:variable><res:value>uffici</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r146">
+      <res:binding rdf:nodeID="r146c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161778"/></res:binding>
+      <res:binding rdf:nodeID="r146c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161778-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r146c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r147">
+      <res:binding rdf:nodeID="r147c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161779"/></res:binding>
+      <res:binding rdf:nodeID="r147c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161779-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r147c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r148">
+      <res:binding rdf:nodeID="r148c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161779"/></res:binding>
+      <res:binding rdf:nodeID="r148c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161779-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r148c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r149">
+      <res:binding rdf:nodeID="r149c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161780"/></res:binding>
+      <res:binding rdf:nodeID="r149c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161780-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r149c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r150">
+      <res:binding rdf:nodeID="r150c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161780"/></res:binding>
+      <res:binding rdf:nodeID="r150c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161780-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r150c2"><res:variable>useFunction</res:variable><res:value>chiesa</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r151">
+      <res:binding rdf:nodeID="r151c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161781"/></res:binding>
+      <res:binding rdf:nodeID="r151c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161781-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r151c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r152">
+      <res:binding rdf:nodeID="r152c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161781"/></res:binding>
+      <res:binding rdf:nodeID="r152c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161781-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r152c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r153">
+      <res:binding rdf:nodeID="r153c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161782"/></res:binding>
+      <res:binding rdf:nodeID="r153c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161782-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r153c2"><res:variable>useFunction</res:variable><res:value>uffici</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r154">
+      <res:binding rdf:nodeID="r154c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161782"/></res:binding>
+      <res:binding rdf:nodeID="r154c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161782-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r154c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r155">
+      <res:binding rdf:nodeID="r155c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161785"/></res:binding>
+      <res:binding rdf:nodeID="r155c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161785-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r155c2"><res:variable>useFunction</res:variable><res:value>abitazione (di campagna)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r156">
+      <res:binding rdf:nodeID="r156c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161786"/></res:binding>
+      <res:binding rdf:nodeID="r156c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161786-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r156c2"><res:variable>useFunction</res:variable><res:value>residenza di campagna</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r157">
+      <res:binding rdf:nodeID="r157c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161786"/></res:binding>
+      <res:binding rdf:nodeID="r157c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161786-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r157c2"><res:variable>useFunction</res:variable><res:value>residenza di campagna</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r158">
+      <res:binding rdf:nodeID="r158c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161787"/></res:binding>
+      <res:binding rdf:nodeID="r158c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161787-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r158c2"><res:variable>useFunction</res:variable><res:value>inutilizzato</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r159">
+      <res:binding rdf:nodeID="r159c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161787"/></res:binding>
+      <res:binding rdf:nodeID="r159c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161787-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r159c2"><res:variable>useFunction</res:variable><res:value>residenza fortificata</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r160">
+      <res:binding rdf:nodeID="r160c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161792"/></res:binding>
+      <res:binding rdf:nodeID="r160c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161792-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r160c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r161">
+      <res:binding rdf:nodeID="r161c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161792"/></res:binding>
+      <res:binding rdf:nodeID="r161c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161792-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r161c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r162">
+      <res:binding rdf:nodeID="r162c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161796"/></res:binding>
+      <res:binding rdf:nodeID="r162c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161796-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r162c2"><res:variable>useFunction</res:variable><res:value>disabitata</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r163">
+      <res:binding rdf:nodeID="r163c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161796"/></res:binding>
+      <res:binding rdf:nodeID="r163c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161796-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r163c2"><res:variable>useFunction</res:variable><res:value>abitazione di campagna</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r164">
+      <res:binding rdf:nodeID="r164c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161797"/></res:binding>
+      <res:binding rdf:nodeID="r164c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161797-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r164c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r165">
+      <res:binding rdf:nodeID="r165c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161797"/></res:binding>
+      <res:binding rdf:nodeID="r165c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161797-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r165c2"><res:variable>useFunction</res:variable><res:value>casa della sanità</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r166">
+      <res:binding rdf:nodeID="r166c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161800"/></res:binding>
+      <res:binding rdf:nodeID="r166c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161800-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r166c2"><res:variable>useFunction</res:variable><res:value>magazzino</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r167">
+      <res:binding rdf:nodeID="r167c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161800"/></res:binding>
+      <res:binding rdf:nodeID="r167c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161800-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r167c2"><res:variable>useFunction</res:variable><res:value>chiesa</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r168">
+      <res:binding rdf:nodeID="r168c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161804"/></res:binding>
+      <res:binding rdf:nodeID="r168c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161804-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r168c2"><res:variable>useFunction</res:variable><res:value>museo</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r169">
+      <res:binding rdf:nodeID="r169c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161804"/></res:binding>
+      <res:binding rdf:nodeID="r169c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161804-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r169c2"><res:variable>useFunction</res:variable><res:value>presidio-abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r170">
+      <res:binding rdf:nodeID="r170c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161805"/></res:binding>
+      <res:binding rdf:nodeID="r170c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161805-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r170c2"><res:variable>useFunction</res:variable><res:value>residenza estiva</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r171">
+      <res:binding rdf:nodeID="r171c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161805"/></res:binding>
+      <res:binding rdf:nodeID="r171c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161805-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r171c2"><res:variable>useFunction</res:variable><res:value>residenza estiva</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r172">
+      <res:binding rdf:nodeID="r172c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161806"/></res:binding>
+      <res:binding rdf:nodeID="r172c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161806-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r172c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r173">
+      <res:binding rdf:nodeID="r173c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161806"/></res:binding>
+      <res:binding rdf:nodeID="r173c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161806-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r173c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r174">
+      <res:binding rdf:nodeID="r174c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161808"/></res:binding>
+      <res:binding rdf:nodeID="r174c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161808-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r174c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r175">
+      <res:binding rdf:nodeID="r175c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161808"/></res:binding>
+      <res:binding rdf:nodeID="r175c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161808-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r175c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r176">
+      <res:binding rdf:nodeID="r176c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161809"/></res:binding>
+      <res:binding rdf:nodeID="r176c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161809-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r176c2"><res:variable>useFunction</res:variable><res:value>inutilizzato</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r177">
+      <res:binding rdf:nodeID="r177c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161809"/></res:binding>
+      <res:binding rdf:nodeID="r177c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161809-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r177c2"><res:variable>useFunction</res:variable><res:value>torre di difesa/ residenza</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r178">
+      <res:binding rdf:nodeID="r178c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161810"/></res:binding>
+      <res:binding rdf:nodeID="r178c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161810-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r178c2"><res:variable>useFunction</res:variable><res:value>inutilizzata</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r179">
+      <res:binding rdf:nodeID="r179c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161810"/></res:binding>
+      <res:binding rdf:nodeID="r179c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161810-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r179c2"><res:variable>useFunction</res:variable><res:value>residenza di campagna</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r180">
+      <res:binding rdf:nodeID="r180c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161811"/></res:binding>
+      <res:binding rdf:nodeID="r180c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161811-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r180c2"><res:variable>useFunction</res:variable><res:value>deposito mobili antichi</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r181">
+      <res:binding rdf:nodeID="r181c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161811"/></res:binding>
+      <res:binding rdf:nodeID="r181c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161811-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r181c2"><res:variable>useFunction</res:variable><res:value>residenza estiva</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r182">
+      <res:binding rdf:nodeID="r182c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161812"/></res:binding>
+      <res:binding rdf:nodeID="r182c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161812-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r182c2"><res:variable>useFunction</res:variable><res:value>negozio</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r183">
+      <res:binding rdf:nodeID="r183c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161812"/></res:binding>
+      <res:binding rdf:nodeID="r183c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161812-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r183c2"><res:variable>useFunction</res:variable><res:value>chiesa/ campanile</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r184">
+      <res:binding rdf:nodeID="r184c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266225"/></res:binding>
+      <res:binding rdf:nodeID="r184c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266225-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r184c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r185">
+      <res:binding rdf:nodeID="r185c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266226"/></res:binding>
+      <res:binding rdf:nodeID="r185c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266226-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r185c2"><res:variable>useFunction</res:variable><res:value>nessuno</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r186">
+      <res:binding rdf:nodeID="r186c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266226"/></res:binding>
+      <res:binding rdf:nodeID="r186c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266226-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r186c2"><res:variable>useFunction</res:variable><res:value>scolastico</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r187">
+      <res:binding rdf:nodeID="r187c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266231"/></res:binding>
+      <res:binding rdf:nodeID="r187c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266231-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r187c2"><res:variable>useFunction</res:variable><res:value>caserma</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r188">
+      <res:binding rdf:nodeID="r188c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266237"/></res:binding>
+      <res:binding rdf:nodeID="r188c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266237-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r188c2"><res:variable>useFunction</res:variable><res:value>uso pubblico, magazzino, osteria</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r189">
+      <res:binding rdf:nodeID="r189c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308248"/></res:binding>
+      <res:binding rdf:nodeID="r189c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800308248-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r189c2"><res:variable>useFunction</res:variable><res:value>in fase di ristrutturazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r190">
+      <res:binding rdf:nodeID="r190c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308248"/></res:binding>
+      <res:binding rdf:nodeID="r190c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800308248-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r190c2"><res:variable>useFunction</res:variable><res:value>zuccherificio</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r191">
+      <res:binding rdf:nodeID="r191c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308263"/></res:binding>
+      <res:binding rdf:nodeID="r191c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800308263-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r191c2"><res:variable>useFunction</res:variable><res:value>chiesa</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r192">
+      <res:binding rdf:nodeID="r192c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308269"/></res:binding>
+      <res:binding rdf:nodeID="r192c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800308269-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r192c2"><res:variable>useFunction</res:variable><res:value>in ristrutturazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r193">
+      <res:binding rdf:nodeID="r193c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308269"/></res:binding>
+      <res:binding rdf:nodeID="r193c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800308269-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r193c2"><res:variable>useFunction</res:variable><res:value>chiesa</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r194">
+      <res:binding rdf:nodeID="r194c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308279"/></res:binding>
+      <res:binding rdf:nodeID="r194c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800308279-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r194c2"><res:variable>useFunction</res:variable><res:value>in abbandono</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r195">
+      <res:binding rdf:nodeID="r195c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308279"/></res:binding>
+      <res:binding rdf:nodeID="r195c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800308279-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r195c2"><res:variable>useFunction</res:variable><res:value>cappella</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r196">
+      <res:binding rdf:nodeID="r196c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800319231"/></res:binding>
+      <res:binding rdf:nodeID="r196c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800319231-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r196c2"><res:variable>useFunction</res:variable><res:value>canonica</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r197">
+      <res:binding rdf:nodeID="r197c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800319231"/></res:binding>
+      <res:binding rdf:nodeID="r197c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800319231-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r197c2"><res:variable>useFunction</res:variable><res:value>canonica</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r198">
+      <res:binding rdf:nodeID="r198c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800319233"/></res:binding>
+      <res:binding rdf:nodeID="r198c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800319233-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r198c2"><res:variable>useFunction</res:variable><res:value>caserma</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r199">
+      <res:binding rdf:nodeID="r199c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800319233"/></res:binding>
+      <res:binding rdf:nodeID="r199c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800319233-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r199c2"><res:variable>useFunction</res:variable><res:value>caserma</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r200">
+      <res:binding rdf:nodeID="r200c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800319247-bene-individuo"/></res:binding>
+      <res:binding rdf:nodeID="r200c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800319247-bene-individuo-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r200c2"><res:variable>useFunction</res:variable><res:value>caserma militare</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r201">
+      <res:binding rdf:nodeID="r201c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800319247-bene-individuo"/></res:binding>
+      <res:binding rdf:nodeID="r201c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800319247-bene-individuo-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r201c2"><res:variable>useFunction</res:variable><res:value>collegio per i nobili</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r202">
+      <res:binding rdf:nodeID="r202c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800319248-bene-individuo"/></res:binding>
+      <res:binding rdf:nodeID="r202c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800319248-bene-individuo-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r202c2"><res:variable>useFunction</res:variable><res:value>canonica e abitazione del Parroco</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r203">
+      <res:binding rdf:nodeID="r203c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800319248-bene-individuo"/></res:binding>
+      <res:binding rdf:nodeID="r203c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800319248-bene-individuo-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r203c2"><res:variable>useFunction</res:variable><res:value>ala conventuale</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r204">
+      <res:binding rdf:nodeID="r204c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161718"/></res:binding>
+      <res:binding rdf:nodeID="r204c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161718-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r204c2"><res:variable>useFunction</res:variable><res:value>Istituto religioso-educativo</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r205">
+      <res:binding rdf:nodeID="r205c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161718"/></res:binding>
+      <res:binding rdf:nodeID="r205c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161718-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r205c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r206">
+      <res:binding rdf:nodeID="r206c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266218"/></res:binding>
+      <res:binding rdf:nodeID="r206c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266218-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r206c2"><res:variable>useFunction</res:variable><res:value>studio dentistico</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r207">
+      <res:binding rdf:nodeID="r207c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266218"/></res:binding>
+      <res:binding rdf:nodeID="r207c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266218-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r207c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r208">
+      <res:binding rdf:nodeID="r208c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266219"/></res:binding>
+      <res:binding rdf:nodeID="r208c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266219-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r208c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r209">
+      <res:binding rdf:nodeID="r209c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266219"/></res:binding>
+      <res:binding rdf:nodeID="r209c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266219-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r209c2"><res:variable>useFunction</res:variable><res:value>fattoria con pertinenze</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r210">
+      <res:binding rdf:nodeID="r210c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266220"/></res:binding>
+      <res:binding rdf:nodeID="r210c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266220-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r210c2"><res:variable>useFunction</res:variable><res:value>in fase di restauro</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r211">
+      <res:binding rdf:nodeID="r211c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266220"/></res:binding>
+      <res:binding rdf:nodeID="r211c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266220-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r211c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r212">
+      <res:binding rdf:nodeID="r212c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266221"/></res:binding>
+      <res:binding rdf:nodeID="r212c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266221-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r212c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r213">
+      <res:binding rdf:nodeID="r213c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266221"/></res:binding>
+      <res:binding rdf:nodeID="r213c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266221-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r213c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r214">
+      <res:binding rdf:nodeID="r214c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266223"/></res:binding>
+      <res:binding rdf:nodeID="r214c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266223-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r214c2"><res:variable>useFunction</res:variable><res:value>abitazione/ negozio</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r215">
+      <res:binding rdf:nodeID="r215c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266224"/></res:binding>
+      <res:binding rdf:nodeID="r215c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266224-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r215c2"><res:variable>useFunction</res:variable><res:value>biblioteca</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r216">
+      <res:binding rdf:nodeID="r216c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266224"/></res:binding>
+      <res:binding rdf:nodeID="r216c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266224-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r216c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r217">
+      <res:binding rdf:nodeID="r217c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266227"/></res:binding>
+      <res:binding rdf:nodeID="r217c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266227-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r217c2"><res:variable>useFunction</res:variable><res:value>monumento</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r218">
+      <res:binding rdf:nodeID="r218c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266227"/></res:binding>
+      <res:binding rdf:nodeID="r218c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266227-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r218c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r219">
+      <res:binding rdf:nodeID="r219c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266228"/></res:binding>
+      <res:binding rdf:nodeID="r219c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266228-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r219c2"><res:variable>useFunction</res:variable><res:value>uffici</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r220">
+      <res:binding rdf:nodeID="r220c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266228"/></res:binding>
+      <res:binding rdf:nodeID="r220c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266228-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r220c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r221">
+      <res:binding rdf:nodeID="r221c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266230"/></res:binding>
+      <res:binding rdf:nodeID="r221c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266230-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r221c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r222">
+      <res:binding rdf:nodeID="r222c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266230"/></res:binding>
+      <res:binding rdf:nodeID="r222c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266230-current-use-2"/></res:binding>
+      <res:binding rdf:nodeID="r222c2"><res:variable>useFunction</res:variable><res:value>negozio</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r223">
+      <res:binding rdf:nodeID="r223c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266230"/></res:binding>
+      <res:binding rdf:nodeID="r223c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266230-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r223c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r224">
+      <res:binding rdf:nodeID="r224c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266230"/></res:binding>
+      <res:binding rdf:nodeID="r224c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266230-historical-use-2"/></res:binding>
+      <res:binding rdf:nodeID="r224c2"><res:variable>useFunction</res:variable><res:value>foresteria</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r225">
+      <res:binding rdf:nodeID="r225c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266235"/></res:binding>
+      <res:binding rdf:nodeID="r225c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266235-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r225c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r226">
+      <res:binding rdf:nodeID="r226c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266235"/></res:binding>
+      <res:binding rdf:nodeID="r226c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266235-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r226c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r227">
+      <res:binding rdf:nodeID="r227c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266236"/></res:binding>
+      <res:binding rdf:nodeID="r227c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266236-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r227c2"><res:variable>useFunction</res:variable><res:value>museale, abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r228">
+      <res:binding rdf:nodeID="r228c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266236"/></res:binding>
+      <res:binding rdf:nodeID="r228c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266236-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r228c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r229">
+      <res:binding rdf:nodeID="r229c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266238"/></res:binding>
+      <res:binding rdf:nodeID="r229c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266238-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r229c2"><res:variable>useFunction</res:variable><res:value>inutilizzata</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r230">
+      <res:binding rdf:nodeID="r230c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266238"/></res:binding>
+      <res:binding rdf:nodeID="r230c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266238-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r230c2"><res:variable>useFunction</res:variable><res:value>commerciale o di difesa</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r231">
+      <res:binding rdf:nodeID="r231c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266240"/></res:binding>
+      <res:binding rdf:nodeID="r231c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266240-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r231c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r232">
+      <res:binding rdf:nodeID="r232c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266240"/></res:binding>
+      <res:binding rdf:nodeID="r232c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266240-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r232c2"><res:variable>useFunction</res:variable><res:value>abitazione di campagna</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r233">
+      <res:binding rdf:nodeID="r233c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266241"/></res:binding>
+      <res:binding rdf:nodeID="r233c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266241-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r233c2"><res:variable>useFunction</res:variable><res:value>museo di ricordi garibaldini</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r234">
+      <res:binding rdf:nodeID="r234c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266241"/></res:binding>
+      <res:binding rdf:nodeID="r234c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266241-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r234c2"><res:variable>useFunction</res:variable><res:value>capanno da caccia</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r235">
+      <res:binding rdf:nodeID="r235c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266242"/></res:binding>
+      <res:binding rdf:nodeID="r235c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266242-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r235c2"><res:variable>useFunction</res:variable><res:value>deposito</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r236">
+      <res:binding rdf:nodeID="r236c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266242"/></res:binding>
+      <res:binding rdf:nodeID="r236c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266242-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r236c2"><res:variable>useFunction</res:variable><res:value>chiesa</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r237">
+      <res:binding rdf:nodeID="r237c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266243"/></res:binding>
+      <res:binding rdf:nodeID="r237c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266243-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r237c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r238">
+      <res:binding rdf:nodeID="r238c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266243"/></res:binding>
+      <res:binding rdf:nodeID="r238c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266243-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r238c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r239">
+      <res:binding rdf:nodeID="r239c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266244"/></res:binding>
+      <res:binding rdf:nodeID="r239c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266244-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r239c2"><res:variable>useFunction</res:variable><res:value>residenza e servizi per comunità di giovani</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r240">
+      <res:binding rdf:nodeID="r240c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266244"/></res:binding>
+      <res:binding rdf:nodeID="r240c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266244-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r240c2"><res:variable>useFunction</res:variable><res:value>residenza di campagna con scuderie</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r241">
+      <res:binding rdf:nodeID="r241c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266246"/></res:binding>
+      <res:binding rdf:nodeID="r241c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266246-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r241c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r242">
+      <res:binding rdf:nodeID="r242c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266246"/></res:binding>
+      <res:binding rdf:nodeID="r242c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266246-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r242c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r243">
+      <res:binding rdf:nodeID="r243c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266247"/></res:binding>
+      <res:binding rdf:nodeID="r243c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266247-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r243c2"><res:variable>useFunction</res:variable><res:value>oratorio</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r244">
+      <res:binding rdf:nodeID="r244c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266247"/></res:binding>
+      <res:binding rdf:nodeID="r244c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266247-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r244c2"><res:variable>useFunction</res:variable><res:value>villa e oratorio</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r245">
+      <res:binding rdf:nodeID="r245c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266248"/></res:binding>
+      <res:binding rdf:nodeID="r245c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266248-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r245c2"><res:variable>useFunction</res:variable><res:value>inutilizzato</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r246">
+      <res:binding rdf:nodeID="r246c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266248"/></res:binding>
+      <res:binding rdf:nodeID="r246c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266248-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r246c2"><res:variable>useFunction</res:variable><res:value>residenziale</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r247">
+      <res:binding rdf:nodeID="r247c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266254"/></res:binding>
+      <res:binding rdf:nodeID="r247c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266254-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r247c2"><res:variable>useFunction</res:variable><res:value>magazzino cereali</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r248">
+      <res:binding rdf:nodeID="r248c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266254"/></res:binding>
+      <res:binding rdf:nodeID="r248c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266254-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r248c2"><res:variable>useFunction</res:variable><res:value>magazzino</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r249">
+      <res:binding rdf:nodeID="r249c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800319232"/></res:binding>
+      <res:binding rdf:nodeID="r249c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800319232-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r249c2"><res:variable>useFunction</res:variable><res:value>uffici</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r250">
+      <res:binding rdf:nodeID="r250c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800319232"/></res:binding>
+      <res:binding rdf:nodeID="r250c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800319232-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r250c2"><res:variable>useFunction</res:variable><res:value>chiesa</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r251">
+      <res:binding rdf:nodeID="r251c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800319234"/></res:binding>
+      <res:binding rdf:nodeID="r251c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800319234-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r251c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r252">
+      <res:binding rdf:nodeID="r252c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800319234"/></res:binding>
+      <res:binding rdf:nodeID="r252c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800319234-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r252c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r253">
+      <res:binding rdf:nodeID="r253c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800319235"/></res:binding>
+      <res:binding rdf:nodeID="r253c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800319235-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r253c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r254">
+      <res:binding rdf:nodeID="r254c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800319236"/></res:binding>
+      <res:binding rdf:nodeID="r254c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800319236-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r254c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r255">
+      <res:binding rdf:nodeID="r255c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800319236"/></res:binding>
+      <res:binding rdf:nodeID="r255c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800319236-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r255c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r256">
+      <res:binding rdf:nodeID="r256c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161623"/></res:binding>
+      <res:binding rdf:nodeID="r256c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161623-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r256c2"><res:variable>useFunction</res:variable><res:value>museo dantesco/ uffici</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r257">
+      <res:binding rdf:nodeID="r257c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161623"/></res:binding>
+      <res:binding rdf:nodeID="r257c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161623-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r257c2"><res:variable>useFunction</res:variable><res:value>convento francescano</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r258">
+      <res:binding rdf:nodeID="r258c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161644"/></res:binding>
+      <res:binding rdf:nodeID="r258c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161644-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r258c2"><res:variable>useFunction</res:variable><res:value>chiesa</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r259">
+      <res:binding rdf:nodeID="r259c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161644"/></res:binding>
+      <res:binding rdf:nodeID="r259c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161644-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r259c2"><res:variable>useFunction</res:variable><res:value>battistero</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r260">
+      <res:binding rdf:nodeID="r260c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161762"/></res:binding>
+      <res:binding rdf:nodeID="r260c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161762-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r260c2"><res:variable>useFunction</res:variable><res:value>chiesa</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r261">
+      <res:binding rdf:nodeID="r261c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161763"/></res:binding>
+      <res:binding rdf:nodeID="r261c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800161763-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r261c2"><res:variable>useFunction</res:variable><res:value>campanile</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r262">
+      <res:binding rdf:nodeID="r262c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800206008"/></res:binding>
+      <res:binding rdf:nodeID="r262c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800206008-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r262c2"><res:variable>useFunction</res:variable><res:value>teatro</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r263">
+      <res:binding rdf:nodeID="r263c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800206008"/></res:binding>
+      <res:binding rdf:nodeID="r263c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800206008-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r263c2"><res:variable>useFunction</res:variable><res:value>teatro</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r264">
+      <res:binding rdf:nodeID="r264c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266239"/></res:binding>
+      <res:binding rdf:nodeID="r264c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266239-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r264c2"><res:variable>useFunction</res:variable><res:value>inutilizzata</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r265">
+      <res:binding rdf:nodeID="r265c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266239"/></res:binding>
+      <res:binding rdf:nodeID="r265c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800266239-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r265c2"><res:variable>useFunction</res:variable><res:value>residenza di campagna</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r266">
+      <res:binding rdf:nodeID="r266c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308253"/></res:binding>
+      <res:binding rdf:nodeID="r266c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800308253-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r266c2"><res:variable>useFunction</res:variable><res:value>convento</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r267">
+      <res:binding rdf:nodeID="r267c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308253"/></res:binding>
+      <res:binding rdf:nodeID="r267c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800308253-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r267c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r268">
+      <res:binding rdf:nodeID="r268c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308254"/></res:binding>
+      <res:binding rdf:nodeID="r268c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800308254-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r268c2"><res:variable>useFunction</res:variable><res:value>chiesa</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r269">
+      <res:binding rdf:nodeID="r269c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308256-bene-componente"/></res:binding>
+      <res:binding rdf:nodeID="r269c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800308256-bene-componente-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r269c2"><res:variable>useFunction</res:variable><res:value>convento</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r270">
+      <res:binding rdf:nodeID="r270c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308256-bene-componente"/></res:binding>
+      <res:binding rdf:nodeID="r270c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800308256-bene-componente-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r270c2"><res:variable>useFunction</res:variable><res:value>abitazione</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r271">
+      <res:binding rdf:nodeID="r271c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308257-bene-componente"/></res:binding>
+      <res:binding rdf:nodeID="r271c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800308257-bene-componente-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r271c2"><res:variable>useFunction</res:variable><res:value>chiesa</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r272">
+      <res:binding rdf:nodeID="r272c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308258"/></res:binding>
+      <res:binding rdf:nodeID="r272c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800308258-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r272c2"><res:variable>useFunction</res:variable><res:value>oratorio</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r273">
+      <res:binding rdf:nodeID="r273c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308261"/></res:binding>
+      <res:binding rdf:nodeID="r273c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800308261-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r273c2"><res:variable>useFunction</res:variable><res:value>chiesa</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r274">
+      <res:binding rdf:nodeID="r274c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308262"/></res:binding>
+      <res:binding rdf:nodeID="r274c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800308262-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r274c2"><res:variable>useFunction</res:variable><res:value>campanile</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r275">
+      <res:binding rdf:nodeID="r275c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308264-bene-individuo"/></res:binding>
+      <res:binding rdf:nodeID="r275c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800308264-bene-individuo-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r275c2"><res:variable>useFunction</res:variable><res:value>chiesa</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r276">
+      <res:binding rdf:nodeID="r276c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308265-bene-individuo"/></res:binding>
+      <res:binding rdf:nodeID="r276c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800308265-bene-individuo-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r276c2"><res:variable>useFunction</res:variable><res:value>chiesa</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r277">
+      <res:binding rdf:nodeID="r277c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308267"/></res:binding>
+      <res:binding rdf:nodeID="r277c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800308267-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r277c2"><res:variable>useFunction</res:variable><res:value>chiesa</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r278">
+      <res:binding rdf:nodeID="r278c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308268"/></res:binding>
+      <res:binding rdf:nodeID="r278c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800308268-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r278c2"><res:variable>useFunction</res:variable><res:value>campanile</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r279">
+      <res:binding rdf:nodeID="r279c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308270"/></res:binding>
+      <res:binding rdf:nodeID="r279c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800308270-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r279c2"><res:variable>useFunction</res:variable><res:value>chiesa</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r280">
+      <res:binding rdf:nodeID="r280c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308271"/></res:binding>
+      <res:binding rdf:nodeID="r280c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800308271-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r280c2"><res:variable>useFunction</res:variable><res:value>chiesa</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r281">
+      <res:binding rdf:nodeID="r281c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308272"/></res:binding>
+      <res:binding rdf:nodeID="r281c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800308272-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r281c2"><res:variable>useFunction</res:variable><res:value>chiesa</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r282">
+      <res:binding rdf:nodeID="r282c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308273-bene-individuo"/></res:binding>
+      <res:binding rdf:nodeID="r282c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800308273-bene-individuo-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r282c2"><res:variable>useFunction</res:variable><res:value>chiesa</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r283">
+      <res:binding rdf:nodeID="r283c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308274-bene-individuo"/></res:binding>
+      <res:binding rdf:nodeID="r283c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800308274-bene-individuo-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r283c2"><res:variable>useFunction</res:variable><res:value>chiesa</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r284">
+      <res:binding rdf:nodeID="r284c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308276"/></res:binding>
+      <res:binding rdf:nodeID="r284c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800308276-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r284c2"><res:variable>useFunction</res:variable><res:value>chiesa</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r285">
+      <res:binding rdf:nodeID="r285c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308277-bene-componente"/></res:binding>
+      <res:binding rdf:nodeID="r285c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800308277-bene-componente-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r285c2"><res:variable>useFunction</res:variable><res:value>campanile</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r286">
+      <res:binding rdf:nodeID="r286c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308278"/></res:binding>
+      <res:binding rdf:nodeID="r286c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800308278-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r286c2"><res:variable>useFunction</res:variable><res:value>oratorio</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r287">
+      <res:binding rdf:nodeID="r287c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308281"/></res:binding>
+      <res:binding rdf:nodeID="r287c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800308281-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r287c2"><res:variable>useFunction</res:variable><res:value>chiesa</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r288">
+      <res:binding rdf:nodeID="r288c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308997"/></res:binding>
+      <res:binding rdf:nodeID="r288c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800308997-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r288c2"><res:variable>useFunction</res:variable><res:value>istituto bancario</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r289">
+      <res:binding rdf:nodeID="r289c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308997"/></res:binding>
+      <res:binding rdf:nodeID="r289c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800308997-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r289c2"><res:variable>useFunction</res:variable><res:value>residenziale</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r290">
+      <res:binding rdf:nodeID="r290c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308999"/></res:binding>
+      <res:binding rdf:nodeID="r290c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800308999-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r290c2"><res:variable>useFunction</res:variable><res:value>residenziale</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r291">
+      <res:binding rdf:nodeID="r291c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308999"/></res:binding>
+      <res:binding rdf:nodeID="r291c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800308999-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r291c2"><res:variable>useFunction</res:variable><res:value>residenziale</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r292">
+      <res:binding rdf:nodeID="r292c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800309000"/></res:binding>
+      <res:binding rdf:nodeID="r292c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800309000-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r292c2"><res:variable>useFunction</res:variable><res:value>residenziale</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r293">
+      <res:binding rdf:nodeID="r293c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800309000"/></res:binding>
+      <res:binding rdf:nodeID="r293c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800309000-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r293c2"><res:variable>useFunction</res:variable><res:value>residenziale</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r294">
+      <res:binding rdf:nodeID="r294c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800309001"/></res:binding>
+      <res:binding rdf:nodeID="r294c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800309001-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r294c2"><res:variable>useFunction</res:variable><res:value>inutilizzato</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r295">
+      <res:binding rdf:nodeID="r295c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800309001"/></res:binding>
+      <res:binding rdf:nodeID="r295c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800309001-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r295c2"><res:variable>useFunction</res:variable><res:value>residenziale</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r296">
+      <res:binding rdf:nodeID="r296c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800319221"/></res:binding>
+      <res:binding rdf:nodeID="r296c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800319221-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r296c2"><res:variable>useFunction</res:variable><res:value>uffici comunali</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r297">
+      <res:binding rdf:nodeID="r297c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800319221"/></res:binding>
+      <res:binding rdf:nodeID="r297c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800319221-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r297c2"><res:variable>useFunction</res:variable><res:value>palazzo pubblico</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r298">
+      <res:binding rdf:nodeID="r298c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800319300"/></res:binding>
+      <res:binding rdf:nodeID="r298c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800319300-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r298c2"><res:variable>useFunction</res:variable><res:value>uffici comunali</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r299">
+      <res:binding rdf:nodeID="r299c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800319300"/></res:binding>
+      <res:binding rdf:nodeID="r299c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800319300-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r299c2"><res:variable>useFunction</res:variable><res:value>uffici comunali</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r300">
+      <res:binding rdf:nodeID="r300c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800687738"/></res:binding>
+      <res:binding rdf:nodeID="r300c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800687738-current-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r300c2"><res:variable>useFunction</res:variable><res:value>abbandonato</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r301">
+      <res:binding rdf:nodeID="r301c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800687738"/></res:binding>
+      <res:binding rdf:nodeID="r301c1"><res:variable>use</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Use/0800687738-historical-use-1"/></res:binding>
+      <res:binding rdf:nodeID="r301c2"><res:variable>useFunction</res:variable><res:value>apprestamento difensivo</res:value></res:binding>
+    </res:solution>
+  </rdf:Description>
+</rdf:RDF>

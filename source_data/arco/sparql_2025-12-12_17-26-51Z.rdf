@@ -1,0 +1,1553 @@
+<rdf:RDF xmlns:res="http://www.w3.org/2005/sparql-results#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:Description rdf:nodeID="rset">
+<rdf:type rdf:resource="http://www.w3.org/2005/sparql-results#ResultSet" />
+    <res:resultVariable>subject</res:resultVariable>
+    <res:resultVariable>address</res:resultVariable>
+    <res:resultVariable>addressLabel</res:resultVariable>
+    <res:solution rdf:nodeID="r0">
+      <res:binding rdf:nodeID="r0c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161692"/></res:binding>
+      <res:binding rdf:nodeID="r0c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/238f6403c9113c0d30e662d6703fe95f"/></res:binding>
+      <res:binding rdf:nodeID="r0c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Guerrini, 11</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r1">
+      <res:binding rdf:nodeID="r1c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308269"/></res:binding>
+      <res:binding rdf:nodeID="r1c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/5fc127126962b77a5f4902292f356cd7"/></res:binding>
+      <res:binding rdf:nodeID="r1c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, FILETTO, Via Roncalcesi, 0(P), 1,4 Km. dall&#39;incrocio con via Nuova</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r2">
+      <res:binding rdf:nodeID="r2c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161748"/></res:binding>
+      <res:binding rdf:nodeID="r2c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/84de3bd883293a798f6dfef912665089"/></res:binding>
+      <res:binding rdf:nodeID="r2c2"><res:variable>addressLabel</res:variable><res:value>Italia, Emilia Romagna, RA, Ravenna</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r3">
+      <res:binding rdf:nodeID="r3c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161748"/></res:binding>
+      <res:binding rdf:nodeID="r3c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/84de3bd883293a798f6dfef912665089"/></res:binding>
+      <res:binding rdf:nodeID="r3c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Di Roma</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r4">
+      <res:binding rdf:nodeID="r4c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161746"/></res:binding>
+      <res:binding rdf:nodeID="r4c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/84de3bd883293a798f6dfef912665089"/></res:binding>
+      <res:binding rdf:nodeID="r4c2"><res:variable>addressLabel</res:variable><res:value>Italia, Emilia Romagna, RA, Ravenna</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r5">
+      <res:binding rdf:nodeID="r5c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161746"/></res:binding>
+      <res:binding rdf:nodeID="r5c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/84de3bd883293a798f6dfef912665089"/></res:binding>
+      <res:binding rdf:nodeID="r5c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Di Roma</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r6">
+      <res:binding rdf:nodeID="r6c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308263"/></res:binding>
+      <res:binding rdf:nodeID="r6c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/9542d5612ac4aef41c0aa1bd4ac4251e"/></res:binding>
+      <res:binding rdf:nodeID="r6c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, fraz. Gambellara, Via Gambellara, 79</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r7">
+      <res:binding rdf:nodeID="r7c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800319231"/></res:binding>
+      <res:binding rdf:nodeID="r7c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/dc4d48ca96e00888a4c4d7f99fb123c9"/></res:binding>
+      <res:binding rdf:nodeID="r7c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Diaz, 2</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r8">
+      <res:binding rdf:nodeID="r8c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161803"/></res:binding>
+      <res:binding rdf:nodeID="r8c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/dcd061ca7fd906c19021a8fe6124a222"/></res:binding>
+      <res:binding rdf:nodeID="r8c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via O. Guerrini</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r9">
+      <res:binding rdf:nodeID="r9c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161640"/></res:binding>
+      <res:binding rdf:nodeID="r9c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/fd5225024446b04da1bf9c2ff98caaab"/></res:binding>
+      <res:binding rdf:nodeID="r9c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via C.B. Barbiani,0(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r10">
+      <res:binding rdf:nodeID="r10c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161649"/></res:binding>
+      <res:binding rdf:nodeID="r10c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/09318237dff0c4c59f3335abe6d7cdf9"/></res:binding>
+      <res:binding rdf:nodeID="r10c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Cavour, 54 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r11">
+      <res:binding rdf:nodeID="r11c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266232"/></res:binding>
+      <res:binding rdf:nodeID="r11c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/0d41532f8ec00ebe418ba30a3962f58d"/></res:binding>
+      <res:binding rdf:nodeID="r11c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via San Vitale, 28(P), 30</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r12">
+      <res:binding rdf:nodeID="r12c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161771"/></res:binding>
+      <res:binding rdf:nodeID="r12c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/19d5feb690e5bc95f4afe5d028d93aa0"/></res:binding>
+      <res:binding rdf:nodeID="r12c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via S.Vitale, 17</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r13">
+      <res:binding rdf:nodeID="r13c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161771"/></res:binding>
+      <res:binding rdf:nodeID="r13c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/19d5feb690e5bc95f4afe5d028d93aa0"/></res:binding>
+      <res:binding rdf:nodeID="r13c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via S.Vitale, 17</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r14">
+      <res:binding rdf:nodeID="r14c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161772"/></res:binding>
+      <res:binding rdf:nodeID="r14c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/19d5feb690e5bc95f4afe5d028d93aa0"/></res:binding>
+      <res:binding rdf:nodeID="r14c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via S.Vitale, 17</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r15">
+      <res:binding rdf:nodeID="r15c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161772"/></res:binding>
+      <res:binding rdf:nodeID="r15c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/19d5feb690e5bc95f4afe5d028d93aa0"/></res:binding>
+      <res:binding rdf:nodeID="r15c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via S.Vitale, 17</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r16">
+      <res:binding rdf:nodeID="r16c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161774"/></res:binding>
+      <res:binding rdf:nodeID="r16c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/19d5feb690e5bc95f4afe5d028d93aa0"/></res:binding>
+      <res:binding rdf:nodeID="r16c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via S.Vitale, 17</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r17">
+      <res:binding rdf:nodeID="r17c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161774"/></res:binding>
+      <res:binding rdf:nodeID="r17c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/19d5feb690e5bc95f4afe5d028d93aa0"/></res:binding>
+      <res:binding rdf:nodeID="r17c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via S.Vitale, 17</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r18">
+      <res:binding rdf:nodeID="r18c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161663"/></res:binding>
+      <res:binding rdf:nodeID="r18c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/1f35aba65e89bb9ad9f9549507501f59"/></res:binding>
+      <res:binding rdf:nodeID="r18c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Massimo d&#39;Azeglio, 2 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r19">
+      <res:binding rdf:nodeID="r19c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161787"/></res:binding>
+      <res:binding rdf:nodeID="r19c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/29f17ddc3cbed873dc95c9de362ff8de"/></res:binding>
+      <res:binding rdf:nodeID="r19c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Strada Provinciale Bagnolo, 0(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r20">
+      <res:binding rdf:nodeID="r20c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161783"/></res:binding>
+      <res:binding rdf:nodeID="r20c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/2d97391f98373b63b2dcb2f21b7e7eda"/></res:binding>
+      <res:binding rdf:nodeID="r20c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, S.S. Adriatica, 16(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r21">
+      <res:binding rdf:nodeID="r21c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161784"/></res:binding>
+      <res:binding rdf:nodeID="r21c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/2d97391f98373b63b2dcb2f21b7e7eda"/></res:binding>
+      <res:binding rdf:nodeID="r21c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, S.S. Adriatica, 16(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r22">
+      <res:binding rdf:nodeID="r22c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308248"/></res:binding>
+      <res:binding rdf:nodeID="r22c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/4b39cec4468d58d9d571480905833e79"/></res:binding>
+      <res:binding rdf:nodeID="r22c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via di Classe Fuori, 0(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r23">
+      <res:binding rdf:nodeID="r23c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800319248-bene-individuo"/></res:binding>
+      <res:binding rdf:nodeID="r23c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/552cebd88de4fa49bff4c0f510429899"/></res:binding>
+      <res:binding rdf:nodeID="r23c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, CLASSE, Via Romea, 0(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r24">
+      <res:binding rdf:nodeID="r24c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161698"/></res:binding>
+      <res:binding rdf:nodeID="r24c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/624843099a6f391b13c59359cb10d668"/></res:binding>
+      <res:binding rdf:nodeID="r24c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Mariani, 5</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r25">
+      <res:binding rdf:nodeID="r25c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161695"/></res:binding>
+      <res:binding rdf:nodeID="r25c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/6d5ad0a0328e1b2b3159cf64dee078f2"/></res:binding>
+      <res:binding rdf:nodeID="r25c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Piazza Kennedy, 0(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r26">
+      <res:binding rdf:nodeID="r26c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266237"/></res:binding>
+      <res:binding rdf:nodeID="r26c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/75941ce97c572bc04f13262ed0733a16"/></res:binding>
+      <res:binding rdf:nodeID="r26c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, MARINA DI RAVENNA, via d&#39;Allaggio</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r27">
+      <res:binding rdf:nodeID="r27c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161734"/></res:binding>
+      <res:binding rdf:nodeID="r27c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/7e31b36d407c910ab683687f664cda0e"/></res:binding>
+      <res:binding rdf:nodeID="r27c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Rocca di Brancaleone, 0(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r28">
+      <res:binding rdf:nodeID="r28c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266231"/></res:binding>
+      <res:binding rdf:nodeID="r28c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/9bfb1d43cefca831bf7a6aa50cf6fd1d"/></res:binding>
+      <res:binding rdf:nodeID="r28c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via San Vitale, 21</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r29">
+      <res:binding rdf:nodeID="r29c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161694"/></res:binding>
+      <res:binding rdf:nodeID="r29c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/9cd5294c681c4a5a9eff61b5d3773604"/></res:binding>
+      <res:binding rdf:nodeID="r29c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via delle Industrie, 0(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r30">
+      <res:binding rdf:nodeID="r30c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800319233"/></res:binding>
+      <res:binding rdf:nodeID="r30c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/a6678bab6a6e90ab4da2f0218b6321aa"/></res:binding>
+      <res:binding rdf:nodeID="r30c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Galla Placidia, 0(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r31">
+      <res:binding rdf:nodeID="r31c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308279"/></res:binding>
+      <res:binding rdf:nodeID="r31c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/ad699d90de363879baa02438ed08bde7"/></res:binding>
+      <res:binding rdf:nodeID="r31c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, FOSSO GHIAIA, Via Fosso Ghiaia, 0(P), all&#39;interno della pineta, parco primo maggio</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r32">
+      <res:binding rdf:nodeID="r32c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800319247-bene-individuo"/></res:binding>
+      <res:binding rdf:nodeID="r32c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/b7f45aabd4da042468dfc1368772c109"/></res:binding>
+      <res:binding rdf:nodeID="r32c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Nino Bixio, 23(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r33">
+      <res:binding rdf:nodeID="r33c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800319246-bene-individuo"/></res:binding>
+      <res:binding rdf:nodeID="r33c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/b8bd3921502b8d9f8cd958ecc5c29e1c"/></res:binding>
+      <res:binding rdf:nodeID="r33c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Piazza del Popolo, 0(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r34">
+      <res:binding rdf:nodeID="r34c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161625"/></res:binding>
+      <res:binding rdf:nodeID="r34c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/c17d8b7e204d95b92b569f8d5eb1ac53"/></res:binding>
+      <res:binding rdf:nodeID="r34c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Anastagi, 19</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r35">
+      <res:binding rdf:nodeID="r35c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161634"/></res:binding>
+      <res:binding rdf:nodeID="r35c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/d1f4c3b57198db0f146c0e06ffeff97d"/></res:binding>
+      <res:binding rdf:nodeID="r35c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, piazzetta degli Ariani, 0(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r36">
+      <res:binding rdf:nodeID="r36c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266227"/></res:binding>
+      <res:binding rdf:nodeID="r36c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/d1f4c3b57198db0f146c0e06ffeff97d"/></res:binding>
+      <res:binding rdf:nodeID="r36c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, piazzetta degli Ariani, 0(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r37">
+      <res:binding rdf:nodeID="r37c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161739"/></res:binding>
+      <res:binding rdf:nodeID="r37c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/ddbdc66149c20e0d41c0657489cfa0f0"/></res:binding>
+      <res:binding rdf:nodeID="r37c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via di Roma, 118 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r38">
+      <res:binding rdf:nodeID="r38c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161759"/></res:binding>
+      <res:binding rdf:nodeID="r38c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/de47e491603fb539de328b844e956604"/></res:binding>
+      <res:binding rdf:nodeID="r38c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via N. Rondinelli, 4, 6(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r39">
+      <res:binding rdf:nodeID="r39c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161686"/></res:binding>
+      <res:binding rdf:nodeID="r39c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/e2c8e132a2099991923f14ff5abd39e7"/></res:binding>
+      <res:binding rdf:nodeID="r39c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Guaccimanni, 11 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r40">
+      <res:binding rdf:nodeID="r40c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266225"/></res:binding>
+      <res:binding rdf:nodeID="r40c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/e2f825abf648a6c2817bd0cfe0cf2262"/></res:binding>
+      <res:binding rdf:nodeID="r40c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Galla Placida, 2</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r41">
+      <res:binding rdf:nodeID="r41c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266229"/></res:binding>
+      <res:binding rdf:nodeID="r41c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/f02b200537f79a291e3d57ed0867bec4"/></res:binding>
+      <res:binding rdf:nodeID="r41c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via S.Mama, 175, 177, 179</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r42">
+      <res:binding rdf:nodeID="r42c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161804"/></res:binding>
+      <res:binding rdf:nodeID="r42c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/f281db389231c58b1735093ebfe2e1ec"/></res:binding>
+      <res:binding rdf:nodeID="r42c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Nigrisoli, 62</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r43">
+      <res:binding rdf:nodeID="r43c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161637"/></res:binding>
+      <res:binding rdf:nodeID="r43c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/f541544f4b74bb4bb22a91aee8f2c72f"/></res:binding>
+      <res:binding rdf:nodeID="r43c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r44">
+      <res:binding rdf:nodeID="r44c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161637"/></res:binding>
+      <res:binding rdf:nodeID="r44c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/f541544f4b74bb4bb22a91aee8f2c72f"/></res:binding>
+      <res:binding rdf:nodeID="r44c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Baccarini, 3</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r45">
+      <res:binding rdf:nodeID="r45c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161638"/></res:binding>
+      <res:binding rdf:nodeID="r45c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/f541544f4b74bb4bb22a91aee8f2c72f"/></res:binding>
+      <res:binding rdf:nodeID="r45c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r46">
+      <res:binding rdf:nodeID="r46c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161638"/></res:binding>
+      <res:binding rdf:nodeID="r46c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/f541544f4b74bb4bb22a91aee8f2c72f"/></res:binding>
+      <res:binding rdf:nodeID="r46c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Baccarini, 3</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r47">
+      <res:binding rdf:nodeID="r47c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161636"/></res:binding>
+      <res:binding rdf:nodeID="r47c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/f541544f4b74bb4bb22a91aee8f2c72f"/></res:binding>
+      <res:binding rdf:nodeID="r47c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r48">
+      <res:binding rdf:nodeID="r48c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161636"/></res:binding>
+      <res:binding rdf:nodeID="r48c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/f541544f4b74bb4bb22a91aee8f2c72f"/></res:binding>
+      <res:binding rdf:nodeID="r48c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Baccarini, 3</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r49">
+      <res:binding rdf:nodeID="r49c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161760"/></res:binding>
+      <res:binding rdf:nodeID="r49c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/f5c23c1b7fa242e7a3472cad99793978"/></res:binding>
+      <res:binding rdf:nodeID="r49c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Rondinelli, 0(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r50">
+      <res:binding rdf:nodeID="r50c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161756"/></res:binding>
+      <res:binding rdf:nodeID="r50c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/f76bc159fe3177f84d2227434503927e"/></res:binding>
+      <res:binding rdf:nodeID="r50c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via di Roma, 0(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r51">
+      <res:binding rdf:nodeID="r51c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161756"/></res:binding>
+      <res:binding rdf:nodeID="r51c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/f76bc159fe3177f84d2227434503927e"/></res:binding>
+      <res:binding rdf:nodeID="r51c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via di Roma 0(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r52">
+      <res:binding rdf:nodeID="r52c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161757"/></res:binding>
+      <res:binding rdf:nodeID="r52c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/f76bc159fe3177f84d2227434503927e"/></res:binding>
+      <res:binding rdf:nodeID="r52c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via di Roma, 0(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r53">
+      <res:binding rdf:nodeID="r53c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161757"/></res:binding>
+      <res:binding rdf:nodeID="r53c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/f76bc159fe3177f84d2227434503927e"/></res:binding>
+      <res:binding rdf:nodeID="r53c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via di Roma 0(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r54">
+      <res:binding rdf:nodeID="r54c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161735"/></res:binding>
+      <res:binding rdf:nodeID="r54c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/f76bc159fe3177f84d2227434503927e"/></res:binding>
+      <res:binding rdf:nodeID="r54c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via di Roma, 0(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r55">
+      <res:binding rdf:nodeID="r55c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161735"/></res:binding>
+      <res:binding rdf:nodeID="r55c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/f76bc159fe3177f84d2227434503927e"/></res:binding>
+      <res:binding rdf:nodeID="r55c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via di Roma 0(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r56">
+      <res:binding rdf:nodeID="r56c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161758"/></res:binding>
+      <res:binding rdf:nodeID="r56c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/f76bc159fe3177f84d2227434503927e"/></res:binding>
+      <res:binding rdf:nodeID="r56c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via di Roma, 0(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r57">
+      <res:binding rdf:nodeID="r57c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161758"/></res:binding>
+      <res:binding rdf:nodeID="r57c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/f76bc159fe3177f84d2227434503927e"/></res:binding>
+      <res:binding rdf:nodeID="r57c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via di Roma 0(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r58">
+      <res:binding rdf:nodeID="r58c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161813"/></res:binding>
+      <res:binding rdf:nodeID="r58c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/f76bc159fe3177f84d2227434503927e"/></res:binding>
+      <res:binding rdf:nodeID="r58c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via di Roma, 0(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r59">
+      <res:binding rdf:nodeID="r59c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161813"/></res:binding>
+      <res:binding rdf:nodeID="r59c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/f76bc159fe3177f84d2227434503927e"/></res:binding>
+      <res:binding rdf:nodeID="r59c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via di Roma 0(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r60">
+      <res:binding rdf:nodeID="r60c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161740"/></res:binding>
+      <res:binding rdf:nodeID="r60c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/fdb8620905ff9c7dc1cb4a452133cb6d"/></res:binding>
+      <res:binding rdf:nodeID="r60c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via di Roma, 69 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r61">
+      <res:binding rdf:nodeID="r61c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161810"/></res:binding>
+      <res:binding rdf:nodeID="r61c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/002cb8f94f64f53bf145c8bf5542cf94"/></res:binding>
+      <res:binding rdf:nodeID="r61c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, SANTO STEFANO - CARRAIE, via Cella, 0(P), Carraia Ginanni</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r62">
+      <res:binding rdf:nodeID="r62c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161810"/></res:binding>
+      <res:binding rdf:nodeID="r62c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/002cb8f94f64f53bf145c8bf5542cf94"/></res:binding>
+      <res:binding rdf:nodeID="r62c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, SANTO STEFANO - CARRAIE, Via Cella, 0(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r63">
+      <res:binding rdf:nodeID="r63c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308275"/></res:binding>
+      <res:binding rdf:nodeID="r63c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/002cb8f94f64f53bf145c8bf5542cf94"/></res:binding>
+      <res:binding rdf:nodeID="r63c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, SANTO STEFANO - CARRAIE, via Cella, 0(P), Carraia Ginanni</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r64">
+      <res:binding rdf:nodeID="r64c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308275"/></res:binding>
+      <res:binding rdf:nodeID="r64c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/002cb8f94f64f53bf145c8bf5542cf94"/></res:binding>
+      <res:binding rdf:nodeID="r64c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, SANTO STEFANO - CARRAIE, Via Cella, 0(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r65">
+      <res:binding rdf:nodeID="r65c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308276"/></res:binding>
+      <res:binding rdf:nodeID="r65c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/002cb8f94f64f53bf145c8bf5542cf94"/></res:binding>
+      <res:binding rdf:nodeID="r65c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, SANTO STEFANO - CARRAIE, via Cella, 0(P), Carraia Ginanni</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r66">
+      <res:binding rdf:nodeID="r66c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308276"/></res:binding>
+      <res:binding rdf:nodeID="r66c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/002cb8f94f64f53bf145c8bf5542cf94"/></res:binding>
+      <res:binding rdf:nodeID="r66c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, SANTO STEFANO - CARRAIE, Via Cella, 0(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r67">
+      <res:binding rdf:nodeID="r67c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308277-bene-componente"/></res:binding>
+      <res:binding rdf:nodeID="r67c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/002cb8f94f64f53bf145c8bf5542cf94"/></res:binding>
+      <res:binding rdf:nodeID="r67c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, SANTO STEFANO - CARRAIE, via Cella, 0(P), Carraia Ginanni</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r68">
+      <res:binding rdf:nodeID="r68c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308277-bene-componente"/></res:binding>
+      <res:binding rdf:nodeID="r68c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/002cb8f94f64f53bf145c8bf5542cf94"/></res:binding>
+      <res:binding rdf:nodeID="r68c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, SANTO STEFANO - CARRAIE, Via Cella, 0(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r69">
+      <res:binding rdf:nodeID="r69c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161674"/></res:binding>
+      <res:binding rdf:nodeID="r69c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/0209ad8bc6f778fa79f4e1242dfe6a65"/></res:binding>
+      <res:binding rdf:nodeID="r69c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, P.zza Duomo</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r70">
+      <res:binding rdf:nodeID="r70c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308273-bene-individuo"/></res:binding>
+      <res:binding rdf:nodeID="r70c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/06638d145710a49b98389103f6990960"/></res:binding>
+      <res:binding rdf:nodeID="r70c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Santerno, 0(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r71">
+      <res:binding rdf:nodeID="r71c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161635"/></res:binding>
+      <res:binding rdf:nodeID="r71c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/07a6b0e56ff8d5ac3daff6479bc77a63"/></res:binding>
+      <res:binding rdf:nodeID="r71c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Bastione, 0 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r72">
+      <res:binding rdf:nodeID="r72c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161679"/></res:binding>
+      <res:binding rdf:nodeID="r72c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/0b6a15a58a087fdc11de2038c9007abb"/></res:binding>
+      <res:binding rdf:nodeID="r72c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Gamba, 3</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r73">
+      <res:binding rdf:nodeID="r73c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161697"/></res:binding>
+      <res:binding rdf:nodeID="r73c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/0bde29bd71078004daacad801e9d5443"/></res:binding>
+      <res:binding rdf:nodeID="r73c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via A. Mariani, 22 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r74">
+      <res:binding rdf:nodeID="r74c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161713"/></res:binding>
+      <res:binding rdf:nodeID="r74c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/0e91a9d8737d134646dee3e83602622c"/></res:binding>
+      <res:binding rdf:nodeID="r74c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Mazzini, 0 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r75">
+      <res:binding rdf:nodeID="r75c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161714"/></res:binding>
+      <res:binding rdf:nodeID="r75c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/0e91a9d8737d134646dee3e83602622c"/></res:binding>
+      <res:binding rdf:nodeID="r75c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Mazzini, 0 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r76">
+      <res:binding rdf:nodeID="r76c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161716"/></res:binding>
+      <res:binding rdf:nodeID="r76c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/0e91a9d8737d134646dee3e83602622c"/></res:binding>
+      <res:binding rdf:nodeID="r76c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Mazzini, 0 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r77">
+      <res:binding rdf:nodeID="r77c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308262"/></res:binding>
+      <res:binding rdf:nodeID="r77c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/12eb60534218aeab76631944822ac7d1"/></res:binding>
+      <res:binding rdf:nodeID="r77c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, SAN ZACCARIA, Via Dismano, 0(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r78">
+      <res:binding rdf:nodeID="r78c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308271"/></res:binding>
+      <res:binding rdf:nodeID="r78c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/13ba93df01ee904fda3406b74f672144"/></res:binding>
+      <res:binding rdf:nodeID="r78c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, MANDRIOLE, Via Mandriole, 122</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r79">
+      <res:binding rdf:nodeID="r79c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161754"/></res:binding>
+      <res:binding rdf:nodeID="r79c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/15b15ef1647875e9437b290c2660d669"/></res:binding>
+      <res:binding rdf:nodeID="r79c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Di Roma, 68 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r80">
+      <res:binding rdf:nodeID="r80c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161736"/></res:binding>
+      <res:binding rdf:nodeID="r80c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/1d942fe0236158f739eeb551895a87e6"/></res:binding>
+      <res:binding rdf:nodeID="r80c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Di Roma, 102 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r81">
+      <res:binding rdf:nodeID="r81c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308997"/></res:binding>
+      <res:binding rdf:nodeID="r81c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/1e2bdb86e1f3b106f5046c29cbc8f156"/></res:binding>
+      <res:binding rdf:nodeID="r81c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Guerrini, 0 (P), piazza Arcivescovado 0(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r82">
+      <res:binding rdf:nodeID="r82c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161648"/></res:binding>
+      <res:binding rdf:nodeID="r82c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/1e47723935abf7a903f92951a8055efc"/></res:binding>
+      <res:binding rdf:nodeID="r82c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Castel S. Pietro, 0 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r83">
+      <res:binding rdf:nodeID="r83c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161724"/></res:binding>
+      <res:binding rdf:nodeID="r83c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/2021c388ea9e4267c821c47eac7753bf"/></res:binding>
+      <res:binding rdf:nodeID="r83c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Morigia, 1 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r84">
+      <res:binding rdf:nodeID="r84c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161700"/></res:binding>
+      <res:binding rdf:nodeID="r84c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/2051f52d2c0822b1abb79cbfe51d0195"/></res:binding>
+      <res:binding rdf:nodeID="r84c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Mariani, 24</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r85">
+      <res:binding rdf:nodeID="r85c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161680"/></res:binding>
+      <res:binding rdf:nodeID="r85c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/21bb48f61bf842a8d1c4e0900de68f76"/></res:binding>
+      <res:binding rdf:nodeID="r85c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Romolo Gessi, 18</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r86">
+      <res:binding rdf:nodeID="r86c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161726"/></res:binding>
+      <res:binding rdf:nodeID="r86c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/227e398c90e83d6ffa60c375c140d2f4"/></res:binding>
+      <res:binding rdf:nodeID="r86c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Oberdan, 6</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r87">
+      <res:binding rdf:nodeID="r87c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161687"/></res:binding>
+      <res:binding rdf:nodeID="r87c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/23d12016ea90e723c8c3a607964ddc2e"/></res:binding>
+      <res:binding rdf:nodeID="r87c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via G. Guaccimanni, 0 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r88">
+      <res:binding rdf:nodeID="r88c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161657"/></res:binding>
+      <res:binding rdf:nodeID="r88c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/24dbdfe5306e5e5c57d230e125cfca49"/></res:binding>
+      <res:binding rdf:nodeID="r88c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Ponte Marino, 2 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r89">
+      <res:binding rdf:nodeID="r89c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161766"/></res:binding>
+      <res:binding rdf:nodeID="r89c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/276fe4a5cd1e1db2a092759749284199"/></res:binding>
+      <res:binding rdf:nodeID="r89c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via G. Rossi, 6 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r90">
+      <res:binding rdf:nodeID="r90c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161731"/></res:binding>
+      <res:binding rdf:nodeID="r90c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/0175b33f09002590faf17051c441b851"/></res:binding>
+      <res:binding rdf:nodeID="r90c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via C. Ricci, 20,22 (P),24</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r91">
+      <res:binding rdf:nodeID="r91c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800687738"/></res:binding>
+      <res:binding rdf:nodeID="r91c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/1538b69ca79175a30d1c9b0322d2dd8e"/></res:binding>
+      <res:binding rdf:nodeID="r91c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Marina di Ravenna, Viale delle Nazioni</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r92">
+      <res:binding rdf:nodeID="r92c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161733"/></res:binding>
+      <res:binding rdf:nodeID="r92c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/17044c904499d9eb564e01e6584374c2"/></res:binding>
+      <res:binding rdf:nodeID="r92c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via C. Ricci, 12,14 (P),16,18</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r93">
+      <res:binding rdf:nodeID="r93c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161730"/></res:binding>
+      <res:binding rdf:nodeID="r93c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/1edec51fcc12151445725d5015f1fe9d"/></res:binding>
+      <res:binding rdf:nodeID="r93c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via IV Novembre, 45/ 43(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r94">
+      <res:binding rdf:nodeID="r94c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161690"/></res:binding>
+      <res:binding rdf:nodeID="r94c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/244f8599f937d1602f2484ec95df83a5"/></res:binding>
+      <res:binding rdf:nodeID="r94c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Guaccimanni, 27 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r95">
+      <res:binding rdf:nodeID="r95c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266235"/></res:binding>
+      <res:binding rdf:nodeID="r95c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/25b523dc3488ae57ff42858f0ce89e3b"/></res:binding>
+      <res:binding rdf:nodeID="r95c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, COCCOLIA, via Ravegnana, 731</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r96">
+      <res:binding rdf:nodeID="r96c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266220"/></res:binding>
+      <res:binding rdf:nodeID="r96c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/2c943a91df84bc56dcbaff72adc06834"/></res:binding>
+      <res:binding rdf:nodeID="r96c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Carlo Cattaneo, 22</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r97">
+      <res:binding rdf:nodeID="r97c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161717"/></res:binding>
+      <res:binding rdf:nodeID="r97c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/2e924c0cffab64c734842a42e25b19ac"/></res:binding>
+      <res:binding rdf:nodeID="r97c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Mazzini, 76/ 78(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r98">
+      <res:binding rdf:nodeID="r98c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161706"/></res:binding>
+      <res:binding rdf:nodeID="r98c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/2f5e266631045614b7daca3f0bf27ffc"/></res:binding>
+      <res:binding rdf:nodeID="r98c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Mazzini, 30/ 32/ 34(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r99">
+      <res:binding rdf:nodeID="r99c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266246"/></res:binding>
+      <res:binding rdf:nodeID="r99c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/311f3828437355ee390133de3bf33890"/></res:binding>
+      <res:binding rdf:nodeID="r99c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, SAN PIETRO IN VINCOLI, via del Sale Vecchia, 18</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r100">
+      <res:binding rdf:nodeID="r100c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800319232"/></res:binding>
+      <res:binding rdf:nodeID="r100c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/3163db6e9da584c76980f23f3d87d040"/></res:binding>
+      <res:binding rdf:nodeID="r100c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Piazza del Popolo, 23 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r101">
+      <res:binding rdf:nodeID="r101c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266241"/></res:binding>
+      <res:binding rdf:nodeID="r101c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/332af870a696248e9cacde89cd60528d"/></res:binding>
+      <res:binding rdf:nodeID="r101c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Baiona, 0(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r102">
+      <res:binding rdf:nodeID="r102c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161672"/></res:binding>
+      <res:binding rdf:nodeID="r102c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/3cfdeb246b3a1e04504780b1075e4a98"/></res:binding>
+      <res:binding rdf:nodeID="r102c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, piazza Duomo, 3/ 2(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r103">
+      <res:binding rdf:nodeID="r103c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161779"/></res:binding>
+      <res:binding rdf:nodeID="r103c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/3f8ffdb56013d90cca32ac730f0d6854"/></res:binding>
+      <res:binding rdf:nodeID="r103c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, piazza XX Settembre, 5(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r104">
+      <res:binding rdf:nodeID="r104c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800319236"/></res:binding>
+      <res:binding rdf:nodeID="r104c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/46f71c2b6413ae3f7862cee553dd6c26"/></res:binding>
+      <res:binding rdf:nodeID="r104c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Castello, 74</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r105">
+      <res:binding rdf:nodeID="r105c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161702"/></res:binding>
+      <res:binding rdf:nodeID="r105c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/495664580004fcf1c219eaf96180f7e5"/></res:binding>
+      <res:binding rdf:nodeID="r105c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Mariani, 7(P)/ 9(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r106">
+      <res:binding rdf:nodeID="r106c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161708"/></res:binding>
+      <res:binding rdf:nodeID="r106c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/49d5462c48addd4f48ae808a25fc1d95"/></res:binding>
+      <res:binding rdf:nodeID="r106c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via G. Mazzini, 64 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r107">
+      <res:binding rdf:nodeID="r107c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161711"/></res:binding>
+      <res:binding rdf:nodeID="r107c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/4a71bd8613e240e64d5e04105202d70b"/></res:binding>
+      <res:binding rdf:nodeID="r107c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via G. Mazzini, 65(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r108">
+      <res:binding rdf:nodeID="r108c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161809"/></res:binding>
+      <res:binding rdf:nodeID="r108c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/4b7bb92306a3551283cfe5b8b88cb3f1"/></res:binding>
+      <res:binding rdf:nodeID="r108c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, SAN PIETRO IN TRENTO, via Alturie, 30</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r109">
+      <res:binding rdf:nodeID="r109c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161786"/></res:binding>
+      <res:binding rdf:nodeID="r109c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/4c6d6a45c6d4466b3235b24848be6818"/></res:binding>
+      <res:binding rdf:nodeID="r109c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Bagnolo Salara, 65(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r110">
+      <res:binding rdf:nodeID="r110c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161792"/></res:binding>
+      <res:binding rdf:nodeID="r110c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/56976ec08a7927750b74155783540bc8"/></res:binding>
+      <res:binding rdf:nodeID="r110c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, GHIBULLO, via Ravegnana, 655(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r111">
+      <res:binding rdf:nodeID="r111c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161645"/></res:binding>
+      <res:binding rdf:nodeID="r111c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/5a4ce527aaccd6b111ff694347993946"/></res:binding>
+      <res:binding rdf:nodeID="r111c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Cairoli, 10/ 12(P)/16</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r112">
+      <res:binding rdf:nodeID="r112c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161712"/></res:binding>
+      <res:binding rdf:nodeID="r112c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/5b8f95115b04eedd85772ddb25c68e4b"/></res:binding>
+      <res:binding rdf:nodeID="r112c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via G. Mazzini, 84(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r113">
+      <res:binding rdf:nodeID="r113c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161664"/></res:binding>
+      <res:binding rdf:nodeID="r113c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/5c2863e5c7b689f633d12fa116d0e2d7"/></res:binding>
+      <res:binding rdf:nodeID="r113c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Massimo d&#39;Azeglio, 10(P)/ 12</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r114">
+      <res:binding rdf:nodeID="r114c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161776"/></res:binding>
+      <res:binding rdf:nodeID="r114c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/5cb8b337dc0d54b77a0c640886c4f9f0"/></res:binding>
+      <res:binding rdf:nodeID="r114c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via XIII Giugno, 8</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r115">
+      <res:binding rdf:nodeID="r115c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161764"/></res:binding>
+      <res:binding rdf:nodeID="r115c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/5d16130fa7f3921b5182de998a0e55ce"/></res:binding>
+      <res:binding rdf:nodeID="r115c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via G. Rossi, 51, 53(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r116">
+      <res:binding rdf:nodeID="r116c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161782"/></res:binding>
+      <res:binding rdf:nodeID="r116c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/5e3f1013d88d7da1c71bb1765aceb0bc"/></res:binding>
+      <res:binding rdf:nodeID="r116c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Zirardini, 14 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r117">
+      <res:binding rdf:nodeID="r117c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161658"/></res:binding>
+      <res:binding rdf:nodeID="r117c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/653a1c93b2aa08b03370252743fd6922"/></res:binding>
+      <res:binding rdf:nodeID="r117c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Paolo Costa, 8</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r118">
+      <res:binding rdf:nodeID="r118c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800319234"/></res:binding>
+      <res:binding rdf:nodeID="r118c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/66bc25a1c9730133e5d7122a78e3fe6e"/></res:binding>
+      <res:binding rdf:nodeID="r118c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, FILETTO, via Roncalceci, 195</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r119">
+      <res:binding rdf:nodeID="r119c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266243"/></res:binding>
+      <res:binding rdf:nodeID="r119c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/673f9be1325b0c1a78170bfe5be5529a"/></res:binding>
+      <res:binding rdf:nodeID="r119c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, SANTERNO, via Santerno, 284(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r120">
+      <res:binding rdf:nodeID="r120c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266224"/></res:binding>
+      <res:binding rdf:nodeID="r120c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/680c6642c5e02d3070480384ac1c3f9e"/></res:binding>
+      <res:binding rdf:nodeID="r120c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Guido Da Polenta, 4</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r121">
+      <res:binding rdf:nodeID="r121c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161811"/></res:binding>
+      <res:binding rdf:nodeID="r121c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/6a22e0616979983c25d471ae113e10b1"/></res:binding>
+      <res:binding rdf:nodeID="r121c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, SANTERNO, via Palazza, 0(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r122">
+      <res:binding rdf:nodeID="r122c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266221"/></res:binding>
+      <res:binding rdf:nodeID="r122c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/6f16e097943e1d93e9e727b87c9b355a"/></res:binding>
+      <res:binding rdf:nodeID="r122c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via C. Cattaneo, 34 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r123">
+      <res:binding rdf:nodeID="r123c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161753"/></res:binding>
+      <res:binding rdf:nodeID="r123c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/6fdeaa3bbe8bbf7dcc0eeefcc127609c"/></res:binding>
+      <res:binding rdf:nodeID="r123c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via di Roma, 47 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r124">
+      <res:binding rdf:nodeID="r124c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161683"/></res:binding>
+      <res:binding rdf:nodeID="r124c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/70104078775b41fa4f9a45e254e491a6"/></res:binding>
+      <res:binding rdf:nodeID="r124c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Romolo Gessi 0(P), via Mentana 33/35</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r125">
+      <res:binding rdf:nodeID="r125c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266218"/></res:binding>
+      <res:binding rdf:nodeID="r125c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/71cdaa0752c05f5f41bc7b16aecb2fe8"/></res:binding>
+      <res:binding rdf:nodeID="r125c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Dante Alighieri, 9(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r126">
+      <res:binding rdf:nodeID="r126c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161728"/></res:binding>
+      <res:binding rdf:nodeID="r126c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/73869064478084c4a6852492f45a07cb"/></res:binding>
+      <res:binding rdf:nodeID="r126c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via XIII Giugno, 2/ 4(P), piazza del Popolo</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r127">
+      <res:binding rdf:nodeID="r127c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161778"/></res:binding>
+      <res:binding rdf:nodeID="r127c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/7b518dbfef3049fde02cc16e45be498f"/></res:binding>
+      <res:binding rdf:nodeID="r127c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via XIII Giugno, 3</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r128">
+      <res:binding rdf:nodeID="r128c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800319235"/></res:binding>
+      <res:binding rdf:nodeID="r128c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/7d7bbe14135a3bb1b48729b163c72311"/></res:binding>
+      <res:binding rdf:nodeID="r128c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Barleti, 5, 7, 9(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r129">
+      <res:binding rdf:nodeID="r129c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161632"/></res:binding>
+      <res:binding rdf:nodeID="r129c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/7f85e987826a631517fe19d7283e36ea"/></res:binding>
+      <res:binding rdf:nodeID="r129c2"><res:variable>addressLabel</res:variable><res:value>Emilia-Romagna, RA, Ravenna</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r130">
+      <res:binding rdf:nodeID="r130c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161632"/></res:binding>
+      <res:binding rdf:nodeID="r130c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/7f85e987826a631517fe19d7283e36ea"/></res:binding>
+      <res:binding rdf:nodeID="r130c2"><res:variable>addressLabel</res:variable><res:value>Emilia Romagna, RA, Ravenna</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r131">
+      <res:binding rdf:nodeID="r131c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161632"/></res:binding>
+      <res:binding rdf:nodeID="r131c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/7f85e987826a631517fe19d7283e36ea"/></res:binding>
+      <res:binding rdf:nodeID="r131c2"><res:variable>addressLabel</res:variable><res:value>Italia, Emilia Romagna, RA, Ravenna</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r132">
+      <res:binding rdf:nodeID="r132c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161632"/></res:binding>
+      <res:binding rdf:nodeID="r132c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/7f85e987826a631517fe19d7283e36ea"/></res:binding>
+      <res:binding rdf:nodeID="r132c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r133">
+      <res:binding rdf:nodeID="r133c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161632"/></res:binding>
+      <res:binding rdf:nodeID="r133c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/7f85e987826a631517fe19d7283e36ea"/></res:binding>
+      <res:binding rdf:nodeID="r133c2"><res:variable>addressLabel</res:variable><res:value>RA, RAVENNA</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r134">
+      <res:binding rdf:nodeID="r134c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161632"/></res:binding>
+      <res:binding rdf:nodeID="r134c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/7f85e987826a631517fe19d7283e36ea"/></res:binding>
+      <res:binding rdf:nodeID="r134c2"><res:variable>addressLabel</res:variable><res:value>RA, Ravenna</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r135">
+      <res:binding rdf:nodeID="r135c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161632"/></res:binding>
+      <res:binding rdf:nodeID="r135c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/7f85e987826a631517fe19d7283e36ea"/></res:binding>
+      <res:binding rdf:nodeID="r135c2"><res:variable>addressLabel</res:variable><res:value>Ra, Ravenna</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r136">
+      <res:binding rdf:nodeID="r136c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161632"/></res:binding>
+      <res:binding rdf:nodeID="r136c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/7f85e987826a631517fe19d7283e36ea"/></res:binding>
+      <res:binding rdf:nodeID="r136c2"><res:variable>addressLabel</res:variable><res:value>Europa - Italia - Emilia-romagna - Ra - Ravenna</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r137">
+      <res:binding rdf:nodeID="r137c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161684"/></res:binding>
+      <res:binding rdf:nodeID="r137c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/7f85e987826a631517fe19d7283e36ea"/></res:binding>
+      <res:binding rdf:nodeID="r137c2"><res:variable>addressLabel</res:variable><res:value>Emilia-Romagna, RA, Ravenna</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r138">
+      <res:binding rdf:nodeID="r138c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161684"/></res:binding>
+      <res:binding rdf:nodeID="r138c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/7f85e987826a631517fe19d7283e36ea"/></res:binding>
+      <res:binding rdf:nodeID="r138c2"><res:variable>addressLabel</res:variable><res:value>Emilia Romagna, RA, Ravenna</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r139">
+      <res:binding rdf:nodeID="r139c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161684"/></res:binding>
+      <res:binding rdf:nodeID="r139c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/7f85e987826a631517fe19d7283e36ea"/></res:binding>
+      <res:binding rdf:nodeID="r139c2"><res:variable>addressLabel</res:variable><res:value>Italia, Emilia Romagna, RA, Ravenna</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r140">
+      <res:binding rdf:nodeID="r140c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161684"/></res:binding>
+      <res:binding rdf:nodeID="r140c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/7f85e987826a631517fe19d7283e36ea"/></res:binding>
+      <res:binding rdf:nodeID="r140c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r141">
+      <res:binding rdf:nodeID="r141c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161684"/></res:binding>
+      <res:binding rdf:nodeID="r141c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/7f85e987826a631517fe19d7283e36ea"/></res:binding>
+      <res:binding rdf:nodeID="r141c2"><res:variable>addressLabel</res:variable><res:value>RA, RAVENNA</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r142">
+      <res:binding rdf:nodeID="r142c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161684"/></res:binding>
+      <res:binding rdf:nodeID="r142c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/7f85e987826a631517fe19d7283e36ea"/></res:binding>
+      <res:binding rdf:nodeID="r142c2"><res:variable>addressLabel</res:variable><res:value>RA, Ravenna</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r143">
+      <res:binding rdf:nodeID="r143c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161684"/></res:binding>
+      <res:binding rdf:nodeID="r143c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/7f85e987826a631517fe19d7283e36ea"/></res:binding>
+      <res:binding rdf:nodeID="r143c2"><res:variable>addressLabel</res:variable><res:value>Ra, Ravenna</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r144">
+      <res:binding rdf:nodeID="r144c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161684"/></res:binding>
+      <res:binding rdf:nodeID="r144c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/7f85e987826a631517fe19d7283e36ea"/></res:binding>
+      <res:binding rdf:nodeID="r144c2"><res:variable>addressLabel</res:variable><res:value>Europa - Italia - Emilia-romagna - Ra - Ravenna</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r145">
+      <res:binding rdf:nodeID="r145c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266240"/></res:binding>
+      <res:binding rdf:nodeID="r145c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/866b2afad00fcfba83b67999e2ecfdc7"/></res:binding>
+      <res:binding rdf:nodeID="r145c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, PIANGIPANE, via Mezzoli, 45</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r146">
+      <res:binding rdf:nodeID="r146c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161785"/></res:binding>
+      <res:binding rdf:nodeID="r146c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/86aab0a1857d66a3ea808eba8b65b380"/></res:binding>
+      <res:binding rdf:nodeID="r146c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Petrosa, 0(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r147">
+      <res:binding rdf:nodeID="r147c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161718"/></res:binding>
+      <res:binding rdf:nodeID="r147c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/86b44977a0d712e4258581190ea4ca5d"/></res:binding>
+      <res:binding rdf:nodeID="r147c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via G. Mazzini, 75(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r148">
+      <res:binding rdf:nodeID="r148c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161805"/></res:binding>
+      <res:binding rdf:nodeID="r148c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/891c9b0c7e07254ea95611de134442d6"/></res:binding>
+      <res:binding rdf:nodeID="r148c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Argine sinistro del Montone, 149(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r149">
+      <res:binding rdf:nodeID="r149c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161691"/></res:binding>
+      <res:binding rdf:nodeID="r149c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/8b98309f38accf6870184b12453d2ac4"/></res:binding>
+      <res:binding rdf:nodeID="r149c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Guaccimanni, 54</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r150">
+      <res:binding rdf:nodeID="r150c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161806"/></res:binding>
+      <res:binding rdf:nodeID="r150c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/8cf8e8dd14ca283c47b108a6bdb12ebb"/></res:binding>
+      <res:binding rdf:nodeID="r150c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Strada Provinciale Faentina, 362(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r151">
+      <res:binding rdf:nodeID="r151c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161656"/></res:binding>
+      <res:binding rdf:nodeID="r151c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/8d83efba61be20677aa2625f7fc9b06b"/></res:binding>
+      <res:binding rdf:nodeID="r151c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Paolo Costa, 10</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r152">
+      <res:binding rdf:nodeID="r152c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161704"/></res:binding>
+      <res:binding rdf:nodeID="r152c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/8e6a2c2db9c8c976e0f2b56fc01b7501"/></res:binding>
+      <res:binding rdf:nodeID="r152c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Salara, 40(P), 42</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r153">
+      <res:binding rdf:nodeID="r153c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161671"/></res:binding>
+      <res:binding rdf:nodeID="r153c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/8f5b2ef10f4c337eaa03afdcc9485d4e"/></res:binding>
+      <res:binding rdf:nodeID="r153c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Diaz, 15(P)/ 13</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r154">
+      <res:binding rdf:nodeID="r154c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161751"/></res:binding>
+      <res:binding rdf:nodeID="r154c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/91cc40f021401ea786c854e8810aa201"/></res:binding>
+      <res:binding rdf:nodeID="r154c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via di Roma, 202 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r155">
+      <res:binding rdf:nodeID="r155c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161770"/></res:binding>
+      <res:binding rdf:nodeID="r155c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/921a79f0ff6eb13974a1285a4824bdbf"/></res:binding>
+      <res:binding rdf:nodeID="r155c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r156">
+      <res:binding rdf:nodeID="r156c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161770"/></res:binding>
+      <res:binding rdf:nodeID="r156c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/921a79f0ff6eb13974a1285a4824bdbf"/></res:binding>
+      <res:binding rdf:nodeID="r156c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via San Vitale, 17</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r157">
+      <res:binding rdf:nodeID="r157c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161770"/></res:binding>
+      <res:binding rdf:nodeID="r157c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/921a79f0ff6eb13974a1285a4824bdbf"/></res:binding>
+      <res:binding rdf:nodeID="r157c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via San Vitale, 17</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r158">
+      <res:binding rdf:nodeID="r158c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161650"/></res:binding>
+      <res:binding rdf:nodeID="r158c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/951e5ee2af3e9580c5d0b8aeb3bb7bb0"/></res:binding>
+      <res:binding rdf:nodeID="r158c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Cavour, 10</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r159">
+      <res:binding rdf:nodeID="r159c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266228"/></res:binding>
+      <res:binding rdf:nodeID="r159c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/998dd22c0c4b0f3c267b9dc7a9c44c73"/></res:binding>
+      <res:binding rdf:nodeID="r159c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Salara, 33(P)/ 31</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r160">
+      <res:binding rdf:nodeID="r160c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266230"/></res:binding>
+      <res:binding rdf:nodeID="r160c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/9c7a504eee9a77dcc11818eb218c2106"/></res:binding>
+      <res:binding rdf:nodeID="r160c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via San Vitale, 34, 36,38, 40, 42, via M. Fanti, 19</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r161">
+      <res:binding rdf:nodeID="r161c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161675"/></res:binding>
+      <res:binding rdf:nodeID="r161c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/a11c95ede3d1cd292c67ebed4d43d77f"/></res:binding>
+      <res:binding rdf:nodeID="r161c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Ercolana, 29/ 31(P)/ 33</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r162">
+      <res:binding rdf:nodeID="r162c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161719"/></res:binding>
+      <res:binding rdf:nodeID="r162c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/a15afb5ced2ff32b9a2ff006d4954ef0"/></res:binding>
+      <res:binding rdf:nodeID="r162c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via G. Mazzini, 44 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r163">
+      <res:binding rdf:nodeID="r163c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161665"/></res:binding>
+      <res:binding rdf:nodeID="r163c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/a3a2021289e41547f4456d958b49dbb2"/></res:binding>
+      <res:binding rdf:nodeID="r163c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Massimo d&#39;Azeglio, 38</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r164">
+      <res:binding rdf:nodeID="r164c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161659"/></res:binding>
+      <res:binding rdf:nodeID="r164c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/a3eaf5fc1c8afcd5ecb852e593d817e9"/></res:binding>
+      <res:binding rdf:nodeID="r164c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Paola Costa, 7</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r165">
+      <res:binding rdf:nodeID="r165c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161653"/></res:binding>
+      <res:binding rdf:nodeID="r165c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/a6de3345a981c38371ec09043e4793ca"/></res:binding>
+      <res:binding rdf:nodeID="r165c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Paolo Costa, 2</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r166">
+      <res:binding rdf:nodeID="r166c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161727"/></res:binding>
+      <res:binding rdf:nodeID="r166c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/a73ffd6f60404c38febafa2babd69aa9"/></res:binding>
+      <res:binding rdf:nodeID="r166c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Ponte Marino, 7,9 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r167">
+      <res:binding rdf:nodeID="r167c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266234"/></res:binding>
+      <res:binding rdf:nodeID="r167c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/a7eb39a49aa2423498ff26f1d67a076b"/></res:binding>
+      <res:binding rdf:nodeID="r167c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, piazza XX Settembre, 7</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r168">
+      <res:binding rdf:nodeID="r168c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161808"/></res:binding>
+      <res:binding rdf:nodeID="r168c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/a8bfbd6823bb9aa9c9c130b53d6e5fb6"/></res:binding>
+      <res:binding rdf:nodeID="r168c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, SAN PIETRO IN TRENTO, via Ramona, 55 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r169">
+      <res:binding rdf:nodeID="r169c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266254"/></res:binding>
+      <res:binding rdf:nodeID="r169c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/adbddc004484c239acc319336ff8053a"/></res:binding>
+      <res:binding rdf:nodeID="r169c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Montecatini, 3</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r170">
+      <res:binding rdf:nodeID="r170c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161693"/></res:binding>
+      <res:binding rdf:nodeID="r170c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/b1a797c6987ba5b97c82776a1c66fc6c"/></res:binding>
+      <res:binding rdf:nodeID="r170c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Guerrini, 15(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r171">
+      <res:binding rdf:nodeID="r171c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161800"/></res:binding>
+      <res:binding rdf:nodeID="r171c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/b2a5bf607dff4035de96f2acbbbbdb36"/></res:binding>
+      <res:binding rdf:nodeID="r171c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, strada comunale Carrarone Chiesa, 0(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r172">
+      <res:binding rdf:nodeID="r172c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161705"/></res:binding>
+      <res:binding rdf:nodeID="r172c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/b3de3ab6f00c138c87a4ca3694d145e9"/></res:binding>
+      <res:binding rdf:nodeID="r172c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via G. Mazzini, 42 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r173">
+      <res:binding rdf:nodeID="r173c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161812"/></res:binding>
+      <res:binding rdf:nodeID="r173c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/bcc286cb28251c3c4aca31dccec09e78"/></res:binding>
+      <res:binding rdf:nodeID="r173c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Casa Matha, 1/ 3, via IV Novembre, 37/ 39</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r174">
+      <res:binding rdf:nodeID="r174c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161769"/></res:binding>
+      <res:binding rdf:nodeID="r174c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/bf4e521a8f26c157b4dbb0a3b90eca7e"/></res:binding>
+      <res:binding rdf:nodeID="r174c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via San Vitale, 5(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r175">
+      <res:binding rdf:nodeID="r175c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161654"/></res:binding>
+      <res:binding rdf:nodeID="r175c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/bfacc7b5b56dc55c057b63fae9ec7be2"/></res:binding>
+      <res:binding rdf:nodeID="r175c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via P. Costa, 1(P), via XIII Giugno, 15 /17</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r176">
+      <res:binding rdf:nodeID="r176c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266248"/></res:binding>
+      <res:binding rdf:nodeID="r176c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/c0c13f038a1a0dc0caf5eeae88cb06d7"/></res:binding>
+      <res:binding rdf:nodeID="r176c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Villanova, 96 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r177">
+      <res:binding rdf:nodeID="r177c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161707"/></res:binding>
+      <res:binding rdf:nodeID="r177c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/c11e875001c2addece4769a919787bc8"/></res:binding>
+      <res:binding rdf:nodeID="r177c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Mazzini, 72</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r178">
+      <res:binding rdf:nodeID="r178c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800319340-bene-individuo"/></res:binding>
+      <res:binding rdf:nodeID="r178c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/c3483e2b42b47831290d89e904fcee95"/></res:binding>
+      <res:binding rdf:nodeID="r178c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Piazza Kennedy, 14,15,16,17</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r179">
+      <res:binding rdf:nodeID="r179c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161646"/></res:binding>
+      <res:binding rdf:nodeID="r179c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/c6ade7873ec881042bd64fe6c54ecdbf"/></res:binding>
+      <res:binding rdf:nodeID="r179c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Cairoli, 27,25(P),23</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r180">
+      <res:binding rdf:nodeID="r180c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266238"/></res:binding>
+      <res:binding rdf:nodeID="r180c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/c8d1e5ec824231b7824f19900b99055c"/></res:binding>
+      <res:binding rdf:nodeID="r180c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, PIANGIPANE, via Braccesca, 44</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r181">
+      <res:binding rdf:nodeID="r181c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266223"/></res:binding>
+      <res:binding rdf:nodeID="r181c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/ca76a8db00c3f36def30f45294cd52ec"/></res:binding>
+      <res:binding rdf:nodeID="r181c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Paolo Costa, 49</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r182">
+      <res:binding rdf:nodeID="r182c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161797"/></res:binding>
+      <res:binding rdf:nodeID="r182c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/cc60d8f6ad6501ed2e6ae8fb851a0da5"/></res:binding>
+      <res:binding rdf:nodeID="r182c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, MARINA DI RAVENNA, via D&#39;Allaggio, 53(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r183">
+      <res:binding rdf:nodeID="r183c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161682"/></res:binding>
+      <res:binding rdf:nodeID="r183c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/ccb79721814cb43e595950707b21b0e7"/></res:binding>
+      <res:binding rdf:nodeID="r183c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Romolo Gessi, 20</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r184">
+      <res:binding rdf:nodeID="r184c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266236"/></res:binding>
+      <res:binding rdf:nodeID="r184c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/ccb82680bcb1e20810c0b248d058edc3"/></res:binding>
+      <res:binding rdf:nodeID="r184c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, MANDRIOLE, strada Comunale</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r185">
+      <res:binding rdf:nodeID="r185c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161703"/></res:binding>
+      <res:binding rdf:nodeID="r185c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/cdc51a60f8ca67361db656aece25e4d9"/></res:binding>
+      <res:binding rdf:nodeID="r185c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via A. Mariani, 46 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r186">
+      <res:binding rdf:nodeID="r186c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266244"/></res:binding>
+      <res:binding rdf:nodeID="r186c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/d0bc803c6ea207e6c3ef27420cd3f4ac"/></res:binding>
+      <res:binding rdf:nodeID="r186c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, SAVARNA, via Basilica, 158 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r187">
+      <res:binding rdf:nodeID="r187c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161781"/></res:binding>
+      <res:binding rdf:nodeID="r187c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/d5ca37066b0c79201f86cfddb5540075"/></res:binding>
+      <res:binding rdf:nodeID="r187c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Zagarelli alle Mura, 2/a (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r188">
+      <res:binding rdf:nodeID="r188c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161780"/></res:binding>
+      <res:binding rdf:nodeID="r188c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/d6283075888a124cb9120b52b70bbb75"/></res:binding>
+      <res:binding rdf:nodeID="r188c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Zagarelli Alle Mura, 32</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r189">
+      <res:binding rdf:nodeID="r189c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266247"/></res:binding>
+      <res:binding rdf:nodeID="r189c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/dfefc5f91251c1c9835067404367cfce"/></res:binding>
+      <res:binding rdf:nodeID="r189c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Torri, 0(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r190">
+      <res:binding rdf:nodeID="r190c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266219"/></res:binding>
+      <res:binding rdf:nodeID="r190c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/e5d1c361655953ebd7e968f6bd83f37e"/></res:binding>
+      <res:binding rdf:nodeID="r190c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Canale Molinetto, 90/ 92</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r191">
+      <res:binding rdf:nodeID="r191c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161777"/></res:binding>
+      <res:binding rdf:nodeID="r191c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/e9e3db1206c54825f15a1a454eaa4e0d"/></res:binding>
+      <res:binding rdf:nodeID="r191c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via XIII Giugno, 0(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r192">
+      <res:binding rdf:nodeID="r192c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161699"/></res:binding>
+      <res:binding rdf:nodeID="r192c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/ebc4f9953456a42c15ad08e25a185cb3"/></res:binding>
+      <res:binding rdf:nodeID="r192c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via A. Mariani, 21 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r193">
+      <res:binding rdf:nodeID="r193c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161709"/></res:binding>
+      <res:binding rdf:nodeID="r193c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/ecdf6bc6435915bde2e065ce8cffa2e4"/></res:binding>
+      <res:binding rdf:nodeID="r193c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via G. Mazzini, 49(P), 51, 53, 55</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r194">
+      <res:binding rdf:nodeID="r194c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266242"/></res:binding>
+      <res:binding rdf:nodeID="r194c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/ef815753bfec7325807d1cc01d414e7b"/></res:binding>
+      <res:binding rdf:nodeID="r194c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, SAN BARTOLO, via Argine Destro Ronco, 98 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r195">
+      <res:binding rdf:nodeID="r195c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161685"/></res:binding>
+      <res:binding rdf:nodeID="r195c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/fa9ec5346339fa11db6a41d68329f72c"/></res:binding>
+      <res:binding rdf:nodeID="r195c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Guaccimanni, 40(P)/ 40A/ 42(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r196">
+      <res:binding rdf:nodeID="r196c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161744"/></res:binding>
+      <res:binding rdf:nodeID="r196c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/29c5efb9e4b8ff6b6353e72aa56bb8b8"/></res:binding>
+      <res:binding rdf:nodeID="r196c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Di Roma, 0 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r197">
+      <res:binding rdf:nodeID="r197c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161747"/></res:binding>
+      <res:binding rdf:nodeID="r197c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/29c5efb9e4b8ff6b6353e72aa56bb8b8"/></res:binding>
+      <res:binding rdf:nodeID="r197c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Di Roma, 0 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r198">
+      <res:binding rdf:nodeID="r198c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161741"/></res:binding>
+      <res:binding rdf:nodeID="r198c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/29c5efb9e4b8ff6b6353e72aa56bb8b8"/></res:binding>
+      <res:binding rdf:nodeID="r198c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Di Roma, 0 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r199">
+      <res:binding rdf:nodeID="r199c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161742"/></res:binding>
+      <res:binding rdf:nodeID="r199c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/29c5efb9e4b8ff6b6353e72aa56bb8b8"/></res:binding>
+      <res:binding rdf:nodeID="r199c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Di Roma, 0 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r200">
+      <res:binding rdf:nodeID="r200c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161745"/></res:binding>
+      <res:binding rdf:nodeID="r200c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/29c5efb9e4b8ff6b6353e72aa56bb8b8"/></res:binding>
+      <res:binding rdf:nodeID="r200c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Di Roma, 0 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r201">
+      <res:binding rdf:nodeID="r201c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161738"/></res:binding>
+      <res:binding rdf:nodeID="r201c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/2dee6cde569bdbf1aae7f1191c9bdf22"/></res:binding>
+      <res:binding rdf:nodeID="r201c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via di Roma, 108 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r202">
+      <res:binding rdf:nodeID="r202c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161623"/></res:binding>
+      <res:binding rdf:nodeID="r202c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/32beb25a5104c1be54fe721641c17f9c"/></res:binding>
+      <res:binding rdf:nodeID="r202c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Dante Alighieri, 2,4(P ),6</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r203">
+      <res:binding rdf:nodeID="r203c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161643"/></res:binding>
+      <res:binding rdf:nodeID="r203c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/39ebdcc7bf6cfab1fe90e8ec04909462"/></res:binding>
+      <res:binding rdf:nodeID="r203c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Battistero, 0 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r204">
+      <res:binding rdf:nodeID="r204c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308260-bene-complesso"/></res:binding>
+      <res:binding rdf:nodeID="r204c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/3a4c683b74c401c37a78e5f78b5906f0"/></res:binding>
+      <res:binding rdf:nodeID="r204c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, SAN ZACCARIA, Via Dismano, 663</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r205">
+      <res:binding rdf:nodeID="r205c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308261"/></res:binding>
+      <res:binding rdf:nodeID="r205c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/3a4c683b74c401c37a78e5f78b5906f0"/></res:binding>
+      <res:binding rdf:nodeID="r205c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, SAN ZACCARIA, Via Dismano, 663</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r206">
+      <res:binding rdf:nodeID="r206c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161752"/></res:binding>
+      <res:binding rdf:nodeID="r206c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/3bd5296617c0ca226115cb96a95ebfa5"/></res:binding>
+      <res:binding rdf:nodeID="r206c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Di Roma, 98</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r207">
+      <res:binding rdf:nodeID="r207c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161619"/></res:binding>
+      <res:binding rdf:nodeID="r207c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/3f3cebc07c430217c5728a1faba1f32a"/></res:binding>
+      <res:binding rdf:nodeID="r207c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Piazza S.Francesco, 0(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r208">
+      <res:binding rdf:nodeID="r208c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161620"/></res:binding>
+      <res:binding rdf:nodeID="r208c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/3f3cebc07c430217c5728a1faba1f32a"/></res:binding>
+      <res:binding rdf:nodeID="r208c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Piazza S.Francesco, 0(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r209">
+      <res:binding rdf:nodeID="r209c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161621"/></res:binding>
+      <res:binding rdf:nodeID="r209c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/3f3cebc07c430217c5728a1faba1f32a"/></res:binding>
+      <res:binding rdf:nodeID="r209c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Piazza S.Francesco, 0(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r210">
+      <res:binding rdf:nodeID="r210c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161801"/></res:binding>
+      <res:binding rdf:nodeID="r210c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/40e79a1437b0a8164301a510458fc2f0"/></res:binding>
+      <res:binding rdf:nodeID="r210c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Stradone, 46</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r211">
+      <res:binding rdf:nodeID="r211c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308274-bene-individuo"/></res:binding>
+      <res:binding rdf:nodeID="r211c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/41f2e9a7195d9603d8605d3d7ac832e6"/></res:binding>
+      <res:binding rdf:nodeID="r211c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, SAN PIETRO IN TRENTO, Via Traversara, angolo via Bezzi, 67</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r212">
+      <res:binding rdf:nodeID="r212c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161622"/></res:binding>
+      <res:binding rdf:nodeID="r212c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/428b9c9b3120e4852c4cd08924b9e6bf"/></res:binding>
+      <res:binding rdf:nodeID="r212c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Guido Da Polenta, 0(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r213">
+      <res:binding rdf:nodeID="r213c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161673"/></res:binding>
+      <res:binding rdf:nodeID="r213c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/4407b410b4aa53a507916aaaf4120a99"/></res:binding>
+      <res:binding rdf:nodeID="r213c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, P.zza Duomo, 0(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r214">
+      <res:binding rdf:nodeID="r214c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266233"/></res:binding>
+      <res:binding rdf:nodeID="r214c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/463b9297d0771d0aadb872f1fd304e18"/></res:binding>
+      <res:binding rdf:nodeID="r214c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Mura S. Vitale</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r215">
+      <res:binding rdf:nodeID="r215c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161790"/></res:binding>
+      <res:binding rdf:nodeID="r215c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/4818666e1014db9b85f026eac98b58da"/></res:binding>
+      <res:binding rdf:nodeID="r215c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, DURAZZANO, via Sisa, 17 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r216">
+      <res:binding rdf:nodeID="r216c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161681"/></res:binding>
+      <res:binding rdf:nodeID="r216c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/498338cf9b32c9c468a07bca5d72c6c7"/></res:binding>
+      <res:binding rdf:nodeID="r216c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Romolo Gessi, 14/ 16(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r217">
+      <res:binding rdf:nodeID="r217c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308264-bene-individuo"/></res:binding>
+      <res:binding rdf:nodeID="r217c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/4e163d5cfc60d8d02c8edefa773ddaf8"/></res:binding>
+      <res:binding rdf:nodeID="r217c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Trava, 2</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r218">
+      <res:binding rdf:nodeID="r218c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161796"/></res:binding>
+      <res:binding rdf:nodeID="r218c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/5ea1b97805dc7ccbb3fb67859e4c4109"/></res:binding>
+      <res:binding rdf:nodeID="r218c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, MADONNA DELL&#39;ALBERO, via Ravegnana, 479(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r219">
+      <res:binding rdf:nodeID="r219c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161676"/></res:binding>
+      <res:binding rdf:nodeID="r219c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/5f8abe803490ed8a22107dd462e0df65"/></res:binding>
+      <res:binding rdf:nodeID="r219c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Fiume Abbandonato, 0 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r220">
+      <res:binding rdf:nodeID="r220c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161755"/></res:binding>
+      <res:binding rdf:nodeID="r220c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/5feef9357136dff78d09f2e6a97b973a"/></res:binding>
+      <res:binding rdf:nodeID="r220c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Di Roma, 116 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r221">
+      <res:binding rdf:nodeID="r221c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161721"/></res:binding>
+      <res:binding rdf:nodeID="r221c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/606ed1b24257a47e33653142599125cb"/></res:binding>
+      <res:binding rdf:nodeID="r221c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Monti, 0 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r222">
+      <res:binding rdf:nodeID="r222c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161722"/></res:binding>
+      <res:binding rdf:nodeID="r222c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/606ed1b24257a47e33653142599125cb"/></res:binding>
+      <res:binding rdf:nodeID="r222c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Monti, 0 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r223">
+      <res:binding rdf:nodeID="r223c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161723"/></res:binding>
+      <res:binding rdf:nodeID="r223c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/606ed1b24257a47e33653142599125cb"/></res:binding>
+      <res:binding rdf:nodeID="r223c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Monti, 0 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r224">
+      <res:binding rdf:nodeID="r224c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266226"/></res:binding>
+      <res:binding rdf:nodeID="r224c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/609bcf304ee0321b8677758f06525773"/></res:binding>
+      <res:binding rdf:nodeID="r224c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Pasolini, 9 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r225">
+      <res:binding rdf:nodeID="r225c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308270"/></res:binding>
+      <res:binding rdf:nodeID="r225c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/60fc344e3b8d3f96fcdf823f673e1b45"/></res:binding>
+      <res:binding rdf:nodeID="r225c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, CAMERLONA, Via S. Egidio, 0(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r226">
+      <res:binding rdf:nodeID="r226c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161652"/></res:binding>
+      <res:binding rdf:nodeID="r226c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/662bd49eec4cad731e7f3785d3ac2be5"/></res:binding>
+      <res:binding rdf:nodeID="r226c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via della Chiesa, 0 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r227">
+      <res:binding rdf:nodeID="r227c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161644"/></res:binding>
+      <res:binding rdf:nodeID="r227c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/680d2963d66c6f5c71b3ce6fdc7e9388"/></res:binding>
+      <res:binding rdf:nodeID="r227c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Battistero, 0(P), all&#39;interno del giardino del Duomo fra via G. Rasponi e via R. Gessi</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r228">
+      <res:binding rdf:nodeID="r228c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161641"/></res:binding>
+      <res:binding rdf:nodeID="r228c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/6afe18a0bdefd0269df6885190951b54"/></res:binding>
+      <res:binding rdf:nodeID="r228c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, P.zza Duomo, 0 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r229">
+      <res:binding rdf:nodeID="r229c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161642"/></res:binding>
+      <res:binding rdf:nodeID="r229c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/6afe18a0bdefd0269df6885190951b54"/></res:binding>
+      <res:binding rdf:nodeID="r229c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, P.zza Duomo, 0 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r230">
+      <res:binding rdf:nodeID="r230c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308281"/></res:binding>
+      <res:binding rdf:nodeID="r230c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/6b6eebb6cd685e9961740b29389a5cae"/></res:binding>
+      <res:binding rdf:nodeID="r230c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, SAN PIETRO IN VINCOLI, Via Gambellara, 1</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r231">
+      <res:binding rdf:nodeID="r231c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161666"/></res:binding>
+      <res:binding rdf:nodeID="r231c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/6ebef70ac5bfa69b8ff8ae7b44c24407"/></res:binding>
+      <res:binding rdf:nodeID="r231c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via M. D&#39;Azeglio, 47</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r232">
+      <res:binding rdf:nodeID="r232c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308999"/></res:binding>
+      <res:binding rdf:nodeID="r232c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/7335eb5cc2ba28d9c83e7a344d8943db"/></res:binding>
+      <res:binding rdf:nodeID="r232c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, vicolo Genocchi, 9</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r233">
+      <res:binding rdf:nodeID="r233c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161798"/></res:binding>
+      <res:binding rdf:nodeID="r233c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/749da9532b26987c97ea3b34b19e8e61"/></res:binding>
+      <res:binding rdf:nodeID="r233c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Chiesa, 1</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r234">
+      <res:binding rdf:nodeID="r234c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161660"/></res:binding>
+      <res:binding rdf:nodeID="r234c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/765169819a0e35699cf7d292b090cffb"/></res:binding>
+      <res:binding rdf:nodeID="r234c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Cura, 0 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r235">
+      <res:binding rdf:nodeID="r235c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161661"/></res:binding>
+      <res:binding rdf:nodeID="r235c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/765169819a0e35699cf7d292b090cffb"/></res:binding>
+      <res:binding rdf:nodeID="r235c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Cura, 0 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r236">
+      <res:binding rdf:nodeID="r236c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161662"/></res:binding>
+      <res:binding rdf:nodeID="r236c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/765169819a0e35699cf7d292b090cffb"/></res:binding>
+      <res:binding rdf:nodeID="r236c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Cura, 0 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r237">
+      <res:binding rdf:nodeID="r237c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161651"/></res:binding>
+      <res:binding rdf:nodeID="r237c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/7a8710de3df025aad79d0cae40a4bec8"/></res:binding>
+      <res:binding rdf:nodeID="r237c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Cavour, 0 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r238">
+      <res:binding rdf:nodeID="r238c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161626"/></res:binding>
+      <res:binding rdf:nodeID="r238c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/7be1c1e78ec36e256b89f9a013bad760"/></res:binding>
+      <res:binding rdf:nodeID="r238c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, P.zza Anita Garibaldi, 0 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r239">
+      <res:binding rdf:nodeID="r239c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161627"/></res:binding>
+      <res:binding rdf:nodeID="r239c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/7be1c1e78ec36e256b89f9a013bad760"/></res:binding>
+      <res:binding rdf:nodeID="r239c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, P.zza Anita Garibaldi, 0 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r240">
+      <res:binding rdf:nodeID="r240c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161628"/></res:binding>
+      <res:binding rdf:nodeID="r240c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/7be1c1e78ec36e256b89f9a013bad760"/></res:binding>
+      <res:binding rdf:nodeID="r240c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, P.zza Anita Garibaldi, 0 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r241">
+      <res:binding rdf:nodeID="r241c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161767"/></res:binding>
+      <res:binding rdf:nodeID="r241c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/7c96bf04fc529d0075acf5887e75095e"/></res:binding>
+      <res:binding rdf:nodeID="r241c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via G. Ghiselli, 32 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r242">
+      <res:binding rdf:nodeID="r242c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161715"/></res:binding>
+      <res:binding rdf:nodeID="r242c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/7e8e83d87798af2d67decc8fbb6e77a6"/></res:binding>
+      <res:binding rdf:nodeID="r242c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Mazzini,0 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r243">
+      <res:binding rdf:nodeID="r243c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308253"/></res:binding>
+      <res:binding rdf:nodeID="r243c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/7fd18fd590d28e2d03028696fe2a2c78"/></res:binding>
+      <res:binding rdf:nodeID="r243c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Pietro Alighieri, 6 - 8</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r244">
+      <res:binding rdf:nodeID="r244c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161795"/></res:binding>
+      <res:binding rdf:nodeID="r244c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/81772fa6a7c5d99513e56bab90c2d019"/></res:binding>
+      <res:binding rdf:nodeID="r244c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Argine destrofiume Ronco, 0(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r245">
+      <res:binding rdf:nodeID="r245c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161678"/></res:binding>
+      <res:binding rdf:nodeID="r245c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/82f80c457d99711aef13d75ced727053"/></res:binding>
+      <res:binding rdf:nodeID="r245c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Galla Placidia, 0 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r246">
+      <res:binding rdf:nodeID="r246c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161677"/></res:binding>
+      <res:binding rdf:nodeID="r246c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/82f80c457d99711aef13d75ced727053"/></res:binding>
+      <res:binding rdf:nodeID="r246c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Galla Placidia, 0 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r247">
+      <res:binding rdf:nodeID="r247c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308266"/></res:binding>
+      <res:binding rdf:nodeID="r247c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/858b258bf5bccf7ceab3329b27d381d0"/></res:binding>
+      <res:binding rdf:nodeID="r247c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Zignani, 44</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r248">
+      <res:binding rdf:nodeID="r248c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308267"/></res:binding>
+      <res:binding rdf:nodeID="r248c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/858b258bf5bccf7ceab3329b27d381d0"/></res:binding>
+      <res:binding rdf:nodeID="r248c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Zignani, 44</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r249">
+      <res:binding rdf:nodeID="r249c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308268"/></res:binding>
+      <res:binding rdf:nodeID="r249c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/858b258bf5bccf7ceab3329b27d381d0"/></res:binding>
+      <res:binding rdf:nodeID="r249c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Zignani, 44</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r250">
+      <res:binding rdf:nodeID="r250c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308278"/></res:binding>
+      <res:binding rdf:nodeID="r250c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/85fdeb45e81b3c6a7b3aa1b9e792ccca"/></res:binding>
+      <res:binding rdf:nodeID="r250c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, MARINA ROMEA, Via Fossatone, 0(P), all&#39;interno della pineta San Vitale, in prossimità della Cà Vecchia</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r251">
+      <res:binding rdf:nodeID="r251c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161791"/></res:binding>
+      <res:binding rdf:nodeID="r251c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/8a12ef8983ce81408dd1bac225ca9234"/></res:binding>
+      <res:binding rdf:nodeID="r251c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, FILETTO, Via Roncalceci, 0 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r252">
+      <res:binding rdf:nodeID="r252c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161696"/></res:binding>
+      <res:binding rdf:nodeID="r252c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/8cc8e74d1dc561443a32df03a4f854ca"/></res:binding>
+      <res:binding rdf:nodeID="r252c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, P.zza Mameli, 0 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r253">
+      <res:binding rdf:nodeID="r253c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800309000"/></res:binding>
+      <res:binding rdf:nodeID="r253c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/8dba64e842ba65a2b4ac423713391252"/></res:binding>
+      <res:binding rdf:nodeID="r253c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, RAVENNA, via Alberoni, 12</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r254">
+      <res:binding rdf:nodeID="r254c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266245"/></res:binding>
+      <res:binding rdf:nodeID="r254c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/8dcef528120c9673e00e5efaf5c6add4"/></res:binding>
+      <res:binding rdf:nodeID="r254c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, SAN PIETRO IN VINCOLI</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r255">
+      <res:binding rdf:nodeID="r255c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161633"/></res:binding>
+      <res:binding rdf:nodeID="r255c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/8eef89c818e33d86014582cc5f6e8a7c"/></res:binding>
+      <res:binding rdf:nodeID="r255c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Vicolo degli Ariani, 0(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r256">
+      <res:binding rdf:nodeID="r256c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161799"/></res:binding>
+      <res:binding rdf:nodeID="r256c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/92101b90e4b464ceabc9392391e83f61"/></res:binding>
+      <res:binding rdf:nodeID="r256c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Massa, 88</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r257">
+      <res:binding rdf:nodeID="r257c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161630"/></res:binding>
+      <res:binding rdf:nodeID="r257c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/9313a1470c9495caaa94c84d130e293c"/></res:binding>
+      <res:binding rdf:nodeID="r257c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, P.zza Arcivescovado, 1</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r258">
+      <res:binding rdf:nodeID="r258c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161631"/></res:binding>
+      <res:binding rdf:nodeID="r258c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/9313a1470c9495caaa94c84d130e293c"/></res:binding>
+      <res:binding rdf:nodeID="r258c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, P.zza Arcivescovado, 1</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r259">
+      <res:binding rdf:nodeID="r259c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308265-bene-individuo"/></res:binding>
+      <res:binding rdf:nodeID="r259c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/94e4313caf0693fdec880d890d55ae9f"/></res:binding>
+      <res:binding rdf:nodeID="r259c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, RONCALCECI, Via Babini, 246</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r260">
+      <res:binding rdf:nodeID="r260c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161729"/></res:binding>
+      <res:binding rdf:nodeID="r260c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/95c4ab180795a137329daa178663b907"/></res:binding>
+      <res:binding rdf:nodeID="r260c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Porta Gaza, 0 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r261">
+      <res:binding rdf:nodeID="r261c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800206008"/></res:binding>
+      <res:binding rdf:nodeID="r261c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/9d668b4e3a75e3f93f2b4fffb0ef2336"/></res:binding>
+      <res:binding rdf:nodeID="r261c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Mariani, 0 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r262">
+      <res:binding rdf:nodeID="r262c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161667"/></res:binding>
+      <res:binding rdf:nodeID="r262c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/9ea3e7e895f1bf8dfa7a4788a2f52a08"/></res:binding>
+      <res:binding rdf:nodeID="r262c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via M. Dente, 0 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r263">
+      <res:binding rdf:nodeID="r263c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161668"/></res:binding>
+      <res:binding rdf:nodeID="r263c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/9ea3e7e895f1bf8dfa7a4788a2f52a08"/></res:binding>
+      <res:binding rdf:nodeID="r263c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via M. Dente, 0 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r264">
+      <res:binding rdf:nodeID="r264c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161629"/></res:binding>
+      <res:binding rdf:nodeID="r264c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/a0f95249712a637f9786019696888a3a"/></res:binding>
+      <res:binding rdf:nodeID="r264c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Piazza Anita Garibaldi, 0 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r265">
+      <res:binding rdf:nodeID="r265c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161750"/></res:binding>
+      <res:binding rdf:nodeID="r265c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/a1c84cb170254bafd1058aff6ac9be5f"/></res:binding>
+      <res:binding rdf:nodeID="r265c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via di Roma, 113 (P),115 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r266">
+      <res:binding rdf:nodeID="r266c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161725"/></res:binding>
+      <res:binding rdf:nodeID="r266c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/a26ba33067e79c46f37bb6866d18bb92"/></res:binding>
+      <res:binding rdf:nodeID="r266c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, P.zza Duomo, 4 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r267">
+      <res:binding rdf:nodeID="r267c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161647"/></res:binding>
+      <res:binding rdf:nodeID="r267c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/a6792285d8d3a10040de02ec2ae9e534"/></res:binding>
+      <res:binding rdf:nodeID="r267c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via del Candiano</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r268">
+      <res:binding rdf:nodeID="r268c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266222"/></res:binding>
+      <res:binding rdf:nodeID="r268c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/ac31a1e9a9fe8fc70f736586464c9add"/></res:binding>
+      <res:binding rdf:nodeID="r268c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via del Cimitero, 0 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r269">
+      <res:binding rdf:nodeID="r269c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800319221"/></res:binding>
+      <res:binding rdf:nodeID="r269c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/ae4423c9ce4fd51400487b88cad7ac5d"/></res:binding>
+      <res:binding rdf:nodeID="r269c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Piazza del popolo, 0 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r270">
+      <res:binding rdf:nodeID="r270c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800319221"/></res:binding>
+      <res:binding rdf:nodeID="r270c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/ae4423c9ce4fd51400487b88cad7ac5d"/></res:binding>
+      <res:binding rdf:nodeID="r270c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Piazza del Popolo, 0 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r271">
+      <res:binding rdf:nodeID="r271c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800319300"/></res:binding>
+      <res:binding rdf:nodeID="r271c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/ae4423c9ce4fd51400487b88cad7ac5d"/></res:binding>
+      <res:binding rdf:nodeID="r271c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Piazza del popolo, 0 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r272">
+      <res:binding rdf:nodeID="r272c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800319300"/></res:binding>
+      <res:binding rdf:nodeID="r272c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/ae4423c9ce4fd51400487b88cad7ac5d"/></res:binding>
+      <res:binding rdf:nodeID="r272c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Piazza del Popolo, 0 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r273">
+      <res:binding rdf:nodeID="r273c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308272"/></res:binding>
+      <res:binding rdf:nodeID="r273c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/af929b6562171e7dd906f00643416d62"/></res:binding>
+      <res:binding rdf:nodeID="r273c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Del Borgo, 1</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r274">
+      <res:binding rdf:nodeID="r274c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308258"/></res:binding>
+      <res:binding rdf:nodeID="r274c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/b04e241e8228ec29c87ac8bfb37ad570"/></res:binding>
+      <res:binding rdf:nodeID="r274c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, PIANGIPANE, Via Galassa, 10</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r275">
+      <res:binding rdf:nodeID="r275c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161802"/></res:binding>
+      <res:binding rdf:nodeID="r275c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/b5e97f24538449378b95d466a8d6d7b9"/></res:binding>
+      <res:binding rdf:nodeID="r275c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, CASALBORSETTI</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r276">
+      <res:binding rdf:nodeID="r276c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161768"/></res:binding>
+      <res:binding rdf:nodeID="r276c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/b8c24d0c750b6f4977b69530f2e008e1"/></res:binding>
+      <res:binding rdf:nodeID="r276c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Vic. S. Nicandro, 0 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r277">
+      <res:binding rdf:nodeID="r277c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800266239"/></res:binding>
+      <res:binding rdf:nodeID="r277c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/b9d3f269fd5376639571534ac244babe"/></res:binding>
+      <res:binding rdf:nodeID="r277c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, PIANGIPANE, via Galassa, 10 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r278">
+      <res:binding rdf:nodeID="r278c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308255"/></res:binding>
+      <res:binding rdf:nodeID="r278c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/bab5a3bca3bb941fdcad56d63bb3a7eb"/></res:binding>
+      <res:binding rdf:nodeID="r278c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Guaccimanni, 44</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r279">
+      <res:binding rdf:nodeID="r279c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308256-bene-componente"/></res:binding>
+      <res:binding rdf:nodeID="r279c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/bab5a3bca3bb941fdcad56d63bb3a7eb"/></res:binding>
+      <res:binding rdf:nodeID="r279c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Guaccimanni, 44</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r280">
+      <res:binding rdf:nodeID="r280c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161788"/></res:binding>
+      <res:binding rdf:nodeID="r280c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/bad3bb0ed5e8f9351f09d3cc05eaba48"/></res:binding>
+      <res:binding rdf:nodeID="r280c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Dismano, 749(P)/ 747</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r281">
+      <res:binding rdf:nodeID="r281c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161669"/></res:binding>
+      <res:binding rdf:nodeID="r281c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/bd588c39a7a299b61d0cc5747d80a1dc"/></res:binding>
+      <res:binding rdf:nodeID="r281c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Tombesi Dall&#39;Ova, 0 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r282">
+      <res:binding rdf:nodeID="r282c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161749"/></res:binding>
+      <res:binding rdf:nodeID="r282c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/bfe7b246a40718086dbb495c9636d1e8"/></res:binding>
+      <res:binding rdf:nodeID="r282c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Di Roma, 108</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r283">
+      <res:binding rdf:nodeID="r283c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308257-bene-componente"/></res:binding>
+      <res:binding rdf:nodeID="r283c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/c01954e2d3ee74dafce5d61226be85fa"/></res:binding>
+      <res:binding rdf:nodeID="r283c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Guaccimanni, 0(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r284">
+      <res:binding rdf:nodeID="r284c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161688"/></res:binding>
+      <res:binding rdf:nodeID="r284c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/c30a0da0a3d52391a4f13375e99e5a68"/></res:binding>
+      <res:binding rdf:nodeID="r284c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Guaccimanni, 62</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r285">
+      <res:binding rdf:nodeID="r285c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800319415"/></res:binding>
+      <res:binding rdf:nodeID="r285c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/cbb59363f5c91ba9974564921474ec04"/></res:binding>
+      <res:binding rdf:nodeID="r285c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Dismano, 747</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r286">
+      <res:binding rdf:nodeID="r286c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161655"/></res:binding>
+      <res:binding rdf:nodeID="r286c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/cc68f3549b270bd32ea7bcdb98b1d81e"/></res:binding>
+      <res:binding rdf:nodeID="r286c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Paolo Costa, 22/ 24(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r287">
+      <res:binding rdf:nodeID="r287c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161743"/></res:binding>
+      <res:binding rdf:nodeID="r287c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/cfa54646deff5d48d9513aaa8094a6c3"/></res:binding>
+      <res:binding rdf:nodeID="r287c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Di Roma, 13 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r288">
+      <res:binding rdf:nodeID="r288c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800309001"/></res:binding>
+      <res:binding rdf:nodeID="r288c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/d590b2c102934c7277fc4e349f0b43d0"/></res:binding>
+      <res:binding rdf:nodeID="r288c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, vicolo Capannetti, 5</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r289">
+      <res:binding rdf:nodeID="r289c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161793"/></res:binding>
+      <res:binding rdf:nodeID="r289c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/d63a3b7b2ef9f6af90309bc80805dc9c"/></res:binding>
+      <res:binding rdf:nodeID="r289c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, LONGANA, Via Ravegnana, 0 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r290">
+      <res:binding rdf:nodeID="r290c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161618"/></res:binding>
+      <res:binding rdf:nodeID="r290c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/d6dd893b27861349d2df4b222e57425f"/></res:binding>
+      <res:binding rdf:nodeID="r290c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via G. da Polenta, 0 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r291">
+      <res:binding rdf:nodeID="r291c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161720"/></res:binding>
+      <res:binding rdf:nodeID="r291c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/d83d1450ae468755a70156376a9afab0"/></res:binding>
+      <res:binding rdf:nodeID="r291c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Mazzini, 57(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r292">
+      <res:binding rdf:nodeID="r292c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161775"/></res:binding>
+      <res:binding rdf:nodeID="r292c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/d96a2cd9327c67f1737d7c6ed4b7d217"/></res:binding>
+      <res:binding rdf:nodeID="r292c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Tombesi Dall&#39;Ova, 14 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r293">
+      <res:binding rdf:nodeID="r293c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161794"/></res:binding>
+      <res:binding rdf:nodeID="r293c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/da3663a9216054e1b97fde27146efd06"/></res:binding>
+      <res:binding rdf:nodeID="r293c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, MADONNA DELL&#39;ALBERO, Via Cella,0 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r294">
+      <res:binding rdf:nodeID="r294c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161670"/></res:binding>
+      <res:binding rdf:nodeID="r294c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/dc5ed3ea77e5e3b8cf20d6281e57f2f8"/></res:binding>
+      <res:binding rdf:nodeID="r294c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via A. Diaz, 4, 6 (P), 8</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r295">
+      <res:binding rdf:nodeID="r295c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161689"/></res:binding>
+      <res:binding rdf:nodeID="r295c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/e02914a047d1f698f63f915b00bceb5e"/></res:binding>
+      <res:binding rdf:nodeID="r295c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Guaccimanni, 29</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r296">
+      <res:binding rdf:nodeID="r296c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161624"/></res:binding>
+      <res:binding rdf:nodeID="r296c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/e2dd481be53017422fcf603afaad101b"/></res:binding>
+      <res:binding rdf:nodeID="r296c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Pietro Alighieri, 4, 6, 8</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r297">
+      <res:binding rdf:nodeID="r297c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161701"/></res:binding>
+      <res:binding rdf:nodeID="r297c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/e3de71f795926b7ae45489f6175a015b"/></res:binding>
+      <res:binding rdf:nodeID="r297c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Mariani, 26</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r298">
+      <res:binding rdf:nodeID="r298c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161732"/></res:binding>
+      <res:binding rdf:nodeID="r298c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/e45fc6dfd949ef3d155ffc458d203bc5"/></res:binding>
+      <res:binding rdf:nodeID="r298c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via C. Ricci, 0 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r299">
+      <res:binding rdf:nodeID="r299c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161710"/></res:binding>
+      <res:binding rdf:nodeID="r299c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/e59912b1c7213c029ed1afa9a82d3bf8"/></res:binding>
+      <res:binding rdf:nodeID="r299c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Mazzini, 7 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r300">
+      <res:binding rdf:nodeID="r300c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161761"/></res:binding>
+      <res:binding rdf:nodeID="r300c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/e8b22fe8140204d7d369f24ff44412db"/></res:binding>
+      <res:binding rdf:nodeID="r300c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Girolamo Rossi, 0(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r301">
+      <res:binding rdf:nodeID="r301c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161762"/></res:binding>
+      <res:binding rdf:nodeID="r301c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/e8b22fe8140204d7d369f24ff44412db"/></res:binding>
+      <res:binding rdf:nodeID="r301c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Girolamo Rossi, 0(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r302">
+      <res:binding rdf:nodeID="r302c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161763"/></res:binding>
+      <res:binding rdf:nodeID="r302c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/e8b22fe8140204d7d369f24ff44412db"/></res:binding>
+      <res:binding rdf:nodeID="r302c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Girolamo Rossi, 0(P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r303">
+      <res:binding rdf:nodeID="r303c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161789"/></res:binding>
+      <res:binding rdf:nodeID="r303c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/eb6d05722cd25e9fdf7ac80c63ddd5f1"/></res:binding>
+      <res:binding rdf:nodeID="r303c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, via Dismano, 749</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r304">
+      <res:binding rdf:nodeID="r304c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161765"/></res:binding>
+      <res:binding rdf:nodeID="r304c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/f1d76d0ff1ea779e13455cf13edee093"/></res:binding>
+      <res:binding rdf:nodeID="r304c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via G. Rossi, 2 (P)</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r305">
+      <res:binding rdf:nodeID="r305c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161807"/></res:binding>
+      <res:binding rdf:nodeID="r305c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/fadba328e121d79f4cd7b33121c74f6c"/></res:binding>
+      <res:binding rdf:nodeID="r305c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Sale, 102</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r306">
+      <res:binding rdf:nodeID="r306c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161639"/></res:binding>
+      <res:binding rdf:nodeID="r306c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/fb0d86c511d3c419e3605d44aaad53d7"/></res:binding>
+      <res:binding rdf:nodeID="r306c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Baccarini</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r307">
+      <res:binding rdf:nodeID="r307c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800308254"/></res:binding>
+      <res:binding rdf:nodeID="r307c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/fcff3e31ea43d0286a472510e69580b3"/></res:binding>
+      <res:binding rdf:nodeID="r307c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Pietro Alighieri, 4</res:value></res:binding>
+    </res:solution>
+    <res:solution rdf:nodeID="r308">
+      <res:binding rdf:nodeID="r308c0"><res:variable>subject</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800161737"/></res:binding>
+      <res:binding rdf:nodeID="r308c1"><res:variable>address</res:variable><res:value rdf:resource="https://w3id.org/arco/resource/Address/fdf26fbceba9a7dbe549dfb2b58fd6fb"/></res:binding>
+      <res:binding rdf:nodeID="r308c2"><res:variable>addressLabel</res:variable><res:value>ITALIA, Emilia-Romagna, RA, Ravenna, Via Di Roma, 67 (P)</res:value></res:binding>
+    </res:solution>
+  </rdf:Description>
+</rdf:RDF>

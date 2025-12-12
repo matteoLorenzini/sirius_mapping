@@ -1,0 +1,9 @@
+<rdf:RDF xmlns:res="http://www.w3.org/2005/sparql-results#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:Description rdf:nodeID="rset">
+<rdf:type rdf:resource="http://www.w3.org/2005/sparql-results#ResultSet" />
+    <res:resultVariable>cultpro</res:resultVariable>
+    <res:resultVariable>coords</res:resultVariable>
+    <res:resultVariable>lat</res:resultVariable>
+    <res:resultVariable>long</res:resultVariable>
+  </rdf:Description>
+</rdf:RDF>
