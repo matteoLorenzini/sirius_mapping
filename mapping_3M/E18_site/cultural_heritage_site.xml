@@ -15,6 +15,7 @@
 </legal_context>
     <stakeholders> Chamber of Commerce in Rimini, Provveditorato</stakeholders>
     <place_id>1</place_id>
+    <codice_catalogo_nazionale>None</codice_catalogo_nazionale>
   </cultural_heritage_site>
   <cultural_heritage_site>
     <site_id>2</site_id>
@@ -29,6 +30,7 @@
     <legal_context>Tra i principali riferimenti normativi inerenti la salvaguardia del Patrimonio Culturale possiamoricordare: - “Codice dei Beni Culturali” ( anche detto “Decreto Legislativo n°42 del 2004”). L’edificioè infatti soggetto al vincolo di tutela “Ope Legis”, - alle Convenzioni internazionali con riferimentoanche alla “Legge n° 77 del 2006” riguardante le ‘Misure speciali di tutela e fruizione dei siti italiani diinteresse culturale, paesaggistico e ambientale’ inseriti nella &lt;&lt; lista del patrimonio mondiale &gt;&gt;, posti sottola tutela dell’Unesco (‘Organizzazione delle Nazioni Unite per la Scienza, l’Educazione e la Cultura’).</legal_context>
     <stakeholders>Le parti maggiormente coinvolte in termini di gestione, cura, manutenzione, tutela e valorizzazionedel monumento risultano essere il Comune di Ravenna, la Soprintendenza per l’Archeologia, le Bellearti ed il Paesaggio. In più è possibile affermare come ne possano trarre beneficio, in termini culturalie sociali, anche l’Università, la Cittadinanza, le Fondazioni e le Associazioni culturali locali.</stakeholders>
     <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161634</codice_catalogo_nazionale>
   </cultural_heritage_site>
   <cultural_heritage_site>
     <site_id>3</site_id>
@@ -43,6 +45,7 @@
     <legal_context>None</legal_context>
     <stakeholders>None</stakeholders>
     <place_id>2</place_id>
+    <codice_catalogo_nazionale>None</codice_catalogo_nazionale>
   </cultural_heritage_site>
   <cultural_heritage_site>
     <site_id>4</site_id>
@@ -57,5 +60,6 @@
     <legal_context>None</legal_context>
     <stakeholders>None</stakeholders>
     <place_id>2</place_id>
+    <codice_catalogo_nazionale>None</codice_catalogo_nazionale>
   </cultural_heritage_site>
 </cultural_heritage_sites>
