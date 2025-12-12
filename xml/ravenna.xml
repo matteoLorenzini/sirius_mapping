@@ -1,0 +1,4413 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cultural_heritage_sites xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <cultural_heritage_site>
+    <site_id>1</site_id>
+    <cultural_heritage_site_appellation>Chiesa di S.Francesco (Chiesa )</cultural_heritage_site_appellation>
+    <typology>Chiesa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>Chiesa, Chiesa di S.Francesco</description>
+    <socio-cultural_context/>
+    <administrative_context/>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161620-bene componente</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>2</site_id>
+    <cultural_heritage_site_appellation>casa ( pubblica)</cultural_heritage_site_appellation>
+    <typology>casa-pubblica</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, pubblica</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800308997</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>3</site_id>
+    <cultural_heritage_site_appellation>Casa Rivalta</cultural_heritage_site_appellation>
+    <typology>casa-privata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, privata, Casa Rivalta</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161656</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>4</site_id>
+    <cultural_heritage_site_appellation>Loggia Lombardesca</cultural_heritage_site_appellation>
+    <typology>loggia</typology>
+    <coordinates/>
+    <chronology/>
+    <description>loggia, Loggia Lombardesca</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente pubblico territoriale</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161745</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>5</site_id>
+    <cultural_heritage_site_appellation>Palazzo Lovatelli Dal Corno</cultural_heritage_site_appellation>
+    <typology>palazzo</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo, Palazzo Lovatelli Dal Corno</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161718</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>6</site_id>
+    <cultural_heritage_site_appellation>Casa Bezzi</cultural_heritage_site_appellation>
+    <typology>casa-privata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, privata, Casa Bezzi</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161753</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>7</site_id>
+    <cultural_heritage_site_appellation>Chiesa di San Bartolomeo</cultural_heritage_site_appellation>
+    <typology>edilizia complessa religiosa a corpi aggregati-parrocchiale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>edilizia complessa religiosa a corpi aggregati, parrocchiale, Chiesa di San Bartolomeo</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800308260-bene complesso</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>8</site_id>
+    <cultural_heritage_site_appellation>Chiesa di S. Biagio</cultural_heritage_site_appellation>
+    <typology>chiesa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, Chiesa di S. Biagio</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161652</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>9</site_id>
+    <cultural_heritage_site_appellation>Casa Gambi</cultural_heritage_site_appellation>
+    <typology>casa-residenziale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, residenziale, Casa Gambi</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Stato</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800266225</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>10</site_id>
+    <cultural_heritage_site_appellation>Casa con ruderi ex Chiesa S. Michele in Africisco</cultural_heritage_site_appellation>
+    <typology>chiesa (ruderi) e campanile-privato</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa (ruderi) e campanile, privato, Casa con ruderi ex Chiesa S. Michele in Africisco</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161812</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>11</site_id>
+    <cultural_heritage_site_appellation>Basilica di S. Apollinare Nuovo</cultural_heritage_site_appellation>
+    <typology>chiesa-basilicale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>Chiesa, basilicale, Basilica di S. Apollinare Nuovo</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161757</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>12</site_id>
+    <cultural_heritage_site_appellation>Ruderi della Chiesa dei SS. Nicandro e Marciano</cultural_heritage_site_appellation>
+    <typology>chiesa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, Ruderi della Chiesa dei SS. Nicandro e Marciano</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161768</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>13</site_id>
+    <cultural_heritage_site_appellation>casa pubblico</cultural_heritage_site_appellation>
+    <typology>casa-pubblico</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, pubblico</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800308997-bene individuo</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>14</site_id>
+    <cultural_heritage_site_appellation>Palazzo Comunale</cultural_heritage_site_appellation>
+    <typology>palazzo-pubblico</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo, pubblico, Palazzo Comunale</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente pubblico territoriale</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800319221</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>15</site_id>
+    <cultural_heritage_site_appellation>Palazzo di Teodorico</cultural_heritage_site_appellation>
+    <typology>palazzo (resti)-museale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo (resti), museale, Palazzo di Teodorico</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Stato</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161735</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>16</site_id>
+    <cultural_heritage_site_appellation>Chiostro della Chiesa di S. Giovanni Evangelista</cultural_heritage_site_appellation>
+    <typology>chiostro</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiostro, Chiostro della Chiesa di S. Giovanni Evangelista</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161629</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>17</site_id>
+    <cultural_heritage_site_appellation>Chiesa dei SS. Simone e Giuda</cultural_heritage_site_appellation>
+    <typology>chiesa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, Chiesa dei SS. Simone e Giuda</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161647</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>18</site_id>
+    <cultural_heritage_site_appellation>Casa Rava</cultural_heritage_site_appellation>
+    <typology>casa-residenziale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, residenziale, Casa Rava</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161750</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>19</site_id>
+    <cultural_heritage_site_appellation>Pieve di S. Apollinare</cultural_heritage_site_appellation>
+    <typology>pieve</typology>
+    <coordinates/>
+    <chronology/>
+    <description>pieve, Pieve di S. Apollinare</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161793</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>20</site_id>
+    <cultural_heritage_site_appellation>Quadrarco di Braccioforte</cultural_heritage_site_appellation>
+    <typology>edicola</typology>
+    <coordinates/>
+    <chronology/>
+    <description>edicola, Quadrarco di Braccioforte</description>
+    <socio-cultural_context/>
+    <administrative_context>detenzione Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161622</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>21</site_id>
+    <cultural_heritage_site_appellation>Casa Fabri</cultural_heritage_site_appellation>
+    <typology>casa-privata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, privata, Casa Fabri</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800266218</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>22</site_id>
+    <cultural_heritage_site_appellation>casa residenziale</cultural_heritage_site_appellation>
+    <typology>casa-residenziale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, residenziale</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800309000-bene individuo</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>23</site_id>
+    <cultural_heritage_site_appellation>Chiostri del Monastero Benedettino di S.Vitale</cultural_heritage_site_appellation>
+    <typology>chiostro</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiostro, Chiostri del Monastero Benedettino di S.Vitale</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Stato</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161774</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>24</site_id>
+    <cultural_heritage_site_appellation>Campanile della Chiesa di S. Giovanni Evangelista</cultural_heritage_site_appellation>
+    <typology>campanile</typology>
+    <coordinates/>
+    <chronology/>
+    <description>campanile, Campanile della Chiesa di S. Giovanni Evangelista</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161628</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>25</site_id>
+    <cultural_heritage_site_appellation>Chiesa dei Santi Giovanni e Paolo</cultural_heritage_site_appellation>
+    <typology>chiesa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, Chiesa dei Santi Giovanni e Paolo</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161660</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>26</site_id>
+    <cultural_heritage_site_appellation>Casa Salotti</cultural_heritage_site_appellation>
+    <typology>casa-privata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, privata, Casa Salotti</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161764</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>27</site_id>
+    <cultural_heritage_site_appellation>Palazzo Rota</cultural_heritage_site_appellation>
+    <typology>palazzo-privato</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo, privato, Palazzo Rota</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161769</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>28</site_id>
+    <cultural_heritage_site_appellation>Palazzo Guiccioli già Osio</cultural_heritage_site_appellation>
+    <typology>palazzo</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo, Palazzo Guiccioli già Osio</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente pubblico territoriale</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161649</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>29</site_id>
+    <cultural_heritage_site_appellation>Avanzi chiesa di S. Giustina e portico Sec. XVI</cultural_heritage_site_appellation>
+    <typology>avanzi di chiesa-privata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>avanzi di chiesa, privata, Avanzi chiesa di S. Giustina e portico Sec. XVI</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161682</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>30</site_id>
+    <cultural_heritage_site_appellation>Chiesa di S. Vittore (resti)</cultural_heritage_site_appellation>
+    <typology>chiesa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, Chiesa di S. Vittore (resti)</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente pubblico territoriale</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161625</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>31</site_id>
+    <cultural_heritage_site_appellation>Chiesa dei SS. Filippo e Giacomo</cultural_heritage_site_appellation>
+    <typology>chiesa (resti)-privata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa (resti), privata, Chiesa dei SS. Filippo e Giacomo</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161780</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>32</site_id>
+    <cultural_heritage_site_appellation>Casa Savini</cultural_heritage_site_appellation>
+    <typology>casa-privata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, privata, Casa Savini</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800266223</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>33</site_id>
+    <cultural_heritage_site_appellation>Chiesa di San Pantaleone Martire</cultural_heritage_site_appellation>
+    <typology>edilizia complessa religiosa a corpi aggregati-parrocchiale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>edilizia complessa religiosa a corpi aggregati, parrocchiale, Chiesa di San Pantaleone Martire</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800308266</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>34</site_id>
+    <cultural_heritage_site_appellation>Casa Pignata</cultural_heritage_site_appellation>
+    <typology>casa-privata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, privata, Casa Pignata</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161709</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>35</site_id>
+    <cultural_heritage_site_appellation>Canonica del Convento di Sant'Apollinare in Classe</cultural_heritage_site_appellation>
+    <typology>canonica-conventuale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>canonica, conventuale, Canonica del Convento di Sant'Apollinare in Classe</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Stato</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800319248-bene individuo</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>36</site_id>
+    <cultural_heritage_site_appellation>Chiesa di S. Romualdo</cultural_heritage_site_appellation>
+    <typology>chiesa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, Chiesa di S. Romualdo</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente pubblico territoriale</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161639</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>37</site_id>
+    <cultural_heritage_site_appellation>Casa Antonellini già Casa Sarti</cultural_heritage_site_appellation>
+    <typology>casa-residenziale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, residenziale, Casa Antonellini già Casa Sarti</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161767</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>38</site_id>
+    <cultural_heritage_site_appellation>Palazzo Negrotto Cambiaso, già Lovatelli poi Doria</cultural_heritage_site_appellation>
+    <typology>palazzo-residenziale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo, residenziale, Palazzo Negrotto Cambiaso, già Lovatelli poi Doria</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161786</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>39</site_id>
+    <cultural_heritage_site_appellation>villino ( monofamiliare)</cultural_heritage_site_appellation>
+    <typology>villino-monofamiliare</typology>
+    <coordinates/>
+    <chronology/>
+    <description>villino, monofamiliare</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800308999</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>40</site_id>
+    <cultural_heritage_site_appellation>Casa natale di Pellegrino Matteucci</cultural_heritage_site_appellation>
+    <typology>casa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, Casa natale di Pellegrino Matteucci</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161766</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>41</site_id>
+    <cultural_heritage_site_appellation>Chiesa del Cimitero</cultural_heritage_site_appellation>
+    <typology>chiesa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, Chiesa del Cimitero</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente pubblico territoriale</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800266222</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>42</site_id>
+    <cultural_heritage_site_appellation>Villa Tommaseo</cultural_heritage_site_appellation>
+    <typology>villa-privata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>villa, privata, Villa Tommaseo</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800266240</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>43</site_id>
+    <cultural_heritage_site_appellation>Battistero di San Giovanni in Fonte</cultural_heritage_site_appellation>
+    <typology>battistero-parrocchiale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>battistero, parrocchiale, Battistero di San Giovanni in Fonte</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161644</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>44</site_id>
+    <cultural_heritage_site_appellation>Mura Civiche</cultural_heritage_site_appellation>
+    <typology>mura di cinta</typology>
+    <coordinates/>
+    <chronology/>
+    <description>mura di cinta, Mura Civiche</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente pubblico territoriale</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800266233</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>45</site_id>
+    <cultural_heritage_site_appellation>Campanile della Chiesa di San Giovanni Battista</cultural_heritage_site_appellation>
+    <typology>campanile-parrocchiale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>campanile, parrocchiale, Campanile della Chiesa di San Giovanni Battista</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161763</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>46</site_id>
+    <cultural_heritage_site_appellation>Basilica di S. Apollinare in Classe</cultural_heritage_site_appellation>
+    <typology>basilica</typology>
+    <coordinates/>
+    <chronology/>
+    <description>basilica, Basilica di S. Apollinare in Classe</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Stato</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161784</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>47</site_id>
+    <cultural_heritage_site_appellation>Palazzo Fantuzzi poi Farini</cultural_heritage_site_appellation>
+    <typology>palazzo-privato</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo, privato, Palazzo Fantuzzi poi Farini</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161672</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>48</site_id>
+    <cultural_heritage_site_appellation>Chiesa della Madonna dell'Albero</cultural_heritage_site_appellation>
+    <typology>chiesa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, Chiesa della Madonna dell'Albero</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161794</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>49</site_id>
+    <cultural_heritage_site_appellation>Basilica ed ex Monastero Benedettino di San Vitale</cultural_heritage_site_appellation>
+    <typology>monastero-benedettino</typology>
+    <coordinates/>
+    <chronology/>
+    <description>monastero, benedettino, Basilica ed ex Monastero Benedettino di San Vitale</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà mista pubblica/ecclesiastica</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161770</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>50</site_id>
+    <cultural_heritage_site_appellation>Chiesa di S. Agata</cultural_heritage_site_appellation>
+    <typology>chiesa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, Chiesa di S. Agata</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161713</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>51</site_id>
+    <cultural_heritage_site_appellation>Chiesa di S. Maria del Torrione</cultural_heritage_site_appellation>
+    <typology>chiesa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, Chiesa di S. Maria del Torrione</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161676</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>52</site_id>
+    <cultural_heritage_site_appellation>Casa Mazzotti</cultural_heritage_site_appellation>
+    <typology>casa-privata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, privata, Casa Mazzotti</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161708</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>53</site_id>
+    <cultural_heritage_site_appellation>Chiesa e Convento di S.Francesco</cultural_heritage_site_appellation>
+    <typology>complesso conventuale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>Complesso conventuale, Chiesa e Convento di S.Francesco</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161619</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>54</site_id>
+    <cultural_heritage_site_appellation>Chiesa di S. Maria delle Croci</cultural_heritage_site_appellation>
+    <typology>chiesa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, Chiesa di S. Maria delle Croci</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente pubblico territoriale</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161687</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>55</site_id>
+    <cultural_heritage_site_appellation>Casa Gualtieri</cultural_heritage_site_appellation>
+    <typology>casa-residenziale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, residenziale, Casa Gualtieri</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161705</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>56</site_id>
+    <cultural_heritage_site_appellation>Palazzo Serena Monghini</cultural_heritage_site_appellation>
+    <typology>palazzo</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo, Palazzo Serena Monghini</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161737</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>57</site_id>
+    <cultural_heritage_site_appellation>Chiesa di S. Barbara</cultural_heritage_site_appellation>
+    <typology>chiesa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, Chiesa di S. Barbara</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161748</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>58</site_id>
+    <cultural_heritage_site_appellation>Alighieri (teatro )</cultural_heritage_site_appellation>
+    <typology>teatro</typology>
+    <coordinates/>
+    <chronology/>
+    <description>teatro, Alighieri</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente pubblico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800206008-bene individuo</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>59</site_id>
+    <cultural_heritage_site_appellation>Casa Benelli poi Casadio</cultural_heritage_site_appellation>
+    <typology>casa-privata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, privata, Casa Benelli poi Casadio</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161733</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>60</site_id>
+    <cultural_heritage_site_appellation>Chiesa di S. Giovanni e Paolo</cultural_heritage_site_appellation>
+    <typology>chiesa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, Chiesa di S. Giovanni e Paolo</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161661</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>61</site_id>
+    <cultural_heritage_site_appellation>Chiesa dei Santi Pietro e Paolo</cultural_heritage_site_appellation>
+    <typology>chiesa-parrocchiale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, parrocchiale, Chiesa dei Santi Pietro e Paolo</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800308274-bene individuo</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>62</site_id>
+    <cultural_heritage_site_appellation>Casa Minzoni</cultural_heritage_site_appellation>
+    <typology>casa-privata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, privata, Casa Minzoni</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161730</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>63</site_id>
+    <cultural_heritage_site_appellation>Fabbrica vecchia</cultural_heritage_site_appellation>
+    <typology>casa-pubblica</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, pubblica, Fabbrica vecchia</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161797</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>64</site_id>
+    <cultural_heritage_site_appellation>Chiesa di San Sebastiano alle Aie</cultural_heritage_site_appellation>
+    <typology>chiesa-sconsacrata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, sconsacrata, Chiesa di San Sebastiano alle Aie</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente pubblico territoriale</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800308279</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>65</site_id>
+    <cultural_heritage_site_appellation>Torri e Oratorio del Mezzano</cultural_heritage_site_appellation>
+    <typology>torri e oratorio-privato</typology>
+    <coordinates/>
+    <chronology/>
+    <description>torri e oratorio, privato, Torri e Oratorio del Mezzano</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800266247</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>66</site_id>
+    <cultural_heritage_site_appellation>Casa Monghini</cultural_heritage_site_appellation>
+    <typology>casa-privata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, privata, Casa Monghini</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161690</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>67</site_id>
+    <cultural_heritage_site_appellation>Campanile della Chiesa di S.Francesco</cultural_heritage_site_appellation>
+    <typology>campanile</typology>
+    <coordinates/>
+    <chronology/>
+    <description>Campanile, Campanile della Chiesa di S.Francesco</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161621</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>68</site_id>
+    <cultural_heritage_site_appellation>Chiesa dello Spirito Santo</cultural_heritage_site_appellation>
+    <typology>chiesa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, Chiesa dello Spirito Santo</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161633</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>69</site_id>
+    <cultural_heritage_site_appellation>Chiesa di Sant'Apollinare in Veclo (chiesa conventuale)</cultural_heritage_site_appellation>
+    <typology>chiesa-conventuale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, conventuale, Chiesa di Sant'Apollinare in Veclo</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente ecclesiastico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800308254-bene componente</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>70</site_id>
+    <cultural_heritage_site_appellation>Palazzo Gamba</cultural_heritage_site_appellation>
+    <typology>palazzo-residenziale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo, residenziale, Palazzo Gamba</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161679</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>71</site_id>
+    <cultural_heritage_site_appellation>Chiesa di San Lorenzo</cultural_heritage_site_appellation>
+    <typology>chiesa-parrocchiale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, parrocchiale, Chiesa di San Lorenzo</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800308281</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>72</site_id>
+    <cultural_heritage_site_appellation>Canonica della Chiesa di S. Andrea Apostolo</cultural_heritage_site_appellation>
+    <typology>canonica</typology>
+    <coordinates/>
+    <chronology/>
+    <description>canonica, Canonica della Chiesa di S. Andrea Apostolo</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161799</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>73</site_id>
+    <cultural_heritage_site_appellation>Casa Succi</cultural_heritage_site_appellation>
+    <typology>casa-privata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, privata, Casa Succi</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161683</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>74</site_id>
+    <cultural_heritage_site_appellation>Casa Gabici</cultural_heritage_site_appellation>
+    <typology>casa-residenziale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, residenziale, Casa Gabici</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161702</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>75</site_id>
+    <cultural_heritage_site_appellation>Chiesa di San Pantaleone Martire</cultural_heritage_site_appellation>
+    <typology>chiesa-parrocchiale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, parrocchiale, Chiesa di San Pantaleone Martire</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800308267</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>76</site_id>
+    <cultural_heritage_site_appellation>Casa Traversari</cultural_heritage_site_appellation>
+    <typology>casa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, Casa Traversari</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Stato</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800266232</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>77</site_id>
+    <cultural_heritage_site_appellation>Casa Vignuzzi</cultural_heritage_site_appellation>
+    <typology>casa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, Casa Vignuzzi</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente pubblico territoriale</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800266229</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>78</site_id>
+    <cultural_heritage_site_appellation>Casa Maioli Stanghellini</cultural_heritage_site_appellation>
+    <typology>casa-privata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, privata, Casa Maioli Stanghellini</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161658</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>79</site_id>
+    <cultural_heritage_site_appellation>Casa Zaccaria</cultural_heritage_site_appellation>
+    <typology>casa-privata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, privata, Casa Zaccaria</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161688</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>80</site_id>
+    <cultural_heritage_site_appellation>Casa Vignuzzi</cultural_heritage_site_appellation>
+    <typology>casa-residenziale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, residenziale, Casa Vignuzzi</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161699</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>81</site_id>
+    <cultural_heritage_site_appellation>Chiesa di S. Agata</cultural_heritage_site_appellation>
+    <typology>chiesa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, Chiesa di S. Agata</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161714</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>82</site_id>
+    <cultural_heritage_site_appellation>Palazzo comunale (palazzo pubblico)</cultural_heritage_site_appellation>
+    <typology>palazzo-pubblico</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo, pubblico, Palazzo comunale</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente pubblico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800319221-bene componente</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>83</site_id>
+    <cultural_heritage_site_appellation>Torre</cultural_heritage_site_appellation>
+    <typology>torre-privata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>torre, privata, Torre</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800266238</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>84</site_id>
+    <cultural_heritage_site_appellation>Campanile della Chiesa dei SS. Giovanni e Paolo</cultural_heritage_site_appellation>
+    <typology>campanile</typology>
+    <coordinates/>
+    <chronology/>
+    <description>campanile, Campanile della Chiesa dei SS. Giovanni e Paolo</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161662</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>85</site_id>
+    <cultural_heritage_site_appellation>Alighieri</cultural_heritage_site_appellation>
+    <typology>teatro</typology>
+    <coordinates/>
+    <chronology/>
+    <description>teatro, Alighieri</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente pubblico territoriale</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800206008</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>86</site_id>
+    <cultural_heritage_site_appellation>Palazzo Grossi</cultural_heritage_site_appellation>
+    <typology>palazzo-privato</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo, privato, Palazzo Grossi</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161654</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>87</site_id>
+    <cultural_heritage_site_appellation>Casa di campagna dell'Arcivescovo Codronchi</cultural_heritage_site_appellation>
+    <typology>villa-privata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>villa, privata, Casa di campagna dell'Arcivescovo Codronchi</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161796</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>88</site_id>
+    <cultural_heritage_site_appellation>Cappella di S. Andrea (cappella )</cultural_heritage_site_appellation>
+    <typology>cappella</typology>
+    <coordinates/>
+    <chronology/>
+    <description>cappella, Cappella di S. Andrea</description>
+    <socio-cultural_context/>
+    <administrative_context/>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161632</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>89</site_id>
+    <cultural_heritage_site_appellation>Casa Luconi</cultural_heritage_site_appellation>
+    <typology>casa-privata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, privata, Casa Luconi</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161706</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>90</site_id>
+    <cultural_heritage_site_appellation>Istituto Magistrale</cultural_heritage_site_appellation>
+    <typology>scuola / orfanatrofio</typology>
+    <coordinates/>
+    <chronology/>
+    <description>scuola / orfanatrofio, Istituto Magistrale</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente pubblico territoriale</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161775</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>91</site_id>
+    <cultural_heritage_site_appellation>Villa Pasolini dall'Onda e parco</cultural_heritage_site_appellation>
+    <typology>villa-residenziale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>villa, residenziale, Villa Pasolini dall'Onda e parco</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800266235</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>92</site_id>
+    <cultural_heritage_site_appellation>Porta S. Mama</cultural_heritage_site_appellation>
+    <typology>porta urbana</typology>
+    <coordinates/>
+    <chronology/>
+    <description>porta urbana, Porta S. Mama</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente pubblico territoriale</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161635</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>93</site_id>
+    <cultural_heritage_site_appellation>Ex convento dei monaci agostiniani</cultural_heritage_site_appellation>
+    <typology>convento</typology>
+    <coordinates/>
+    <chronology/>
+    <description>convento, Ex convento dei monaci agostiniani</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Stato</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161759</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>94</site_id>
+    <cultural_heritage_site_appellation>Sepolcro di Dante</cultural_heritage_site_appellation>
+    <typology>sepolcro</typology>
+    <coordinates/>
+    <chronology/>
+    <description>sepolcro, Sepolcro di Dante</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente pubblico non territoriale</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161618</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>95</site_id>
+    <cultural_heritage_site_appellation>Chiesa di Sant'Apollinare in Veclo</cultural_heritage_site_appellation>
+    <typology>chiesa-conventuale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, conventuale, Chiesa di Sant'Apollinare in Veclo</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800308254</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>96</site_id>
+    <cultural_heritage_site_appellation>Chiesa di S. Chiara</cultural_heritage_site_appellation>
+    <typology>chiesa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, Chiesa di S. Chiara</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente pubblico territoriale</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161747</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>97</site_id>
+    <cultural_heritage_site_appellation>Palazzo Rasponi-Bonanzi</cultural_heritage_site_appellation>
+    <typology>palazzo-privato</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo, privato, Palazzo Rasponi-Bonanzi</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161738</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>98</site_id>
+    <cultural_heritage_site_appellation>Convento e Chiesa di S. Giovanni Evangelista</cultural_heritage_site_appellation>
+    <typology>convento</typology>
+    <coordinates/>
+    <chronology/>
+    <description>convento, Convento e Chiesa di S. Giovanni Evangelista</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161626</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>99</site_id>
+    <cultural_heritage_site_appellation>casa ( privata)</cultural_heritage_site_appellation>
+    <typology>casa-privata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, privata</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800266221</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>100</site_id>
+    <cultural_heritage_site_appellation>Chiesa di S. Pietro in Campiano</cultural_heritage_site_appellation>
+    <typology>chiesa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, Chiesa di S. Pietro in Campiano</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161807</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>101</site_id>
+    <cultural_heritage_site_appellation>Torre Albicini</cultural_heritage_site_appellation>
+    <typology>torre-privata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>torre, privata, Torre Albicini</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161809</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>102</site_id>
+    <cultural_heritage_site_appellation>Convento dei Monaci Lateranensi</cultural_heritage_site_appellation>
+    <typology>convento</typology>
+    <coordinates/>
+    <chronology/>
+    <description>convento, Convento dei Monaci Lateranensi</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente pubblico territoriale</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161743</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>103</site_id>
+    <cultural_heritage_site_appellation>campanile della Basilica di S.Vitale</cultural_heritage_site_appellation>
+    <typology>campanile</typology>
+    <coordinates/>
+    <chronology/>
+    <description>campanile, campanile della Basilica di S.Vitale</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161772</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>104</site_id>
+    <cultural_heritage_site_appellation>villino ( monofamiliare)</cultural_heritage_site_appellation>
+    <typology>villino-monofamiliare</typology>
+    <coordinates/>
+    <chronology/>
+    <description>villino, monofamiliare</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800309000</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>105</site_id>
+    <cultural_heritage_site_appellation>Casa Capra</cultural_heritage_site_appellation>
+    <typology>palazzo</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo, Casa Capra</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161782</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>106</site_id>
+    <cultural_heritage_site_appellation>ex Magazzino Fabbrica di concimi chimici</cultural_heritage_site_appellation>
+    <typology>capannone-industriale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>capannone, industriale, ex Magazzino Fabbrica di concimi chimici</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800266254</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>107</site_id>
+    <cultural_heritage_site_appellation>Istituto Galletti Abbiosi</cultural_heritage_site_appellation>
+    <typology>palazzo</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo, Istituto Galletti Abbiosi</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente pubblico non territoriale</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161746</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>108</site_id>
+    <cultural_heritage_site_appellation>Chiesa di S. Maria del Suffragio</cultural_heritage_site_appellation>
+    <typology>chiesa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, Chiesa di S. Maria del Suffragio</description>
+    <socio-cultural_context/>
+    <administrative_context>detenzione Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161777</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>109</site_id>
+    <cultural_heritage_site_appellation>Chiesa di S. Rocco</cultural_heritage_site_appellation>
+    <typology>chiesa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, Chiesa di S. Rocco</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161648</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>110</site_id>
+    <cultural_heritage_site_appellation>Campanile della Chiesa di San Pantaleone Martire</cultural_heritage_site_appellation>
+    <typology>campanile-parrocchiale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>campanile, parrocchiale, Campanile della Chiesa di San Pantaleone Martire</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800308268</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>111</site_id>
+    <cultural_heritage_site_appellation>Mausoleo di Galla Placidia</cultural_heritage_site_appellation>
+    <typology>mausoleo</typology>
+    <coordinates/>
+    <chronology/>
+    <description>mausoleo, Mausoleo di Galla Placidia</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161677</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>112</site_id>
+    <cultural_heritage_site_appellation>Palazzo Corradini</cultural_heritage_site_appellation>
+    <typology>palazzo-uso pubblico</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo, uso pubblico, Palazzo Corradini</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente pubblico territoriale</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161698</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>113</site_id>
+    <cultural_heritage_site_appellation>Casa Bartolazzi</cultural_heritage_site_appellation>
+    <typology>casa-residenziale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, residenziale, Casa Bartolazzi</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161703</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>114</site_id>
+    <cultural_heritage_site_appellation>Palazzo Santa Croce</cultural_heritage_site_appellation>
+    <typology>palazzo-privato</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo, privato, Palazzo Santa Croce</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà mista pubblica/ecclesiastica</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161685</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>115</site_id>
+    <cultural_heritage_site_appellation>Casa Saporetti</cultural_heritage_site_appellation>
+    <typology>casa-privata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, privata, Casa Saporetti</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente pubblico non territoriale</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161655</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>116</site_id>
+    <cultural_heritage_site_appellation>Ex Caserma Gorizia</cultural_heritage_site_appellation>
+    <typology>convento</typology>
+    <coordinates/>
+    <chronology/>
+    <description>convento, Ex Caserma Gorizia</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Stato</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800266231</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>117</site_id>
+    <cultural_heritage_site_appellation>Convento dei Padri Cappuccini</cultural_heritage_site_appellation>
+    <typology>edilizia complessa religiosa a corpi aggregati-conventuale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>edilizia complessa religiosa a corpi aggregati, conventuale, Convento dei Padri Cappuccini</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161726</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>118</site_id>
+    <cultural_heritage_site_appellation>Campanile della Cattedrale della Resurrezione</cultural_heritage_site_appellation>
+    <typology>campanile</typology>
+    <coordinates/>
+    <chronology/>
+    <description>campanile, Campanile della Cattedrale della Resurrezione</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161643</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>119</site_id>
+    <cultural_heritage_site_appellation>Casa Brandolini detta dei Polentani</cultural_heritage_site_appellation>
+    <typology>casa-privata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, privata, Casa Brandolini detta dei Polentani</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161781</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>120</site_id>
+    <cultural_heritage_site_appellation>Monastero delle Cappuccine</cultural_heritage_site_appellation>
+    <typology>monastero-conventuale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>monastero, conventuale, Monastero delle Cappuccine</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800308253</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>121</site_id>
+    <cultural_heritage_site_appellation>Chiesa di Santo Stefano Protomartire</cultural_heritage_site_appellation>
+    <typology>chiesa-conventuale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, conventuale, Chiesa di Santo Stefano Protomartire</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800308257-bene componente</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>122</site_id>
+    <cultural_heritage_site_appellation>Palazzone</cultural_heritage_site_appellation>
+    <typology>palazzo</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo, Palazzone</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente pubblico territoriale</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161804</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>123</site_id>
+    <cultural_heritage_site_appellation>Colonna dei Francesi</cultural_heritage_site_appellation>
+    <typology>colonna-onoraria</typology>
+    <coordinates/>
+    <chronology/>
+    <description>colonna, onoraria, Colonna dei Francesi</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente pubblico territoriale</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161795</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>124</site_id>
+    <cultural_heritage_site_appellation>Palazzo Arcivescovile</cultural_heritage_site_appellation>
+    <typology>palazzo</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo, Palazzo Arcivescovile</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161631</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>125</site_id>
+    <cultural_heritage_site_appellation>Marchesato o Casamento dei Marchesi Cavalli</cultural_heritage_site_appellation>
+    <typology>casamento-privato</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casamento, privato, Marchesato o Casamento dei Marchesi Cavalli</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente pubblico territoriale</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800266237</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>126</site_id>
+    <cultural_heritage_site_appellation>Palazzo Prandi poi Vicari</cultural_heritage_site_appellation>
+    <typology>palazzo-privato</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo, privato, Palazzo Prandi poi Vicari</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161664</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>127</site_id>
+    <cultural_heritage_site_appellation>campanile della Basilica di S.Vitale (campanile )</cultural_heritage_site_appellation>
+    <typology>campanile</typology>
+    <coordinates/>
+    <chronology/>
+    <description>campanile, campanile della Basilica di S.Vitale</description>
+    <socio-cultural_context/>
+    <administrative_context/>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161772-bene componente</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>128</site_id>
+    <cultural_heritage_site_appellation>Quadrarco di Braccioforte ( )</cultural_heritage_site_appellation>
+    <typology/>
+    <coordinates/>
+    <chronology/>
+    <description>Quadrarco di Braccioforte</description>
+    <socio-cultural_context/>
+    <administrative_context/>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161622-bene componente</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>129</site_id>
+    <cultural_heritage_site_appellation>Villa Capra - Valli</cultural_heritage_site_appellation>
+    <typology>villa-privata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>villa, privata, Villa Capra - Valli</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161805</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>130</site_id>
+    <cultural_heritage_site_appellation>Casa Rosetti</cultural_heritage_site_appellation>
+    <typology>casa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, Casa Rosetti</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161689</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>131</site_id>
+    <cultural_heritage_site_appellation>Casa Amadori</cultural_heritage_site_appellation>
+    <typology>casa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, Casa Amadori</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161755</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>132</site_id>
+    <cultural_heritage_site_appellation>Casa Fabri</cultural_heritage_site_appellation>
+    <typology>casa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, Casa Fabri</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800266224</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>133</site_id>
+    <cultural_heritage_site_appellation>Palazzo Pasolini dall'Onda</cultural_heritage_site_appellation>
+    <typology>palazzo-privato</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo, privato, Palazzo Pasolini dall'Onda</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161779</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>134</site_id>
+    <cultural_heritage_site_appellation>Ex zuccherificio di Classe</cultural_heritage_site_appellation>
+    <typology>complesso industriale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>Complesso industriale, Ex zuccherificio di Classe</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente pubblico territoriale</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800308248</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>135</site_id>
+    <cultural_heritage_site_appellation>Resti della Chiesa di S. Maria del Pozzo</cultural_heritage_site_appellation>
+    <typology>chiesa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, Resti della Chiesa di S. Maria del Pozzo</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161650</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>136</site_id>
+    <cultural_heritage_site_appellation>Chiesa di San Marco</cultural_heritage_site_appellation>
+    <typology>chiesa-parrocchiale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, parrocchiale, Chiesa di San Marco</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800308272</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>137</site_id>
+    <cultural_heritage_site_appellation>Chiesa di Santa Maria in Porto</cultural_heritage_site_appellation>
+    <typology>chiesa-parrocchiale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, parrocchiale, Chiesa di Santa Maria in Porto</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Stato</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161813</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>138</site_id>
+    <cultural_heritage_site_appellation>Chiesa di S. Maria Maddalena</cultural_heritage_site_appellation>
+    <typology>chiesa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, Chiesa di S. Maria Maddalena</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161732</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>139</site_id>
+    <cultural_heritage_site_appellation>Casa Melandri</cultural_heritage_site_appellation>
+    <typology>casa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, Casa Melandri</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161657</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>140</site_id>
+    <cultural_heritage_site_appellation>Accademia delle Belle Arti</cultural_heritage_site_appellation>
+    <typology>convento</typology>
+    <coordinates/>
+    <chronology/>
+    <description>convento, Accademia delle Belle Arti</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente pubblico territoriale</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161744</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>141</site_id>
+    <cultural_heritage_site_appellation>Monastero di Sant'Apollinare in Veclo</cultural_heritage_site_appellation>
+    <typology>monastero-conventuale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>monastero, conventuale, Monastero di Sant'Apollinare in Veclo</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161624</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>142</site_id>
+    <cultural_heritage_site_appellation>Casa Bernicoli</cultural_heritage_site_appellation>
+    <typology>casa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, Casa Bernicoli</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161754</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>143</site_id>
+    <cultural_heritage_site_appellation>Battistero degli Ariani</cultural_heritage_site_appellation>
+    <typology>battistero</typology>
+    <coordinates/>
+    <chronology/>
+    <description>battistero, Battistero degli Ariani</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Stato</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161634</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>144</site_id>
+    <cultural_heritage_site_appellation>Palazzo del Seminario</cultural_heritage_site_appellation>
+    <typology>palazzo</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo, Palazzo del Seminario</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161725</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>145</site_id>
+    <cultural_heritage_site_appellation>Palazzo Pompili</cultural_heritage_site_appellation>
+    <typology>palazzo-privato</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo, privato, Palazzo Pompili</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161776</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>146</site_id>
+    <cultural_heritage_site_appellation>Casa Fagnocchi</cultural_heritage_site_appellation>
+    <typology>casa-privata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, privata, Casa Fagnocchi</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161751</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>147</site_id>
+    <cultural_heritage_site_appellation>Palazzo del Pubblico Orologio</cultural_heritage_site_appellation>
+    <typology>palazzo-pubblico</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo, pubblico, Palazzo del Pubblico Orologio</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800319232</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>148</site_id>
+    <cultural_heritage_site_appellation>Campanile della Chiesa di S. Maria Maggiore</cultural_heritage_site_appellation>
+    <typology>campanile</typology>
+    <coordinates/>
+    <chronology/>
+    <description>campanile, Campanile della Chiesa di S. Maria Maggiore</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161723</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>149</site_id>
+    <cultural_heritage_site_appellation>Palazzo del Governo</cultural_heritage_site_appellation>
+    <typology>palazzo-pubblico</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo, pubblico, Palazzo del Governo</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Stato</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800319246-bene individuo</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>150</site_id>
+    <cultural_heritage_site_appellation>Palazzo di Santo Stefano Protomartire</cultural_heritage_site_appellation>
+    <typology>palazzo-conventuale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo, conventuale, Palazzo di Santo Stefano Protomartire</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800308256-bene componente</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>151</site_id>
+    <cultural_heritage_site_appellation>Ex Chiesa di San Nicolò</cultural_heritage_site_appellation>
+    <typology>chiesa-sconsacrata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, sconsacrata, Ex Chiesa di San Nicolò</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Stato</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161760</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>152</site_id>
+    <cultural_heritage_site_appellation>Palazzo Rasponi del Sale</cultural_heritage_site_appellation>
+    <typology>palazzo</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo, Palazzo Rasponi del Sale</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161728</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>153</site_id>
+    <cultural_heritage_site_appellation>Chiesa di S. Carlino</cultural_heritage_site_appellation>
+    <typology>chiesa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, Chiesa di S. Carlino</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161668</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>154</site_id>
+    <cultural_heritage_site_appellation>Casa Giuliani Ricci</cultural_heritage_site_appellation>
+    <typology>casa-privata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, privata, Casa Giuliani Ricci</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161691</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>155</site_id>
+    <cultural_heritage_site_appellation>Torre di Primaro</cultural_heritage_site_appellation>
+    <typology>torre</typology>
+    <coordinates/>
+    <chronology/>
+    <description>torre, Torre di Primaro</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente pubblico territoriale</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161802</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>156</site_id>
+    <cultural_heritage_site_appellation>Palazzo Rasponi Dalle Teste</cultural_heritage_site_appellation>
+    <typology>palazzo-nobiliare</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo, nobiliare, Palazzo Rasponi Dalle Teste</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente pubblico territoriale</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161695</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>157</site_id>
+    <cultural_heritage_site_appellation>Chiesa di San Clemente Papa e Martire</cultural_heritage_site_appellation>
+    <typology>chiesa-parrocchiale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, parrocchiale, Chiesa di San Clemente Papa e Martire</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800308271</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>158</site_id>
+    <cultural_heritage_site_appellation>Casa in cui visse G. Rossi</cultural_heritage_site_appellation>
+    <typology>casa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, Casa in cui visse G. Rossi</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161765</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>159</site_id>
+    <cultural_heritage_site_appellation>Chiesa di S. Eufemia</cultural_heritage_site_appellation>
+    <typology>chiesa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, Chiesa di S. Eufemia</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161640</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>160</site_id>
+    <cultural_heritage_site_appellation>Chiesa di S. Stefano degli Ulivi</cultural_heritage_site_appellation>
+    <typology>chiesa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, Chiesa di S. Stefano degli Ulivi</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente pubblico territoriale</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161696</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>161</site_id>
+    <cultural_heritage_site_appellation>Palazzina Diedo</cultural_heritage_site_appellation>
+    <typology>palazzina-residenziale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzina, residenziale, Palazzina Diedo</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161680</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>162</site_id>
+    <cultural_heritage_site_appellation>Palazzo Fusconi già Grossi</cultural_heritage_site_appellation>
+    <typology>palazzo</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo, Palazzo Fusconi già Grossi</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente pubblico territoriale</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161740</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>163</site_id>
+    <cultural_heritage_site_appellation>Chiesa di S. Andrea Apostolo</cultural_heritage_site_appellation>
+    <typology>chiesa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, Chiesa di S. Andrea Apostolo</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161798</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>164</site_id>
+    <cultural_heritage_site_appellation>Casa Sintoni</cultural_heritage_site_appellation>
+    <typology>casa-privata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, privata, Casa Sintoni</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161711</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>165</site_id>
+    <cultural_heritage_site_appellation>Casa del Monte di Pietà</cultural_heritage_site_appellation>
+    <typology>casa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, Casa del Monte di Pietà</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161670</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>166</site_id>
+    <cultural_heritage_site_appellation>Casa Romagnoli</cultural_heritage_site_appellation>
+    <typology>casa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, Casa Romagnoli</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161701</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>167</site_id>
+    <cultural_heritage_site_appellation>Casa Zabberoni</cultural_heritage_site_appellation>
+    <typology>casa-privata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, privata, Casa Zabberoni</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161645</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>168</site_id>
+    <cultural_heritage_site_appellation>Palazzo Vitelloni</cultural_heritage_site_appellation>
+    <typology>palazzo-uso pubblico</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo, uso pubblico, Palazzo Vitelloni</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente pubblico non territoriale</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161692</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>169</site_id>
+    <cultural_heritage_site_appellation>ex caserma di Polizia S. Vitale</cultural_heritage_site_appellation>
+    <typology>caserma-militare</typology>
+    <coordinates/>
+    <chronology/>
+    <description>caserma, militare, ex caserma di Polizia S. Vitale</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Stato</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800319233</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>170</site_id>
+    <cultural_heritage_site_appellation>Palazzo Grossi</cultural_heritage_site_appellation>
+    <typology>palazzo</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo, Palazzo Grossi</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente pubblico territoriale</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161787</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>171</site_id>
+    <cultural_heritage_site_appellation>Basilica di S. Apollinare Nuovo (Chiesa basilicale)</cultural_heritage_site_appellation>
+    <typology>chiesa-basilicale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>Chiesa, basilicale, Basilica di S. Apollinare Nuovo</description>
+    <socio-cultural_context/>
+    <administrative_context/>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161757-bene componente</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>172</site_id>
+    <cultural_heritage_site_appellation>Chiesa di S. Bartolomeo</cultural_heritage_site_appellation>
+    <typology>chiesa-privata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, privata, Chiesa di S. Bartolomeo</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800266242</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>173</site_id>
+    <cultural_heritage_site_appellation>Chiesa di Santo Stefano Protomartire</cultural_heritage_site_appellation>
+    <typology>edilizia complessa religiosa a corpi aggregati-parrocchiale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>edilizia complessa religiosa a corpi aggregati, parrocchiale, Chiesa di Santo Stefano Protomartire</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800308275</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>174</site_id>
+    <cultural_heritage_site_appellation>Caserma Rava</cultural_heritage_site_appellation>
+    <typology>caserma</typology>
+    <coordinates/>
+    <chronology/>
+    <description>caserma, Caserma Rava</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Stato</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800319247-bene individuo</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>175</site_id>
+    <cultural_heritage_site_appellation>Chiesa di San Giovanni Battista</cultural_heritage_site_appellation>
+    <typology>edilizia complessa religiosa a corpi aggregati-parrocchiale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>edilizia complessa religiosa a corpi aggregati, parrocchiale, Chiesa di San Giovanni Battista</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161761</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>176</site_id>
+    <cultural_heritage_site_appellation>Palazzetto veneziano</cultural_heritage_site_appellation>
+    <typology>palazzo-pubblico</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo, pubblico, Palazzetto veneziano</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente pubblico territoriale</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800319300</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>177</site_id>
+    <cultural_heritage_site_appellation>Convento dei Monaci camaldolesi di Classe</cultural_heritage_site_appellation>
+    <typology>convento</typology>
+    <coordinates/>
+    <chronology/>
+    <description>convento, Convento dei Monaci camaldolesi di Classe</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente pubblico territoriale</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161637</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>178</site_id>
+    <cultural_heritage_site_appellation>Campanile della Chiesa di S. Carlino</cultural_heritage_site_appellation>
+    <typology>campanile</typology>
+    <coordinates/>
+    <chronology/>
+    <description>campanile, Campanile della Chiesa di S. Carlino</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161669</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>179</site_id>
+    <cultural_heritage_site_appellation>Cattedrale della Resurrezione</cultural_heritage_site_appellation>
+    <typology>cattedrale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>cattedrale, Cattedrale della Resurrezione</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161642</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>180</site_id>
+    <cultural_heritage_site_appellation>Locali annessi alla Chiesa di S.Apollinare Nuovo</cultural_heritage_site_appellation>
+    <typology>chiostro</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiostro, Locali annessi alla Chiesa di S.Apollinare Nuovo</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Stato</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161758</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>181</site_id>
+    <cultural_heritage_site_appellation>Convento dei Padri Cappuccini (edilizia complessa religiosa a corpi aggregati conventuale)</cultural_heritage_site_appellation>
+    <typology>edilizia complessa religiosa a corpi aggregati-conventuale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>edilizia complessa religiosa a corpi aggregati, conventuale, Convento dei Padri Cappuccini</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente ecclesiastico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161726-bene complesso</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>182</site_id>
+    <cultural_heritage_site_appellation>Campanile della Chiesa di San Bartolomeo</cultural_heritage_site_appellation>
+    <typology>campanile-parrocchiale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>campanile, parrocchiale, Campanile della Chiesa di San Bartolomeo</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800308262</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>183</site_id>
+    <cultural_heritage_site_appellation>Casa Chigi (casa pubblico)</cultural_heritage_site_appellation>
+    <typology>casa-pubblico</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, pubblico, Casa Chigi</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente locale</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161684</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>184</site_id>
+    <cultural_heritage_site_appellation>Palazzo Babini</cultural_heritage_site_appellation>
+    <typology>palazzo</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo, Palazzo Babini</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161736</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>185</site_id>
+    <cultural_heritage_site_appellation>Porta Nuova</cultural_heritage_site_appellation>
+    <typology>porta urbana</typology>
+    <coordinates/>
+    <chronology/>
+    <description>porta urbana, Porta Nuova</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente pubblico territoriale</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161742</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>186</site_id>
+    <cultural_heritage_site_appellation>Palazzo Rasi</cultural_heritage_site_appellation>
+    <typology>palazzo-privato</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo, privato, Palazzo Rasi</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161719</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>187</site_id>
+    <cultural_heritage_site_appellation>Case di San Vitale</cultural_heritage_site_appellation>
+    <typology>casa-a blocco</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, a blocco, Case di San Vitale</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800266230</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>188</site_id>
+    <cultural_heritage_site_appellation>Villa Masini detta 'Il Castellaccio'</cultural_heritage_site_appellation>
+    <typology>villa-privata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>villa, privata, Villa Masini detta 'Il Castellaccio'</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800319236</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>189</site_id>
+    <cultural_heritage_site_appellation>Caserma dei Carabinieri</cultural_heritage_site_appellation>
+    <typology>abbazia</typology>
+    <coordinates/>
+    <chronology/>
+    <description>abbazia, Caserma dei Carabinieri</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente pubblico territoriale</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800266245</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>190</site_id>
+    <cultural_heritage_site_appellation>Monastero di Sant'Apollinare in Veclo (monastero conventuale)</cultural_heritage_site_appellation>
+    <typology>monastero-conventuale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>monastero, conventuale, Monastero di Sant'Apollinare in Veclo</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente ecclesiastico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161624-bene complesso</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>191</site_id>
+    <cultural_heritage_site_appellation>Chiesa di S.Francesco</cultural_heritage_site_appellation>
+    <typology>chiesa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>Chiesa, Chiesa di S.Francesco</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161620</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>192</site_id>
+    <cultural_heritage_site_appellation>Chiesa e Convento di S.Franceso (Complesso conventuale )</cultural_heritage_site_appellation>
+    <typology>Complesso conventuale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>Complesso conventuale, Chiesa e Convento di S.Franceso</description>
+    <socio-cultural_context/>
+    <administrative_context/>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161619-bene complesso</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>193</site_id>
+    <cultural_heritage_site_appellation>Villa ex Pasolini con Oratorio</cultural_heritage_site_appellation>
+    <typology>villa-privata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>villa, privata, Villa ex Pasolini con Oratorio</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800266239</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>194</site_id>
+    <cultural_heritage_site_appellation>Chiesa di S. Alberto</cultural_heritage_site_appellation>
+    <typology>chiesa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, Chiesa di S. Alberto</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161803</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>195</site_id>
+    <cultural_heritage_site_appellation>Pieve di San Cassiano in Decimo</cultural_heritage_site_appellation>
+    <typology>pieve-parrocchiale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>pieve, parrocchiale, Pieve di San Cassiano in Decimo</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800308264-bene individuo</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>196</site_id>
+    <cultural_heritage_site_appellation>Porta Sisi</cultural_heritage_site_appellation>
+    <typology>porta urbana</typology>
+    <coordinates/>
+    <chronology/>
+    <description>porta urbana, Porta Sisi</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente pubblico territoriale</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161716</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>197</site_id>
+    <cultural_heritage_site_appellation>Biblioteca Classense e Chiostro dell'ex Convento Camaldolese di Classe</cultural_heritage_site_appellation>
+    <typology>convento</typology>
+    <coordinates/>
+    <chronology/>
+    <description>convento, Biblioteca Classense e Chiostro dell'ex Convento Camaldolese di Classe</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente pubblico territoriale</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161638</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>198</site_id>
+    <cultural_heritage_site_appellation>Palazzo Rasponi già Balbi</cultural_heritage_site_appellation>
+    <typology>palazzo</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo, Palazzo Rasponi già Balbi</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente pubblico territoriale</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161663</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>199</site_id>
+    <cultural_heritage_site_appellation>Chiesa di San Giuseppe e Maria Santisima</cultural_heritage_site_appellation>
+    <typology>chiesa-parrocchiale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, parrocchiale, Chiesa di San Giuseppe e Maria Santisima</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800308270</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>200</site_id>
+    <cultural_heritage_site_appellation>Ex Istituto musicale "G.Verdi"</cultural_heritage_site_appellation>
+    <typology>scuola-pubblica</typology>
+    <coordinates/>
+    <chronology/>
+    <description>scuola, pubblica, Ex Istituto musicale "G.Verdi"</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente pubblico territoriale</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800266226</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>201</site_id>
+    <cultural_heritage_site_appellation>Villa Archi Corbucci</cultural_heritage_site_appellation>
+    <typology>villa-privata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>villa, privata, Villa Archi Corbucci</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161792</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>202</site_id>
+    <cultural_heritage_site_appellation>Palazzetto veneziano (palazzo pubblico)</cultural_heritage_site_appellation>
+    <typology>palazzo-pubblico</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo, pubblico, Palazzetto veneziano</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente pubblico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800319300-bene componente</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>203</site_id>
+    <cultural_heritage_site_appellation>Chiesa di San Giacomo Maggiore</cultural_heritage_site_appellation>
+    <typology>chiesa-parrocchiale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, parrocchiale, Chiesa di San Giacomo Maggiore</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800308263</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>204</site_id>
+    <cultural_heritage_site_appellation>Casa Tizzoni</cultural_heritage_site_appellation>
+    <typology>casa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, Casa Tizzoni</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161700</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>205</site_id>
+    <cultural_heritage_site_appellation>ex Capanno Garibaldi</cultural_heritage_site_appellation>
+    <typology>capanno</typology>
+    <coordinates/>
+    <chronology/>
+    <description>capanno, ex Capanno Garibaldi</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800266241</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>206</site_id>
+    <cultural_heritage_site_appellation>Fattoria Ravaglia ora "La Cascina"</cultural_heritage_site_appellation>
+    <typology>casa-colonica</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, colonica, Fattoria Ravaglia ora "La Cascina"</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800266236</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>207</site_id>
+    <cultural_heritage_site_appellation>Villa "La Palazza"</cultural_heritage_site_appellation>
+    <typology>villa-privata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>villa, privata, Villa "La Palazza"</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161811</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>208</site_id>
+    <cultural_heritage_site_appellation>casa ( privata)</cultural_heritage_site_appellation>
+    <typology>casa-privata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, privata</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800266220</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>209</site_id>
+    <cultural_heritage_site_appellation>Battistero di San Giovanni in Fonte (battistero parrocchiale)</cultural_heritage_site_appellation>
+    <typology>battistero-parrocchiale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>battistero, parrocchiale, Battistero di San Giovanni in Fonte</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente ecclesiastico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161644-bene individuo</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>210</site_id>
+    <cultural_heritage_site_appellation>Mausoleo di Teodorico</cultural_heritage_site_appellation>
+    <typology>mausoleo</typology>
+    <coordinates/>
+    <chronology/>
+    <description>mausoleo, Mausoleo di Teodorico</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Stato</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161694</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>211</site_id>
+    <cultural_heritage_site_appellation>Chiesa di San Giovanni Battista</cultural_heritage_site_appellation>
+    <typology>chiesa-parrocchiale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, parrocchiale, Chiesa di San Giovanni Battista</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161762</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>212</site_id>
+    <cultural_heritage_site_appellation>Basilica di S.Vitale</cultural_heritage_site_appellation>
+    <typology>chiesa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, Basilica di S.Vitale</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161771</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>213</site_id>
+    <cultural_heritage_site_appellation>Chiesa di San Biagio</cultural_heritage_site_appellation>
+    <typology>chiesa-parrocchiale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, parrocchiale, Chiesa di San Biagio</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800308265-bene individuo</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>214</site_id>
+    <cultural_heritage_site_appellation>Palazzo Bacinetti</cultural_heritage_site_appellation>
+    <typology>palazzo-privato</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo, privato, Palazzo Bacinetti</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161665</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>215</site_id>
+    <cultural_heritage_site_appellation>Palazzo Arcivescovile</cultural_heritage_site_appellation>
+    <typology>palazzo</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo, Palazzo Arcivescovile</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161630</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>216</site_id>
+    <cultural_heritage_site_appellation>Palazzo Baronio</cultural_heritage_site_appellation>
+    <typology>palazzo-privato</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo, privato, Palazzo Baronio</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161681</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>217</site_id>
+    <cultural_heritage_site_appellation>ambienti annessi alla Chiesa S. Maria del Suffragio</cultural_heritage_site_appellation>
+    <typology>canonica</typology>
+    <coordinates/>
+    <chronology/>
+    <description>canonica, ambienti annessi alla Chiesa S. Maria del Suffragio</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800319231</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>218</site_id>
+    <cultural_heritage_site_appellation>Porta Serrata</cultural_heritage_site_appellation>
+    <typology>porta urbana</typology>
+    <coordinates/>
+    <chronology/>
+    <description>porta urbana, Porta Serrata</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente pubblico territoriale</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161741</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>219</site_id>
+    <cultural_heritage_site_appellation>Collegio della Misericordia</cultural_heritage_site_appellation>
+    <typology>collegio-uso pubblico</typology>
+    <coordinates/>
+    <chronology/>
+    <description>collegio, uso pubblico, Collegio della Misericordia</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente pubblico non territoriale</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161686</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>220</site_id>
+    <cultural_heritage_site_appellation>Chiesa di San Lorenzo</cultural_heritage_site_appellation>
+    <typology>chiesa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, Chiesa di San Lorenzo</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800308269</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>221</site_id>
+    <cultural_heritage_site_appellation>Villa Ginanni - Fantuzzi e pertinenze</cultural_heritage_site_appellation>
+    <typology>villa e pertinenze-privata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>villa e pertinenze, privata, Villa Ginanni - Fantuzzi e pertinenze</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161810</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>222</site_id>
+    <cultural_heritage_site_appellation>Chiesa di San Bartolomeo</cultural_heritage_site_appellation>
+    <typology>chiesa-parrocchiale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, parrocchiale, Chiesa di San Bartolomeo</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800308261</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>223</site_id>
+    <cultural_heritage_site_appellation>La fattoria ed il parco "La Monaldina"</cultural_heritage_site_appellation>
+    <typology>fattoria-residenziale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>fattoria, residenziale, La fattoria ed il parco "La Monaldina"</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800266219</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>224</site_id>
+    <cultural_heritage_site_appellation>Villa "La Cilla"</cultural_heritage_site_appellation>
+    <typology>villa-dominicale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>villa, dominicale, Villa "La Cilla"</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800266244</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>225</site_id>
+    <cultural_heritage_site_appellation>Palazzo Malagola-Anziani</cultural_heritage_site_appellation>
+    <typology>palazzo</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo, Palazzo Malagola-Anziani</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente pubblico territoriale</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161739</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>226</site_id>
+    <cultural_heritage_site_appellation>Casa Ghezzo</cultural_heritage_site_appellation>
+    <typology>casa-privata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, privata, Casa Ghezzo</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161659</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>227</site_id>
+    <cultural_heritage_site_appellation>Chiesa di S. Domenico</cultural_heritage_site_appellation>
+    <typology>chiesa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, Chiesa di S. Domenico</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161651</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>228</site_id>
+    <cultural_heritage_site_appellation>Palazzo del Collegio</cultural_heritage_site_appellation>
+    <typology>palazzo-fortificato</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo, fortificato, Palazzo del Collegio</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161806</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>229</site_id>
+    <cultural_heritage_site_appellation>Palazzo Rasponi poi Bellenghi</cultural_heritage_site_appellation>
+    <typology>palazzo-privato</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo, privato, Palazzo Rasponi poi Bellenghi</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161731</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>230</site_id>
+    <cultural_heritage_site_appellation>Porta Gaza</cultural_heritage_site_appellation>
+    <typology>porta urbana</typology>
+    <coordinates/>
+    <chronology/>
+    <description>porta urbana, Porta Gaza</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente pubblico territoriale</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161729</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>231</site_id>
+    <cultural_heritage_site_appellation>Ex Casa del Mutilato</cultural_heritage_site_appellation>
+    <typology>palazzo</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo, Ex Casa del Mutilato</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800319340-bene individuo</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>232</site_id>
+    <cultural_heritage_site_appellation>Resti della Chiesa di S. Girolamo</cultural_heritage_site_appellation>
+    <typology>chiesa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, Resti della Chiesa di S. Girolamo</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161674</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>233</site_id>
+    <cultural_heritage_site_appellation>Casa Monaldini</cultural_heritage_site_appellation>
+    <typology>casa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, Casa Monaldini</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161778</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>234</site_id>
+    <cultural_heritage_site_appellation>Casa Ruggini</cultural_heritage_site_appellation>
+    <typology>casa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, Casa Ruggini</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161710</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>235</site_id>
+    <cultural_heritage_site_appellation>Campanile della Chiesa di S. Agata</cultural_heritage_site_appellation>
+    <typology>campanile</typology>
+    <coordinates/>
+    <chronology/>
+    <description>campanile, Campanile della Chiesa di S. Agata</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161715</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>236</site_id>
+    <cultural_heritage_site_appellation>Monastero delle Cappuccine (monastero conventuale)</cultural_heritage_site_appellation>
+    <typology>monastero-conventuale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>monastero, conventuale, Monastero delle Cappuccine</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente ecclesiastico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800308253-bene componente</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>237</site_id>
+    <cultural_heritage_site_appellation>Cattedrale della Resurrezione</cultural_heritage_site_appellation>
+    <typology>cattedrale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>cattedrale, Cattedrale della Resurrezione</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161641</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>238</site_id>
+    <cultural_heritage_site_appellation>Casa Maraffi</cultural_heritage_site_appellation>
+    <typology>casa-residenziale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, residenziale, Casa Maraffi</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161707</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>239</site_id>
+    <cultural_heritage_site_appellation>Villa Babini-Schiavina</cultural_heritage_site_appellation>
+    <typology>villa-privata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>villa, privata, Villa Babini-Schiavina</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800319234</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>240</site_id>
+    <cultural_heritage_site_appellation>Palazzo Lovatelli poi Brandolini</cultural_heritage_site_appellation>
+    <typology>palazzo-privato</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo, privato, Palazzo Lovatelli poi Brandolini</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161717</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>241</site_id>
+    <cultural_heritage_site_appellation>Casa Graziani</cultural_heritage_site_appellation>
+    <typology>casa-privata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, privata, Casa Graziani</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800266228</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>242</site_id>
+    <cultural_heritage_site_appellation>casa residenziale</cultural_heritage_site_appellation>
+    <typology>casa-residenziale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, residenziale</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800308999-bene individuo</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>243</site_id>
+    <cultural_heritage_site_appellation>Basilica di S.Vitale (chiesa )</cultural_heritage_site_appellation>
+    <typology>chiesa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, Basilica di S.Vitale</description>
+    <socio-cultural_context/>
+    <administrative_context/>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161771-bene componente</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>244</site_id>
+    <cultural_heritage_site_appellation>Chiesa di S. Croce</cultural_heritage_site_appellation>
+    <typology>chiesa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, Chiesa di S. Croce</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161678</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>245</site_id>
+    <cultural_heritage_site_appellation>Casa Natale di Angelo Mariani</cultural_heritage_site_appellation>
+    <typology>casa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, Casa Natale di Angelo Mariani</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161724</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>246</site_id>
+    <cultural_heritage_site_appellation>Casa di Drogdone (avanzi)</cultural_heritage_site_appellation>
+    <typology>casa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, Casa di Drogdone (avanzi)</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800266227</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>247</site_id>
+    <cultural_heritage_site_appellation>Villa Chiaromonti ora Dragoni</cultural_heritage_site_appellation>
+    <typology>villa-privata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>villa, privata, Villa Chiaromonti ora Dragoni</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800319235</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>248</site_id>
+    <cultural_heritage_site_appellation>Villa e torretta Spreti</cultural_heritage_site_appellation>
+    <typology>villa e torretta-privata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>villa e torretta, privata, Villa e torretta Spreti</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161788</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>249</site_id>
+    <cultural_heritage_site_appellation>Rocca di Brancaleone</cultural_heritage_site_appellation>
+    <typology>rocca</typology>
+    <coordinates/>
+    <chronology/>
+    <description>rocca, Rocca di Brancaleone</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente pubblico territoriale</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161734</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>250</site_id>
+    <cultural_heritage_site_appellation>Chiostri Francescani</cultural_heritage_site_appellation>
+    <typology>chiostro</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiostro, Chiostri Francescani</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161623</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>251</site_id>
+    <cultural_heritage_site_appellation>Chiesa di Santo Stefano Protomartire</cultural_heritage_site_appellation>
+    <typology>chiesa-parrocchiale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, parrocchiale, Chiesa di Santo Stefano Protomartire</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800308276</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>252</site_id>
+    <cultural_heritage_site_appellation>casa ( privata)</cultural_heritage_site_appellation>
+    <typology>casa-privata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, privata</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800309001</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>253</site_id>
+    <cultural_heritage_site_appellation>Ex Chiesa di San Cristoforo</cultural_heritage_site_appellation>
+    <typology>chiesa-privata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, privata, Ex Chiesa di San Cristoforo</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161800</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>254</site_id>
+    <cultural_heritage_site_appellation>Villa Ramona Lovatelli Dal Corno e pertinenze</cultural_heritage_site_appellation>
+    <typology>villa-residenziale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>villa, residenziale, Villa Ramona Lovatelli Dal Corno e pertinenze</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161808</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>255</site_id>
+    <cultural_heritage_site_appellation>Chiesa di S. Giovanni Evangelista</cultural_heritage_site_appellation>
+    <typology>chiesa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, Chiesa di S. Giovanni Evangelista</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161627</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>256</site_id>
+    <cultural_heritage_site_appellation>Campanile della Chiesa di S. Stefano Protomartire</cultural_heritage_site_appellation>
+    <typology>campanile-parrocchiale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>campanile, parrocchiale, Campanile della Chiesa di S. Stefano Protomartire</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800308277-bene componente</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>257</site_id>
+    <cultural_heritage_site_appellation>Chiesa di S. Giustina</cultural_heritage_site_appellation>
+    <typology>chiesa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, Chiesa di S. Giustina</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161673</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>258</site_id>
+    <cultural_heritage_site_appellation>Basilica di S.Apollinare Nuovo</cultural_heritage_site_appellation>
+    <typology>monastero</typology>
+    <coordinates/>
+    <chronology/>
+    <description>monastero, Basilica di S.Apollinare Nuovo</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà mista pubblica/ecclesiastica</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161756</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>259</site_id>
+    <cultural_heritage_site_appellation>Palazzo Settecastelli</cultural_heritage_site_appellation>
+    <typology>palazzo</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo, Palazzo Settecastelli</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161720</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>260</site_id>
+    <cultural_heritage_site_appellation>ex Chiesa di Sant'Andrea</cultural_heritage_site_appellation>
+    <typology>chiesa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, ex Chiesa di Sant'Andrea</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161675</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>261</site_id>
+    <cultural_heritage_site_appellation>Casa Stanghellini ora Bugli</cultural_heritage_site_appellation>
+    <typology>casa-residenziale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, residenziale, Casa Stanghellini ora Bugli</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161712</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>262</site_id>
+    <cultural_heritage_site_appellation>Chiostri Francescani (chiostro pubblico)</cultural_heritage_site_appellation>
+    <typology>chiostro-pubblico</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiostro, pubblico, Chiostri Francescani</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161623-bene componente</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>263</site_id>
+    <cultural_heritage_site_appellation>Chiesa di Santa Maria Nascente</cultural_heritage_site_appellation>
+    <typology>chiesa-parrocchiale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, parrocchiale, Chiesa di Santa Maria Nascente</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800308273-bene individuo</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>264</site_id>
+    <cultural_heritage_site_appellation>Villa Ginanni-Corradini</cultural_heritage_site_appellation>
+    <typology>villa-privata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>villa, privata, Villa Ginanni-Corradini</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161785</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>265</site_id>
+    <cultural_heritage_site_appellation>Palazzo Raisi</cultural_heritage_site_appellation>
+    <typology>palazzo-privato</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo, privato, Palazzo Raisi</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161697</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>266</site_id>
+    <cultural_heritage_site_appellation>Villa Miserocchi ora Bubani</cultural_heritage_site_appellation>
+    <typology>villa-privata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>villa, privata, Villa Miserocchi ora Bubani</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800266246</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>267</site_id>
+    <cultural_heritage_site_appellation>Casa Spreti</cultural_heritage_site_appellation>
+    <typology>casa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, Casa Spreti</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161749</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>268</site_id>
+    <cultural_heritage_site_appellation>Palazzo Rasponi Murat</cultural_heritage_site_appellation>
+    <typology>palazzo fortificato-privato</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo fortificato, privato, Palazzo Rasponi Murat</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161693</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>269</site_id>
+    <cultural_heritage_site_appellation>Campanile della Basilica di S.Apollinare in Classe</cultural_heritage_site_appellation>
+    <typology>campanile</typology>
+    <coordinates/>
+    <chronology/>
+    <description>campanile, Campanile della Basilica di S.Apollinare in Classe</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Stato</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161783</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>270</site_id>
+    <cultural_heritage_site_appellation>Chiesa di S. Carlino</cultural_heritage_site_appellation>
+    <typology>chiesa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, Chiesa di S. Carlino</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161667</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>271</site_id>
+    <cultural_heritage_site_appellation>Chiesa di S. Maria Maggiore</cultural_heritage_site_appellation>
+    <typology>chiesa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, Chiesa di S. Maria Maggiore</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161722</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>272</site_id>
+    <cultural_heritage_site_appellation>Casa De Lorenzi</cultural_heritage_site_appellation>
+    <typology>casa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, Casa De Lorenzi</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161752</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>273</site_id>
+    <cultural_heritage_site_appellation>Torretta Spreti</cultural_heritage_site_appellation>
+    <typology>torretta</typology>
+    <coordinates/>
+    <chronology/>
+    <description>torretta, Torretta Spreti</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800319415</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>274</site_id>
+    <cultural_heritage_site_appellation>Palazzo Spreti</cultural_heritage_site_appellation>
+    <typology>palazzo-privato</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo, privato, Palazzo Spreti</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161653</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>275</site_id>
+    <cultural_heritage_site_appellation>Palazzone</cultural_heritage_site_appellation>
+    <typology>palazzo-privato</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo, privato, Palazzone</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800266248</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>276</site_id>
+    <cultural_heritage_site_appellation>Campanile della Chiesa di S. Lorenzo</cultural_heritage_site_appellation>
+    <typology>campanile</typology>
+    <coordinates/>
+    <chronology/>
+    <description>campanile, Campanile della Chiesa di S. Lorenzo</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161791</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>277</site_id>
+    <cultural_heritage_site_appellation>Casa Guaccimanni già Giorgi</cultural_heritage_site_appellation>
+    <typology>casa-privata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, privata, Casa Guaccimanni già Giorgi</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161671</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>278</site_id>
+    <cultural_heritage_site_appellation>Ex chiesa di S.Giacomo</cultural_heritage_site_appellation>
+    <typology>chiesa-sconsacrata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, sconsacrata, Ex chiesa di S.Giacomo</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161727</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>279</site_id>
+    <cultural_heritage_site_appellation>Oratorio di Villa Pasolini</cultural_heritage_site_appellation>
+    <typology>oratorio-privato</typology>
+    <coordinates/>
+    <chronology/>
+    <description>oratorio, privato, Oratorio di Villa Pasolini</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800308258</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>280</site_id>
+    <cultural_heritage_site_appellation>Capannetti (casa residenziale)</cultural_heritage_site_appellation>
+    <typology>casa-residenziale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, residenziale, Capannetti</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800309001-bene individuo</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>281</site_id>
+    <cultural_heritage_site_appellation>Campanile della Chiesa di S.Francesco (Campanile )</cultural_heritage_site_appellation>
+    <typology>Campanile</typology>
+    <coordinates/>
+    <chronology/>
+    <description>Campanile, Campanile della Chiesa di S.Francesco</description>
+    <socio-cultural_context/>
+    <administrative_context/>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161621-bene componente</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>282</site_id>
+    <cultural_heritage_site_appellation>Palazzo di Santo Stefano Protomartire</cultural_heritage_site_appellation>
+    <typology>palazzo-conventuale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo, conventuale, Palazzo di Santo Stefano Protomartire</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800308255</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>283</site_id>
+    <cultural_heritage_site_appellation>Oratorio Madonna del Sudore</cultural_heritage_site_appellation>
+    <typology>oratorio-comunale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>oratorio, comunale, Oratorio Madonna del Sudore</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente pubblico territoriale</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800308278</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>284</site_id>
+    <cultural_heritage_site_appellation>Palazzo Cavalli</cultural_heritage_site_appellation>
+    <typology>palazzo-residenziale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>palazzo, residenziale, Palazzo Cavalli</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161704</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>285</site_id>
+    <cultural_heritage_site_appellation>Chiesa di S. Maria Maggiore</cultural_heritage_site_appellation>
+    <typology>chiesa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, Chiesa di S. Maria Maggiore</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161721</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>286</site_id>
+    <cultural_heritage_site_appellation>Villa Orfanelle</cultural_heritage_site_appellation>
+    <typology>villa-privata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>villa, privata, Villa Orfanelle</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800266243</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>287</site_id>
+    <cultural_heritage_site_appellation>Villa Spreti</cultural_heritage_site_appellation>
+    <typology>villa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>Villa, Villa Spreti</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161789</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>288</site_id>
+    <cultural_heritage_site_appellation>Chiesa di S. Maria in Porto Fuori</cultural_heritage_site_appellation>
+    <typology>chiesa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, Chiesa di S. Maria in Porto Fuori</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161801</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>289</site_id>
+    <cultural_heritage_site_appellation>Colonna con capitello e Madonna col Putto</cultural_heritage_site_appellation>
+    <typology>colonna con capitello</typology>
+    <coordinates/>
+    <chronology/>
+    <description>colonna con capitello, Colonna con capitello e Madonna col Putto</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800266234</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>290</site_id>
+    <cultural_heritage_site_appellation>Basilica di S.Apollinare Nuovo (chiesa basilicale)</cultural_heritage_site_appellation>
+    <typology>chiesa-basilicale</typology>
+    <coordinates/>
+    <chronology/>
+    <description>chiesa, basilicale, Basilica di S.Apollinare Nuovo</description>
+    <socio-cultural_context/>
+    <administrative_context/>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161756-bene complesso</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>291</site_id>
+    <cultural_heritage_site_appellation>Villa Ginanni</cultural_heritage_site_appellation>
+    <typology>villa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>villa, Villa Ginanni</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161790</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>292</site_id>
+    <cultural_heritage_site_appellation>Convento dei Monaci Camaldolesi di Classe</cultural_heritage_site_appellation>
+    <typology>convento</typology>
+    <coordinates/>
+    <chronology/>
+    <description>convento, Convento dei Monaci Camaldolesi di Classe</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente pubblico territoriale</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161636</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>293</site_id>
+    <cultural_heritage_site_appellation>Casa Malagola</cultural_heritage_site_appellation>
+    <typology>casa</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, Casa Malagola</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà Ente religioso cattolico</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161666</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+  <cultural_heritage_site>
+    <site_id>294</site_id>
+    <cultural_heritage_site_appellation>Casa Minzoni</cultural_heritage_site_appellation>
+    <typology>casa-privata</typology>
+    <coordinates/>
+    <chronology/>
+    <description>casa, privata, Casa Minzoni</description>
+    <socio-cultural_context/>
+    <administrative_context>proprietà privata</administrative_context>
+    <financial_context/>
+    <legal_context/>
+    <stakeholders/>
+    <place_id>2</place_id>
+    <codice_catalogo_nazionale>0800161646</codice_catalogo_nazionale>
+  </cultural_heritage_site>
+</cultural_heritage_sites>
