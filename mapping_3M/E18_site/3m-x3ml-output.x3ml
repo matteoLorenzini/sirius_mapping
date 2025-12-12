@@ -24,6 +24,10 @@
                <namespace prefix="rdf" uri="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
                <namespace prefix="base" uri="http://www.cidoc-crm.org/cidoc-crm/"/>
                <namespace prefix="sirius" uri="https://w3id.org/sirius"/>
+               <namespace prefix="ICCD"
+                          uri="https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/"/>
+               <namespace prefix="arco"
+                          uri="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/"/>
             </namespaces>
          </target_info>
          <target_info>
@@ -62,6 +66,10 @@
    </info>
    <namespaces>
       <namespace prefix="sirius" uri="https://w3id.org/sirius"/>
+      <namespace prefix="ICCD"
+                 uri="https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/"/>
+      <namespace prefix="arco"
+                 uri="https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/"/>
    </namespaces>
    <mappings>
       <mapping>
@@ -404,6 +412,39 @@
                         <arg name="type" type="constant">place</arg>
                         <arg name="id" type="xpath">text()</arg>
                      </instance_generator>
+                  </entity>
+               </target_node>
+            </range>
+         </link>
+         <link>
+            <path>
+               <source_relation>
+                  <relation>codice_catalogo_nazionale</relation>
+               </source_relation>
+               <target_relation>
+                  <relationship>base:P70i_is_documented_in</relationship>
+               </target_relation>
+            </path>
+            <range>
+               <source_node>codice_catalogo_nazionale</source_node>
+               <target_node>
+                  <entity>
+                     <type>base:E31_Document</type>
+                     <instance_generator name="ARCO">
+                        <arg name="id_iccd" type="xpath">text()</arg>
+                     </instance_generator>
+                     <label_generator name="Literal">
+                        <arg name="text" type="xpath">text()</arg>
+                     </label_generator>
+                     <additional>
+                        <relationship>base:P2_has_type</relationship>
+                        <entity>
+                           <type>base:E55_Type</type>
+                           <instance_generator name="ICCD">
+                              <arg name="id" type="constant">ArchitecturalOrLandscapeHeritage</arg>
+                           </instance_generator>
+                        </entity>
+                     </additional>
                   </entity>
                </target_node>
             </range>

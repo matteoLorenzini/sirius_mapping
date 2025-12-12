@@ -74,4 +74,10 @@
    <generator name="URIwithTypeAndId" prefix="sirius" type="any">
       <pattern>/{type}/{id}</pattern>
    </generator>
+   <generator name="ICCD" prefix="ICCD" type="any">
+      <pattern>{id}</pattern>
+   </generator>
+   <generator name="ARCO" prefix="arco" type="any">
+      <pattern>{id_iccd}</pattern>
+   </generator>
 </generator_policy>
