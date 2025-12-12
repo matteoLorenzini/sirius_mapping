@@ -61,3 +61,158 @@ WHERE {
     AS ?newLabel
   )
 }
+
+
+## Location
+
+PREFIX dc:     <http://purl.org/dc/elements/1.1/>
+PREFIX a-loc:  <https://w3id.org/arco/ontology/location/>
+PREFIX rdfs:   <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT DISTINCT ?subject ?address ?addressLabel
+WHERE {
+  ?subject dc:subject <http://culturaitalia.it/pico/thesaurus/4.1#beni_architettonici> ;
+           dc:coverage "Ravenna (RA)" ;
+           a-loc:hasCulturalPropertyAddress ?address .
+
+  OPTIONAL {
+    ?address rdfs:label ?addressLabel .
+  }
+}
+
+## Chronology
+
+PREFIX dc:     <http://purl.org/dc/elements/1.1/>
+PREFIX a-cd:   <https://w3id.org/arco/ontology/context-description/>
+PREFIX ti:     <https://w3id.org/italia/onto/TI/>
+PREFIX rdfs:   <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT DISTINCT ?subject ?dating ?time ?timeLabel
+WHERE {
+  ?subject dc:subject <http://culturaitalia.it/pico/thesaurus/4.1#beni_architettonici> ;
+           dc:coverage "Ravenna (RA)" ;
+           a-cd:hasDating ?dating .
+
+  OPTIONAL {
+    ?dating a-cd:hasDatingEvent ?datingEvent .
+    ?datingEvent ti:atTime ?time .
+    OPTIONAL {
+      ?time rdfs:label ?timeLabel .
+    }
+  }
+}
+
+
+## Usage
+
+PREFIX dc:     <http://purl.org/dc/elements/1.1/>
+PREFIX a-cd:   <https://w3id.org/arco/ontology/context-description/>
+PREFIX rdfs:   <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT DISTINCT ?subject ?use ?useFunction ?useFunctionLabel
+WHERE {
+  ?subject dc:subject <http://culturaitalia.it/pico/thesaurus/4.1#beni_architettonici> ;
+           dc:coverage "Ravenna (RA)" ;
+           a-cd:hasUse ?use .
+
+  OPTIONAL {
+    ?use a-cd:useFunction ?useFunction .
+    OPTIONAL {
+      ?useFunction rdfs:label ?useFunctionLabel .
+    }
+  }
+}
+
+## Administrative Context
+
+PREFIX dc:     <http://purl.org/dc/elements/1.1/>
+PREFIX arco:   <https://w3id.org/arco/ontology/arco/>
+PREFIX skos:   <http://www.w3.org/2004/02/skos/core#>
+
+SELECT DISTINCT ?subject ?agency ?agencyLabel
+WHERE {
+  ?subject dc:subject <http://culturaitalia.it/pico/thesaurus/4.1#beni_architettonici> ;
+           dc:coverage "Ravenna (RA)" ;
+           arco:hasCataloguingAgency ?agency .
+
+  OPTIONAL {
+    ?agency skos:prefLabel ?agencyLabel .
+  }
+}
+
+
+## Unified SPARQL
+
+PREFIX dc:     <http://purl.org/dc/elements/1.1/>
+PREFIX a-loc:  <https://w3id.org/arco/ontology/location/>
+PREFIX a-cd:   <https://w3id.org/arco/ontology/context-description/>
+PREFIX arco:   <https://w3id.org/arco/ontology/arco/>
+PREFIX ti:     <https://w3id.org/italia/onto/TI/>
+PREFIX rdfs:   <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX skos:   <http://www.w3.org/2004/02/skos/core#>
+
+SELECT DISTINCT
+  ?subject
+
+  ## Location
+  ?address
+  ?addressLabel
+
+  ## Chronology
+  ?dating
+  ?time
+  ?timeLabel
+
+  ## Usage
+  ?use
+  ?useFunction
+  ?useFunctionLabel
+
+  ## Administrative context
+  ?agency
+  ?agencyLabel
+WHERE {
+  ?subject dc:subject <http://culturaitalia.it/pico/thesaurus/4.1#beni_architettonici> ;
+           dc:coverage "Ravenna (RA)" .
+
+  ## Location
+  OPTIONAL {
+    ?subject a-loc:hasCulturalPropertyAddress ?address .
+    OPTIONAL {
+      ?address rdfs:label ?addressLabel .
+    }
+  }
+
+  ## Chronology
+  OPTIONAL {
+    ?subject a-cd:hasDating ?dating .
+    OPTIONAL {
+      ?dating a-cd:hasDatingEvent ?datingEvent .
+      OPTIONAL {
+        ?datingEvent ti:atTime ?time .
+        OPTIONAL {
+          ?time rdfs:label ?timeLabel .
+        }
+      }
+    }
+  }
+
+  ## Usage
+  OPTIONAL {
+    ?subject a-cd:hasUse ?use .
+    OPTIONAL {
+      ?use a-cd:useFunction ?useFunction .
+      OPTIONAL {
+        ?useFunction rdfs:label ?useFunctionLabel .
+      }
+    }
+  }
+
+  ## Administrative context
+  OPTIONAL {
+    ?subject arco:hasCataloguingAgency ?agency .
+    OPTIONAL {
+      ?agency skos:prefLabel ?agencyLabel .
+    }
+  }
+}
