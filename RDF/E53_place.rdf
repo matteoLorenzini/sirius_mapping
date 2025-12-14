@@ -10,7 +10,7 @@
   <base:E53_Place rdf:about="https://w3id.org/sirius/place/1">
     <base:P168_place_is_defined_by>
       <rdfs:Literal rdf:about="https://w3id.org/sirius/44.05755%2012.56528">
-        <rdfs:label>44.05755 12.56528</rdfs:label>
+        <rdfs:label>12.56528 44.05755</rdfs:label>
       </rdfs:Literal>
     </base:P168_place_is_defined_by>
     <crmgeo:P1_is_identified_by>
@@ -25,7 +25,7 @@
   <base:E53_Place rdf:about="https://w3id.org/sirius/place/2">
     <base:P168_place_is_defined_by>
       <rdfs:Literal rdf:about="https://w3id.org/sirius/44.41344%2012.20121">
-        <rdfs:label>44.41344 12.20121</rdfs:label>
+        <rdfs:label>12.20121 44.41344 </rdfs:label>
       </rdfs:Literal>
     </base:P168_place_is_defined_by>
     <crmgeo:P1_is_identified_by>
