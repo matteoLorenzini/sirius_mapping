@@ -20,7 +20,7 @@
     <site_id>2</site_id>
     <cultural_heritage_site_appellation>casa ( pubblica)</cultural_heritage_site_appellation>
     <typology>casa-pubblica</typology>
-    <coordinates>12.9210025 43.8901265</coordinates>
+    <coordinates>43.8901265 12.9210025</coordinates>
     <address>Ravenna, via Guerrini, 0 , piazza Arcivescovado 0</address>
     <chronology>prima metà XX - ultimo quarto-XX</chronology>
     <description>casa, pubblica</description>
@@ -36,7 +36,7 @@
     <site_id>3</site_id>
     <cultural_heritage_site_appellation>Casa Rivalta</cultural_heritage_site_appellation>
     <typology>casa-privata</typology>
-    <coordinates>12.2014068 44.4191519</coordinates>
+    <coordinates>44.4191519 12.2014068</coordinates>
     <address>Ravenna, via Paolo Costa, 10</address>
     <chronology>ca seconda metà XVIII - ca fine-XVIII</chronology>
     <description>casa, privata, Casa Rivalta</description>
@@ -52,7 +52,7 @@
     <site_id>4</site_id>
     <cultural_heritage_site_appellation>Loggia Lombardesca</cultural_heritage_site_appellation>
     <typology>loggia</typology>
-    <coordinates>12.2035804 44.4179146</coordinates>
+    <coordinates>44.4179146 12.2035804</coordinates>
     <address>Ravenna, Via Di Roma, 0</address>
     <chronology>post primo quarto XVI - ante primo quarto-XVI</chronology>
     <description>loggia, Loggia Lombardesca</description>
@@ -68,7 +68,7 @@
     <site_id>5</site_id>
     <cultural_heritage_site_appellation>Palazzo Lovatelli Dal Corno</cultural_heritage_site_appellation>
     <typology>palazzo</typology>
-    <coordinates>12.2012895 44.4127662</coordinates>
+    <coordinates>44.4127662 12.2012895</coordinates>
     <address>Ravenna, Via Giuseppe Mazzini, 75</address>
     <chronology>ca metà XVIII - ca fine-XVIII</chronology>
     <description>palazzo, Palazzo Lovatelli Dal Corno</description>
@@ -84,7 +84,7 @@
     <site_id>6</site_id>
     <cultural_heritage_site_appellation>Casa Bezzi</cultural_heritage_site_appellation>
     <typology>casa-privata</typology>
-    <coordinates>12.2047522 44.4157928</coordinates>
+    <coordinates>44.4157928 12.2047522</coordinates>
     <address>Ravenna, via di Roma, 47</address>
     <chronology>XVIII - XVIII</chronology>
     <description>casa, privata, Casa Bezzi</description>
@@ -100,7 +100,7 @@
     <site_id>7</site_id>
     <cultural_heritage_site_appellation>Chiesa di San Bartolomeo</cultural_heritage_site_appellation>
     <typology>edilizia complessa religiosa a corpi aggregati-parrocchiale</typology>
-    <coordinates>12.2126471 44.3396858</coordinates>
+    <coordinates>44.3396858 12.2126471</coordinates>
     <address>Ravenna, SAN ZACCARIA, Via Dismano, 663</address>
     <chronology>--</chronology>
     <description>edilizia complessa religiosa a corpi aggregati, parrocchiale, Chiesa di San Bartolomeo</description>
@@ -116,7 +116,7 @@
     <site_id>8</site_id>
     <cultural_heritage_site_appellation>Chiesa di S. Biagio</cultural_heritage_site_appellation>
     <typology>chiesa</typology>
-    <coordinates>12.3505375 42.0815883</coordinates>
+    <coordinates>42.0815883 12.3505375</coordinates>
     <address>Ravenna, Via della Chiesa, 0</address>
     <chronology>post fine XVI - XIX</chronology>
     <description>chiesa, Chiesa di S. Biagio</description>
@@ -132,7 +132,7 @@
     <site_id>9</site_id>
     <cultural_heritage_site_appellation>Casa Gambi</cultural_heritage_site_appellation>
     <typology>casa-residenziale</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Ravenna, via Galla Placida, 2</address>
     <chronology>ca XVII - ca XVII</chronology>
     <description>casa, residenziale, Casa Gambi</description>
@@ -148,7 +148,7 @@
     <site_id>10</site_id>
     <cultural_heritage_site_appellation>Casa con ruderi ex Chiesa S. Michele in Africisco</cultural_heritage_site_appellation>
     <typology>chiesa (ruderi) e campanile-privato</typology>
-    <coordinates>12.1999931 44.4186502</coordinates>
+    <coordinates>44.4186502 12.1999931</coordinates>
     <address>Ravenna, via Casa Matha, 1/ 3, via IV Novembre, 37/ 39</address>
     <chronology>ca inizio VI - ca fine-VI</chronology>
     <description>chiesa (ruderi) e campanile, privato, Casa con ruderi ex Chiesa S. Michele in Africisco</description>
@@ -164,7 +164,7 @@
     <site_id>11</site_id>
     <cultural_heritage_site_appellation>Basilica di S. Apollinare Nuovo</cultural_heritage_site_appellation>
     <typology>chiesa-basilicale</typology>
-    <coordinates>12.2035804 44.4179146</coordinates>
+    <coordinates>44.4179146 12.2035804</coordinates>
     <address>Ravenna, via di Roma, 0</address>
     <chronology>V-VI</chronology>
     <description>Chiesa, basilicale, Basilica di S. Apollinare Nuovo</description>
@@ -180,7 +180,7 @@
     <site_id>12</site_id>
     <cultural_heritage_site_appellation>Ruderi della Chiesa dei SS. Nicandro e Marciano</cultural_heritage_site_appellation>
     <typology>chiesa</typology>
-    <coordinates>12.2012252 44.4189612</coordinates>
+    <coordinates>44.4189612 12.2012252</coordinates>
     <address>Ravenna, Vicolo San Nicandro, 0</address>
     <chronology>ca VIII - XX</chronology>
     <description>chiesa, Ruderi della Chiesa dei SS. Nicandro e Marciano</description>
@@ -212,7 +212,7 @@
     <site_id>14</site_id>
     <cultural_heritage_site_appellation>Palazzo Comunale</cultural_heritage_site_appellation>
     <typology>palazzo-pubblico</typology>
-    <coordinates>12.1992196 44.4178985</coordinates>
+    <coordinates>44.4178985 12.1992196</coordinates>
     <address>Ravenna, Piazza del popolo, 0</address>
     <chronology>Seconda metà XIX - Seconda metà-XIX</chronology>
     <description>palazzo, pubblico, Palazzo Comunale</description>
@@ -228,7 +228,7 @@
     <site_id>15</site_id>
     <cultural_heritage_site_appellation>Palazzo di Teodorico</cultural_heritage_site_appellation>
     <typology>palazzo (resti)-museale</typology>
-    <coordinates>12.2035804 44.4179146</coordinates>
+    <coordinates>44.4179146 12.2035804</coordinates>
     <address>Ravenna, via di Roma, 0</address>
     <chronology>(?) inizio VII - (?) fine-VII</chronology>
     <description>palazzo (resti), museale, Palazzo di Teodorico</description>
@@ -244,7 +244,7 @@
     <site_id>16</site_id>
     <cultural_heritage_site_appellation>Chiostro della Chiesa di S. Giovanni Evangelista</cultural_heritage_site_appellation>
     <typology>chiostro</typology>
-    <coordinates>12.2049025 44.418002</coordinates>
+    <coordinates>44.418002 12.2049025</coordinates>
     <address>Ravenna, Piazza Anita Garibaldi, 0</address>
     <chronology>ca prima metà XVI - ca prima metà-XVI</chronology>
     <description>chiostro, Chiostro della Chiesa di S. Giovanni Evangelista</description>
@@ -260,7 +260,7 @@
     <site_id>17</site_id>
     <cultural_heritage_site_appellation>Chiesa dei SS. Simone e Giuda</cultural_heritage_site_appellation>
     <typology>chiesa</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Ravenna, Via del Candiano</address>
     <chronology>XIX/ XX</chronology>
     <description>chiesa, Chiesa dei SS. Simone e Giuda</description>
@@ -276,7 +276,7 @@
     <site_id>18</site_id>
     <cultural_heritage_site_appellation>Casa Rava</cultural_heritage_site_appellation>
     <typology>casa-residenziale</typology>
-    <coordinates>12.2029809 44.4198316</coordinates>
+    <coordinates>44.4198316 12.2029809</coordinates>
     <address>Ravenna, via di Roma, 113 </address>
     <chronology>Seconda metà XIX - Seconda metà-XIX</chronology>
     <description>casa, residenziale, Casa Rava</description>
@@ -292,7 +292,7 @@
     <site_id>19</site_id>
     <cultural_heritage_site_appellation>Pieve di S. Apollinare</cultural_heritage_site_appellation>
     <typology>pieve</typology>
-    <coordinates>12.1549945 44.3569717</coordinates>
+    <coordinates>44.3569717 12.1549945</coordinates>
     <address>Ravenna, Via Ravegnana, 0</address>
     <chronology>ca X - XI</chronology>
     <description>pieve, Pieve di S. Apollinare</description>
@@ -308,7 +308,7 @@
     <site_id>20</site_id>
     <cultural_heritage_site_appellation>Quadrarco di Braccioforte</cultural_heritage_site_appellation>
     <typology>edicola</typology>
-    <coordinates>12.2004974 44.4162107</coordinates>
+    <coordinates>44.4162107 12.2004974</coordinates>
     <address>Ravenna, Via Guido Da Polenta, 0</address>
     <chronology>ultimo quarto XV - fine-XV</chronology>
     <description>edicola, Quadrarco di Braccioforte</description>
@@ -324,7 +324,7 @@
     <site_id>21</site_id>
     <cultural_heritage_site_appellation>Casa Fabri</cultural_heritage_site_appellation>
     <typology>casa-privata</typology>
-    <coordinates>12.2007743 44.4163953</coordinates>
+    <coordinates>44.4163953 12.2007743</coordinates>
     <address>Ravenna, via Dante Alighieri, 9</address>
     <chronology>ante inizio XX - fine-XX</chronology>
     <description>casa, privata, Casa Fabri</description>
@@ -356,7 +356,7 @@
     <site_id>23</site_id>
     <cultural_heritage_site_appellation>Chiostri del Monastero Benedettino di S.Vitale</cultural_heritage_site_appellation>
     <typology>chiostro</typology>
-    <coordinates>12.195915 44.4201193</coordinates>
+    <coordinates>44.4201193 12.195915</coordinates>
     <address>Ravenna, Via San Vitale, 17</address>
     <chronology>ca XVI - ca XVIII</chronology>
     <description>chiostro, Chiostri del Monastero Benedettino di S.Vitale</description>
@@ -372,7 +372,7 @@
     <site_id>24</site_id>
     <cultural_heritage_site_appellation>Campanile della Chiesa di S. Giovanni Evangelista</cultural_heritage_site_appellation>
     <typology>campanile</typology>
-    <coordinates>12.2049025 44.418002</coordinates>
+    <coordinates>44.418002 12.2049025</coordinates>
     <address>Ravenna, Piazza Anita Garibaldi, 0</address>
     <chronology>ca X - ca XIV</chronology>
     <description>campanile, Campanile della Chiesa di S. Giovanni Evangelista</description>
@@ -388,7 +388,7 @@
     <site_id>25</site_id>
     <cultural_heritage_site_appellation>Chiesa dei Santi Giovanni e Paolo</cultural_heritage_site_appellation>
     <typology>chiesa</typology>
-    <coordinates>12.1938362 44.4182612</coordinates>
+    <coordinates>44.4182612 12.1938362</coordinates>
     <address>Ravenna, Via Cura, 0</address>
     <chronology>XVIII - XVIII</chronology>
     <description>chiesa, Chiesa dei Santi Giovanni e Paolo</description>
@@ -404,7 +404,7 @@
     <site_id>26</site_id>
     <cultural_heritage_site_appellation>Casa Salotti</cultural_heritage_site_appellation>
     <typology>casa-privata</typology>
-    <coordinates>12.2006744 44.4210022</coordinates>
+    <coordinates>44.4210022 12.2006744</coordinates>
     <address>Ravenna, via Girolamo Rossi, 51, 53</address>
     <chronology>(?) XVI - XX</chronology>
     <description>casa, privata, Casa Salotti</description>
@@ -420,7 +420,7 @@
     <site_id>27</site_id>
     <cultural_heritage_site_appellation>Palazzo Rota</cultural_heritage_site_appellation>
     <typology>palazzo-privato</typology>
-    <coordinates>12.1976594 44.4195302</coordinates>
+    <coordinates>44.4195302 12.1976594</coordinates>
     <address>Ravenna, via San Vitale, 5</address>
     <chronology>inizio XVII - fine-XVII</chronology>
     <description>palazzo, privato, Palazzo Rota</description>
@@ -436,7 +436,7 @@
     <site_id>28</site_id>
     <cultural_heritage_site_appellation>Palazzo Guiccioli già Osio</cultural_heritage_site_appellation>
     <typology>palazzo</typology>
-    <coordinates>12.1970064 44.4189468</coordinates>
+    <coordinates>44.4189468 12.1970064</coordinates>
     <address>Ravenna, Via Camillo Benso Conte di Cavour, 54</address>
     <chronology>ca inizio XVII - ca fine-XVII</chronology>
     <description>palazzo, Palazzo Guiccioli già Osio</description>
@@ -452,7 +452,7 @@
     <site_id>29</site_id>
     <cultural_heritage_site_appellation>Avanzi chiesa di S. Giustina e portico Sec. XVI</cultural_heritage_site_appellation>
     <typology>avanzi di chiesa-privata</typology>
-    <coordinates>12.1981351 44.4157737</coordinates>
+    <coordinates>44.4157737 12.1981351</coordinates>
     <address>Ravenna, via Romolo Gessi, 20</address>
     <chronology>ca fine VII - ca fine-VII</chronology>
     <description>avanzi di chiesa, privata, Avanzi chiesa di S. Giustina e portico Sec. XVI</description>
@@ -468,7 +468,7 @@
     <site_id>30</site_id>
     <cultural_heritage_site_appellation>Chiesa di S. Vittore (resti)</cultural_heritage_site_appellation>
     <typology>chiesa</typology>
-    <coordinates>12.2012371 44.4218789</coordinates>
+    <coordinates>44.4218789 12.2012371</coordinates>
     <address>Ravenna, Via Anastagi, 19</address>
     <chronology>ca VI - ca VI</chronology>
     <description>chiesa, Chiesa di S. Vittore (resti)</description>
@@ -484,7 +484,7 @@
     <site_id>31</site_id>
     <cultural_heritage_site_appellation>Chiesa dei SS. Filippo e Giacomo</cultural_heritage_site_appellation>
     <typology>chiesa (resti)-privata</typology>
-    <coordinates>12.2032743 44.4123546</coordinates>
+    <coordinates>44.4123546 12.2032743</coordinates>
     <address>Ravenna, via Zagarelli Alle Mura, 32</address>
     <chronology>inizio XII - inizio-XIII</chronology>
     <description>chiesa (resti), privata, Chiesa dei SS. Filippo e Giacomo</description>
@@ -500,7 +500,7 @@
     <site_id>32</site_id>
     <cultural_heritage_site_appellation>Casa Savini</cultural_heritage_site_appellation>
     <typology>casa-privata</typology>
-    <coordinates>12.2025974 44.419053</coordinates>
+    <coordinates>44.419053 12.2025974</coordinates>
     <address>Ravenna, via Paolo Costa, 49</address>
     <chronology>(?) XV - ca XIX</chronology>
     <description>casa, privata, Casa Savini</description>
@@ -516,7 +516,7 @@
     <site_id>33</site_id>
     <cultural_heritage_site_appellation>Chiesa di San Pantaleone Martire</cultural_heritage_site_appellation>
     <typology>edilizia complessa religiosa a corpi aggregati-parrocchiale</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Ravenna, Via Zignani, 44</address>
     <chronology>--</chronology>
     <description>edilizia complessa religiosa a corpi aggregati, parrocchiale, Chiesa di San Pantaleone Martire</description>
@@ -532,7 +532,7 @@
     <site_id>34</site_id>
     <cultural_heritage_site_appellation>Casa Pignata</cultural_heritage_site_appellation>
     <typology>casa-privata</typology>
-    <coordinates>12.200831 44.4139167</coordinates>
+    <coordinates>44.4139167 12.200831</coordinates>
     <address>Ravenna, Via Giuseppe Mazzini, 49</address>
     <chronology>ca XVI - ca XVI</chronology>
     <description>casa, privata, Casa Pignata</description>
@@ -548,7 +548,7 @@
     <site_id>35</site_id>
     <cultural_heritage_site_appellation>Canonica del Convento di Sant'Apollinare in Classe</cultural_heritage_site_appellation>
     <typology>canonica-conventuale</typology>
-    <coordinates>12.209909 44.445266</coordinates>
+    <coordinates>44.445266 12.209909</coordinates>
     <address>Ravenna, CLASSE, Via Romea, 0</address>
     <chronology>ca XIX - XX</chronology>
     <description>canonica, conventuale, Canonica del Convento di Sant'Apollinare in Classe</description>
@@ -564,7 +564,7 @@
     <site_id>36</site_id>
     <cultural_heritage_site_appellation>Chiesa di S. Romualdo</cultural_heritage_site_appellation>
     <typology>chiesa</typology>
-    <coordinates>12.2003968 44.4130715</coordinates>
+    <coordinates>44.4130715 12.2003968</coordinates>
     <address>Ravenna, Via Baccarini</address>
     <chronology>XVII - XVII</chronology>
     <description>chiesa, Chiesa di S. Romualdo</description>
@@ -580,7 +580,7 @@
     <site_id>37</site_id>
     <cultural_heritage_site_appellation>Casa Antonellini già Casa Sarti</cultural_heritage_site_appellation>
     <typology>casa-residenziale</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Ravenna, Via G. Ghiselli, 32</address>
     <chronology>ca XIII - ultimo quarto-XX</chronology>
     <description>casa, residenziale, Casa Antonellini già Casa Sarti</description>
@@ -596,7 +596,7 @@
     <site_id>38</site_id>
     <cultural_heritage_site_appellation>Palazzo Negrotto Cambiaso, già Lovatelli poi Doria</cultural_heritage_site_appellation>
     <typology>palazzo-residenziale</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Ravenna, via Bagnolo Salara, 65</address>
     <chronology>XVII - prima metà-XVII</chronology>
     <description>palazzo, residenziale, Palazzo Negrotto Cambiaso, già Lovatelli poi Doria</description>
@@ -612,7 +612,7 @@
     <site_id>39</site_id>
     <cultural_heritage_site_appellation>villino ( monofamiliare)</cultural_heritage_site_appellation>
     <typology>villino-monofamiliare</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Ravenna, vicolo Genocchi, 9</address>
     <chronology>XX - XX</chronology>
     <description>villino, monofamiliare</description>
@@ -628,7 +628,7 @@
     <site_id>40</site_id>
     <cultural_heritage_site_appellation>Casa natale di Pellegrino Matteucci</cultural_heritage_site_appellation>
     <typology>casa</typology>
-    <coordinates>12.199973 44.4193484</coordinates>
+    <coordinates>44.4193484 12.199973</coordinates>
     <address>Ravenna, via Girolamo Rossi, 6</address>
     <chronology>ca XVIII - ca XIX</chronology>
     <description>casa, Casa natale di Pellegrino Matteucci</description>
@@ -644,7 +644,7 @@
     <site_id>41</site_id>
     <cultural_heritage_site_appellation>Chiesa del Cimitero</cultural_heritage_site_appellation>
     <typology>chiesa</typology>
-    <coordinates>12.2335321 44.4368255</coordinates>
+    <coordinates>44.4368255 12.2335321</coordinates>
     <address>Ravenna, Via del Cimitero, 0</address>
     <chronology>XIX - ante metà-XIX</chronology>
     <description>chiesa, Chiesa del Cimitero</description>
@@ -660,7 +660,7 @@
     <site_id>42</site_id>
     <cultural_heritage_site_appellation>Villa Tommaseo</cultural_heritage_site_appellation>
     <typology>villa-privata</typology>
-    <coordinates>12.0876422 44.4202356</coordinates>
+    <coordinates>44.4202356 12.0876422</coordinates>
     <address>Ravenna, PIANGIPANE, via Mezzoli, 45</address>
     <chronology>ca seconda metà XVIII - ca fine-XVIII</chronology>
     <description>villa, privata, Villa Tommaseo</description>
@@ -676,7 +676,7 @@
     <site_id>43</site_id>
     <cultural_heritage_site_appellation>Battistero di San Giovanni in Fonte</cultural_heritage_site_appellation>
     <typology>battistero-parrocchiale</typology>
-    <coordinates>12.1974887 44.4156662</coordinates>
+    <coordinates>44.4156662 12.1974887</coordinates>
     <address>Ravenna, Via Battistero, 0, all'interno del giardino del Duomo fra via G. Rasponi e via R. Gessi</address>
     <chronology>inizio V - metà-V</chronology>
     <description>battistero, parrocchiale, Battistero di San Giovanni in Fonte</description>
@@ -692,7 +692,7 @@
     <site_id>44</site_id>
     <cultural_heritage_site_appellation>Mura Civiche</cultural_heritage_site_appellation>
     <typology>mura di cinta</typology>
-    <coordinates>12.1947607 44.4200266</coordinates>
+    <coordinates>44.4200266 12.1947607</coordinates>
     <address>Ravenna, Via Mura S. Vitale</address>
     <chronology>ca IV - ca XV</chronology>
     <description>mura di cinta, Mura Civiche</description>
@@ -708,7 +708,7 @@
     <site_id>45</site_id>
     <cultural_heritage_site_appellation>Campanile della Chiesa di San Giovanni Battista</cultural_heritage_site_appellation>
     <typology>campanile-parrocchiale</typology>
-    <coordinates>12.2012274 44.4200553</coordinates>
+    <coordinates>44.4200553 12.2012274</coordinates>
     <address>Ravenna, Via Girolamo Rossi, 0</address>
     <chronology>fine IX - inizio-X</chronology>
     <description>campanile, parrocchiale, Campanile della Chiesa di San Giovanni Battista</description>
@@ -724,7 +724,7 @@
     <site_id>46</site_id>
     <cultural_heritage_site_appellation>Basilica di S. Apollinare in Classe</cultural_heritage_site_appellation>
     <typology>basilica</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Ravenna, Strada Statale Adriatica, 16</address>
     <chronology>ca primo quarto VI - VI</chronology>
     <description>basilica, Basilica di S. Apollinare in Classe</description>
@@ -740,7 +740,7 @@
     <site_id>47</site_id>
     <cultural_heritage_site_appellation>Palazzo Fantuzzi poi Farini</cultural_heritage_site_appellation>
     <typology>palazzo-privato</typology>
-    <coordinates>12.1961952 44.416031</coordinates>
+    <coordinates>44.416031 12.1961952</coordinates>
     <address>Ravenna, piazza Duomo, 3</address>
     <chronology>ca terzo quarto XVII - ca terzo quarto-XVII</chronology>
     <description>palazzo, privato, Palazzo Fantuzzi poi Farini</description>
@@ -756,7 +756,7 @@
     <site_id>48</site_id>
     <cultural_heritage_site_appellation>Chiesa della Madonna dell'Albero</cultural_heritage_site_appellation>
     <typology>chiesa</typology>
-    <coordinates>12.1816153 44.3601333</coordinates>
+    <coordinates>44.3601333 12.1816153</coordinates>
     <address>Ravenna, MADONNA DELL'ALBERO, Via Cella,0</address>
     <chronology>XVII - XVII</chronology>
     <description>chiesa, Chiesa della Madonna dell'Albero</description>
@@ -772,7 +772,7 @@
     <site_id>49</site_id>
     <cultural_heritage_site_appellation>Basilica ed ex Monastero Benedettino di San Vitale</cultural_heritage_site_appellation>
     <typology>monastero-benedettino</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Ravenna</address>
     <chronology>VI - ca XX</chronology>
     <description>monastero, benedettino, Basilica ed ex Monastero Benedettino di San Vitale</description>
@@ -788,7 +788,7 @@
     <site_id>50</site_id>
     <cultural_heritage_site_appellation>Chiesa di S. Agata</cultural_heritage_site_appellation>
     <typology>chiesa</typology>
-    <coordinates>12.2016889 44.4121832</coordinates>
+    <coordinates>44.4121832 12.2016889</coordinates>
     <address>Ravenna, Via Giuseppe Mazzini, 0</address>
     <chronology>ca fine V - ante primo quarto-XX</chronology>
     <description>chiesa, Chiesa di S. Agata</description>
@@ -804,7 +804,7 @@
     <site_id>51</site_id>
     <cultural_heritage_site_appellation>Chiesa di S. Maria del Torrione</cultural_heritage_site_appellation>
     <typology>chiesa</typology>
-    <coordinates>12.1716884 44.3934038</coordinates>
+    <coordinates>44.3934038 12.1716884</coordinates>
     <address>Ravenna, Via Fiume Abbandonato, 0</address>
     <chronology>XVIII - XVIII</chronology>
     <description>chiesa, Chiesa di S. Maria del Torrione</description>
@@ -820,7 +820,7 @@
     <site_id>52</site_id>
     <cultural_heritage_site_appellation>Casa Mazzotti</cultural_heritage_site_appellation>
     <typology>casa-privata</typology>
-    <coordinates>12.2013336 44.4132398</coordinates>
+    <coordinates>44.4132398 12.2013336</coordinates>
     <address>Ravenna, Via Giuseppe Mazzini, 64</address>
     <chronology>ca XVIII - ca XVIII</chronology>
     <description>casa, privata, Casa Mazzotti</description>
@@ -836,7 +836,7 @@
     <site_id>53</site_id>
     <cultural_heritage_site_appellation>Chiesa e Convento di S.Francesco</cultural_heritage_site_appellation>
     <typology>complesso conventuale</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Ravenna, Piazza S.Francesco, 0</address>
     <chronology>ca metà V - prima metà-XX</chronology>
     <description>Complesso conventuale, Chiesa e Convento di S.Francesco</description>
@@ -852,7 +852,7 @@
     <site_id>54</site_id>
     <cultural_heritage_site_appellation>Chiesa di S. Maria delle Croci</cultural_heritage_site_appellation>
     <typology>chiesa</typology>
-    <coordinates>12.2043785 44.4160184</coordinates>
+    <coordinates>44.4160184 12.2043785</coordinates>
     <address>Ravenna, Via Girotto Guaccimanni, 0</address>
     <chronology>ca inizio XVI - ca fine-XVIII</chronology>
     <description>chiesa, Chiesa di S. Maria delle Croci</description>
@@ -868,7 +868,7 @@
     <site_id>55</site_id>
     <cultural_heritage_site_appellation>Casa Gualtieri</cultural_heritage_site_appellation>
     <typology>casa-residenziale</typology>
-    <coordinates>12.2008343 44.4142605</coordinates>
+    <coordinates>44.4142605 12.2008343</coordinates>
     <address>Ravenna, Via Giuseppe Mazzini, 42</address>
     <chronology>ca XVII - ca XVII</chronology>
     <description>casa, residenziale, Casa Gualtieri</description>
@@ -884,7 +884,7 @@
     <site_id>56</site_id>
     <cultural_heritage_site_appellation>Palazzo Serena Monghini</cultural_heritage_site_appellation>
     <typology>palazzo</typology>
-    <coordinates>12.2040723 44.4171364</coordinates>
+    <coordinates>44.4171364 12.2040723</coordinates>
     <address>Ravenna, Via Di Roma, 67</address>
     <chronology>XVIII - XVIII</chronology>
     <description>palazzo, Palazzo Serena Monghini</description>
@@ -900,7 +900,7 @@
     <site_id>57</site_id>
     <cultural_heritage_site_appellation>Chiesa di S. Barbara</cultural_heritage_site_appellation>
     <typology>chiesa</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Italia, Emilia Romagna, RA, Ravenna</address>
     <chronology>ante inizio XII - ca XIX</chronology>
     <description>chiesa, Chiesa di S. Barbara</description>
@@ -932,7 +932,7 @@
     <site_id>59</site_id>
     <cultural_heritage_site_appellation>Casa Benelli poi Casadio</cultural_heritage_site_appellation>
     <typology>casa-privata</typology>
-    <coordinates>12.1388559 44.4144159</coordinates>
+    <coordinates>44.4144159 12.1388559</coordinates>
     <address>Ravenna, via Gregorio Ricci Cubastro, 12</address>
     <chronology>ca inizio XIX - ca primo quarto-XIX</chronology>
     <description>casa, privata, Casa Benelli poi Casadio</description>
@@ -948,7 +948,7 @@
     <site_id>60</site_id>
     <cultural_heritage_site_appellation>Chiesa di S. Giovanni e Paolo</cultural_heritage_site_appellation>
     <typology>chiesa</typology>
-    <coordinates>12.1938362 44.4182612</coordinates>
+    <coordinates>44.4182612 12.1938362</coordinates>
     <address>Ravenna, Via Cura, 0</address>
     <chronology>XVII - XVIII</chronology>
     <description>chiesa, Chiesa di S. Giovanni e Paolo</description>
@@ -964,7 +964,7 @@
     <site_id>61</site_id>
     <cultural_heritage_site_appellation>Chiesa dei Santi Pietro e Paolo</cultural_heritage_site_appellation>
     <typology>chiesa-parrocchiale</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Ravenna, SAN PIETRO IN TRENTO, Via Traversara, angolo via Bezzi, 67</address>
     <chronology>inizio IX - prima metà-XX</chronology>
     <description>chiesa, parrocchiale, Chiesa dei Santi Pietro e Paolo</description>
@@ -980,7 +980,7 @@
     <site_id>62</site_id>
     <cultural_heritage_site_appellation>Casa Minzoni</cultural_heritage_site_appellation>
     <typology>casa-privata</typology>
-    <coordinates>12.1994572 44.4189142</coordinates>
+    <coordinates>44.4189142 12.1994572</coordinates>
     <address>Ravenna, via IV Novembre, 45</address>
     <chronology>ca secondo quarto XV - ca terzo quarto-XV</chronology>
     <description>casa, privata, Casa Minzoni</description>
@@ -996,7 +996,7 @@
     <site_id>63</site_id>
     <cultural_heritage_site_appellation>Fabbrica vecchia</cultural_heritage_site_appellation>
     <typology>casa-pubblica</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Ravenna, via D'Allaggio, 53</address>
     <chronology>XVIII - XVIII</chronology>
     <description>casa, pubblica, Fabbrica vecchia</description>
@@ -1012,7 +1012,7 @@
     <site_id>64</site_id>
     <cultural_heritage_site_appellation>Chiesa di San Sebastiano alle Aie</cultural_heritage_site_appellation>
     <typology>chiesa-sconsacrata</typology>
-    <coordinates>12.181619 44.3427021</coordinates>
+    <coordinates>44.3427021 12.181619</coordinates>
     <address>Ravenna, Via Fosso Ghiaia, 0</address>
     <chronology>ca prima metà XVIII - ca XVIII</chronology>
     <description>chiesa, sconsacrata, Chiesa di San Sebastiano alle Aie</description>
@@ -1028,7 +1028,7 @@
     <site_id>65</site_id>
     <cultural_heritage_site_appellation>Torri e Oratorio del Mezzano</cultural_heritage_site_appellation>
     <typology>torri e oratorio-privato</typology>
-    <coordinates>12.1070846 44.4942768</coordinates>
+    <coordinates>44.4942768 12.1070846</coordinates>
     <address>Ravenna, via Torri, 0</address>
     <chronology>ca inizio XVI - ca fine-XVI</chronology>
     <description>torri e oratorio, privato, Torri e Oratorio del Mezzano</description>
@@ -1044,7 +1044,7 @@
     <site_id>66</site_id>
     <cultural_heritage_site_appellation>Casa Monghini</cultural_heritage_site_appellation>
     <typology>casa-privata</typology>
-    <coordinates>12.2033042 44.4157452</coordinates>
+    <coordinates>44.4157452 12.2033042</coordinates>
     <address>Ravenna, via Girotto Guaccimanni, 27</address>
     <chronology>ca inizio XVIII - ca fine-XVIII</chronology>
     <description>casa, privata, Casa Monghini</description>
@@ -1060,7 +1060,7 @@
     <site_id>67</site_id>
     <cultural_heritage_site_appellation>Campanile della Chiesa di S.Francesco</cultural_heritage_site_appellation>
     <typology>campanile</typology>
-    <coordinates>12.2002704 44.4155985</coordinates>
+    <coordinates>44.4155985 12.2002704</coordinates>
     <address>Ravenna, Piazza San Francesco, 0</address>
     <chronology>metà IX - seconda metà-IX</chronology>
     <description>Campanile, Campanile della Chiesa di S.Francesco</description>
@@ -1076,7 +1076,7 @@
     <site_id>68</site_id>
     <cultural_heritage_site_appellation>Chiesa dello Spirito Santo</cultural_heritage_site_appellation>
     <typology>chiesa</typology>
-    <coordinates>12.2020594 44.4185674</coordinates>
+    <coordinates>44.4185674 12.2020594</coordinates>
     <address>Ravenna, Vicolo degli Ariani, 0</address>
     <chronology>fine V - inizio-VI</chronology>
     <description>chiesa, Chiesa dello Spirito Santo</description>
@@ -1108,7 +1108,7 @@
     <site_id>70</site_id>
     <cultural_heritage_site_appellation>Palazzo Gamba</cultural_heritage_site_appellation>
     <typology>palazzo-residenziale</typology>
-    <coordinates>12.1982536 44.4202322</coordinates>
+    <coordinates>44.4202322 12.1982536</coordinates>
     <address>Ravenna, via Gamba, 3</address>
     <chronology>ca terzo quarto XVIII - ca terzo quarto-XVIII</chronology>
     <description>palazzo, residenziale, Palazzo Gamba</description>
@@ -1124,7 +1124,7 @@
     <site_id>71</site_id>
     <cultural_heritage_site_appellation>Chiesa di San Lorenzo</cultural_heritage_site_appellation>
     <typology>chiesa-parrocchiale</typology>
-    <coordinates>12.1394354 44.3439453</coordinates>
+    <coordinates>44.3439453 12.1394354</coordinates>
     <address>Ravenna,Via Gambellara, 1</address>
     <chronology>fine VII - seconda metà-XIX</chronology>
     <description>chiesa, parrocchiale, Chiesa di San Lorenzo</description>
@@ -1140,7 +1140,7 @@
     <site_id>72</site_id>
     <cultural_heritage_site_appellation>Canonica della Chiesa di S. Andrea Apostolo</cultural_heritage_site_appellation>
     <typology>canonica</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Ravenna, Via Massa, 88</address>
     <chronology>XVIII - XVIII</chronology>
     <description>canonica, Canonica della Chiesa di S. Andrea Apostolo</description>
@@ -1156,7 +1156,7 @@
     <site_id>73</site_id>
     <cultural_heritage_site_appellation>Casa Succi</cultural_heritage_site_appellation>
     <typology>casa-privata</typology>
-    <coordinates>12.1990932 44.4166708</coordinates>
+    <coordinates>44.4166708 12.1990932</coordinates>
     <address>Ravenna, via Mentana 33</address>
     <chronology>ca fine XVI - ca fine-XVI</chronology>
     <description>casa, privata, Casa Succi</description>
@@ -1172,7 +1172,7 @@
     <site_id>74</site_id>
     <cultural_heritage_site_appellation>Casa Gabici</cultural_heritage_site_appellation>
     <typology>casa-residenziale</typology>
-    <coordinates>12.2017926 44.4172272</coordinates>
+    <coordinates>44.4172272 12.2017926</coordinates>
     <address>Ravenna, via Mariani, 7</address>
     <chronology>ca terzo quarto XIX - ca terzo quarto-XIX</chronology>
     <description>casa, residenziale, Casa Gabici</description>
@@ -1188,7 +1188,7 @@
     <site_id>75</site_id>
     <cultural_heritage_site_appellation>Chiesa di San Pantaleone Martire</cultural_heritage_site_appellation>
     <typology>chiesa-parrocchiale</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Ravenna, Via Zignani, 44</address>
     <chronology>prima metà XIX - metà-XIX</chronology>
     <description>chiesa, parrocchiale, Chiesa di San Pantaleone Martire</description>
@@ -1204,7 +1204,7 @@
     <site_id>76</site_id>
     <cultural_heritage_site_appellation>Casa Traversari</cultural_heritage_site_appellation>
     <typology>casa</typology>
-    <coordinates>12.1970013 44.4196258</coordinates>
+    <coordinates>44.4196258 12.1970013</coordinates>
     <address>Ravenna, via San Vitale, 28, 30</address>
     <chronology>ca metà XIII - ca seconda metà-XIII</chronology>
     <description>casa, Casa Traversari</description>
@@ -1220,7 +1220,7 @@
     <site_id>77</site_id>
     <cultural_heritage_site_appellation>Casa Vignuzzi</cultural_heritage_site_appellation>
     <typology>casa</typology>
-    <coordinates>12.1963647 44.403353</coordinates>
+    <coordinates>44.403353 12.1963647</coordinates>
     <address>Ravenna, Via San Mama, 175</address>
     <chronology>ca XVIII - prima metà-XIX</chronology>
     <description>casa, Casa Vignuzzi</description>
@@ -1236,7 +1236,7 @@
     <site_id>78</site_id>
     <cultural_heritage_site_appellation>Casa Maioli Stanghellini</cultural_heritage_site_appellation>
     <typology>casa-privata</typology>
-    <coordinates>12.2011494 44.419134</coordinates>
+    <coordinates>44.419134 12.2011494</coordinates>
     <address>Ravenna, via Paolo Costa, 8</address>
     <chronology>ca inizio XV - ca fine-XV</chronology>
     <description>casa, privata, Casa Maioli Stanghellini</description>
@@ -1252,7 +1252,7 @@
     <site_id>79</site_id>
     <cultural_heritage_site_appellation>Casa Zaccaria</cultural_heritage_site_appellation>
     <typology>casa-privata</typology>
-    <coordinates>12.2031660 44.4157906</coordinates>
+    <coordinates>44.4157906 12.2031660</coordinates>
     <address>Ravenna, via Guaccimanni, 62</address>
     <chronology>ca XVII - ca XVII</chronology>
     <description>casa, privata, Casa Zaccaria</description>
@@ -1268,7 +1268,7 @@
     <site_id>80</site_id>
     <cultural_heritage_site_appellation>Casa Vignuzzi</cultural_heritage_site_appellation>
     <typology>casa-residenziale</typology>
-    <coordinates>12.2031688 44.4174561</coordinates>
+    <coordinates>44.4174561 12.2031688</coordinates>
     <address>Ravenna, Via Angelo Mariani, 21</address>
     <chronology>ca ultimo quarto XVI - ca primo quarto-XVII</chronology>
     <description>casa, residenziale, Casa Vignuzzi</description>
@@ -1284,7 +1284,7 @@
     <site_id>81</site_id>
     <cultural_heritage_site_appellation>Chiesa di S. Agata</cultural_heritage_site_appellation>
     <typology>chiesa</typology>
-    <coordinates>12.2016889 44.4121832</coordinates>
+    <coordinates>44.4121832 12.2016889</coordinates>
     <address>Ravenna, Via Giuseppe Mazzini, 0</address>
     <chronology>ca V - ante primo quarto-XX</chronology>
     <description>chiesa, Chiesa di S. Agata</description>
@@ -1316,7 +1316,7 @@
     <site_id>83</site_id>
     <cultural_heritage_site_appellation>Torre</cultural_heritage_site_appellation>
     <typology>torre-privata</typology>
-    <coordinates>12.09383 44.4142197</coordinates>
+    <coordinates>44.4142197 12.09383</coordinates>
     <address>Ravenna, via Braccesca, 44</address>
     <chronology>ca inizio XVI - ca fine-XVI</chronology>
     <description>torre, privata, Torre</description>
@@ -1332,7 +1332,7 @@
     <site_id>84</site_id>
     <cultural_heritage_site_appellation>Campanile della Chiesa dei SS. Giovanni e Paolo</cultural_heritage_site_appellation>
     <typology>campanile</typology>
-    <coordinates>12.1938362 44.4182612</coordinates>
+    <coordinates>44.4182612 12.1938362</coordinates>
     <address>Ravenna, Via Cura, 0</address>
     <chronology>ca VIII - ca IX</chronology>
     <description>campanile, Campanile della Chiesa dei SS. Giovanni e Paolo</description>
@@ -1348,7 +1348,7 @@
     <site_id>85</site_id>
     <cultural_heritage_site_appellation>Alighieri</cultural_heritage_site_appellation>
     <typology>teatro</typology>
-    <coordinates>12.2017926 44.4172272</coordinates>
+    <coordinates>44.4172272 12.2017926</coordinates>
     <address>Ravenna, via Mariani, 0</address>
     <chronology>XIX - XIX</chronology>
     <description>teatro, Alighieri</description>
@@ -1364,7 +1364,7 @@
     <site_id>86</site_id>
     <cultural_heritage_site_appellation>Palazzo Grossi</cultural_heritage_site_appellation>
     <typology>palazzo-privato</typology>
-    <coordinates>12.2002489 44.4190105</coordinates>
+    <coordinates>44.4190105 12.2002489</coordinates>
     <address>Ravenna, via Paolo Costa, 1</address>
     <chronology>ca seconda metà XVI - ca fine-XVI</chronology>
     <description>palazzo, privato, Palazzo Grossi</description>
@@ -1380,7 +1380,7 @@
     <site_id>87</site_id>
     <cultural_heritage_site_appellation>Casa di campagna dell'Arcivescovo Codronchi</cultural_heritage_site_appellation>
     <typology>villa-privata</typology>
-    <coordinates>12.1923863 44.3833523</coordinates>
+    <coordinates>44.3833523 12.1923863</coordinates>
     <address>Ravenna, via Ravegnana, 479</address>
     <chronology>ca seconda metà XVIII - fine-XVIII</chronology>
     <description>villa, privata, Casa di campagna dell'Arcivescovo Codronchi</description>
@@ -1396,7 +1396,7 @@
     <site_id>88</site_id>
     <cultural_heritage_site_appellation>Cappella di S. Andrea (cappella )</cultural_heritage_site_appellation>
     <typology>cappella</typology>
-    <coordinates>12.2923064 44.4403718</coordinates>
+    <coordinates>44.4403718 12.2923064</coordinates>
     <address>Emilia-Romagna, RA, Ravenna</address>
     <chronology>--</chronology>
     <description>cappella, Cappella di S. Andrea</description>
@@ -1412,7 +1412,7 @@
     <site_id>89</site_id>
     <cultural_heritage_site_appellation>Casa Luconi</cultural_heritage_site_appellation>
     <typology>casa-privata</typology>
-    <coordinates>12.2006525 44.4145288</coordinates>
+    <coordinates>44.4145288 12.2006525</coordinates>
     <address>Ravenna, Via Giuseppe Mazzini, 30</address>
     <chronology>ca XV - XX</chronology>
     <description>casa, privata, Casa Luconi</description>
@@ -1428,7 +1428,7 @@
     <site_id>90</site_id>
     <cultural_heritage_site_appellation>Istituto Magistrale</cultural_heritage_site_appellation>
     <typology>scuola / orfanatrofio</typology>
-    <coordinates>12.2014104 44.4149746</coordinates>
+    <coordinates>44.4149746 12.2014104</coordinates>
     <address>Ravenna, Via Tombesi Dall'Ova, 14</address>
     <chronology>XVII - XVIII</chronology>
     <description>scuola / orfanatrofio, Istituto Magistrale</description>
@@ -1444,7 +1444,7 @@
     <site_id>91</site_id>
     <cultural_heritage_site_appellation>Villa Pasolini dall'Onda e parco</cultural_heritage_site_appellation>
     <typology>villa-residenziale</typology>
-    <coordinates>12.1964898 44.4020871</coordinates>
+    <coordinates>44.4020871 12.1964898</coordinates>
     <address>Ravenna, via Ravegnana, 731</address>
     <chronology>inizio XVII - fine-XVII</chronology>
     <description>villa, residenziale, Villa Pasolini dall'Onda e parco</description>
@@ -1460,7 +1460,7 @@
     <site_id>92</site_id>
     <cultural_heritage_site_appellation>Porta S. Mama</cultural_heritage_site_appellation>
     <typology>porta urbana</typology>
-    <coordinates>12.2008539 44.4116469</coordinates>
+    <coordinates>44.4116469 12.2008539</coordinates>
     <address>Ravenna, Via Bastione, 0</address>
     <chronology>XVII - XVII</chronology>
     <description>porta urbana, Porta S. Mama</description>
@@ -1476,7 +1476,7 @@
     <site_id>93</site_id>
     <cultural_heritage_site_appellation>Ex convento dei monaci agostiniani</cultural_heritage_site_appellation>
     <typology>convento</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Ravenna, via N. Rondinelli, 4</address>
     <chronology>seconda metà XVIII - XVIII</chronology>
     <description>convento, Ex convento dei monaci agostiniani</description>
@@ -1492,7 +1492,7 @@
     <site_id>94</site_id>
     <cultural_heritage_site_appellation>Sepolcro di Dante</cultural_heritage_site_appellation>
     <typology>sepolcro</typology>
-    <coordinates>12.2004974 44.4162107</coordinates>
+    <coordinates>44.4162107 12.2004974</coordinates>
     <address>Ravenna, Via Guido da Polenta, 0</address>
     <chronology>XVIII - XVIII</chronology>
     <description>sepolcro, Sepolcro di Dante</description>
@@ -1508,7 +1508,7 @@
     <site_id>95</site_id>
     <cultural_heritage_site_appellation>Chiesa di Sant'Apollinare in Veclo</cultural_heritage_site_appellation>
     <typology>chiesa-conventuale</typology>
-    <coordinates>12.1986667 44.4212391</coordinates>
+    <coordinates>44.4212391 12.1986667</coordinates>
     <address>Ravenna, Via Pietro Alighieri, 4</address>
     <chronology>XVIII - XVIII</chronology>
     <description>chiesa, conventuale, Chiesa di Sant'Apollinare in Veclo</description>
@@ -1524,7 +1524,7 @@
     <site_id>96</site_id>
     <cultural_heritage_site_appellation>Chiesa di S. Chiara</cultural_heritage_site_appellation>
     <typology>chiesa</typology>
-    <coordinates>12.2035804 44.4179146</coordinates>
+    <coordinates>44.4179146 12.2035804</coordinates>
     <address>Ravenna, Via Di Roma, 0</address>
     <chronology>post metà XIII - XVIII</chronology>
     <description>chiesa, Chiesa di S. Chiara</description>
@@ -1540,7 +1540,7 @@
     <site_id>97</site_id>
     <cultural_heritage_site_appellation>Palazzo Rasponi-Bonanzi</cultural_heritage_site_appellation>
     <typology>palazzo-privato</typology>
-    <coordinates>12.2045014 44.4156956</coordinates>
+    <coordinates>44.4156956 12.2045014</coordinates>
     <address>Ravenna, via di Roma, 108</address>
     <chronology>XIX - XIX</chronology>
     <description>palazzo, privato, Palazzo Rasponi-Bonanzi</description>
@@ -1556,7 +1556,7 @@
     <site_id>98</site_id>
     <cultural_heritage_site_appellation>Convento e Chiesa di S. Giovanni Evangelista</cultural_heritage_site_appellation>
     <typology>convento</typology>
-    <coordinates>12.2049025 44.418002</coordinates>
+    <coordinates>44.418002 12.2049025</coordinates>
     <address>Ravenna, Piazza Anita Garibaldi, 0</address>
     <chronology>ca prima metà V - ante metà-XX</chronology>
     <description>convento, Convento e Chiesa di S. Giovanni Evangelista</description>
@@ -1572,7 +1572,7 @@
     <site_id>99</site_id>
     <cultural_heritage_site_appellation>casa ( privata)</cultural_heritage_site_appellation>
     <typology>casa-privata</typology>
-    <coordinates>12.1951704 44.4182254</coordinates>
+    <coordinates>44.4182254 12.1951704</coordinates>
     <address>Ravenna, via Carlo Cattaneo, 34</address>
     <chronology>ca metà XVIII - ca metà-XIX</chronology>
     <description>casa, privata</description>
@@ -1588,7 +1588,7 @@
     <site_id>100</site_id>
     <cultural_heritage_site_appellation>Chiesa di S. Pietro in Campiano</cultural_heritage_site_appellation>
     <typology>chiesa</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Ravenna, Via Sale, 102</address>
     <chronology>XVIII - XVIII</chronology>
     <description>chiesa, Chiesa di S. Pietro in Campiano</description>
@@ -1604,7 +1604,7 @@
     <site_id>101</site_id>
     <cultural_heritage_site_appellation>Torre Albicini</cultural_heritage_site_appellation>
     <typology>torre-privata</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Ravenna, via Alturie, 30</address>
     <chronology>ca XV - ca XVI</chronology>
     <description>torre, privata, Torre Albicini</description>
@@ -1620,7 +1620,7 @@
     <site_id>102</site_id>
     <cultural_heritage_site_appellation>Convento dei Monaci Lateranensi</cultural_heritage_site_appellation>
     <typology>convento</typology>
-    <coordinates>12.2062623 44.4137584</coordinates>
+    <coordinates>44.4137584 12.2062623</coordinates>
     <address>Ravenna, Via Di Roma, 13</address>
     <chronology>XV - ante terzo quarto-XX</chronology>
     <description>convento, Convento dei Monaci Lateranensi</description>
@@ -1636,7 +1636,7 @@
     <site_id>103</site_id>
     <cultural_heritage_site_appellation>campanile della Basilica di S.Vitale</cultural_heritage_site_appellation>
     <typology>campanile</typology>
-    <coordinates>12.195915 44.4201193</coordinates>
+    <coordinates>44.4201193 12.195915</coordinates>
     <address>Ravenna, Via San Vitale, 17</address>
     <chronology>(?) prima metà X - (?) prima metà-X</chronology>
     <description>campanile, campanile della Basilica di S.Vitale</description>
@@ -1652,7 +1652,7 @@
     <site_id>104</site_id>
     <cultural_heritage_site_appellation>villino ( monofamiliare)</cultural_heritage_site_appellation>
     <typology>villino-monofamiliare</typology>
-    <coordinates>12.2064413 44.4162155</coordinates>
+    <coordinates>44.4162155 12.2064413</coordinates>
     <address>Ravenna, via Alberoni, 12</address>
     <chronology>XX - prima metà-XX</chronology>
     <description>villino, monofamiliare</description>
@@ -1668,7 +1668,7 @@
     <site_id>105</site_id>
     <cultural_heritage_site_appellation>Casa Capra</cultural_heritage_site_appellation>
     <typology>palazzo</typology>
-    <coordinates>12.2486868 44.4081745</coordinates>
+    <coordinates>44.4081745 12.2486868</coordinates>
     <address>Ravenna, via Zirardini, 14</address>
     <chronology>XVII - prima metà-XVII</chronology>
     <description>palazzo, Casa Capra</description>
@@ -1684,7 +1684,7 @@
     <site_id>106</site_id>
     <cultural_heritage_site_appellation>ex Magazzino Fabbrica di concimi chimici</cultural_heritage_site_appellation>
     <typology>capannone-industriale</typology>
-    <coordinates>12.2152229 44.4265013</coordinates>
+    <coordinates>44.4265013 12.2152229</coordinates>
     <address>Ravenna, via Montecatini, 3</address>
     <chronology>XX - XX</chronology>
     <description>capannone, industriale, ex Magazzino Fabbrica di concimi chimici</description>
@@ -1700,7 +1700,7 @@
     <site_id>107</site_id>
     <cultural_heritage_site_appellation>Istituto Galletti Abbiosi</cultural_heritage_site_appellation>
     <typology>palazzo</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Italia, Emilia Romagna, RA, Ravenna</address>
     <chronology>ca XVIII - ante seconda metà-XIX</chronology>
     <description>palazzo, Istituto Galletti Abbiosi</description>
@@ -1716,7 +1716,7 @@
     <site_id>108</site_id>
     <cultural_heritage_site_appellation>Chiesa di S. Maria del Suffragio</cultural_heritage_site_appellation>
     <typology>chiesa</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Ravenna, via XIII Giugno, 0</address>
     <chronology>XVIII - XVIII</chronology>
     <description>chiesa, Chiesa di S. Maria del Suffragio</description>
@@ -1732,7 +1732,7 @@
     <site_id>109</site_id>
     <cultural_heritage_site_appellation>Chiesa di S. Rocco</cultural_heritage_site_appellation>
     <typology>chiesa</typology>
-    <coordinates>12.2022572 44.4104957</coordinates>
+    <coordinates>44.4104957 12.2022572</coordinates>
     <address>Ravenna, Via Castel San Pietro, 0</address>
     <chronology>XIX - XIX</chronology>
     <description>chiesa, Chiesa di S. Rocco</description>
@@ -1748,7 +1748,7 @@
     <site_id>110</site_id>
     <cultural_heritage_site_appellation>Campanile della Chiesa di San Pantaleone Martire</cultural_heritage_site_appellation>
     <typology>campanile-parrocchiale</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Ravenna, Via Zignani, 44</address>
     <chronology>prima metà XIX - seconda metà-XIX</chronology>
     <description>campanile, parrocchiale, Campanile della Chiesa di San Pantaleone Martire</description>
@@ -1764,7 +1764,7 @@
     <site_id>111</site_id>
     <cultural_heritage_site_appellation>Mausoleo di Galla Placidia</cultural_heritage_site_appellation>
     <typology>mausoleo</typology>
-    <coordinates>12.1971941 44.4213171</coordinates>
+    <coordinates>44.4213171 12.1971941</coordinates>
     <address>Ravenna, Via Galla Placidia, 0</address>
     <chronology>ca metà V - ca metà-V</chronology>
     <description>mausoleo, Mausoleo di Galla Placidia</description>
@@ -1780,7 +1780,7 @@
     <site_id>112</site_id>
     <cultural_heritage_site_appellation>Palazzo Corradini</cultural_heritage_site_appellation>
     <typology>palazzo-uso pubblico</typology>
-    <coordinates>12.2017926 44.4172272</coordinates>
+    <coordinates>44.4172272 12.2017926</coordinates>
     <address>Ravenna, via Mariani, 5</address>
     <chronology>ca prima metà XVII - ca prima metà-XVIII</chronology>
     <description>palazzo, uso pubblico, Palazzo Corradini</description>
@@ -1796,7 +1796,7 @@
     <site_id>113</site_id>
     <cultural_heritage_site_appellation>Casa Bartolazzi</cultural_heritage_site_appellation>
     <typology>casa-residenziale</typology>
-    <coordinates>12.2032208 44.4176084</coordinates>
+    <coordinates>44.4176084 12.2032208</coordinates>
     <address>Ravenna, Via Angelo Mariani, 46</address>
     <chronology>XVII - XVII</chronology>
     <description>casa, residenziale, Casa Bartolazzi</description>
@@ -1812,7 +1812,7 @@
     <site_id>114</site_id>
     <cultural_heritage_site_appellation>Palazzo Santa Croce</cultural_heritage_site_appellation>
     <typology>palazzo-privato</typology>
-    <coordinates>12.2031660 44.4157906</coordinates>
+    <coordinates>44.4157906 12.2031660</coordinates>
     <address>Ravenna, via Guaccimanni, 40</address>
     <chronology>post terzo quarto XVIII - post terzo quarto-XVIII</chronology>
     <description>palazzo, privato, Palazzo Santa Croce</description>
@@ -1828,7 +1828,7 @@
     <site_id>115</site_id>
     <cultural_heritage_site_appellation>Casa Saporetti</cultural_heritage_site_appellation>
     <typology>casa-privata</typology>
-    <coordinates>12.2018761 44.4191744</coordinates>
+    <coordinates>44.4191744 12.2018761</coordinates>
     <address>Ravenna, via Paolo Costa, 22</address>
     <chronology>ca inizio XIX - ca fine-XIX</chronology>
     <description>casa, privata, Casa Saporetti</description>
@@ -1844,7 +1844,7 @@
     <site_id>116</site_id>
     <cultural_heritage_site_appellation>Ex Caserma Gorizia</cultural_heritage_site_appellation>
     <typology>convento</typology>
-    <coordinates>12.1783393 44.4453596</coordinates>
+    <coordinates>44.4453596 12.1783393</coordinates>
     <address>Ravenna, via San Vitale, 21</address>
     <chronology>seconda metà XIX - XIX</chronology>
     <description>convento, Ex Caserma Gorizia</description>
@@ -1860,7 +1860,7 @@
     <site_id>117</site_id>
     <cultural_heritage_site_appellation>Convento dei Padri Cappuccini</cultural_heritage_site_appellation>
     <typology>edilizia complessa religiosa a corpi aggregati-conventuale</typology>
-    <coordinates>12.1948771 44.4162304</coordinates>
+    <coordinates>44.4162304 12.1948771</coordinates>
     <address>Ravenna, Via Oberdan, 6</address>
     <chronology>post seconda metà XIX - ca ultimo quarto-XIX</chronology>
     <description>edilizia complessa religiosa a corpi aggregati, conventuale, Convento dei Padri Cappuccini</description>
@@ -1876,7 +1876,7 @@
     <site_id>118</site_id>
     <cultural_heritage_site_appellation>Campanile della Cattedrale della Resurrezione</cultural_heritage_site_appellation>
     <typology>campanile</typology>
-    <coordinates>12.1974887 44.4156662</coordinates>
+    <coordinates>44.4156662 12.1974887</coordinates>
     <address>Ravenna, Via Battistero, 0</address>
     <chronology>post seconda metà X - ca metà-XI</chronology>
     <description>campanile, Campanile della Cattedrale della Resurrezione</description>
@@ -1892,7 +1892,7 @@
     <site_id>119</site_id>
     <cultural_heritage_site_appellation>Casa Brandolini detta dei Polentani</cultural_heritage_site_appellation>
     <typology>casa-privata</typology>
-    <coordinates>12.2016739 44.412109</coordinates>
+    <coordinates>44.412109 12.2016739</coordinates>
     <address>Ravenna, via Zagarelli alle Mura, 2</address>
     <chronology>ca inizio XIII - ca prima metà-XIII</chronology>
     <description>casa, privata, Casa Brandolini detta dei Polentani</description>
@@ -1908,7 +1908,7 @@
     <site_id>120</site_id>
     <cultural_heritage_site_appellation>Monastero delle Cappuccine</cultural_heritage_site_appellation>
     <typology>monastero-conventuale</typology>
-    <coordinates>12.1990753 44.4210538</coordinates>
+    <coordinates>44.4210538 12.1990753</coordinates>
     <address>Ravenna, Via Pietro Alighieri, 6</address>
     <chronology>ca prima metà XVIII - XIX</chronology>
     <description>monastero, conventuale, Monastero delle Cappuccine</description>
@@ -1924,7 +1924,7 @@
     <site_id>121</site_id>
     <cultural_heritage_site_appellation>Chiesa di Santo Stefano Protomartire</cultural_heritage_site_appellation>
     <typology>chiesa-conventuale</typology>
-    <coordinates>12.2031660 44.4157906</coordinates>
+    <coordinates>44.4157906 12.2031660</coordinates>
     <address>Ravenna, Via Guaccimanni, 0</address>
     <chronology>seconda metà XVIII - fine-XIX</chronology>
     <description>chiesa, conventuale, Chiesa di Santo Stefano Protomartire</description>
@@ -1940,7 +1940,7 @@
     <site_id>122</site_id>
     <cultural_heritage_site_appellation>Palazzone</cultural_heritage_site_appellation>
     <typology>palazzo</typology>
-    <coordinates>12.1913677 44.4126971</coordinates>
+    <coordinates>44.4126971 12.1913677</coordinates>
     <address>Ravenna, via Nigrisoli, 62</address>
     <chronology>ca inizio XVI - ca fine-XVI</chronology>
     <description>palazzo, Palazzone</description>
@@ -1956,7 +1956,7 @@
     <site_id>123</site_id>
     <cultural_heritage_site_appellation>Colonna dei Francesi</cultural_heritage_site_appellation>
     <typology>colonna-onoraria</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Ravenna, Via Argine destrofiume Ronco, 0</address>
     <chronology>XVI - XVI</chronology>
     <description>colonna, onoraria, Colonna dei Francesi</description>
@@ -1972,7 +1972,7 @@
     <site_id>124</site_id>
     <cultural_heritage_site_appellation>Palazzo Arcivescovile</cultural_heritage_site_appellation>
     <typology>palazzo</typology>
-    <coordinates>12.1976094 44.415209</coordinates>
+    <coordinates>44.415209 12.1976094</coordinates>
     <address>Ravenna, Piazza Arcivescovado, 1</address>
     <chronology>post V - ca XIX</chronology>
     <description>palazzo, Palazzo Arcivescovile</description>
@@ -1988,7 +1988,7 @@
     <site_id>125</site_id>
     <cultural_heritage_site_appellation>Marchesato o Casamento dei Marchesi Cavalli</cultural_heritage_site_appellation>
     <typology>casamento-privato</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Ravenna, via d'Allaggio</address>
     <chronology>XVIII - XVIII</chronology>
     <description>casamento, privato, Marchesato o Casamento dei Marchesi Cavalli</description>
@@ -2004,7 +2004,7 @@
     <site_id>126</site_id>
     <cultural_heritage_site_appellation>Palazzo Prandi poi Vicari</cultural_heritage_site_appellation>
     <typology>palazzo-privato</typology>
-    <coordinates>12.1956513 44.4173496</coordinates>
+    <coordinates>44.4173496 12.1956513</coordinates>
     <address>Ravenna, via Massimo d'Azeglio, 10</address>
     <chronology>ca XVII - ca XVII</chronology>
     <description>palazzo, privato, Palazzo Prandi poi Vicari</description>
@@ -2052,7 +2052,7 @@
     <site_id>129</site_id>
     <cultural_heritage_site_appellation>Villa Capra - Valli</cultural_heritage_site_appellation>
     <typology>villa-privata</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Ravenna, via Argine sinistro del Montone, 149</address>
     <chronology>primo quarto XVII - ultimo quarto-XVIII</chronology>
     <description>villa, privata, Villa Capra - Valli</description>
@@ -2068,7 +2068,7 @@
     <site_id>130</site_id>
     <cultural_heritage_site_appellation>Casa Rosetti</cultural_heritage_site_appellation>
     <typology>casa</typology>
-    <coordinates>12.2031660 44.4157906</coordinates>
+    <coordinates>44.4157906 12.2031660</coordinates>
     <address>Ravenna, Via Guaccimanni, 29</address>
     <chronology>post inizio XIX - ca XX</chronology>
     <description>casa, Casa Rosetti</description>
@@ -2084,7 +2084,7 @@
     <site_id>131</site_id>
     <cultural_heritage_site_appellation>Casa Amadori</cultural_heritage_site_appellation>
     <typology>casa</typology>
-    <coordinates>12.2042761 44.4161869</coordinates>
+    <coordinates>44.4161869 12.2042761</coordinates>
     <address>Ravenna, Via Di Roma, 116</address>
     <chronology>ca XVIII - ca XIX</chronology>
     <description>casa, Casa Amadori</description>
@@ -2100,7 +2100,7 @@
     <site_id>132</site_id>
     <cultural_heritage_site_appellation>Casa Fabri</cultural_heritage_site_appellation>
     <typology>casa</typology>
-    <coordinates>12.2003242 44.4161896</coordinates>
+    <coordinates>44.4161896 12.2003242</coordinates>
     <address>Ravenna, Via Guido Da Polenta, 4</address>
     <chronology>ca XVI - ca XVI</chronology>
     <description>casa, Casa Fabri</description>
@@ -2116,7 +2116,7 @@
     <site_id>133</site_id>
     <cultural_heritage_site_appellation>Palazzo Pasolini dall'Onda</cultural_heritage_site_appellation>
     <typology>palazzo-privato</typology>
-    <coordinates>12.1986317 44.4176313</coordinates>
+    <coordinates>44.4176313 12.1986317</coordinates>
     <address>Ravenna, piazza XX Settembre, 5</address>
     <chronology>ca fine XV - ca inizio-XVI</chronology>
     <description>palazzo, privato, Palazzo Pasolini dall'Onda</description>
@@ -2132,7 +2132,7 @@
     <site_id>134</site_id>
     <cultural_heritage_site_appellation>Ex zuccherificio di Classe</cultural_heritage_site_appellation>
     <typology>complesso industriale</typology>
-    <coordinates>12.2523379 44.3914542</coordinates>
+    <coordinates>44.3914542 12.2523379</coordinates>
     <address>Ravenna, Via di Classe Fuori, 0</address>
     <chronology>XIX/ XX</chronology>
     <description>Complesso industriale, Ex zuccherificio di Classe</description>
@@ -2148,7 +2148,7 @@
     <site_id>135</site_id>
     <cultural_heritage_site_appellation>Resti della Chiesa di S. Maria del Pozzo</cultural_heritage_site_appellation>
     <typology>chiesa</typology>
-    <coordinates>12.1968242 44.4190425</coordinates>
+    <coordinates>44.4190425 12.1968242</coordinates>
     <address>Ravenna, Via Camillo Benso Conte di Cavour, 10</address>
     <chronology>ca prima metà XVIII - ca metà-XVIII</chronology>
     <description>chiesa, Resti della Chiesa di S. Maria del Pozzo</description>
@@ -2164,7 +2164,7 @@
     <site_id>136</site_id>
     <cultural_heritage_site_appellation>Chiesa di San Marco</cultural_heritage_site_appellation>
     <typology>chiesa-parrocchiale</typology>
-    <coordinates>12.1543025 44.3560702</coordinates>
+    <coordinates>44.3560702 12.1543025</coordinates>
     <address>Ravenna, Via Del Borgo, 1</address>
     <chronology>seconda metà XV - seconda metà-XV</chronology>
     <description>chiesa, parrocchiale, Chiesa di San Marco</description>
@@ -2180,7 +2180,7 @@
     <site_id>137</site_id>
     <cultural_heritage_site_appellation>Chiesa di Santa Maria in Porto</cultural_heritage_site_appellation>
     <typology>chiesa-parrocchiale</typology>
-    <coordinates>12.2035804 44.4179146</coordinates>
+    <coordinates>44.4179146 12.2035804</coordinates>
     <address>Ravenna, via di Roma, 0</address>
     <chronology>XVI - XVI</chronology>
     <description>chiesa, parrocchiale, Chiesa di Santa Maria in Porto</description>
@@ -2196,7 +2196,7 @@
     <site_id>138</site_id>
     <cultural_heritage_site_appellation>Chiesa di S. Maria Maddalena</cultural_heritage_site_appellation>
     <typology>chiesa</typology>
-    <coordinates>12.1388559 44.4144159</coordinates>
+    <coordinates>44.4144159 12.1388559</coordinates>
     <address>Ravenna, Via Gregorio Ricci Cubastro, 0</address>
     <chronology>XVIII - XVIII</chronology>
     <description>chiesa, Chiesa di S. Maria Maddalena</description>
@@ -2212,7 +2212,7 @@
     <site_id>139</site_id>
     <cultural_heritage_site_appellation>Casa Melandri</cultural_heritage_site_appellation>
     <typology>casa</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Ravenna, Ponte Marino, 2</address>
     <chronology>post XVI - XX</chronology>
     <description>casa, Casa Melandri</description>
@@ -2228,7 +2228,7 @@
     <site_id>140</site_id>
     <cultural_heritage_site_appellation>Accademia delle Belle Arti</cultural_heritage_site_appellation>
     <typology>convento</typology>
-    <coordinates>12.2035804 44.4179146</coordinates>
+    <coordinates>44.4179146 12.2035804</coordinates>
     <address>Ravenna, Via Di Roma, 0</address>
     <chronology/>
     <description>convento, Accademia delle Belle Arti</description>
@@ -2244,7 +2244,7 @@
     <site_id>141</site_id>
     <cultural_heritage_site_appellation>Monastero di Sant'Apollinare in Veclo</cultural_heritage_site_appellation>
     <typology>monastero-conventuale</typology>
-    <coordinates>12.1986667 44.4212391</coordinates>
+    <coordinates>44.4212391 12.1986667</coordinates>
     <address>Ravenna, Via Pietro Alighieri, 4</address>
     <chronology>XVIII - XVIII</chronology>
     <description>monastero, conventuale, Monastero di Sant'Apollinare in Veclo</description>
@@ -2260,7 +2260,7 @@
     <site_id>142</site_id>
     <cultural_heritage_site_appellation>Casa Bernicoli</cultural_heritage_site_appellation>
     <typology>casa</typology>
-    <coordinates>12.2052363 44.4143243</coordinates>
+    <coordinates>44.4143243 12.2052363</coordinates>
     <address>Ravenna, Via Di Roma, 68</address>
     <chronology>(?) XIX - (?) XX</chronology>
     <description>casa, Casa Bernicoli</description>
@@ -2276,7 +2276,7 @@
     <site_id>143</site_id>
     <cultural_heritage_site_appellation>Battistero degli Ariani</cultural_heritage_site_appellation>
     <typology>battistero</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Ravenna, piazzetta degli Ariani, 0</address>
     <chronology>ca seconda metà V - ca inizio-VI</chronology>
     <description>battistero, Battistero degli Ariani</description>
@@ -2292,7 +2292,7 @@
     <site_id>144</site_id>
     <cultural_heritage_site_appellation>Palazzo del Seminario</cultural_heritage_site_appellation>
     <typology>palazzo</typology>
-    <coordinates>12.1958255 44.4159807</coordinates>
+    <coordinates>44.4159807 12.1958255</coordinates>
     <address>Ravenna, Piazza Duomo, 4</address>
     <chronology>ca seconda metà XVIII - XVIII</chronology>
     <description>palazzo, Palazzo del Seminario</description>
@@ -2308,7 +2308,7 @@
     <site_id>145</site_id>
     <cultural_heritage_site_appellation>Palazzo Pompili</cultural_heritage_site_appellation>
     <typology>palazzo-privato</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Ravenna, via XIII Giugno, 8</address>
     <chronology>ca fine XVI - ca inizio-XVII</chronology>
     <description>palazzo, privato, Palazzo Pompili</description>
@@ -2324,7 +2324,7 @@
     <site_id>146</site_id>
     <cultural_heritage_site_appellation>Casa Fagnocchi</cultural_heritage_site_appellation>
     <typology>casa-privata</typology>
-    <coordinates>12.2027891 44.4197583</coordinates>
+    <coordinates>44.4197583 12.2027891</coordinates>
     <address>Ravenna, via di Roma, 202</address>
     <chronology>XVII - XVII</chronology>
     <description>casa, privata, Casa Fagnocchi</description>
@@ -2340,7 +2340,7 @@
     <site_id>147</site_id>
     <cultural_heritage_site_appellation>Palazzo del Pubblico Orologio</cultural_heritage_site_appellation>
     <typology>palazzo-pubblico</typology>
-    <coordinates>12.2003747 44.4177433</coordinates>
+    <coordinates>44.4177433 12.2003747</coordinates>
     <address>Ravenna, Piazza del Popolo, 23</address>
     <chronology>XVIII - XX</chronology>
     <description>palazzo, pubblico, Palazzo del Pubblico Orologio</description>
@@ -2356,7 +2356,7 @@
     <site_id>148</site_id>
     <cultural_heritage_site_appellation>Campanile della Chiesa di S. Maria Maggiore</cultural_heritage_site_appellation>
     <typology>campanile</typology>
-    <coordinates>12.2147229 44.4504896</coordinates>
+    <coordinates>44.4504896 12.2147229</coordinates>
     <address>Ravenna, Via Monti, 0</address>
     <chronology>(?) IX - post X</chronology>
     <description>campanile, Campanile della Chiesa di S. Maria Maggiore</description>
@@ -2372,7 +2372,7 @@
     <site_id>149</site_id>
     <cultural_heritage_site_appellation>Palazzo del Governo</cultural_heritage_site_appellation>
     <typology>palazzo-pubblico</typology>
-    <coordinates>12.1992196 44.4178985</coordinates>
+    <coordinates>44.4178985 12.1992196</coordinates>
     <address>Ravenna, Piazza del Popolo, 0</address>
     <chronology>ca metà XIX - XIX</chronology>
     <description>palazzo, pubblico, Palazzo del Governo</description>
@@ -2388,7 +2388,7 @@
     <site_id>150</site_id>
     <cultural_heritage_site_appellation>Palazzo di Santo Stefano Protomartire</cultural_heritage_site_appellation>
     <typology>palazzo-conventuale</typology>
-    <coordinates>12.2031660 44.4157906</coordinates>
+    <coordinates>44.4157906 12.2031660</coordinates>
     <address>Ravenna, Via Guaccimanni, 44</address>
     <chronology>seconda metà XVIII - fine-XIX</chronology>
     <description>palazzo, conventuale, Palazzo di Santo Stefano Protomartire</description>
@@ -2404,7 +2404,7 @@
     <site_id>151</site_id>
     <cultural_heritage_site_appellation>Ex Chiesa di San Nicolò</cultural_heritage_site_appellation>
     <typology>chiesa-sconsacrata</typology>
-    <coordinates>12.1981074 44.4135805</coordinates>
+    <coordinates>44.4135805 12.1981074</coordinates>
     <address>Ravenna, via Rondinelli, 0</address>
     <chronology>XIV - XIV</chronology>
     <description>chiesa, sconsacrata, Ex Chiesa di San Nicolò</description>
@@ -2420,7 +2420,7 @@
     <site_id>152</site_id>
     <cultural_heritage_site_appellation>Palazzo Rasponi del Sale</cultural_heritage_site_appellation>
     <typology>palazzo</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Ravenna, via XIII Giugno, 2</address>
     <chronology>terzo quarto XVIII - XVIII</chronology>
     <description>palazzo, Palazzo Rasponi del Sale</description>
@@ -2436,7 +2436,7 @@
     <site_id>153</site_id>
     <cultural_heritage_site_appellation>Chiesa di S. Carlino</cultural_heritage_site_appellation>
     <typology>chiesa</typology>
-    <coordinates>12.2020445 44.4151761</coordinates>
+    <coordinates>44.4151761 12.2020445</coordinates>
     <address>Ravenna, Via Marco Dente, 0</address>
     <chronology>post XI - XVIII</chronology>
     <description>chiesa, Chiesa di S. Carlino</description>
@@ -2452,7 +2452,7 @@
     <site_id>154</site_id>
     <cultural_heritage_site_appellation>Casa Giuliani Ricci</cultural_heritage_site_appellation>
     <typology>casa-privata</typology>
-    <coordinates>12.2031660 44.4157906</coordinates>
+    <coordinates>44.4157906 12.2031660</coordinates>
     <address>Ravenna, via Guaccimanni, 54</address>
     <chronology>ca seconda metà XVII - ca seconda metà-XVIII</chronology>
     <description>casa, privata, Casa Giuliani Ricci</description>
@@ -2468,7 +2468,7 @@
     <site_id>155</site_id>
     <cultural_heritage_site_appellation>Torre di Primaro</cultural_heritage_site_appellation>
     <typology>torre</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Ravenna, CASALBORSETTI</address>
     <chronology>ca metà XIII - XX</chronology>
     <description>torre, Torre di Primaro</description>
@@ -2484,7 +2484,7 @@
     <site_id>156</site_id>
     <cultural_heritage_site_appellation>Palazzo Rasponi Dalle Teste</cultural_heritage_site_appellation>
     <typology>palazzo-nobiliare</typology>
-    <coordinates>12.1974394 44.4168581</coordinates>
+    <coordinates>44.4168581 12.1974394</coordinates>
     <address>Ravenna, Piazza Kennedy, 0</address>
     <chronology>post fine XVII - ante inizio-XVIII</chronology>
     <description>palazzo, nobiliare, Palazzo Rasponi Dalle Teste</description>
@@ -2500,7 +2500,7 @@
     <site_id>157</site_id>
     <cultural_heritage_site_appellation>Chiesa di San Clemente Papa e Martire</cultural_heritage_site_appellation>
     <typology>chiesa-parrocchiale</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Ravenna, Via Mandriole, 122</address>
     <chronology>ca XII - metà-XVIII</chronology>
     <description>chiesa, parrocchiale, Chiesa di San Clemente Papa e Martire</description>
@@ -2516,7 +2516,7 @@
     <site_id>158</site_id>
     <cultural_heritage_site_appellation>Casa in cui visse G. Rossi</cultural_heritage_site_appellation>
     <typology>casa</typology>
-    <coordinates>12.1999075 44.4192147</coordinates>
+    <coordinates>44.4192147 12.1999075</coordinates>
     <address>Ravenna, via Girolamo Rossi, 2</address>
     <chronology>post XVI - XX</chronology>
     <description>casa, Casa in cui visse G. Rossi</description>
@@ -2532,7 +2532,7 @@
     <site_id>159</site_id>
     <cultural_heritage_site_appellation>Chiesa di S. Eufemia</cultural_heritage_site_appellation>
     <typology>chiesa</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Ravenna, Via Gian Battista Barbiani, 16</address>
     <chronology>secondo quarto XVIII - metà-XVIII</chronology>
     <description>chiesa, Chiesa di S. Eufemia</description>
@@ -2548,7 +2548,7 @@
     <site_id>160</site_id>
     <cultural_heritage_site_appellation>Chiesa di S. Stefano degli Ulivi</cultural_heritage_site_appellation>
     <typology>chiesa</typology>
-    <coordinates>12.2053327 44.4190553</coordinates>
+    <coordinates>44.4190553 12.2053327</coordinates>
     <address>Ravenna, Piazza Mameli, 0</address>
     <chronology>XVIII - ca seconda metà-XVIII</chronology>
     <description>chiesa, Chiesa di S. Stefano degli Ulivi</description>
@@ -2564,7 +2564,7 @@
     <site_id>161</site_id>
     <cultural_heritage_site_appellation>Palazzina Diedo</cultural_heritage_site_appellation>
     <typology>palazzina-residenziale</typology>
-    <coordinates>12.1981351 44.4157737</coordinates>
+    <coordinates>44.4157737 12.1981351</coordinates>
     <address>Ravenna, via Romolo Gessi, 18</address>
     <chronology>ca XVI - ca XVI</chronology>
     <description>palazzina, residenziale, Palazzina Diedo</description>
@@ -2580,7 +2580,7 @@
     <site_id>162</site_id>
     <cultural_heritage_site_appellation>Palazzo Fusconi già Grossi</cultural_heritage_site_appellation>
     <typology>palazzo</typology>
-    <coordinates>12.2039997 44.4172839</coordinates>
+    <coordinates>44.4172839 12.2039997</coordinates>
     <address>Ravenna, via di Roma, 69</address>
     <chronology>XVII - XVII</chronology>
     <description>palazzo, Palazzo Fusconi già Grossi</description>
@@ -2596,7 +2596,7 @@
     <site_id>163</site_id>
     <cultural_heritage_site_appellation>Chiesa di S. Andrea Apostolo</cultural_heritage_site_appellation>
     <typology>chiesa</typology>
-    <coordinates>12.1066965 44.5158582</coordinates>
+    <coordinates>44.5158582 12.1066965</coordinates>
     <address>Ravenna, Via Chiesa, 1</address>
     <chronology>XVIII - XVIII</chronology>
     <description>chiesa, Chiesa di S. Andrea Apostolo</description>
@@ -2612,7 +2612,7 @@
     <site_id>164</site_id>
     <cultural_heritage_site_appellation>Casa Sintoni</cultural_heritage_site_appellation>
     <typology>casa-privata</typology>
-    <coordinates>12.2011124 44.4133108</coordinates>
+    <coordinates>44.4133108 12.2011124</coordinates>
     <address>Ravenna, Via Giuseppe Mazzini, 65</address>
     <chronology>ca seconda metà XVIII - ca XIX</chronology>
     <description>casa, privata, Casa Sintoni</description>
@@ -2628,7 +2628,7 @@
     <site_id>165</site_id>
     <cultural_heritage_site_appellation>Casa del Monte di Pietà</cultural_heritage_site_appellation>
     <typology>casa</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Ravenna, Via A. Diaz, 4</address>
     <chronology>XV - XVIII</chronology>
     <description>casa, Casa del Monte di Pietà</description>
@@ -2644,7 +2644,7 @@
     <site_id>166</site_id>
     <cultural_heritage_site_appellation>Casa Romagnoli</cultural_heritage_site_appellation>
     <typology>casa</typology>
-    <coordinates>12.2017926 44.4172272</coordinates>
+    <coordinates>44.4172272 12.2017926</coordinates>
     <address>Ravenna, Via Mariani, 26</address>
     <chronology>ca XVII - XVIII</chronology>
     <description>casa, Casa Romagnoli</description>
@@ -2660,7 +2660,7 @@
     <site_id>167</site_id>
     <cultural_heritage_site_appellation>Casa Zabberoni</cultural_heritage_site_appellation>
     <typology>casa-privata</typology>
-    <coordinates>12.1993977 44.4170790</coordinates>
+    <coordinates>44.4170790 12.1993977</coordinates>
     <address>Ravenna, via Cairoli, 10</address>
     <chronology>ca inizio XV - ca fine-XV</chronology>
     <description>casa, privata, Casa Zabberoni</description>
@@ -2676,7 +2676,7 @@
     <site_id>168</site_id>
     <cultural_heritage_site_appellation>Palazzo Vitelloni</cultural_heritage_site_appellation>
     <typology>palazzo-uso pubblico</typology>
-    <coordinates>12.1987216 44.4157687</coordinates>
+    <coordinates>44.4157687 12.1987216</coordinates>
     <address>Ravenna, via Guerrini, 11</address>
     <chronology>ca XVII - ca XVII</chronology>
     <description>palazzo, uso pubblico, Palazzo Vitelloni</description>
@@ -2692,7 +2692,7 @@
     <site_id>169</site_id>
     <cultural_heritage_site_appellation>ex caserma di Polizia S. Vitale</cultural_heritage_site_appellation>
     <typology>caserma-militare</typology>
-    <coordinates>12.1971941 44.4213171</coordinates>
+    <coordinates>44.4213171 12.1971941</coordinates>
     <address>Ravenna, via Galla Placidia, 0</address>
     <chronology>ca fine XIX - ca inizio-XX</chronology>
     <description>caserma, militare, ex caserma di Polizia S. Vitale</description>
@@ -2708,7 +2708,7 @@
     <site_id>170</site_id>
     <cultural_heritage_site_appellation>Palazzo Grossi</cultural_heritage_site_appellation>
     <typology>palazzo</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Ravenna, via Strada Provinciale Bagnolo, 0</address>
     <chronology>XVI - XVI</chronology>
     <description>palazzo, Palazzo Grossi</description>
@@ -2740,7 +2740,7 @@
     <site_id>172</site_id>
     <cultural_heritage_site_appellation>Chiesa di S. Bartolomeo</cultural_heritage_site_appellation>
     <typology>chiesa-privata</typology>
-    <coordinates>12.1640316 44.3615418</coordinates>
+    <coordinates>44.3615418 12.1640316</coordinates>
     <address>Ravenna, Via Argine Destro Ronco, 98</address>
     <chronology>ca ultimo quarto XVIII - ca fine-XVIII</chronology>
     <description>chiesa, privata, Chiesa di S. Bartolomeo</description>
@@ -2756,7 +2756,7 @@
     <site_id>173</site_id>
     <cultural_heritage_site_appellation>Chiesa di Santo Stefano Protomartire</cultural_heritage_site_appellation>
     <typology>edilizia complessa religiosa a corpi aggregati-parrocchiale</typology>
-    <coordinates>12.1816153 44.3601333</coordinates>
+    <coordinates>44.3601333 12.1816153</coordinates>
     <address>Ravenna, SANTO STEFANO - CARRAIE, via Cella, 0, Carraia Ginanni</address>
     <chronology>--</chronology>
     <description>edilizia complessa religiosa a corpi aggregati, parrocchiale, Chiesa di Santo Stefano Protomartire</description>
@@ -2772,7 +2772,7 @@
     <site_id>174</site_id>
     <cultural_heritage_site_appellation>Caserma Rava</cultural_heritage_site_appellation>
     <typology>caserma</typology>
-    <coordinates>12.1948266 44.4137504</coordinates>
+    <coordinates>44.4137504 12.1948266</coordinates>
     <address>Ravenna, via Nino Bixio, 23</address>
     <chronology>XIX/ XX</chronology>
     <description>caserma, Caserma Rava</description>
@@ -2788,7 +2788,7 @@
     <site_id>175</site_id>
     <cultural_heritage_site_appellation>Chiesa di San Giovanni Battista</cultural_heritage_site_appellation>
     <typology>edilizia complessa religiosa a corpi aggregati-parrocchiale</typology>
-    <coordinates>12.2012274 44.4200553</coordinates>
+    <coordinates>44.4200553 12.2012274</coordinates>
     <address>Ravenna, Via Girolamo Rossi, 0</address>
     <chronology>--</chronology>
     <description>edilizia complessa religiosa a corpi aggregati, parrocchiale, Chiesa di San Giovanni Battista</description>
@@ -2804,7 +2804,7 @@
     <site_id>176</site_id>
     <cultural_heritage_site_appellation>Palazzetto veneziano</cultural_heritage_site_appellation>
     <typology>palazzo-pubblico</typology>
-    <coordinates>12.1992196 44.4178985</coordinates>
+    <coordinates>44.4178985 12.1992196</coordinates>
     <address>Ravenna, Piazza del popolo, 0</address>
     <chronology>ca seconda metà XV - ca fine-XV</chronology>
     <description>palazzo, pubblico, Palazzetto veneziano</description>
@@ -2820,7 +2820,7 @@
     <site_id>177</site_id>
     <cultural_heritage_site_appellation>Convento dei Monaci camaldolesi di Classe</cultural_heritage_site_appellation>
     <typology>convento</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Ravenna</address>
     <chronology>post prima metà XVI - ca XIX</chronology>
     <description>convento, Convento dei Monaci camaldolesi di Classe</description>
@@ -2836,7 +2836,7 @@
     <site_id>178</site_id>
     <cultural_heritage_site_appellation>Campanile della Chiesa di S. Carlino</cultural_heritage_site_appellation>
     <typology>campanile</typology>
-    <coordinates>12.2036117 44.4149318</coordinates>
+    <coordinates>44.4149318 12.2036117</coordinates>
     <address>Ravenna, Via Tombesi Dall'Ova, 0</address>
     <chronology>XVIII - XVIII</chronology>
     <description>campanile, Campanile della Chiesa di S. Carlino</description>
@@ -2852,7 +2852,7 @@
     <site_id>179</site_id>
     <cultural_heritage_site_appellation>Cattedrale della Resurrezione</cultural_heritage_site_appellation>
     <typology>cattedrale</typology>
-    <coordinates>12.1960428 44.4154629</coordinates>
+    <coordinates>44.4154629 12.1960428</coordinates>
     <address>Ravenna, Piazza Duomo, 0</address>
     <chronology>XVIII - XVIII</chronology>
     <description>cattedrale, Cattedrale della Resurrezione</description>
@@ -2868,7 +2868,7 @@
     <site_id>180</site_id>
     <cultural_heritage_site_appellation>Locali annessi alla Chiesa di S.Apollinare Nuovo</cultural_heritage_site_appellation>
     <typology>chiostro</typology>
-    <coordinates>12.2035804 44.4179146</coordinates>
+    <coordinates>44.4179146 12.2035804</coordinates>
     <address>Ravenna, via di Roma, 0</address>
     <chronology>XVI - XVI</chronology>
     <description>chiostro, Locali annessi alla Chiesa di S.Apollinare Nuovo</description>
@@ -2900,7 +2900,7 @@
     <site_id>182</site_id>
     <cultural_heritage_site_appellation>Campanile della Chiesa di San Bartolomeo</cultural_heritage_site_appellation>
     <typology>campanile-parrocchiale</typology>
-    <coordinates>12.207177 44.4016144</coordinates>
+    <coordinates>44.4016144 12.207177</coordinates>
     <address>Ravenna, Via Dismano, 0</address>
     <chronology>seconda metà X - seconda metà-X</chronology>
     <description>campanile, parrocchiale, Campanile della Chiesa di San Bartolomeo</description>
@@ -2916,7 +2916,7 @@
     <site_id>183</site_id>
     <cultural_heritage_site_appellation>Casa Chigi (casa pubblico)</cultural_heritage_site_appellation>
     <typology>casa-pubblico</typology>
-    <coordinates>12.2923064 44.4403718</coordinates>
+    <coordinates>44.4403718 12.2923064</coordinates>
     <address>Emilia-Romagna, RA, Ravenna</address>
     <chronology>ca XV - ca XV</chronology>
     <description>casa, pubblico, Casa Chigi</description>
@@ -2932,7 +2932,7 @@
     <site_id>184</site_id>
     <cultural_heritage_site_appellation>Palazzo Babini</cultural_heritage_site_appellation>
     <typology>palazzo</typology>
-    <coordinates>12.2047199 44.4152614</coordinates>
+    <coordinates>44.4152614 12.2047199</coordinates>
     <address>Ravenna, Via Di Roma, 102</address>
     <chronology>ca XIX - ca XIX</chronology>
     <description>palazzo, Palazzo Babini</description>
@@ -2948,7 +2948,7 @@
     <site_id>185</site_id>
     <cultural_heritage_site_appellation>Porta Nuova</cultural_heritage_site_appellation>
     <typology>porta urbana</typology>
-    <coordinates>12.2035804 44.4179146</coordinates>
+    <coordinates>44.4179146 12.2035804</coordinates>
     <address>Ravenna, Via Di Roma, 0</address>
     <chronology>XVI - XVII</chronology>
     <description>porta urbana, Porta Nuova</description>
@@ -2964,7 +2964,7 @@
     <site_id>186</site_id>
     <cultural_heritage_site_appellation>Palazzo Rasi</cultural_heritage_site_appellation>
     <typology>palazzo-privato</typology>
-    <coordinates>12.2009368 44.4141092</coordinates>
+    <coordinates>44.4141092 12.2009368</coordinates>
     <address>Ravenna, Via Giuseppe Mazzini, 44</address>
     <chronology>ca XVIII - ca XVIII</chronology>
     <description>palazzo, privato, Palazzo Rasi</description>
@@ -2980,7 +2980,7 @@
     <site_id>187</site_id>
     <cultural_heritage_site_appellation>Case di San Vitale</cultural_heritage_site_appellation>
     <typology>casa-a blocco</typology>
-    <coordinates>12.1964832 44.4197925</coordinates>
+    <coordinates>44.4197925 12.1964832</coordinates>
     <address>Ravenna, via San Vitale, 34</address>
     <chronology>XVIII - XVIII</chronology>
     <description>casa, a blocco, Case di San Vitale</description>
@@ -2996,7 +2996,7 @@
     <site_id>188</site_id>
     <cultural_heritage_site_appellation>Villa Masini detta 'Il Castellaccio'</cultural_heritage_site_appellation>
     <typology>villa-privata</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Ravenna, via Castello, 74</address>
     <chronology>XVI - ca inizio-XX</chronology>
     <description>villa, privata, Villa Masini detta 'Il Castellaccio'</description>
@@ -3012,7 +3012,7 @@
     <site_id>189</site_id>
     <cultural_heritage_site_appellation>Caserma dei Carabinieri</cultural_heritage_site_appellation>
     <typology>abbazia</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Ravenna, Via Nuova, 1</address>
     <chronology>ca XI - ca inizio-XIX</chronology>
     <description>abbazia, Caserma dei Carabinieri</description>
@@ -3044,7 +3044,7 @@
     <site_id>191</site_id>
     <cultural_heritage_site_appellation>Chiesa di S.Francesco</cultural_heritage_site_appellation>
     <typology>chiesa</typology>
-    <coordinates>12.2002704 44.4155985</coordinates>
+    <coordinates>44.4155985 12.2002704</coordinates>
     <address>Ravenna, Piazza San Francesco, 0</address>
     <chronology>metà V - prima metà-XX</chronology>
     <description>Chiesa, Chiesa di S.Francesco</description>
@@ -3076,7 +3076,7 @@
     <site_id>193</site_id>
     <cultural_heritage_site_appellation>Villa ex Pasolini con Oratorio</cultural_heritage_site_appellation>
     <typology>villa-privata</typology>
-    <coordinates>12.089004 44.4063703</coordinates>
+    <coordinates>44.4063703 12.089004</coordinates>
     <address>Ravenna, via Galassa, 10</address>
     <chronology>ca inizio XIII - ca prima metà-XVIII</chronology>
     <description>villa, privata, Villa ex Pasolini con Oratorio</description>
@@ -3092,7 +3092,7 @@
     <site_id>194</site_id>
     <cultural_heritage_site_appellation>Chiesa di S. Alberto</cultural_heritage_site_appellation>
     <typology>chiesa</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Ravenna, Via Olindo Guerrini</address>
     <chronology>XIX - XIX</chronology>
     <description>chiesa, Chiesa di S. Alberto</description>
@@ -3108,7 +3108,7 @@
     <site_id>195</site_id>
     <cultural_heritage_site_appellation>Pieve di San Cassiano in Decimo</cultural_heritage_site_appellation>
     <typology>pieve-parrocchiale</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Ravenna, Via Trava, 2</address>
     <chronology>IX - prima metà-XVIII</chronology>
     <description>pieve, parrocchiale, Pieve di San Cassiano in Decimo</description>
@@ -3124,7 +3124,7 @@
     <site_id>196</site_id>
     <cultural_heritage_site_appellation>Porta Sisi</cultural_heritage_site_appellation>
     <typology>porta urbana</typology>
-    <coordinates>12.2016889 44.4121832</coordinates>
+    <coordinates>44.4121832 12.2016889</coordinates>
     <address>Ravenna, Via Giuseppe Mazzini, 0</address>
     <chronology>XVI - ca XVII</chronology>
     <description>porta urbana, Porta Sisi</description>
@@ -3140,7 +3140,7 @@
     <site_id>197</site_id>
     <cultural_heritage_site_appellation>Biblioteca Classense e Chiostro dell'ex Convento Camaldolese di Classe</cultural_heritage_site_appellation>
     <typology>convento</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Ravenna</address>
     <chronology>post prima metà XVI - ca XVIII</chronology>
     <description>convento, Biblioteca Classense e Chiostro dell'ex Convento Camaldolese di Classe</description>
@@ -3156,7 +3156,7 @@
     <site_id>198</site_id>
     <cultural_heritage_site_appellation>Palazzo Rasponi già Balbi</cultural_heritage_site_appellation>
     <typology>palazzo</typology>
-    <coordinates>12.1964801 44.4168957</coordinates>
+    <coordinates>44.4168957 12.1964801</coordinates>
     <address>Ravenna, via Massimo d'Azeglio, 2</address>
     <chronology/>
     <description>palazzo, Palazzo Rasponi già Balbi</description>
@@ -3172,7 +3172,7 @@
     <site_id>199</site_id>
     <cultural_heritage_site_appellation>Chiesa di San Giuseppe e Maria Santisima</cultural_heritage_site_appellation>
     <typology>chiesa-parrocchiale</typology>
-    <coordinates>12.1343152 44.4175749</coordinates>
+    <coordinates>44.4175749 12.1343152</coordinates>
     <address>Ravenna, Via Sant'Egidio, 0</address>
     <chronology>inizio XVIII - metà-XVIII</chronology>
     <description>chiesa, parrocchiale, Chiesa di San Giuseppe e Maria Santisima</description>
@@ -3188,7 +3188,7 @@
     <site_id>200</site_id>
     <cultural_heritage_site_appellation>Ex Istituto musicale "G.Verdi"</cultural_heritage_site_appellation>
     <typology>scuola-pubblica</typology>
-    <coordinates>12.2475551 44.4086083</coordinates>
+    <coordinates>44.4086083 12.2475551</coordinates>
     <address>Ravenna, via Pasolini, 9</address>
     <chronology>seconda metà XVIII - XVIII</chronology>
     <description>scuola, pubblica, Ex Istituto musicale "G.Verdi"</description>
@@ -3204,7 +3204,7 @@
     <site_id>201</site_id>
     <cultural_heritage_site_appellation>Villa Archi Corbucci</cultural_heritage_site_appellation>
     <typology>villa-privata</typology>
-    <coordinates>12.1258896 44.3360859</coordinates>
+    <coordinates>44.3360859 12.1258896</coordinates>
     <address>Ravenna, via Ravegnana, 655</address>
     <chronology>XVIII - metà-XVIII</chronology>
     <description>villa, privata, Villa Archi Corbucci</description>
@@ -3236,7 +3236,7 @@
     <site_id>203</site_id>
     <cultural_heritage_site_appellation>Chiesa di San Giacomo Maggiore</cultural_heritage_site_appellation>
     <typology>chiesa-parrocchiale</typology>
-    <coordinates>12.1380768 44.3310383</coordinates>
+    <coordinates>44.3310383 12.1380768</coordinates>
     <address>Ravenna, Via Gambellara, 79</address>
     <chronology>ca XVI - XVII</chronology>
     <description>chiesa, parrocchiale, Chiesa di San Giacomo Maggiore</description>
@@ -3252,7 +3252,7 @@
     <site_id>204</site_id>
     <cultural_heritage_site_appellation>Casa Tizzoni</cultural_heritage_site_appellation>
     <typology>casa</typology>
-    <coordinates>12.2017926 44.4172272</coordinates>
+    <coordinates>44.4172272 12.2017926</coordinates>
     <address>Ravenna, Via Mariani, 24</address>
     <chronology>ca fine XVIII - ca prima metà-XIX</chronology>
     <description>casa, Casa Tizzoni</description>
@@ -3268,7 +3268,7 @@
     <site_id>205</site_id>
     <cultural_heritage_site_appellation>ex Capanno Garibaldi</cultural_heritage_site_appellation>
     <typology>capanno</typology>
-    <coordinates>12.2340828 44.4586862</coordinates>
+    <coordinates>44.4586862 12.2340828</coordinates>
     <address>Ravenna, via Baiona, 0</address>
     <chronology>primo quarto XIX - ca prima metà-XIX</chronology>
     <description>capanno, ex Capanno Garibaldi</description>
@@ -3284,7 +3284,7 @@
     <site_id>206</site_id>
     <cultural_heritage_site_appellation>Fattoria Ravaglia ora "La Cascina"</cultural_heritage_site_appellation>
     <typology>casa-colonica</typology>
-    <coordinates>12.1756613 44.4799854</coordinates>
+    <coordinates>44.4799854 12.1756613</coordinates>
     <address>Ravenna, strada provinciale, 24</address>
     <chronology>ca metà XVIII - ca seconda metà-XVIII</chronology>
     <description>casa, colonica, Fattoria Ravaglia ora "La Cascina"</description>
@@ -3300,7 +3300,7 @@
     <site_id>207</site_id>
     <cultural_heritage_site_appellation>Villa "La Palazza"</cultural_heritage_site_appellation>
     <typology>villa-privata</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Ravenna, via Palazza, 0</address>
     <chronology>ca terzo quarto XVII - ca ultimo quarto-XVII</chronology>
     <description>villa, privata, Villa "La Palazza"</description>
@@ -3316,7 +3316,7 @@
     <site_id>208</site_id>
     <cultural_heritage_site_appellation>casa ( privata)</cultural_heritage_site_appellation>
     <typology>casa-privata</typology>
-    <coordinates>12.1955935 44.4186256</coordinates>
+    <coordinates>44.4186256 12.1955935</coordinates>
     <address>Ravenna, via Carlo Cattaneo, 22</address>
     <chronology>ca seconda metà XIX - ca fine-XIX</chronology>
     <description>casa, privata</description>
@@ -3348,7 +3348,7 @@
     <site_id>210</site_id>
     <cultural_heritage_site_appellation>Mausoleo di Teodorico</cultural_heritage_site_appellation>
     <typology>mausoleo</typology>
-    <coordinates>12.2253643 44.4328054</coordinates>
+    <coordinates>44.4328054 12.2253643</coordinates>
     <address>Ravenna, via delle Industrie, 0</address>
     <chronology>VI - VI</chronology>
     <description>mausoleo, Mausoleo di Teodorico</description>
@@ -3364,7 +3364,7 @@
     <site_id>211</site_id>
     <cultural_heritage_site_appellation>Chiesa di San Giovanni Battista</cultural_heritage_site_appellation>
     <typology>chiesa-parrocchiale</typology>
-    <coordinates>12.2012274 44.4200553</coordinates>
+    <coordinates>44.4200553 12.2012274</coordinates>
     <address>Ravenna, Via Girolamo Rossi, 0</address>
     <chronology>prima metà V - fine-XVII</chronology>
     <description>chiesa, parrocchiale, Chiesa di San Giovanni Battista</description>
@@ -3380,7 +3380,7 @@
     <site_id>212</site_id>
     <cultural_heritage_site_appellation>Basilica di S.Vitale</cultural_heritage_site_appellation>
     <typology>chiesa</typology>
-    <coordinates>12.195915 44.4201193</coordinates>
+    <coordinates>44.4201193 12.195915</coordinates>
     <address>Ravenna, Via San Vitale, 17</address>
     <chronology>VI - VI</chronology>
     <description>chiesa, Basilica di S.Vitale</description>
@@ -3396,7 +3396,7 @@
     <site_id>213</site_id>
     <cultural_heritage_site_appellation>Chiesa di San Biagio</cultural_heritage_site_appellation>
     <typology>chiesa-parrocchiale</typology>
-    <coordinates>12.1324064 44.3471527</coordinates>
+    <coordinates>44.3471527 12.1324064</coordinates>
     <address>Ravenna, Via Babini, 246</address>
     <chronology>ca XIX - ca XX</chronology>
     <description>chiesa, parrocchiale, Chiesa di San Biagio</description>
@@ -3412,7 +3412,7 @@
     <site_id>214</site_id>
     <cultural_heritage_site_appellation>Palazzo Bacinetti</cultural_heritage_site_appellation>
     <typology>palazzo-privato</typology>
-    <coordinates>12.1942878 44.4180807</coordinates>
+    <coordinates>44.4180807 12.1942878</coordinates>
     <address>Ravenna, via Massimo d'Azeglio, 38</address>
     <chronology>ca XVIII - ca XVIII</chronology>
     <description>palazzo, privato, Palazzo Bacinetti</description>
@@ -3428,7 +3428,7 @@
     <site_id>215</site_id>
     <cultural_heritage_site_appellation>Palazzo Arcivescovile</cultural_heritage_site_appellation>
     <typology>palazzo</typology>
-    <coordinates>12.1976094 44.415209</coordinates>
+    <coordinates>44.415209 12.1976094</coordinates>
     <address>Ravenna, Piazza Arcivescovado, 1</address>
     <chronology>post fine V - ante fine-XIX</chronology>
     <description>palazzo, Palazzo Arcivescovile</description>
@@ -3444,7 +3444,7 @@
     <site_id>216</site_id>
     <cultural_heritage_site_appellation>Palazzo Baronio</cultural_heritage_site_appellation>
     <typology>palazzo-privato</typology>
-    <coordinates>12.1981351 44.4157737</coordinates>
+    <coordinates>44.4157737 12.1981351</coordinates>
     <address>Ravenna, via Romolo Gessi, 14</address>
     <chronology>ca metà XVIII - ca metà-XVIII</chronology>
     <description>palazzo, privato, Palazzo Baronio</description>
@@ -3460,7 +3460,7 @@
     <site_id>217</site_id>
     <cultural_heritage_site_appellation>ambienti annessi alla Chiesa S. Maria del Suffragio</cultural_heritage_site_appellation>
     <typology>canonica</typology>
-    <coordinates>12.2019424 44.4181732</coordinates>
+    <coordinates>44.4181732 12.2019424</coordinates>
     <address>Ravenna, via Diaz, 2</address>
     <chronology>inizio XVIII - metà-XVIII</chronology>
     <description>canonica, ambienti annessi alla Chiesa S. Maria del Suffragio</description>
@@ -3476,7 +3476,7 @@
     <site_id>218</site_id>
     <cultural_heritage_site_appellation>Porta Serrata</cultural_heritage_site_appellation>
     <typology>porta urbana</typology>
-    <coordinates>12.2035804 44.4179146</coordinates>
+    <coordinates>44.4179146 12.2035804</coordinates>
     <address>Ravenna, Via Di Roma, 0</address>
     <chronology>XVI - ca fine-XVI</chronology>
     <description>porta urbana, Porta Serrata</description>
@@ -3492,7 +3492,7 @@
     <site_id>219</site_id>
     <cultural_heritage_site_appellation>Collegio della Misericordia</cultural_heritage_site_appellation>
     <typology>collegio-uso pubblico</typology>
-    <coordinates>12.2031660 44.4157906</coordinates>
+    <coordinates>44.4157906 12.2031660</coordinates>
     <address>Ravenna, via Guaccimanni, 11</address>
     <chronology>post terzo quarto XVIII - ante fine-XVIII</chronology>
     <description>collegio, uso pubblico, Collegio della Misericordia</description>
@@ -3508,7 +3508,7 @@
     <site_id>220</site_id>
     <cultural_heritage_site_appellation>Chiesa di San Lorenzo</cultural_heritage_site_appellation>
     <typology>chiesa</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Ravenna, Via Roncalcesi, 0</address>
     <chronology>ca inizio XV - ca fine-XV</chronology>
     <description>chiesa, Chiesa di San Lorenzo</description>
@@ -3524,7 +3524,7 @@
     <site_id>221</site_id>
     <cultural_heritage_site_appellation>Villa Ginanni - Fantuzzi e pertinenze</cultural_heritage_site_appellation>
     <typology>villa e pertinenze-privata</typology>
-    <coordinates>12.1816153 44.3601333</coordinates>
+    <coordinates>44.3601333 12.1816153</coordinates>
     <address>Ravenna, via Cella, 0</address>
     <chronology>ca seconda metà XVIII - ca terzo quarto-XVIII</chronology>
     <description>villa e pertinenze, privata, Villa Ginanni - Fantuzzi e pertinenze</description>
@@ -3540,7 +3540,7 @@
     <site_id>222</site_id>
     <cultural_heritage_site_appellation>Chiesa di San Bartolomeo</cultural_heritage_site_appellation>
     <typology>chiesa-parrocchiale</typology>
-    <coordinates>12.2125021 44.3836113</coordinates>
+    <coordinates>44.3836113 12.2125021</coordinates>
     <address>Ravenna, Via Dismano, 663</address>
     <chronology>seconda metà XVIII - seconda metà-XVIII</chronology>
     <description>chiesa, parrocchiale, Chiesa di San Bartolomeo</description>
@@ -3556,7 +3556,7 @@
     <site_id>223</site_id>
     <cultural_heritage_site_appellation>La fattoria ed il parco "La Monaldina"</cultural_heritage_site_appellation>
     <typology>fattoria-residenziale</typology>
-    <coordinates>12.2650348 44.4344235</coordinates>
+    <coordinates>44.4344235 12.2650348</coordinates>
     <address>Ravenna, via Canale Molinetto, 90</address>
     <chronology>ca seconda metà XVIII - ca fine-XVIII</chronology>
     <description>fattoria, residenziale, La fattoria ed il parco "La Monaldina"</description>
@@ -3572,7 +3572,7 @@
     <site_id>224</site_id>
     <cultural_heritage_site_appellation>Villa "La Cilla"</cultural_heritage_site_appellation>
     <typology>villa-dominicale</typology>
-    <coordinates>12.0885292 44.4988073</coordinates>
+    <coordinates>44.4988073 12.0885292</coordinates>
     <address>Ravenna, via Basilica, 158</address>
     <chronology>ca prima metà XVII - ca metà-XVII</chronology>
     <description>villa, dominicale, Villa "La Cilla"</description>
@@ -3588,7 +3588,7 @@
     <site_id>225</site_id>
     <cultural_heritage_site_appellation>Palazzo Malagola-Anziani</cultural_heritage_site_appellation>
     <typology>palazzo</typology>
-    <coordinates>12.2042227 44.4163462</coordinates>
+    <coordinates>44.4163462 12.2042227</coordinates>
     <address>Ravenna, via di Roma, 118</address>
     <chronology>XVIII - XVIII</chronology>
     <description>palazzo, Palazzo Malagola-Anziani</description>
@@ -3604,7 +3604,7 @@
     <site_id>226</site_id>
     <cultural_heritage_site_appellation>Casa Ghezzo</cultural_heritage_site_appellation>
     <typology>casa-privata</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Ravenna, via Paola Costa, 7</address>
     <chronology>ca ultimo quarto XVIII - ca fine-XVIII</chronology>
     <description>casa, privata, Casa Ghezzo</description>
@@ -3620,7 +3620,7 @@
     <site_id>227</site_id>
     <cultural_heritage_site_appellation>Chiesa di S. Domenico</cultural_heritage_site_appellation>
     <typology>chiesa</typology>
-    <coordinates>12.1979156 44.4189411</coordinates>
+    <coordinates>44.4189411 12.1979156</coordinates>
     <address>Ravenna, Via Camillo Benso Conte di Cavour, 0</address>
     <chronology>XVII - ca inizio-XVIII</chronology>
     <description>chiesa, Chiesa di S. Domenico</description>
@@ -3636,7 +3636,7 @@
     <site_id>228</site_id>
     <cultural_heritage_site_appellation>Palazzo del Collegio</cultural_heritage_site_appellation>
     <typology>palazzo-fortificato</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Ravenna, Strada Provinciale Faentina, 362</address>
     <chronology>ca inizio XVI - ca fine-XVI</chronology>
     <description>palazzo, fortificato, Palazzo del Collegio</description>
@@ -3652,7 +3652,7 @@
     <site_id>229</site_id>
     <cultural_heritage_site_appellation>Palazzo Rasponi poi Bellenghi</cultural_heritage_site_appellation>
     <typology>palazzo-privato</typology>
-    <coordinates>12.1388559 44.4144159</coordinates>
+    <coordinates>44.4144159 12.1388559</coordinates>
     <address>Ravenna, via Gregorio Ricci Cubastro, 20</address>
     <chronology>XVI - XIX</chronology>
     <description>palazzo, privato, Palazzo Rasponi poi Bellenghi</description>
@@ -3668,7 +3668,7 @@
     <site_id>230</site_id>
     <cultural_heritage_site_appellation>Porta Gaza</cultural_heritage_site_appellation>
     <typology>porta urbana</typology>
-    <coordinates>12.1958459 44.413645</coordinates>
+    <coordinates>44.413645 12.1958459</coordinates>
     <address>Ravenna, Via Porta Gaza, 0</address>
     <chronology>XVIII - XVIII</chronology>
     <description>porta urbana, Porta Gaza</description>
@@ -3684,7 +3684,7 @@
     <site_id>231</site_id>
     <cultural_heritage_site_appellation>Ex Casa del Mutilato</cultural_heritage_site_appellation>
     <typology>palazzo</typology>
-    <coordinates>12.1974394 44.4168581</coordinates>
+    <coordinates>44.4168581 12.1974394</coordinates>
     <address>Ravenna, Piazza Kennedy, 14</address>
     <chronology>XX - XX</chronology>
     <description>palazzo, Ex Casa del Mutilato</description>
@@ -3700,7 +3700,7 @@
     <site_id>232</site_id>
     <cultural_heritage_site_appellation>Resti della Chiesa di S. Girolamo</cultural_heritage_site_appellation>
     <typology>chiesa</typology>
-    <coordinates>12.1960428 44.4154629</coordinates>
+    <coordinates>44.4154629 12.1960428</coordinates>
     <address>Ravenna, Piazza Duomo</address>
     <chronology>XVI - ca seconda metà-XVII</chronology>
     <description>chiesa, Resti della Chiesa di S. Girolamo</description>
@@ -3716,7 +3716,7 @@
     <site_id>233</site_id>
     <cultural_heritage_site_appellation>Casa Monaldini</cultural_heritage_site_appellation>
     <typology>casa</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Ravenna, via XIII Giugno, 3</address>
     <chronology>ca fine XIII - ca fine-XIV</chronology>
     <description>casa, Casa Monaldini</description>
@@ -3732,7 +3732,7 @@
     <site_id>234</site_id>
     <cultural_heritage_site_appellation>Casa Ruggini</cultural_heritage_site_appellation>
     <typology>casa</typology>
-    <coordinates>12.2002934 44.4149154</coordinates>
+    <coordinates>44.4149154 12.2002934</coordinates>
     <address>Ravenna, Via Giuseppe Mazzini, 7</address>
     <chronology>post XVI - (?) inizio-XX</chronology>
     <description>casa, Casa Ruggini</description>
@@ -3748,7 +3748,7 @@
     <site_id>235</site_id>
     <cultural_heritage_site_appellation>Campanile della Chiesa di S. Agata</cultural_heritage_site_appellation>
     <typology>campanile</typology>
-    <coordinates>12.2016889 44.4121832</coordinates>
+    <coordinates>44.4121832 12.2016889</coordinates>
     <address>Ravenna, Via Giuseppe Mazzini,0</address>
     <chronology>ca XVI - XVI</chronology>
     <description>campanile, Campanile della Chiesa di S. Agata</description>
@@ -3780,7 +3780,7 @@
     <site_id>237</site_id>
     <cultural_heritage_site_appellation>Cattedrale della Resurrezione</cultural_heritage_site_appellation>
     <typology>cattedrale</typology>
-    <coordinates>12.1960428 44.4154629</coordinates>
+    <coordinates>44.4154629 12.1960428</coordinates>
     <address>Ravenna, Piazza Duomo, 0</address>
     <chronology>post fine IV - ante fine-XIX</chronology>
     <description>cattedrale, Cattedrale della Resurrezione</description>
@@ -3796,7 +3796,7 @@
     <site_id>238</site_id>
     <cultural_heritage_site_appellation>Casa Maraffi</cultural_heritage_site_appellation>
     <typology>casa-residenziale</typology>
-    <coordinates>12.2014649 44.4128885</coordinates>
+    <coordinates>44.4128885 12.2014649</coordinates>
     <address>Ravenna, Via Giuseppe Mazzini, 72</address>
     <chronology>ca XVIII - ca XVIII</chronology>
     <description>casa, residenziale, Casa Maraffi</description>
@@ -3812,7 +3812,7 @@
     <site_id>239</site_id>
     <cultural_heritage_site_appellation>Villa Babini-Schiavina</cultural_heritage_site_appellation>
     <typology>villa-privata</typology>
-    <coordinates>12.1191605 44.3547003</coordinates>
+    <coordinates>44.3547003 12.1191605</coordinates>
     <address>Ravenna, via Roncalceci, 195</address>
     <chronology>XIX - ca fine-XIX</chronology>
     <description>villa, privata, Villa Babini-Schiavina</description>
@@ -3828,7 +3828,7 @@
     <site_id>240</site_id>
     <cultural_heritage_site_appellation>Palazzo Lovatelli poi Brandolini</cultural_heritage_site_appellation>
     <typology>palazzo-privato</typology>
-    <coordinates>12.2015159 44.41263</coordinates>
+    <coordinates>44.41263 12.2015159</coordinates>
     <address>Ravenna, Via Giuseppe Mazzini, 76</address>
     <chronology>ca ultimo quarto XVII - ca fine-XVII</chronology>
     <description>palazzo, privato, Palazzo Lovatelli poi Brandolini</description>
@@ -3844,7 +3844,7 @@
     <site_id>241</site_id>
     <cultural_heritage_site_appellation>Casa Graziani</cultural_heritage_site_appellation>
     <typology>casa-privata</typology>
-    <coordinates>12.1985782 44.4200214</coordinates>
+    <coordinates>44.4200214 12.1985782</coordinates>
     <address>Ravenna, via Salara, 33</address>
     <chronology>ca fine XV - post fine-XV</chronology>
     <description>casa, privata, Casa Graziani</description>
@@ -3892,7 +3892,7 @@
     <site_id>244</site_id>
     <cultural_heritage_site_appellation>Chiesa di S. Croce</cultural_heritage_site_appellation>
     <typology>chiesa</typology>
-    <coordinates>12.1971941 44.4213171</coordinates>
+    <coordinates>44.4213171 12.1971941</coordinates>
     <address>Ravenna, Via Galla Placidia, 0</address>
     <chronology>ca metà V - ca XVII</chronology>
     <description>chiesa, Chiesa di S. Croce</description>
@@ -3908,7 +3908,7 @@
     <site_id>245</site_id>
     <cultural_heritage_site_appellation>Casa Natale di Angelo Mariani</cultural_heritage_site_appellation>
     <typology>casa</typology>
-    <coordinates>12.1963069 44.4185410</coordinates>
+    <coordinates>44.4185410 12.1963069</coordinates>
     <address>Ravenna, Via Morigia, 1</address>
     <chronology>(?) inizio XIX - ca XIX</chronology>
     <description>casa, Casa Natale di Angelo Mariani</description>
@@ -3924,7 +3924,7 @@
     <site_id>246</site_id>
     <cultural_heritage_site_appellation>Casa di Drogdone (avanzi)</cultural_heritage_site_appellation>
     <typology>casa</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Ravenna, piazzetta degli Ariani, 0</address>
     <chronology>ca inizio XI - ca fine-XI</chronology>
     <description>casa, Casa di Drogdone (avanzi)</description>
@@ -3940,7 +3940,7 @@
     <site_id>247</site_id>
     <cultural_heritage_site_appellation>Villa Chiaromonti ora Dragoni</cultural_heritage_site_appellation>
     <typology>villa-privata</typology>
-    <coordinates>12.0810017 44.3679462</coordinates>
+    <coordinates>44.3679462 12.0810017</coordinates>
     <address>Ravenna, via Barleti, 5</address>
     <chronology>XVII - ca prima metà-XVIII</chronology>
     <description>villa, privata, Villa Chiaromonti ora Dragoni</description>
@@ -3956,7 +3956,7 @@
     <site_id>248</site_id>
     <cultural_heritage_site_appellation>Villa e torretta Spreti</cultural_heritage_site_appellation>
     <typology>villa e torretta-privata</typology>
-    <coordinates>12.2128106 44.3416156</coordinates>
+    <coordinates>44.3416156 12.2128106</coordinates>
     <address>Ravenna, via Dismano, 749</address>
     <chronology/>
     <description>villa e torretta, privata, Villa e torretta Spreti</description>
@@ -3972,7 +3972,7 @@
     <site_id>249</site_id>
     <cultural_heritage_site_appellation>Rocca di Brancaleone</cultural_heritage_site_appellation>
     <typology>rocca</typology>
-    <coordinates>12.2055153 44.4220621</coordinates>
+    <coordinates>44.4220621 12.2055153</coordinates>
     <address>Ravenna, via Rocca di Brancaleone, 0</address>
     <chronology>XV - XV</chronology>
     <description>rocca, Rocca di Brancaleone</description>
@@ -3988,7 +3988,7 @@
     <site_id>250</site_id>
     <cultural_heritage_site_appellation>Chiostri Francescani</cultural_heritage_site_appellation>
     <typology>chiostro</typology>
-    <coordinates>12.2008181 44.4166311</coordinates>
+    <coordinates>44.4166311 12.2008181</coordinates>
     <address>Ravenna, via Dante Alighieri, 2</address>
     <chronology>ca inizio XV - ca fine-XV</chronology>
     <description>chiostro, Chiostri Francescani</description>
@@ -4004,7 +4004,7 @@
     <site_id>251</site_id>
     <cultural_heritage_site_appellation>Chiesa di Santo Stefano Protomartire</cultural_heritage_site_appellation>
     <typology>chiesa-parrocchiale</typology>
-    <coordinates>12.1816153 44.3601333</coordinates>
+    <coordinates>44.3601333 12.1816153</coordinates>
     <address>Ravenna, via Cella, 0</address>
     <chronology>metà XVIII - fine-XIX</chronology>
     <description>chiesa, parrocchiale, Chiesa di Santo Stefano Protomartire</description>
@@ -4020,7 +4020,7 @@
     <site_id>252</site_id>
     <cultural_heritage_site_appellation>casa ( privata)</cultural_heritage_site_appellation>
     <typology>casa-privata</typology>
-    <coordinates>12.2010159 44.4091605</coordinates>
+    <coordinates>44.4091605 12.2010159</coordinates>
     <address>Ravenna, vicolo Capannetti, 5</address>
     <chronology>ca ultimo quarto XVIII - ca fine-XVIII</chronology>
     <description>casa, privata</description>
@@ -4036,7 +4036,7 @@
     <site_id>253</site_id>
     <cultural_heritage_site_appellation>Ex Chiesa di San Cristoforo</cultural_heritage_site_appellation>
     <typology>chiesa-privata</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Ravenna, strada comunale Carrarone Chiesa, 0</address>
     <chronology>ca XV - XV</chronology>
     <description>chiesa, privata, Ex Chiesa di San Cristoforo</description>
@@ -4052,7 +4052,7 @@
     <site_id>254</site_id>
     <cultural_heritage_site_appellation>Villa Ramona Lovatelli Dal Corno e pertinenze</cultural_heritage_site_appellation>
     <typology>villa-residenziale</typology>
-    <coordinates>12.0824160 44.3301274</coordinates>
+    <coordinates>44.3301274 12.0824160</coordinates>
     <address>Ravenna, via Ramona, 55</address>
     <chronology>ca inizio XVI - ca fine-XVI</chronology>
     <description>villa, residenziale, Villa Ramona Lovatelli Dal Corno e pertinenze</description>
@@ -4068,7 +4068,7 @@
     <site_id>255</site_id>
     <cultural_heritage_site_appellation>Chiesa di S. Giovanni Evangelista</cultural_heritage_site_appellation>
     <typology>chiesa</typology>
-    <coordinates>12.2049025 44.418002</coordinates>
+    <coordinates>44.418002 12.2049025</coordinates>
     <address>Ravenna, Piazza Anita Garibaldi, 0</address>
     <chronology>ca prima metà V - ante metà-XX</chronology>
     <description>chiesa, Chiesa di S. Giovanni Evangelista</description>
@@ -4084,7 +4084,7 @@
     <site_id>256</site_id>
     <cultural_heritage_site_appellation>Campanile della Chiesa di S. Stefano Protomartire</cultural_heritage_site_appellation>
     <typology>campanile-parrocchiale</typology>
-    <coordinates>12.1816153 44.3601333</coordinates>
+    <coordinates>44.3601333 12.1816153</coordinates>
     <address>Ravenna, via Cella, 0</address>
     <chronology>metà XVIII - metà XVIII</chronology>
     <description>campanile, parrocchiale, Campanile della Chiesa di S. Stefano Protomartire</description>
@@ -4100,7 +4100,7 @@
     <site_id>257</site_id>
     <cultural_heritage_site_appellation>Chiesa di S. Giustina</cultural_heritage_site_appellation>
     <typology>chiesa</typology>
-    <coordinates>12.1960428 44.4154629</coordinates>
+    <coordinates>44.4154629 12.1960428</coordinates>
     <address>Ravenna, Piazza Duomo, 0</address>
     <chronology>XVIII - XVIII</chronology>
     <description>chiesa, Chiesa di S. Giustina</description>
@@ -4116,7 +4116,7 @@
     <site_id>258</site_id>
     <cultural_heritage_site_appellation>Basilica di S.Apollinare Nuovo</cultural_heritage_site_appellation>
     <typology>monastero</typology>
-    <coordinates>12.2035804 44.4179146</coordinates>
+    <coordinates>44.4179146 12.2035804</coordinates>
     <address>Ravenna, via di Roma, 0</address>
     <chronology>ca fine V - ca XVI</chronology>
     <description>monastero, Basilica di S.Apollinare Nuovo</description>
@@ -4132,7 +4132,7 @@
     <site_id>259</site_id>
     <cultural_heritage_site_appellation>Palazzo Settecastelli</cultural_heritage_site_appellation>
     <typology>palazzo</typology>
-    <coordinates>12.2010238 44.4135667</coordinates>
+    <coordinates>44.4135667 12.2010238</coordinates>
     <address>Ravenna, Via Giuseppe Mazzini, 57</address>
     <chronology/>
     <description>palazzo, Palazzo Settecastelli</description>
@@ -4148,7 +4148,7 @@
     <site_id>260</site_id>
     <cultural_heritage_site_appellation>ex Chiesa di Sant'Andrea</cultural_heritage_site_appellation>
     <typology>chiesa</typology>
-    <coordinates>12.1935417 44.4157076</coordinates>
+    <coordinates>44.4157076 12.1935417</coordinates>
     <address>Ravenna, via Ercolana, 29</address>
     <chronology>ca V - ca V</chronology>
     <description>chiesa, ex Chiesa di Sant'Andrea</description>
@@ -4164,7 +4164,7 @@
     <site_id>261</site_id>
     <cultural_heritage_site_appellation>Casa Stanghellini ora Bugli</cultural_heritage_site_appellation>
     <typology>casa-residenziale</typology>
-    <coordinates>12.2016034 44.4121597</coordinates>
+    <coordinates>44.4121597 12.2016034</coordinates>
     <address>Ravenna, Via Giuseppe Mazzini, 84</address>
     <chronology>ca XVII - ca XIX</chronology>
     <description>casa, residenziale, Casa Stanghellini ora Bugli</description>
@@ -4196,7 +4196,7 @@
     <site_id>263</site_id>
     <cultural_heritage_site_appellation>Chiesa di Santa Maria Nascente</cultural_heritage_site_appellation>
     <typology>chiesa-parrocchiale</typology>
-    <coordinates>12.0885656 44.4654777</coordinates>
+    <coordinates>44.4654777 12.0885656</coordinates>
     <address>Ravenna, Via Santerno, 0</address>
     <chronology>XX - XX</chronology>
     <description>chiesa, parrocchiale, Chiesa di Santa Maria Nascente</description>
@@ -4212,7 +4212,7 @@
     <site_id>264</site_id>
     <cultural_heritage_site_appellation>Villa Ginanni-Corradini</cultural_heritage_site_appellation>
     <typology>villa-privata</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Ravenna, via Petrosa, 0</address>
     <chronology>ca inizio XVII - ca fine-XVII</chronology>
     <description>villa, privata, Villa Ginanni-Corradini</description>
@@ -4228,7 +4228,7 @@
     <site_id>265</site_id>
     <cultural_heritage_site_appellation>Palazzo Raisi</cultural_heritage_site_appellation>
     <typology>palazzo-privato</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Ravenna, Via A. Mariani, 22</address>
     <chronology/>
     <description>palazzo, privato, Palazzo Raisi</description>
@@ -4244,7 +4244,7 @@
     <site_id>266</site_id>
     <cultural_heritage_site_appellation>Villa Miserocchi ora Bubani</cultural_heritage_site_appellation>
     <typology>villa-privata</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Ravenna, via del Sale Vecchia, 18</address>
     <chronology>post metà XVIII - post seconda metà-XVIII</chronology>
     <description>villa, privata, Villa Miserocchi ora Bubani</description>
@@ -4260,7 +4260,7 @@
     <site_id>267</site_id>
     <cultural_heritage_site_appellation>Casa Spreti</cultural_heritage_site_appellation>
     <typology>casa</typology>
-    <coordinates>12.2045014 44.4156956</coordinates>
+    <coordinates>44.4156956 12.2045014</coordinates>
     <address>Ravenna, Via Di Roma, 108</address>
     <chronology>ca XVIII - ca XVIII</chronology>
     <description>casa, Casa Spreti</description>
@@ -4276,7 +4276,7 @@
     <site_id>268</site_id>
     <cultural_heritage_site_appellation>Palazzo Rasponi Murat</cultural_heritage_site_appellation>
     <typology>palazzo fortificato-privato</typology>
-    <coordinates>12.1987216 44.4157687</coordinates>
+    <coordinates>44.4157687 12.1987216</coordinates>
     <address>Ravenna, via Guerrini, 15</address>
     <chronology>ca fine XV - ca terzo quarto-XVIII</chronology>
     <description>palazzo fortificato, privato, Palazzo Rasponi Murat</description>
@@ -4292,7 +4292,7 @@
     <site_id>269</site_id>
     <cultural_heritage_site_appellation>Campanile della Basilica di S.Apollinare in Classe</cultural_heritage_site_appellation>
     <typology>campanile</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Ravenna, Strada Statale Adriatica, 16</address>
     <chronology>ca IX - ca X</chronology>
     <description>campanile, Campanile della Basilica di S.Apollinare in Classe</description>
@@ -4308,7 +4308,7 @@
     <site_id>270</site_id>
     <cultural_heritage_site_appellation>Chiesa di S. Carlino</cultural_heritage_site_appellation>
     <typology>chiesa</typology>
-    <coordinates>12.2020445 44.4151761</coordinates>
+    <coordinates>44.4151761 12.2020445</coordinates>
     <address>Ravenna, Via Marco Dente, 0</address>
     <chronology>post XI - XVIII</chronology>
     <description>chiesa, Chiesa di S. Carlino</description>
@@ -4324,7 +4324,7 @@
     <site_id>271</site_id>
     <cultural_heritage_site_appellation>Chiesa di S. Maria Maggiore</cultural_heritage_site_appellation>
     <typology>chiesa</typology>
-    <coordinates>12.2147229 44.4504896</coordinates>
+    <coordinates>44.4504896 12.2147229</coordinates>
     <address>Ravenna, Via Monti, 0</address>
     <chronology>post prima metà VI - XVII</chronology>
     <description>chiesa, Chiesa di S. Maria Maggiore</description>
@@ -4340,7 +4340,7 @@
     <site_id>272</site_id>
     <cultural_heritage_site_appellation>Casa De Lorenzi</cultural_heritage_site_appellation>
     <typology>casa</typology>
-    <coordinates>12.2048173 44.415089</coordinates>
+    <coordinates>44.415089 12.2048173</coordinates>
     <address>Ravenna, Via Di Roma, 98</address>
     <chronology>post inizio XIX - ca XX</chronology>
     <description>casa, Casa De Lorenzi</description>
@@ -4356,7 +4356,7 @@
     <site_id>273</site_id>
     <cultural_heritage_site_appellation>Torretta Spreti</cultural_heritage_site_appellation>
     <typology>torretta</typology>
-    <coordinates>12.2128106 44.3416156</coordinates>
+    <coordinates>44.3416156 12.2128106</coordinates>
     <address>Ravenna, via Dismano, 747</address>
     <chronology>ca XIV - ca XV</chronology>
     <description>torretta, Torretta Spreti</description>
@@ -4372,7 +4372,7 @@
     <site_id>274</site_id>
     <cultural_heritage_site_appellation>Palazzo Spreti</cultural_heritage_site_appellation>
     <typology>palazzo-privato</typology>
-    <coordinates>12.200469 44.4191432</coordinates>
+    <coordinates>44.4191432 12.200469</coordinates>
     <address>Ravenna, via Paolo Costa, 2</address>
     <chronology>ca primo quarto XVIII - ca secondo quarto-XVIII</chronology>
     <description>palazzo, privato, Palazzo Spreti</description>
@@ -4388,7 +4388,7 @@
     <site_id>275</site_id>
     <cultural_heritage_site_appellation>Palazzone</cultural_heritage_site_appellation>
     <typology>palazzo-privato</typology>
-    <coordinates>12.1176101 44.3805146</coordinates>
+    <coordinates>44.3805146 12.1176101</coordinates>
     <address>Ravenna, via Villanova, 96</address>
     <chronology>ca seconda metà XVII - ca fine-XVII</chronology>
     <description>palazzo, privato, Palazzone</description>
@@ -4404,7 +4404,7 @@
     <site_id>276</site_id>
     <cultural_heritage_site_appellation>Campanile della Chiesa di S. Lorenzo</cultural_heritage_site_appellation>
     <typology>campanile</typology>
-    <coordinates>12.1000114 44.3452707</coordinates>
+    <coordinates>44.3452707 12.1000114</coordinates>
     <address>Ravenna, Via Roncalceci, 0</address>
     <chronology>ca XVI - ca XVI</chronology>
     <description>campanile, Campanile della Chiesa di S. Lorenzo</description>
@@ -4420,7 +4420,7 @@
     <site_id>277</site_id>
     <cultural_heritage_site_appellation>Casa Guaccimanni già Giorgi</cultural_heritage_site_appellation>
     <typology>casa-privata</typology>
-    <coordinates>12.2019424 44.4181732</coordinates>
+    <coordinates>44.4181732 12.2019424</coordinates>
     <address>Ravenna, via Diaz, 15</address>
     <chronology>post metà XV - ca seconda metà-XV</chronology>
     <description>casa, privata, Casa Guaccimanni già Giorgi</description>
@@ -4436,7 +4436,7 @@
     <site_id>278</site_id>
     <cultural_heritage_site_appellation>Ex chiesa di S.Giacomo</cultural_heritage_site_appellation>
     <typology>chiesa-sconsacrata</typology>
-    <coordinates>12.1995285 44.4192708</coordinates>
+    <coordinates>44.4192708 12.1995285</coordinates>
     <address>Ravenna, via Ponte Marino, 7</address>
     <chronology>ca primo quarto XIV - ca XVI</chronology>
     <description>chiesa, sconsacrata, Ex chiesa di S.Giacomo</description>
@@ -4452,7 +4452,7 @@
     <site_id>279</site_id>
     <cultural_heritage_site_appellation>Oratorio di Villa Pasolini</cultural_heritage_site_appellation>
     <typology>oratorio-privato</typology>
-    <coordinates>12.089004 44.4063703</coordinates>
+    <coordinates>44.4063703 12.089004</coordinates>
     <address>Ravenna, Via Galassa, 10</address>
     <chronology>inizio XVIII - prima metà-XVIII</chronology>
     <description>oratorio, privato, Oratorio di Villa Pasolini</description>
@@ -4500,7 +4500,7 @@
     <site_id>282</site_id>
     <cultural_heritage_site_appellation>Palazzo di Santo Stefano Protomartire</cultural_heritage_site_appellation>
     <typology>palazzo-conventuale</typology>
-    <coordinates>12.2031660 44.4157906</coordinates>
+    <coordinates>44.4157906 12.2031660</coordinates>
     <address>Ravenna, Via Guaccimanni, 44</address>
     <chronology>--</chronology>
     <description>palazzo, conventuale, Palazzo di Santo Stefano Protomartire</description>
@@ -4516,7 +4516,7 @@
     <site_id>283</site_id>
     <cultural_heritage_site_appellation>Oratorio Madonna del Sudore</cultural_heritage_site_appellation>
     <typology>oratorio-comunale</typology>
-    <coordinates>12.2271296 44.5084017</coordinates>
+    <coordinates>44.5084017 12.2271296</coordinates>
     <address>Ravenna, Via Fossatone, 0</address>
     <chronology>inizio XX - inizio-XX</chronology>
     <description>oratorio, comunale, Oratorio Madonna del Sudore</description>
@@ -4532,7 +4532,7 @@
     <site_id>284</site_id>
     <cultural_heritage_site_appellation>Palazzo Cavalli</cultural_heritage_site_appellation>
     <typology>palazzo-residenziale</typology>
-    <coordinates>12.1989204 44.4205809</coordinates>
+    <coordinates>44.4205809 12.1989204</coordinates>
     <address>Ravenna, via Salara, 40</address>
     <chronology>(?) XVII - fine-XVIII</chronology>
     <description>palazzo, residenziale, Palazzo Cavalli</description>
@@ -4548,7 +4548,7 @@
     <site_id>285</site_id>
     <cultural_heritage_site_appellation>Chiesa di S. Maria Maggiore</cultural_heritage_site_appellation>
     <typology>chiesa</typology>
-    <coordinates>12.2147229 44.4504896</coordinates>
+    <coordinates>44.4504896 12.2147229</coordinates>
     <address>Ravenna, Via Monti, 0</address>
     <chronology>post prima metà VI - ante terzo quarto-XVII</chronology>
     <description>chiesa, Chiesa di S. Maria Maggiore</description>
@@ -4564,7 +4564,7 @@
     <site_id>286</site_id>
     <cultural_heritage_site_appellation>Villa Orfanelle</cultural_heritage_site_appellation>
     <typology>villa-privata</typology>
-    <coordinates>12.0864934 44.4633892</coordinates>
+    <coordinates>44.4633892 12.0864934</coordinates>
     <address>Ravenna, SANTERNO, via Santerno, 284</address>
     <chronology>ca seconda metà XIX - XIX</chronology>
     <description>villa, privata, Villa Orfanelle</description>
@@ -4580,7 +4580,7 @@
     <site_id>287</site_id>
     <cultural_heritage_site_appellation>Villa Spreti</cultural_heritage_site_appellation>
     <typology>villa</typology>
-    <coordinates>12.2128106 44.3416156</coordinates>
+    <coordinates>44.3416156 12.2128106</coordinates>
     <address>Ravenna, via Dismano, 749</address>
     <chronology>ca inizio XVIII - ca fine-XVIII</chronology>
     <description>Villa, Villa Spreti</description>
@@ -4596,7 +4596,7 @@
     <site_id>288</site_id>
     <cultural_heritage_site_appellation>Chiesa di S. Maria in Porto Fuori</cultural_heritage_site_appellation>
     <typology>chiesa</typology>
-    <coordinates>12.2454835 44.4026479</coordinates>
+    <coordinates>44.4026479 12.2454835</coordinates>
     <address>Ravenna, Via Stradone, 46</address>
     <chronology>ca IX - ca metà-XX</chronology>
     <description>chiesa, Chiesa di S. Maria in Porto Fuori</description>
@@ -4612,7 +4612,7 @@
     <site_id>289</site_id>
     <cultural_heritage_site_appellation>Colonna con capitello e Madonna col Putto</cultural_heritage_site_appellation>
     <typology>colonna con capitello</typology>
-    <coordinates>12.1986317 44.4176313</coordinates>
+    <coordinates>44.4176313 12.1986317</coordinates>
     <address>Ravenna, piazza XX Settembre, 7</address>
     <chronology>ante inizio XVI - ante prima metà-XVI</chronology>
     <description>colonna con capitello, Colonna con capitello e Madonna col Putto</description>
@@ -4644,7 +4644,7 @@
     <site_id>291</site_id>
     <cultural_heritage_site_appellation>Villa Ginanni</cultural_heritage_site_appellation>
     <typology>villa</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Ravenna, via Sisa, 17</address>
     <chronology>XVIII - XVIII</chronology>
     <description>villa, Villa Ginanni</description>
@@ -4660,7 +4660,7 @@
     <site_id>292</site_id>
     <cultural_heritage_site_appellation>Convento dei Monaci Camaldolesi di Classe</cultural_heritage_site_appellation>
     <typology>convento</typology>
-    <coordinates>12.2017617 44.4161414</coordinates>
+    <coordinates>44.4161414 12.2017617</coordinates>
     <address>Ravenna</address>
     <chronology>XVI - ca seconda metà-XVIII</chronology>
     <description>convento, Convento dei Monaci Camaldolesi di Classe</description>
@@ -4676,7 +4676,7 @@
     <site_id>293</site_id>
     <cultural_heritage_site_appellation>Casa Malagola</cultural_heritage_site_appellation>
     <typology>casa</typology>
-    <coordinates>12.1943565 44.4182064</coordinates>
+    <coordinates>44.4182064 12.1943565</coordinates>
     <address>Ravenna, Via Massimo D'Azeglio, 47</address>
     <chronology>ca fine XVIII - ca fine-XVIII</chronology>
     <description>casa, Casa Malagola</description>
@@ -4692,7 +4692,7 @@
     <site_id>294</site_id>
     <cultural_heritage_site_appellation>Casa Minzoni</cultural_heritage_site_appellation>
     <typology>casa-privata</typology>
-    <coordinates>12.1993977 44.4170790</coordinates>
+    <coordinates>44.4170790 12.1993977</coordinates>
     <address>Ravenna, via Cairoli, 27</address>
     <chronology>ca prima metà XV - ca metà-XV</chronology>
     <description>casa, privata, Casa Minzoni</description>
