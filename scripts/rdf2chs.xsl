@@ -8,6 +8,29 @@
   <xsl:output method="xml" encoding="UTF-8" indent="yes"/>
   <xsl:strip-space elements="*"/>
 
+  <!-- path to SPARQL results file (adjust if needed) -->
+  <xsl:param name="sparql-file" select="'../source_data/arco/sparql.xml'"/>
+
+  <!-- simple string-replace template (XSLT 1.0) -->
+  <xsl:template name="replace">
+    <xsl:param name="text"/>
+    <xsl:param name="search"/>
+    <xsl:param name="replace"/>
+    <xsl:choose>
+      <xsl:when test="contains($text, $search)">
+        <xsl:value-of select="concat(substring-before($text, $search), $replace)"/>
+        <xsl:call-template name="replace">
+          <xsl:with-param name="text" select="substring-after($text, $search)"/>
+          <xsl:with-param name="search" select="$search"/>
+          <xsl:with-param name="replace" select="$replace"/>
+        </xsl:call-template>
+      </xsl:when>
+      <xsl:otherwise>
+        <xsl:value-of select="$text"/>
+      </xsl:otherwise>
+    </xsl:choose>
+  </xsl:template>
+
   <!-- Root -->
   <xsl:template match="/">
     <cultural_heritage_sites>
@@ -33,14 +56,71 @@
         <xsl:value-of select="normalize-space(dc:type)"/>
       </typology>
 
-      <!-- coordinates: not present in RDF snippet -> leave empty (or map if you have a predicate) -->
+      <!-- derive identifier value to match SPARQL results -->
+      <xsl:variable name="idVal" select="normalize-space(dc:identifier)"/>
+
+      <!-- lookup matching SPARQL 'result' by identifier -->
+      <xsl:variable name="sparqlRes" select="document($sparql-file)//result[binding[@name='identifier']/literal = $idVal][1]"/>
+
+      <!-- raw address from SPARQL -->
+      <xsl:variable name="rawAddr" select="normalize-space($sparqlRes/binding[@name='addressLabel']/literal)"/>
+
+      <!-- remove (P) occurrences -->
+      <xsl:variable name="addrNoP">
+        <xsl:call-template name="replace">
+          <xsl:with-param name="text" select="$rawAddr"/>
+          <xsl:with-param name="search" select="'(P)'"/>
+          <xsl:with-param name="replace" select="''"/>
+        </xsl:call-template>
+      </xsl:variable>
+
+      <!-- remove leading prefix "ITALIA, Emilia-Romagna, RA, " if present -->
+      <xsl:variable name="prefix" select="'ITALIA, Emilia-Romagna, RA, '"/>
+      <xsl:variable name="addrClean">
+        <xsl:choose>
+          <xsl:when test="string-length($addrNoP) &gt; 0 and substring(normalize-space($addrNoP),1,string-length($prefix)) = $prefix">
+            <xsl:value-of select="normalize-space(substring(normalize-space($addrNoP), string-length($prefix) + 1))"/>
+          </xsl:when>
+          <xsl:otherwise>
+            <xsl:value-of select="normalize-space($addrNoP)"/>
+          </xsl:otherwise>
+        </xsl:choose>
+      </xsl:variable>
+
+      <!-- coordinates: take cleaned address text (kept for geocoding) -->
       <coordinates>
-        <xsl:text/>
+        <xsl:choose>
+          <xsl:when test="$sparqlRes and string-length(normalize-space($addrClean)) &gt; 0">
+            <xsl:value-of select="$addrClean"/>
+          </xsl:when>
+          <xsl:otherwise>
+            <xsl:text/>
+          </xsl:otherwise>
+        </xsl:choose>
       </coordinates>
 
-      <!-- chronology: leave empty for now -->
+      <!-- address: preserve cleaned textual address (without prefix and (P)) -->
+      <address>
+        <xsl:choose>
+          <xsl:when test="$sparqlRes and string-length(normalize-space($addrClean)) &gt; 0">
+            <xsl:value-of select="$addrClean"/>
+          </xsl:when>
+          <xsl:otherwise>
+            <xsl:text/>
+          </xsl:otherwise>
+        </xsl:choose>
+      </address>
+
+      <!-- chronology: take from SPARQL binding timeLabel if present -->
       <chronology>
-        <xsl:text/>
+        <xsl:choose>
+          <xsl:when test="$sparqlRes and string-length(normalize-space($sparqlRes/binding[@name='timeLabel']/literal)) &gt; 0">
+            <xsl:value-of select="normalize-space($sparqlRes/binding[@name='timeLabel']/literal)"/>
+          </xsl:when>
+          <xsl:otherwise>
+            <xsl:text/>
+          </xsl:otherwise>
+        </xsl:choose>
       </chronology>
 
       <!-- description: try rdfs:comment, else empty -->
