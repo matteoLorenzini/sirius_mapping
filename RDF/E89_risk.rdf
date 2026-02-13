@@ -13,7 +13,7 @@
     <cidoc:P129_is_about>
       <cidoc:E89_Propositional_Object rdf:about="https://w3id.org/sirius/risk-analysis/id/17">
         <cidoc:P129_is_about>
-          <cidoc:E18_Physical_Thing rdf:about="https://w3id.org/sirius/cultural-heritage-site/1"/>
+          <cidoc:E18_Physical_Thing rdf:about="https://w3id.org/sirius/cultural-heritage-site/400"/>
         </cidoc:P129_is_about>
         <cidoc:P129_is_about>
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/event/17/1/10/Bacteria">
@@ -66,7 +66,7 @@
                 <rdfs:label>After more than a year and six months from the last biocide treatment, if not repeated, biological colonization will progress quickly in the summer months until it reaches its ecological maximum, with the reappearance of cyanobacteria, algae, actinomycetes and fungi. One year after the last treatment carried out in spring, cyanobacteria and algae will form on the areas exposed to natural and artificial light.</rdfs:label>
               </rdfs:Literal>
             </cidoc:P3_has_note>
-            <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
+            <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/400"/>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_c_score/1/17/5">
                 <cidoc:P40_observed_dimension>
@@ -167,7 +167,7 @@ Perdita di valore per ogni oggetto: efflorescenze, fessurazioni, asportazione e 
     </cidoc:P129_is_about>
     <cidoc:P129_is_about>
       <cidoc:E89_Propositional_Object rdf:about="https://w3id.org/sirius/risk-analysis/id/25">
-        <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
+        <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/400"/>
         <cidoc:P129_is_about>
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/event/25/1/25/No_Staff_Dedicated_to_Maintenance">
             <rdfs:label>No_Staff_Dedicated_to_Maintenance</rdfs:label>
@@ -193,7 +193,7 @@ Perdita di valore per ogni oggetto: efflorescenze, fessurazioni, asportazione e 
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score"/>
               </crmsci:S21_Measurement>
             </cidoc:P39i_was_measured_by>
-            <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
+            <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/400"/>
             <cidoc:P3_has_note>
               <rdfs:Literal rdf:about="urn:uuid:752f2b91-11ed-4e4b-a50e-0fed71004f2b">
                 <rdfs:label>Lack of funding will prevent the restoration of the remaining surfaces of the archaeological site and the scheduled maintenance of the archaeological site.</rdfs:label>
@@ -285,7 +285,7 @@ Perdita di valore per ogni oggetto: efflorescenze, fessurazioni, asportazione e 
     </cidoc:P129_is_about>
     <cidoc:P129_is_about>
       <cidoc:E89_Propositional_Object rdf:about="https://w3id.org/sirius/risk-analysis/id/10">
-        <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
+        <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/400"/>
         <cidoc:P129_is_about>
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/event/10/1/1/Earthquake">
             <cidoc:P39i_was_measured_by>
@@ -341,7 +341,7 @@ Perdita di valore per ogni oggetto: efflorescenze, fessurazioni, asportazione e 
                 <rdfs:label>Physical_Forces</rdfs:label>
               </cidoc:E39_Actor>
             </cidoc:P11_had_participant>
-            <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
+            <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/400"/>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_a_score/1/10/1">
                 <cidoc:P40_observed_dimension>
@@ -393,7 +393,7 @@ Perdita di valore per ogni oggetto: efflorescenze, fessurazioni, asportazione e 
     </cidoc:P129_is_about>
     <cidoc:P129_is_about>
       <cidoc:E89_Propositional_Object rdf:about="https://w3id.org/sirius/risk-analysis/id/16">
-        <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
+        <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/400"/>
         <cidoc:P129_is_about>
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/event/16/1/8/Flood">
             <cidoc:P39i_was_measured_by>
@@ -441,7 +441,7 @@ Perdita di valore per ogni oggetto: efflorescenze, fessurazioni, asportazione e 
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score"/>
               </crmsci:S21_Measurement>
             </cidoc:P39i_was_measured_by>
-            <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
+            <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/400"/>
             <cidoc:P11_had_participant>
               <cidoc:E39_Actor rdf:about="https://w3id.org/sirius/agent/Water">
                 <rdfs:label>Water</rdfs:label>
@@ -511,7 +511,7 @@ Perdita di valore per ogni oggetto: efflorescenze, fessurazioni, asportazione e 
     </cidoc:P129_is_about>
     <cidoc:P129_is_about>
       <cidoc:E89_Propositional_Object rdf:about="https://w3id.org/sirius/risk-analysis/id/18">
-        <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
+        <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/400"/>
         <cidoc:P129_is_about>
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/event/18/1/10/Bacteria">
             <cidoc:P39i_was_measured_by>
@@ -544,7 +544,7 @@ Perdita di valore per ogni oggetto: efflorescenze, fessurazioni, asportazione e 
             <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/event/Bacteria"/>
             <rdfs:label>Bacteria</rdfs:label>
             <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius/agent/Pests"/>
-            <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
+            <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/400"/>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_c_score/1/18/5">
                 <cidoc:P40_observed_dimension>
@@ -621,7 +621,7 @@ Perdita di valore per ogni oggetto: efflorescenze, fessurazioni, asportazione e 
     </cidoc:P129_is_about>
     <cidoc:P129_is_about>
       <cidoc:E89_Propositional_Object rdf:about="https://w3id.org/sirius/risk-analysis/id/8">
-        <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
+        <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/400"/>
         <cidoc:P129_is_about>
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/event/8/1/1/Earthquake">
             <cidoc:P39i_was_measured_by>
@@ -682,7 +682,7 @@ Perdita di valore per ogni oggetto: efflorescenze, fessurazioni, asportazione e 
               </crmsci:S21_Measurement>
             </cidoc:P39i_was_measured_by>
             <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius/agent/Physical_Forces"/>
-            <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
+            <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/400"/>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_c_score/1/8/1">
                 <cidoc:P40_observed_dimension>
@@ -731,7 +731,7 @@ Perdita di valore per ogni oggetto: efflorescenze, fessurazioni, asportazione e 
     </cidoc:P129_is_about>
     <cidoc:P129_is_about>
       <cidoc:E89_Propositional_Object rdf:about="https://w3id.org/sirius/risk-analysis/id/13">
-        <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
+        <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/400"/>
         <cidoc:P129_is_about>
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/event/13/1/4/Fire_Due_to_Relevant_Incidence">
             <cidoc:P11_had_participant>
@@ -847,17 +847,17 @@ Perdita di valore per ogni oggetto: efflorescenze, fessurazioni, asportazione e 
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty"/>
               </crmsci:S21_Measurement>
             </cidoc:P39i_was_measured_by>
-            <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
+            <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/400"/>
           </cidoc:E5_Event>
         </cidoc:P129_is_about>
       </cidoc:E89_Propositional_Object>
     </cidoc:P129_is_about>
     <cidoc:P129_is_about>
       <cidoc:E89_Propositional_Object rdf:about="https://w3id.org/sirius/risk-analysis/id/21">
-        <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
+        <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/400"/>
         <cidoc:P129_is_about>
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/event/21/1/22/PM_10">
-            <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
+            <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/400"/>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/magnitude_score/1/21/6">
                 <cidoc:P40_observed_dimension>
@@ -972,10 +972,10 @@ Perdita di valore per ogni oggetto: efflorescenze, fessurazioni, asportazione e 
     </cidoc:P129_is_about>
     <cidoc:P129_is_about>
       <cidoc:E89_Propositional_Object rdf:about="https://w3id.org/sirius/risk-analysis/id/19">
-        <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
+        <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/400"/>
         <cidoc:P129_is_about>
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/event/19/1/12/Impregnation_of_Salt_Brick_Stone">
-            <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
+            <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/400"/>
             <rdfs:label>Impregnation_of_Salt_Brick_Stone</rdfs:label>
             <cidoc:P3_has_note>
               <rdfs:Literal rdf:about="urn:uuid:8ce30fbb-42bd-4b67-ae4a-d58f96573a9b">
@@ -1086,10 +1086,10 @@ Perdita di valore per ogni oggetto: efflorescenze, fessurazioni, asportazione e 
     </cidoc:P129_is_about>
     <cidoc:P129_is_about>
       <cidoc:E89_Propositional_Object rdf:about="https://w3id.org/sirius/risk-analysis/id/4">
-        <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
+        <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/400"/>
         <cidoc:P129_is_about>
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/event/4/1/8/Flood">
-            <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
+            <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/400"/>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_b_score/1/4/4">
                 <cidoc:P40_observed_dimension>
@@ -1199,7 +1199,7 @@ N° di pavimentazione considerate di alto valore tra quelle suscettibili: 1/3</c
     </cidoc:P129_is_about>
     <cidoc:P129_is_about>
       <cidoc:E89_Propositional_Object rdf:about="https://w3id.org/sirius/risk-analysis/id/7">
-        <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
+        <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/400"/>
         <cidoc:P129_is_about>
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/event/7/1/17/RH_Fluctuations">
             <cidoc:P39i_was_measured_by>
@@ -1311,7 +1311,7 @@ Tempo necessario per accumulare il danno: ogni inverno, quindi indicativamente o
               </crmsci:S21_Measurement>
             </cidoc:P39i_was_measured_by>
             <rdfs:label>RH_Fluctuations</rdfs:label>
-            <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
+            <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/400"/>
             <cidoc:P11_had_participant>
               <cidoc:E39_Actor rdf:about="https://w3id.org/sirius/agent/Incorrect_RH">
                 <rdfs:label>Incorrect_RH</rdfs:label>
@@ -1323,7 +1323,7 @@ Tempo necessario per accumulare il danno: ogni inverno, quindi indicativamente o
     </cidoc:P129_is_about>
     <cidoc:P129_is_about>
       <cidoc:E89_Propositional_Object rdf:about="https://w3id.org/sirius/risk-analysis/id/12">
-        <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
+        <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/400"/>
         <cidoc:P129_is_about>
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/event/12/1/3/Handling">
             <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius/agent/Physical_Forces"/>
@@ -1352,7 +1352,7 @@ Tempo necessario per accumulare il danno: ogni inverno, quindi indicativamente o
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score"/>
               </crmsci:S21_Measurement>
             </cidoc:P39i_was_measured_by>
-            <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
+            <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/400"/>
             <cidoc:P3_has_note>
               <rdfs:Literal rdf:about="urn:uuid:fd97b1f8-6b15-4349-a818-09b02b13858c">
                 <rdfs:label>Visitors will cause damage by hitting into the raised surfaces and marginal pavements of the walking path.</rdfs:label>
@@ -1440,7 +1440,7 @@ Tempo necessario per accumulare il danno: ogni inverno, quindi indicativamente o
     </cidoc:P2_has_type>
     <cidoc:P129_is_about>
       <cidoc:E89_Propositional_Object rdf:about="https://w3id.org/sirius/risk-analysis/id/26">
-        <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
+        <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/400"/>
         <cidoc:P129_is_about>
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/event/26/1/26/Poor_Organization_of_Collection">
             <cidoc:P39i_was_measured_by>
@@ -1465,7 +1465,7 @@ Tempo necessario per accumulare il danno: ogni inverno, quindi indicativamente o
               </cidoc:E55_Type>
             </cidoc:P2_has_type>
             <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius/agent/Dissociation"/>
-            <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
+            <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/400"/>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_b_score/1/26/10">
                 <cidoc:P40_observed_dimension>
@@ -1559,7 +1559,7 @@ Tempo necessario per accumulare il danno: ogni inverno, quindi indicativamente o
     </cidoc:P129_is_about>
     <cidoc:P129_is_about>
       <cidoc:E89_Propositional_Object rdf:about="https://w3id.org/sirius/risk-analysis/id/3">
-        <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
+        <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/400"/>
         <cidoc:P129_is_about>
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/event/3/1/8/Flood">
             <cidoc:P39i_was_measured_by>
@@ -1665,17 +1665,17 @@ Perdita di valore per ogni oggetto: efflorescenze, fessurazioni, asportazione e 
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/uncertainty"/>
               </crmsci:S21_Measurement>
             </cidoc:P39i_was_measured_by>
-            <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
+            <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/400"/>
           </cidoc:E5_Event>
         </cidoc:P129_is_about>
       </cidoc:E89_Propositional_Object>
     </cidoc:P129_is_about>
     <cidoc:P129_is_about>
       <cidoc:E89_Propositional_Object rdf:about="https://w3id.org/sirius/risk-analysis/id/23">
-        <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
+        <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/400"/>
         <cidoc:P129_is_about>
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/event/23/1/24/Regular_Monitoring_Not_Carried_Out">
-            <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
+            <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/400"/>
             <rdfs:label>Regular_Monitoring_Not_Carried_Out</rdfs:label>
             <cidoc:P3_has_note>
               <rdfs:Literal rdf:about="urn:uuid:469965d3-cd8b-4800-b1a6-f1efbb4fb963">
@@ -1781,7 +1781,7 @@ Perdita di valore per ogni oggetto: efflorescenze, fessurazioni, asportazione e 
     </cidoc:P129_is_about>
     <cidoc:P129_is_about>
       <cidoc:E89_Propositional_Object rdf:about="https://w3id.org/sirius/risk-analysis/id/6">
-        <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
+        <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/400"/>
         <cidoc:P129_is_about>
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/event/6/1/14/IR_Heats_Surface">
             <cidoc:P11_had_participant>
@@ -1812,7 +1812,7 @@ N° di pavimentazioni di alto valore tra le suscettibili = 1/2</cidoc:P3_has_not
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score"/>
               </crmsci:S21_Measurement>
             </cidoc:P39i_was_measured_by>
-            <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
+            <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/400"/>
             <cidoc:P3_has_note>
               <rdfs:Literal rdf:about="urn:uuid:c7828492-4799-43a9-a43a-0846035030f1">
                 <rdfs:label>The lighting system and the unscreened natural light coming from the glass ceiling will cause thermal inhomogeneities on the surfaces, favoring biological colonization.</rdfs:label>
@@ -1903,7 +1903,7 @@ Le fonti luminose creano un’alternanza buio-luce sia giornaliera che stagional
     </cidoc:P129_is_about>
     <cidoc:P129_is_about>
       <cidoc:E89_Propositional_Object rdf:about="https://w3id.org/sirius/risk-analysis/id/20">
-        <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
+        <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/400"/>
         <cidoc:P129_is_about>
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/event/20/1/21/Impregnation_of_Residue_Cleaning_Agents">
             <cidoc:P39i_was_measured_by>
@@ -1931,7 +1931,7 @@ Le fonti luminose creano un’alternanza buio-luce sia giornaliera che stagional
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score"/>
               </crmsci:S21_Measurement>
             </cidoc:P39i_was_measured_by>
-            <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
+            <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/400"/>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_b_score/1/20/6">
                 <cidoc:P40_observed_dimension>
@@ -2017,7 +2017,7 @@ Le fonti luminose creano un’alternanza buio-luce sia giornaliera che stagional
     </cidoc:P129_is_about>
     <cidoc:P129_is_about>
       <cidoc:E89_Propositional_Object rdf:about="https://w3id.org/sirius/risk-analysis/id/15">
-        <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
+        <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/400"/>
         <cidoc:P129_is_about>
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/event/15/1/7/Use_of_Water_Activity">
             <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius/agent/Water"/>
@@ -2114,14 +2114,14 @@ Le fonti luminose creano un’alternanza buio-luce sia giornaliera che stagional
                 <rdfs:label>The fire extinguishers used to put out the fire will stain the pavements and archaeological structures.</rdfs:label>
               </rdfs:Literal>
             </cidoc:P3_has_note>
-            <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
+            <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/400"/>
           </cidoc:E5_Event>
         </cidoc:P129_is_about>
       </cidoc:E89_Propositional_Object>
     </cidoc:P129_is_about>
     <cidoc:P129_is_about>
       <cidoc:E89_Propositional_Object rdf:about="https://w3id.org/sirius/risk-analysis/id/22">
-        <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
+        <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/400"/>
         <cidoc:P129_is_about>
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/event/22/1/23/UV_Causing_Disintegration">
             <cidoc:P39i_was_measured_by>
@@ -2204,7 +2204,7 @@ N° di pavimentazione considerate di alto valore tra quelle suscettibili: 3/3</c
                 <rdfs:label>UV_Causing_Disintegration</rdfs:label>
               </cidoc:E55_Type>
             </cidoc:P2_has_type>
-            <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
+            <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/400"/>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_b_score/1/22/7">
                 <cidoc:P40_observed_dimension>
@@ -2238,7 +2238,7 @@ Perdita di valore per ogni oggetto: efflorescenze, fessurazioni, asportazione e 
     </cidoc:P129_is_about>
     <cidoc:P129_is_about>
       <cidoc:E89_Propositional_Object rdf:about="https://w3id.org/sirius/risk-analysis/id/9">
-        <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
+        <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/400"/>
         <cidoc:P129_is_about>
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/event/9/1/1/Earthquake">
             <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/event/Earthquake"/>
@@ -2335,7 +2335,7 @@ Perdita di valore per ogni oggetto: efflorescenze, fessurazioni, asportazione e 
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/magnitude-score"/>
               </crmsci:S21_Measurement>
             </cidoc:P39i_was_measured_by>
-            <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
+            <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/400"/>
             <cidoc:P3_has_note>
               <rdfs:Literal rdf:about="urn:uuid:bdac019c-e58e-40bf-bb76-b289ec072284">
                 <rdfs:label>The buildings built up to 2003 without seismic regulations near the Chamber of Commerce (that could be untouched) will collapse following an earthquake of medium magnitude (Richter scale 5.0-5.9). During an earthquake there will be many displaced people in the neighborhood where the archaeological site is located and the operations to secure the archaeological site will be neglected in order to provide priority assistance to civilians.</rdfs:label>
@@ -2348,7 +2348,7 @@ Perdita di valore per ogni oggetto: efflorescenze, fessurazioni, asportazione e 
     </cidoc:P129_is_about>
     <cidoc:P129_is_about>
       <cidoc:E89_Propositional_Object rdf:about="https://w3id.org/sirius/risk-analysis/id/14">
-        <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
+        <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/400"/>
         <cidoc:P129_is_about>
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/event/14/1/6/Electrical_Sources">
             <rdfs:label>Electrical_Sources</rdfs:label>
@@ -2398,7 +2398,7 @@ Perdita di valore per ogni oggetto: efflorescenze, fessurazioni, asportazione e 
                 <rdfs:label>Electrical_Sources</rdfs:label>
               </cidoc:E55_Type>
             </cidoc:P2_has_type>
-            <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
+            <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/400"/>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/uncertainty_score/1/14/3">
                 <cidoc:P40_observed_dimension>
@@ -2462,7 +2462,7 @@ Perdita di valore per ogni oggetto: efflorescenze, fessurazioni, asportazione e 
     </cidoc:P129_is_about>
     <cidoc:P129_is_about>
       <cidoc:E89_Propositional_Object rdf:about="https://w3id.org/sirius/risk-analysis/id/11">
-        <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
+        <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/400"/>
         <cidoc:P129_is_about>
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/event/11/1/3/Handling">
             <cidoc:P39i_was_measured_by>
@@ -2523,7 +2523,7 @@ Perdita di valore per ogni oggetto: efflorescenze, fessurazioni, asportazione e 
                 <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/type/scale-c-score"/>
               </crmsci:S21_Measurement>
             </cidoc:P39i_was_measured_by>
-            <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
+            <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/400"/>
             <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius/agent/Physical_Forces"/>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_b_score/1/11/1">
@@ -2572,7 +2572,7 @@ Perdita di valore per ogni oggetto: efflorescenze, fessurazioni, asportazione e 
     </cidoc:P129_is_about>
     <cidoc:P129_is_about>
       <cidoc:E89_Propositional_Object rdf:about="https://w3id.org/sirius/risk-analysis/id/24">
-        <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
+        <cidoc:P129_is_about rdf:resource="https://w3id.org/sirius/cultural-heritage-site/400"/>
         <cidoc:P129_is_about>
           <cidoc:E5_Event rdf:about="https://w3id.org/sirius/event/24/1/25/No_Staff_Dedicated_to_Maintenance">
             <cidoc:P39i_was_measured_by>
@@ -2598,7 +2598,7 @@ Perdita di valore per ogni oggetto: efflorescenze, fessurazioni, asportazione e 
               </crmsci:S21_Measurement>
             </cidoc:P39i_was_measured_by>
             <cidoc:P2_has_type rdf:resource="https://w3id.org/sirius/event/No_Staff_Dedicated_to_Maintenance"/>
-            <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/1"/>
+            <cidoc:P31_has_modified rdf:resource="https://w3id.org/sirius/cultural-heritage-site/400"/>
             <cidoc:P11_had_participant rdf:resource="https://w3id.org/sirius/agent/Dissociation"/>
             <cidoc:P39i_was_measured_by>
               <crmsci:S21_Measurement rdf:about="https://w3id.org/sirius/scale_c_score/1/24/10">

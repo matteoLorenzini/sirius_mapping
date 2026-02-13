@@ -1,0 +1,11 @@
+{
+  "error": "HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?format=jsonv2&limit=5&viewbox=12.08%2C44.33%2C12.35%2C44.52&bounded=1&addressdetails=1&q=Via+Bastione%2C+Ravenna%2C+Emilia-Romagna%2C+Italy (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002A64EBC2990>, 'Connection to nominatim.openstreetmap.org timed out. (connect timeout=20)'))",
+  "params": {
+    "format": "jsonv2",
+    "limit": 5,
+    "viewbox": "12.08,44.33,12.35,44.52",
+    "bounded": 1,
+    "addressdetails": 1,
+    "q": "Via Bastione, Ravenna, Emilia-Romagna, Italy"
+  }
+}

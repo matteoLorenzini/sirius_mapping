@@ -1,0 +1,10 @@
+{
+  "address": "Ravenna, Via G. Mazzini, 42",
+  "params": {
+    "street": "Via G. Mazzini",
+    "city": "Ravenna",
+    "state": "Emilia-Romagna",
+    "country": "Italy"
+  },
+  "results": []
+}

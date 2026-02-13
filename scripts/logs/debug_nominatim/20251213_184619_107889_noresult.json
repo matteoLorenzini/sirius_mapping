@@ -1,0 +1,10 @@
+{
+  "address": "Ravenna, Via Di Roma, 67",
+  "params": {
+    "street": "Via Di Roma",
+    "city": "Ravenna",
+    "state": "Emilia-Romagna",
+    "country": "Italy"
+  },
+  "results": []
+}

@@ -1,0 +1,2161 @@
+{
+  "ITALIA, Emilia-Romagna, RA, Ravenna, via Guerrini, 0, piazza Arcivescovado 0, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, via Paolo Costa, 10, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Via Di Roma, 0 , Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, via G. Mazzini, 75, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, via di Roma, 47 , Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, SAN ZACCARIA, Via Dismano, 663, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Via della Chiesa, 0 , Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, via Galla Placida, 2, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, via Casa Matha, 1/ 3, via IV Novembre, 37/ 39, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, via di Roma, 0, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Vic. S. Nicandro, 0 , Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Piazza del popolo, 0 , Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Piazza Anita Garibaldi, 0 , Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Via del Candiano, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, via di Roma, 113, 115 , Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, LONGANA, Via Ravegnana, 0 , Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Via Guido Da Polenta, 0, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, via Dante Alighieri, 9, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Via S.Vitale, 17, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, P.zza Anita Garibaldi, 0 , Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Via Cura, 0 , Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, via G. Rossi, 51, 53, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, via San Vitale, 5, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, via Cavour, 54 , Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, via Romolo Gessi, 20, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Via Anastagi, 19, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, via Zagarelli Alle Mura, 32, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, via Paolo Costa, 49, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Via Zignani, 44, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, via G. Mazzini, 49, 51, 53, 55, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, CLASSE, Via Romea, 0, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Via Baccarini, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Via G. Ghiselli, 32 , Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, via Bagnolo Salara, 65, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, vicolo Genocchi, 9, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Via G. Rossi, 6 , Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Via del Cimitero, 0 , Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, PIANGIPANE, via Mezzoli, 45, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Via Battistero, 0, all'interno del giardino del Duomo fra via G. Rasponi e via R. Gessi, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Via Mura S. Vitale, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Via Girolamo Rossi, 0, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, S.S. Adriatica, 16, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, piazza Duomo, 3/ 2, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, MADONNA DELL'ALBERO, Via Cella, 0 , Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Via Mazzini, 0 , Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Via Fiume Abbandonato, 0 , Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, via G. Mazzini, 64 , Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Piazza S.Francesco, 0, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Via G. Guaccimanni, 0 , Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Via G. Mazzini, 42 , Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Via Di Roma, 67 , Italy": null,
+  "Italia, Emilia Romagna, RA, Ravenna": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "maps.co"
+  },
+  "ITALIA, Emilia-Romagna, RA, Ravenna, via C. Ricci, 12, 14, 16, 18, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, SAN PIETRO IN TRENTO, Via Traversara, angolo via Bezzi, 67, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, via IV Novembre, 45/ 43, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, MARINA DI RAVENNA, via D'Allaggio, 53, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, FOSSO GHIAIA, Via Fosso Ghiaia, 0, all'interno della pineta, parco primo maggio, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, via Torri, 0, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, via Guaccimanni, 27 , Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Vicolo degli Ariani, 0, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, via Gamba, 3, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, SAN PIETRO IN VINCOLI, Via Gambellara, 1, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Via Massa, 88, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, via Romolo Gessi 0, via Mentana 33/35, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, via Mariani, 7/ 9, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, via San Vitale, 28, 30, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Via S.Mama, 175, 177, 179, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, via Paolo Costa, 8, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, via Guaccimanni, 62, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Via A. Mariani, 21 , Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, PIANGIPANE, via Braccesca, 44, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, via Mariani, 0 , Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, via P. Costa, 1, via XIII Giugno, 15 /17, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, MADONNA DELL'ALBERO, via Ravegnana, 479, Italy": null,
+  "Emilia-Romagna, RA, Ravenna, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, via Mazzini, 30/ 32/ 34, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Via Tombesi Dall'Ova, 14 , Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, COCCOLIA, via Ravegnana, 731, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Via Bastione, 0 , Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, via N. Rondinelli, 4, 6, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Via G. da Polenta, 0 , Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Via Pietro Alighieri, 4, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, via di Roma, 108 , Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, via C. Cattaneo, 34 , Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Via Sale, 102, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, SAN PIETRO IN TRENTO, via Alturie, 30, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Via Di Roma, 13 , Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, RAVENNA, via Alberoni, 12, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, via Zirardini, 14 , Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, via Montecatini, 3, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, via XIII Giugno, 0, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Via Castel S. Pietro, 0 , Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Via Galla Placidia, 0 , Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, via Mariani, 5, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Via A. Mariani, 46 , Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, via Guaccimanni, 40/ 40A/ 42, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, via Paolo Costa, 22/ 24, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, via San Vitale, 21, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Via Oberdan, 6, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Via Battistero, 0 , Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, via Zagarelli alle Mura, 2/a , Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Via Pietro Alighieri, 6 - 8, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Via Guaccimanni, 0, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, via Nigrisoli, 62, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Via Argine destrofiume Ronco, 0, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, P.zza Arcivescovado, 1, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, MARINA DI RAVENNA, via d'Allaggio, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, via Massimo d'Azeglio, 10/ 12, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, via Argine sinistro del Montone, 149, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Via Guaccimanni, 29, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Via Di Roma, 116 , Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Via Guido Da Polenta, 4, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, piazza XX Settembre, 5, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Via di Classe Fuori, 0, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, via Cavour, 10, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Via Del Borgo, 1, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Via C. Ricci, 0 , Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Ponte Marino, 2 , Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Via Pietro Alighieri, 4, 6, 8, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, Via Di Roma, 68 , Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, piazzetta degli Ariani, 0, Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, P.zza Duomo, 4 , Italy": null,
+  "ITALIA, Emilia-Romagna, RA, Ravenna, via XIII Giugno, 8, Italy": null,
+  "Ravenna, via Guerrini, 0, piazza Arcivescovado 0, Italy": null,
+  "Ravenna, via Paolo Costa, 10, Italy": null,
+  "Ravenna, Via Di Roma, 0, Italy": null,
+  "Ravenna, via G. Mazzini, 75, Italy": null,
+  "Ravenna, via di Roma, 47, Italy": null,
+  "Ravenna, SAN ZACCARIA, Via Dismano, 663, Italy": null,
+  "Ravenna, Via della Chiesa, 0, Italy": null,
+  "Ravenna, via Galla Placida, 2, Italy": null,
+  "Ravenna, via Casa Matha, 1/ 3, via IV Novembre, 37/ 39, Italy": null,
+  "Ravenna, via di Roma, 0, Italy": null,
+  "Ravenna, Vic. S. Nicandro, 0, Italy": null,
+  "Ravenna, Piazza del popolo, 0, Italy": null,
+  "Ravenna, Piazza Anita Garibaldi, 0, Italy": null,
+  "Ravenna, Via del Candiano, Italy": null,
+  "Ravenna, via di Roma, 113, 115, Italy": null,
+  "Ravenna, LONGANA, Via Ravegnana, 0, Italy": null,
+  "Ravenna, Via Guido Da Polenta, 0, Italy": null,
+  "Ravenna, via Dante Alighieri, 9, Italy": null,
+  "Ravenna, Via S.Vitale, 17, Italy": null,
+  "Ravenna, P.zza Anita Garibaldi, 0, Italy": null,
+  "Ravenna, Via Cura, 0, Italy": null,
+  "Ravenna, via G. Rossi, 51, 53, Italy": null,
+  "Ravenna, via San Vitale, 5, Italy": null,
+  "Ravenna, via Cavour, 54, Italy": null,
+  "Ravenna, via Romolo Gessi, 20, Italy": null,
+  "Ravenna, Via Anastagi, 19, Italy": null,
+  "Ravenna, via Zagarelli Alle Mura, 32, Italy": null,
+  "Ravenna, via Paolo Costa, 49, Italy": null,
+  "Ravenna, Via Zignani, 44, Italy": null,
+  "Ravenna, via G. Mazzini, 49, 51, 53, 55, Italy": null,
+  "Ravenna, CLASSE, Via Romea, 0, Italy": null,
+  "Ravenna, via Guerrini, 0, piazza Arcivescovado 0": null,
+  "Ravenna, via Paolo Costa, 10": {
+    "ok": true,
+    "lat": "44.4191519",
+    "lon": "12.2014068",
+    "source": "overpass"
+  },
+  "Ravenna, via Guerrini, 0 , piazza Arcivescovado 0": {
+    "ok": true,
+    "lat": "43.8901265",
+    "lon": "12.9210025",
+    "source": "maps.co"
+  },
+  "Ravenna, Via Di Roma, 0": {
+    "ok": true,
+    "lat": "44.4179146",
+    "lon": "12.2035804",
+    "source": "overpass"
+  },
+  "Ravenna, via G. Mazzini, 75": {
+    "ok": true,
+    "lat": "45.6859371",
+    "lon": "9.9592463",
+    "source": "maps.co"
+  },
+  "Ravenna, via di Roma, 47": {
+    "ok": true,
+    "lat": "44.4157928",
+    "lon": "12.2047522",
+    "source": "overpass"
+  },
+  "Ravenna, SAN ZACCARIA, Via Dismano, 663": {
+    "ok": true,
+    "lat": "44.3396858",
+    "lon": "12.2126471",
+    "source": "nominatim"
+  },
+  "Ravenna, Via della Chiesa, 0": {
+    "ok": true,
+    "lat": "42.0815883",
+    "lon": "12.3505375",
+    "source": "maps.co"
+  },
+  "Ravenna, via Galla Placida, 2": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, via Casa Matha, 1/ 3, via IV Novembre, 37/ 39": {
+    "ok": true,
+    "lat": "44.4186502",
+    "lon": "12.1999931",
+    "source": "overpass"
+  },
+  "Ravenna, via di Roma, 0": {
+    "ok": true,
+    "lat": "44.4179146",
+    "lon": "12.2035804",
+    "source": "overpass"
+  },
+  "Ravenna, Vic. S. Nicandro, 0": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, Piazza del popolo, 0": {
+    "ok": true,
+    "lat": "44.4178985",
+    "lon": "12.1992196",
+    "source": "overpass"
+  },
+  "Ravenna, Piazza Anita Garibaldi, 0": {
+    "ok": true,
+    "lat": "44.418002",
+    "lon": "12.2049025",
+    "source": "overpass"
+  },
+  "Ravenna, Via del Candiano": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, via di Roma, 113 ,115": {
+    "ok": true,
+    "lat": "44.4198316",
+    "lon": "12.2029809",
+    "source": "overpass"
+  },
+  "Ravenna, LONGANA, Via Ravegnana, 0": {
+    "ok": true,
+    "lat": "44.3569717",
+    "lon": "12.1549945",
+    "source": "overpass"
+  },
+  "Ravenna, Via Guido Da Polenta, 0": {
+    "ok": true,
+    "lat": "44.4162107",
+    "lon": "12.2004974",
+    "source": "overpass"
+  },
+  "Ravenna, via Dante Alighieri, 9": {
+    "ok": true,
+    "lat": "44.4163953",
+    "lon": "12.2007743",
+    "source": "overpass"
+  },
+  "Ravenna, Via S.Vitale, 17": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, P.zza Anita Garibaldi, 0": {
+    "ok": true,
+    "lat": "44.418002",
+    "lon": "12.2049025",
+    "source": "overpass"
+  },
+  "Ravenna, Via Cura, 0": {
+    "ok": true,
+    "lat": "44.4182612",
+    "lon": "12.1938362",
+    "source": "overpass"
+  },
+  "Ravenna, via G. Rossi, 51, 53": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, via San Vitale, 5": {
+    "ok": true,
+    "lat": "44.4195302",
+    "lon": "12.1976594",
+    "source": "overpass"
+  },
+  "Ravenna, via Cavour, 54": {
+    "ok": true,
+    "lat": "44.4190425",
+    "lon": "12.1968242",
+    "source": "nominatim"
+  },
+  "Ravenna, via Romolo Gessi, 20": {
+    "ok": true,
+    "lat": "44.4157737",
+    "lon": "12.1981351",
+    "source": "nominatim"
+  },
+  "Ravenna, Via Anastagi, 19": {
+    "ok": true,
+    "lat": "44.4218789",
+    "lon": "12.2012371",
+    "source": "overpass"
+  },
+  "Ravenna, via Zagarelli Alle Mura, 32": {
+    "ok": true,
+    "lat": "44.4123546",
+    "lon": "12.2032743",
+    "source": "overpass"
+  },
+  "Ravenna, via Paolo Costa, 49": {
+    "ok": true,
+    "lat": "44.419053",
+    "lon": "12.2025974",
+    "source": "overpass"
+  },
+  "Ravenna, Via Zignani, 44": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, via G. Mazzini, 49, 51, 53, 55": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, CLASSE, Via Romea, 0": {
+    "ok": true,
+    "lat": "44.445266",
+    "lon": "12.209909",
+    "source": "overpass"
+  },
+  "Ravenna, Via Baccarini": {
+    "ok": true,
+    "lat": "44.4130715",
+    "lon": "12.2003968",
+    "source": "nominatim"
+  },
+  "Ravenna, Via G. Ghiselli, 32": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, via Bagnolo Salara, 65": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, vicolo Genocchi, 9": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, Via G. Rossi, 6": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, Via del Cimitero, 0": {
+    "ok": true,
+    "lat": "44.4368255",
+    "lon": "12.2335321",
+    "source": "overpass"
+  },
+  "Ravenna, PIANGIPANE, via Mezzoli, 45": {
+    "ok": true,
+    "lat": "44.4202356",
+    "lon": "12.0876422",
+    "source": "nominatim"
+  },
+  "Ravenna, Via Battistero, 0, all'interno del giardino del Duomo fra via G. Rasponi e via R. Gessi": {
+    "ok": true,
+    "lat": "44.4156662",
+    "lon": "12.1974887",
+    "source": "overpass"
+  },
+  "Ravenna, Via Mura S. Vitale": {
+    "ok": true,
+    "lat": "44.4200266",
+    "lon": "12.1947607",
+    "source": "nominatim"
+  },
+  "Ravenna, Via Girolamo Rossi, 0": {
+    "ok": true,
+    "lat": "44.4200553",
+    "lon": "12.2012274",
+    "source": "overpass"
+  },
+  "Ravenna, S.S. Adriatica, 16": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, piazza Duomo, 3/ 2": {
+    "ok": true,
+    "lat": "44.4154629",
+    "lon": "12.1960428",
+    "source": "overpass"
+  },
+  "Ravenna, MADONNA DELL'ALBERO, Via Cella,0": {
+    "ok": true,
+    "lat": "44.3601333",
+    "lon": "12.1816153",
+    "source": "overpass"
+  },
+  "Ravenna": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, Via Mazzini, 0": {
+    "ok": true,
+    "lat": "44.4133761",
+    "lon": "12.2012144",
+    "source": "nominatim"
+  },
+  "Ravenna, Via Fiume Abbandonato, 0": {
+    "ok": true,
+    "lat": "44.3934038",
+    "lon": "12.1716884",
+    "source": "nominatim"
+  },
+  "Ravenna, via G. Mazzini, 64": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, Piazza S.Francesco, 0": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, Via G. Guaccimanni, 0": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, Via G. Mazzini, 42": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, Via Di Roma, 67": {
+    "ok": true,
+    "lat": "44.4171364",
+    "lon": "12.2040723",
+    "source": "overpass"
+  },
+  "Ravenna, via C. Ricci, 12,14 ,16,18": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, SAN PIETRO IN TRENTO, Via Traversara, angolo via Bezzi, 67": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, via IV Novembre, 45/ 43": {
+    "ok": true,
+    "lat": "44.4187752",
+    "lon": "12.199383",
+    "source": "overpass"
+  },
+  "Ravenna, MARINA DI RAVENNA, via D'Allaggio, 53": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, FOSSO GHIAIA, Via Fosso Ghiaia, 0, all'interno della pineta, parco primo maggio": {
+    "ok": true,
+    "lat": "44.3427021",
+    "lon": "12.181619",
+    "source": "overpass"
+  },
+  "Ravenna, via Torri, 0": {
+    "ok": true,
+    "lat": "44.4942768",
+    "lon": "12.1070846",
+    "source": "overpass"
+  },
+  "Ravenna, via Guaccimanni, 27": {
+    "ok": true,
+    "lat": "44.4157906",
+    "lon": "12.2031660",
+    "source": "nominatim"
+  },
+  "Ravenna, Vicolo degli Ariani, 0": {
+    "ok": true,
+    "lat": "44.4185674",
+    "lon": "12.2020594",
+    "source": "overpass"
+  },
+  "Ravenna, via Gamba, 3": {
+    "ok": true,
+    "lat": "44.4202322",
+    "lon": "12.1982536",
+    "source": "overpass"
+  },
+  "Ravenna, SAN PIETRO IN VINCOLI, Via Gambellara, 1": {
+    "ok": true,
+    "lat": "44.3439453",
+    "lon": "12.1394354",
+    "source": "nominatim"
+  },
+  "Ravenna, Via Massa, 88": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, via Romolo Gessi 0, via Mentana 33/35": {
+    "ok": true,
+    "lat": "44.4157162",
+    "lon": "12.1981838",
+    "source": "overpass"
+  },
+  "Ravenna, via Mariani, 7/ 9": {
+    "ok": true,
+    "lat": "44.4172272",
+    "lon": "12.2017926",
+    "source": "nominatim"
+  },
+  "Ravenna, via San Vitale, 28, 30": {
+    "ok": true,
+    "lat": "44.4196258",
+    "lon": "12.1970013",
+    "source": "overpass"
+  },
+  "Ravenna, Via S.Mama, 175, 177, 179": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, via Paolo Costa, 8": {
+    "ok": true,
+    "lat": "44.419134",
+    "lon": "12.2011494",
+    "source": "overpass"
+  },
+  "Ravenna, via Guaccimanni, 62": {
+    "ok": true,
+    "lat": "44.4157906",
+    "lon": "12.2031660",
+    "source": "nominatim"
+  },
+  "Ravenna, Via A. Mariani, 21": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, PIANGIPANE, via Braccesca, 44": {
+    "ok": true,
+    "lat": "44.4142197",
+    "lon": "12.09383",
+    "source": "overpass"
+  },
+  "Ravenna, via Mariani, 0": {
+    "ok": true,
+    "lat": "44.4172272",
+    "lon": "12.2017926",
+    "source": "nominatim"
+  },
+  "Ravenna, via P. Costa, 1, via XIII Giugno, 15 /17": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, MADONNA DELL'ALBERO, via Ravegnana, 479": {
+    "ok": true,
+    "lat": "44.3833523",
+    "lon": "12.1923863",
+    "source": "overpass"
+  },
+  "Emilia-Romagna, RA, Ravenna": {
+    "ok": true,
+    "lat": "44.4403718",
+    "lon": "12.2923064",
+    "source": "nominatim"
+  },
+  "Ravenna, via Mazzini, 30/ 32/ 34": {
+    "ok": true,
+    "lat": "44.4133761",
+    "lon": "12.2012144",
+    "source": "nominatim"
+  },
+  "Ravenna, Via Tombesi Dall'Ova, 14": {
+    "ok": true,
+    "lat": "44.4149746",
+    "lon": "12.2014104",
+    "source": "overpass"
+  },
+  "Ravenna, COCCOLIA, via Ravegnana, 731": {
+    "ok": true,
+    "lat": "44.4020871",
+    "lon": "12.1964898",
+    "source": "nominatim"
+  },
+  "Ravenna, Via Bastione, 0": {
+    "ok": true,
+    "lat": "44.4116469",
+    "lon": "12.2008539",
+    "source": "overpass"
+  },
+  "Ravenna, via N. Rondinelli, 4, 6": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, Via G. da Polenta, 0": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, Via Pietro Alighieri, 4": {
+    "ok": true,
+    "lat": "44.4212391",
+    "lon": "12.1986667",
+    "source": "overpass"
+  },
+  "Ravenna, via di Roma, 108": {
+    "ok": true,
+    "lat": "44.4156956",
+    "lon": "12.2045014",
+    "source": "overpass"
+  },
+  "Ravenna, via C. Cattaneo, 34": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, Via Sale, 102": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, SAN PIETRO IN TRENTO, via Alturie, 30": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, Via Di Roma, 13": {
+    "ok": true,
+    "lat": "44.4137584",
+    "lon": "12.2062623",
+    "source": "overpass"
+  },
+  "Ravenna, RAVENNA, via Alberoni, 12": {
+    "ok": true,
+    "lat": "44.4162155",
+    "lon": "12.2064413",
+    "source": "nominatim"
+  },
+  "Ravenna, via Zirardini, 14": {
+    "ok": true,
+    "lat": "44.4081745",
+    "lon": "12.2486868",
+    "source": "nominatim"
+  },
+  "Ravenna, via Montecatini, 3": {
+    "ok": true,
+    "lat": "44.4265013",
+    "lon": "12.2152229",
+    "source": "overpass"
+  },
+  "Ravenna, via XIII Giugno, 0": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, Via Castel S. Pietro, 0": {
+    "ok": true,
+    "lat": "44.4107523",
+    "lon": "12.2019899",
+    "source": "nominatim"
+  },
+  "Ravenna, Via Galla Placidia, 0": {
+    "ok": true,
+    "lat": "44.4213171",
+    "lon": "12.1971941",
+    "source": "overpass"
+  },
+  "Ravenna, via Mariani, 5": {
+    "ok": true,
+    "lat": "44.4172272",
+    "lon": "12.2017926",
+    "source": "nominatim"
+  },
+  "Ravenna, Via A. Mariani, 46": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, via Guaccimanni, 40/ 40A/ 42": {
+    "ok": true,
+    "lat": "44.4157906",
+    "lon": "12.2031660",
+    "source": "nominatim"
+  },
+  "Ravenna, via Paolo Costa, 22/ 24": {
+    "ok": true,
+    "lat": "44.4190397",
+    "lon": "12.2031214",
+    "source": "overpass"
+  },
+  "Ravenna, via San Vitale, 21": {
+    "ok": true,
+    "lat": "44.4453596",
+    "lon": "12.1783393",
+    "source": "overpass"
+  },
+  "Ravenna, Via Oberdan, 6": {
+    "ok": true,
+    "lat": "44.4162304",
+    "lon": "12.1948771",
+    "source": "nominatim"
+  },
+  "Ravenna, Via Battistero, 0": {
+    "ok": true,
+    "lat": "44.4156662",
+    "lon": "12.1974887",
+    "source": "overpass"
+  },
+  "Ravenna, via Zagarelli alle Mura, 2/a": {
+    "ok": true,
+    "lat": "44.4123719",
+    "lon": "12.2061048",
+    "source": "overpass"
+  },
+  "Ravenna, Via Pietro Alighieri, 6 - 8": {
+    "ok": true,
+    "lat": "44.4205504",
+    "lon": "12.2005826",
+    "source": "overpass"
+  },
+  "Ravenna, Via Guaccimanni, 0": {
+    "ok": true,
+    "lat": "44.4157906",
+    "lon": "12.2031660",
+    "source": "nominatim"
+  },
+  "Ravenna, via Nigrisoli, 62": {
+    "ok": true,
+    "lat": "44.4126971",
+    "lon": "12.1913677",
+    "source": "nominatim"
+  },
+  "Ravenna, Via Argine destrofiume Ronco, 0": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, P.zza Arcivescovado, 1": {
+    "ok": true,
+    "lat": "44.415209",
+    "lon": "12.1976094",
+    "source": "overpass"
+  },
+  "Ravenna, MARINA DI RAVENNA, via d'Allaggio": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, via Massimo d'Azeglio, 10/ 12": {
+    "ok": true,
+    "lat": "44.4173154",
+    "lon": "12.1960133",
+    "source": "overpass"
+  },
+  "Ravenna, via Argine sinistro del Montone, 149": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, Via Guaccimanni, 29": {
+    "ok": true,
+    "lat": "44.4157906",
+    "lon": "12.2031660",
+    "source": "nominatim"
+  },
+  "Ravenna, Via Di Roma, 116": {
+    "ok": true,
+    "lat": "44.4161869",
+    "lon": "12.2042761",
+    "source": "overpass"
+  },
+  "Ravenna, Via Guido Da Polenta, 4": {
+    "ok": true,
+    "lat": "44.4161896",
+    "lon": "12.2003242",
+    "source": "overpass"
+  },
+  "Ravenna, piazza XX Settembre, 5": {
+    "ok": true,
+    "lat": "44.4176313",
+    "lon": "12.1986317",
+    "source": "nominatim"
+  },
+  "Ravenna, Via di Classe Fuori, 0": {
+    "ok": true,
+    "lat": "44.3914542",
+    "lon": "12.2523379",
+    "source": "nominatim"
+  },
+  "Ravenna, via Cavour, 10": {
+    "ok": true,
+    "lat": "44.4190425",
+    "lon": "12.1968242",
+    "source": "nominatim"
+  },
+  "Ravenna, Via Del Borgo, 1": {
+    "ok": true,
+    "lat": "44.3560702",
+    "lon": "12.1543025",
+    "source": "overpass"
+  },
+  "Ravenna, Via C. Ricci, 0": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, Ponte Marino, 2": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, Via Pietro Alighieri, 4, 6, 8": {
+    "ok": true,
+    "lat": "44.4212391",
+    "lon": "12.1986667",
+    "source": "overpass"
+  },
+  "Ravenna, Via Di Roma, 68": {
+    "ok": true,
+    "lat": "44.4143243",
+    "lon": "12.2052363",
+    "source": "overpass"
+  },
+  "Ravenna, piazzetta degli Ariani, 0": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, P.zza Duomo, 4": {
+    "ok": true,
+    "lat": "44.4159807",
+    "lon": "12.1958255",
+    "source": "overpass"
+  },
+  "Ravenna, via XIII Giugno, 8": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, via di Roma, 202": {
+    "ok": true,
+    "lat": "44.4197583",
+    "lon": "12.2027891",
+    "source": "overpass"
+  },
+  "Ravenna, Piazza del Popolo, 23": {
+    "ok": true,
+    "lat": "44.4177433",
+    "lon": "12.2003747",
+    "source": "overpass"
+  },
+  "Ravenna, Via Monti, 0": {
+    "ok": true,
+    "lat": "44.4504896",
+    "lon": "12.2147229",
+    "source": "nominatim"
+  },
+  "Ravenna, Piazza del Popolo, 0": {
+    "ok": true,
+    "lat": "44.4178985",
+    "lon": "12.1992196",
+    "source": "overpass"
+  },
+  "Ravenna, Via Guaccimanni, 44": {
+    "ok": true,
+    "lat": "44.4157906",
+    "lon": "12.2031660",
+    "source": "nominatim"
+  },
+  "Ravenna, via Rondinelli, 0": {
+    "ok": true,
+    "lat": "44.4135805",
+    "lon": "12.1981074",
+    "source": "nominatim"
+  },
+  "Ravenna, via XIII Giugno, 2/ 4, piazza del Popolo": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, Via M. Dente, 0": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, via Guaccimanni, 54": {
+    "ok": true,
+    "lat": "44.4157906",
+    "lon": "12.2031660",
+    "source": "nominatim"
+  },
+  "Ravenna, CASALBORSETTI": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, Piazza Kennedy, 0": {
+    "ok": true,
+    "lat": "44.4168581",
+    "lon": "12.1974394",
+    "source": "nominatim"
+  },
+  "Ravenna, MANDRIOLE, Via Mandriole, 122": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, Via G. Rossi, 2": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, Via C.B. Barbiani,0": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, P.zza Mameli, 0": {
+    "ok": true,
+    "lat": "44.4190553",
+    "lon": "12.2053327",
+    "source": "nominatim"
+  },
+  "Ravenna, via Romolo Gessi, 18": {
+    "ok": true,
+    "lat": "44.4157737",
+    "lon": "12.1981351",
+    "source": "nominatim"
+  },
+  "Ravenna, via di Roma, 69": {
+    "ok": true,
+    "lat": "44.4172839",
+    "lon": "12.2039997",
+    "source": "overpass"
+  },
+  "Ravenna, Via Chiesa, 1": {
+    "ok": true,
+    "lat": "44.5158582",
+    "lon": "12.1066965",
+    "source": "overpass"
+  },
+  "Ravenna, via G. Mazzini, 65": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, Via A. Diaz, 4, 6 , 8": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, Via Mariani, 26": {
+    "ok": true,
+    "lat": "44.4172272",
+    "lon": "12.2017926",
+    "source": "nominatim"
+  },
+  "Ravenna, via Cairoli, 10/ 12/16": {
+    "ok": true,
+    "lat": "44.4170790",
+    "lon": "12.1993977",
+    "source": "nominatim"
+  },
+  "Ravenna, via Guerrini, 11": {
+    "ok": true,
+    "lat": "44.4157687",
+    "lon": "12.1987216",
+    "source": "nominatim"
+  },
+  "Ravenna, via Galla Placidia, 0": {
+    "ok": true,
+    "lat": "44.4213171",
+    "lon": "12.1971941",
+    "source": "overpass"
+  },
+  "Ravenna, via Strada Provinciale Bagnolo, 0": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, SAN BARTOLO, via Argine Destro Ronco, 98": {
+    "ok": true,
+    "lat": "44.3615418",
+    "lon": "12.1640316",
+    "source": "overpass"
+  },
+  "Ravenna, SANTO STEFANO - CARRAIE, via Cella, 0, Carraia Ginanni": {
+    "ok": true,
+    "lat": "44.3601333",
+    "lon": "12.1816153",
+    "source": "overpass"
+  },
+  "Ravenna, via Nino Bixio, 23": {
+    "ok": true,
+    "lat": "44.4137504",
+    "lon": "12.1948266",
+    "source": "nominatim"
+  },
+  "Ravenna, Via Tombesi Dall'Ova, 0": {
+    "ok": true,
+    "lat": "44.4149318",
+    "lon": "12.2036117",
+    "source": "overpass"
+  },
+  "Ravenna, P.zza Duomo, 0": {
+    "ok": true,
+    "lat": "44.4154629",
+    "lon": "12.1960428",
+    "source": "overpass"
+  },
+  "Ravenna, SAN ZACCARIA, Via Dismano, 0": {
+    "ok": true,
+    "lat": "44.4016144",
+    "lon": "12.207177",
+    "source": "overpass"
+  },
+  "Ravenna, Via Di Roma, 102": {
+    "ok": true,
+    "lat": "44.4152614",
+    "lon": "12.2047199",
+    "source": "overpass"
+  },
+  "Ravenna, Via G. Mazzini, 44": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, via San Vitale, 34, 36,38, 40, 42, via M. Fanti, 19": {
+    "ok": true,
+    "lat": "44.4197925",
+    "lon": "12.1964832",
+    "source": "overpass"
+  },
+  "Ravenna, via Castello, 74": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, SAN PIETRO IN VINCOLI": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, PIANGIPANE, via Galassa, 10": {
+    "ok": true,
+    "lat": "44.4063703",
+    "lon": "12.089004",
+    "source": "overpass"
+  },
+  "Ravenna, Via O. Guerrini": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, Via Trava, 2": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, via Massimo d'Azeglio, 2": {
+    "ok": true,
+    "lat": "44.4168957",
+    "lon": "12.1964801",
+    "source": "overpass"
+  },
+  "Ravenna, CAMERLONA, Via S. Egidio, 0": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, via Pasolini, 9": {
+    "ok": true,
+    "lat": "44.4086083",
+    "lon": "12.2475551",
+    "source": "nominatim"
+  },
+  "Ravenna, GHIBULLO, via Ravegnana, 655": {
+    "ok": true,
+    "lat": "44.3360859",
+    "lon": "12.1258896",
+    "source": "overpass"
+  },
+  "Ravenna, fraz. Gambellara, Via Gambellara, 79": {
+    "ok": true,
+    "lat": "44.3310383",
+    "lon": "12.1380768",
+    "source": "overpass"
+  },
+  "Ravenna, Via Mariani, 24": {
+    "ok": true,
+    "lat": "44.4172272",
+    "lon": "12.2017926",
+    "source": "nominatim"
+  },
+  "Ravenna, via Baiona, 0": {
+    "ok": true,
+    "lat": "44.4586862",
+    "lon": "12.2340828",
+    "source": "overpass"
+  },
+  "Ravenna, MANDRIOLE, strada Comunale": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, SANTERNO, via Palazza, 0": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, via Carlo Cattaneo, 22": {
+    "ok": true,
+    "lat": "44.4186256",
+    "lon": "12.1955935",
+    "source": "overpass"
+  },
+  "Ravenna, via delle Industrie, 0": {
+    "ok": true,
+    "lat": "44.4328054",
+    "lon": "12.2253643",
+    "source": "overpass"
+  },
+  "Ravenna, RONCALCECI, Via Babini, 246": {
+    "ok": true,
+    "lat": "44.3471527",
+    "lon": "12.1324064",
+    "source": "nominatim"
+  },
+  "Ravenna, via Massimo d'Azeglio, 38": {
+    "ok": true,
+    "lat": "44.4180807",
+    "lon": "12.1942878",
+    "source": "overpass"
+  },
+  "Ravenna, via Romolo Gessi, 14/ 16": {
+    "ok": true,
+    "lat": "44.4157162",
+    "lon": "12.1981838",
+    "source": "overpass"
+  },
+  "Ravenna, via Diaz, 2": {
+    "ok": true,
+    "lat": "44.4181732",
+    "lon": "12.2019424",
+    "source": "nominatim"
+  },
+  "Ravenna, via Guaccimanni, 11": {
+    "ok": true,
+    "lat": "44.4157906",
+    "lon": "12.2031660",
+    "source": "nominatim"
+  },
+  "Ravenna, FILETTO, Via Roncalcesi, 0, 1,4 Km. dall'incrocio con via Nuova": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, via Canale Molinetto, 90/ 92": {
+    "ok": true,
+    "lat": "44.4344235",
+    "lon": "12.2650348",
+    "source": "nominatim"
+  },
+  "Ravenna, SAVARNA, via Basilica, 158": {
+    "ok": true,
+    "lat": "44.4988073",
+    "lon": "12.0885292",
+    "source": "nominatim"
+  },
+  "Ravenna, via di Roma, 118": {
+    "ok": true,
+    "lat": "44.4163462",
+    "lon": "12.2042227",
+    "source": "overpass"
+  },
+  "Ravenna, via Paola Costa, 7": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, Via Cavour, 0": {
+    "ok": true,
+    "lat": "44.4192517",
+    "lon": "12.1961854",
+    "source": "overpass"
+  },
+  "Ravenna, Strada Provinciale Faentina, 362": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, via C. Ricci, 20,22 ,24": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, Via Porta Gaza, 0": {
+    "ok": true,
+    "lat": "44.413645",
+    "lon": "12.1958459",
+    "source": "overpass"
+  },
+  "Ravenna, Piazza Kennedy, 14,15,16,17": {
+    "ok": true,
+    "lat": "44.4168581",
+    "lon": "12.1974394",
+    "source": "nominatim"
+  },
+  "Ravenna, P.zza Duomo": {
+    "ok": true,
+    "lat": "44.4154629",
+    "lon": "12.1960428",
+    "source": "overpass"
+  },
+  "Ravenna, via XIII Giugno, 3": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, Via Mazzini, 7": {
+    "ok": true,
+    "lat": "44.4133761",
+    "lon": "12.2012144",
+    "source": "nominatim"
+  },
+  "Ravenna, Via Mazzini,0": {
+    "ok": true,
+    "lat": "44.4133761",
+    "lon": "12.2012144",
+    "source": "nominatim"
+  },
+  "Ravenna, via Mazzini, 72": {
+    "ok": true,
+    "lat": "44.4133761",
+    "lon": "12.2012144",
+    "source": "nominatim"
+  },
+  "Ravenna, FILETTO, via Roncalceci, 195": {
+    "ok": true,
+    "lat": "44.3573178",
+    "lon": "12.1094839",
+    "source": "nominatim"
+  },
+  "Ravenna, via Mazzini, 76/ 78": {
+    "ok": true,
+    "lat": "44.4133761",
+    "lon": "12.2012144",
+    "source": "nominatim"
+  },
+  "Ravenna, via Salara, 33/ 31": {
+    "ok": true,
+    "lat": "44.4199965",
+    "lon": "12.1984319",
+    "source": "overpass"
+  },
+  "Ravenna, Via Morigia, 1": {
+    "ok": true,
+    "lat": "44.4185410",
+    "lon": "12.1963069",
+    "source": "nominatim"
+  },
+  "Ravenna, via Barleti, 5, 7, 9": {
+    "ok": true,
+    "lat": "44.3679462",
+    "lon": "12.0810017",
+    "source": "nominatim"
+  },
+  "Ravenna, via Dismano, 749/ 747": {
+    "ok": true,
+    "lat": "44.4016144",
+    "lon": "12.207177",
+    "source": "overpass"
+  },
+  "Ravenna, via Rocca di Brancaleone, 0": {
+    "ok": true,
+    "lat": "44.4220621",
+    "lon": "12.2055153",
+    "source": "maps.co"
+  },
+  "Ravenna, via Dante Alighieri, 2,4(P ),6": {
+    "ok": true,
+    "lat": "44.4166311",
+    "lon": "12.2008181",
+    "source": "overpass"
+  },
+  "Ravenna, vicolo Capannetti, 5": {
+    "ok": true,
+    "lat": "44.4091605",
+    "lon": "12.2010159",
+    "source": "overpass"
+  },
+  "Ravenna, strada comunale Carrarone Chiesa, 0": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, SAN PIETRO IN TRENTO, via Ramona, 55": {
+    "ok": true,
+    "lat": "44.3301274",
+    "lon": "12.0824160",
+    "source": "maps.co"
+  },
+  "Ravenna, Via Mazzini, 57": {
+    "ok": true,
+    "lat": "44.4133761",
+    "lon": "12.2012144",
+    "source": "nominatim"
+  },
+  "Ravenna, via Ercolana, 29/ 31/ 33": {
+    "ok": true,
+    "lat": "44.4153195",
+    "lon": "12.1939154",
+    "source": "overpass"
+  },
+  "Ravenna, via G. Mazzini, 84": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, Via Santerno, 0": {
+    "ok": true,
+    "lat": "44.4654777",
+    "lon": "12.0885656",
+    "source": "overpass"
+  },
+  "Ravenna, via Petrosa, 0": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, Via A. Mariani, 22": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, SAN PIETRO IN VINCOLI, via del Sale Vecchia, 18": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, Via Di Roma, 108": {
+    "ok": true,
+    "lat": "44.4156956",
+    "lon": "12.2045014",
+    "source": "overpass"
+  },
+  "Ravenna, via Guerrini, 15": {
+    "ok": true,
+    "lat": "44.4157687",
+    "lon": "12.1987216",
+    "source": "nominatim"
+  },
+  "Ravenna, Via Di Roma, 98": {
+    "ok": true,
+    "lat": "44.415089",
+    "lon": "12.2048173",
+    "source": "overpass"
+  },
+  "Ravenna, via Dismano, 747": {
+    "ok": true,
+    "lat": "44.3416156",
+    "lon": "12.2128106",
+    "source": "nominatim"
+  },
+  "Ravenna, via Paolo Costa, 2": {
+    "ok": true,
+    "lat": "44.4191432",
+    "lon": "12.200469",
+    "source": "overpass"
+  },
+  "Ravenna, via Villanova, 96": {
+    "ok": true,
+    "lat": "44.3805146",
+    "lon": "12.1176101",
+    "source": "overpass"
+  },
+  "Ravenna, FILETTO, Via Roncalceci, 0": {
+    "ok": true,
+    "lat": "44.3452707",
+    "lon": "12.1000114",
+    "source": "overpass"
+  },
+  "Ravenna, via Diaz, 15/ 13": {
+    "ok": true,
+    "lat": "44.4181732",
+    "lon": "12.2019424",
+    "source": "nominatim"
+  },
+  "Ravenna, via Ponte Marino, 7,9": {
+    "ok": true,
+    "lat": "44.4192708",
+    "lon": "12.1995285",
+    "source": "overpass"
+  },
+  "Ravenna, PIANGIPANE, Via Galassa, 10": {
+    "ok": true,
+    "lat": "44.4063703",
+    "lon": "12.089004",
+    "source": "overpass"
+  },
+  "Ravenna, MARINA ROMEA, Via Fossatone, 0, all'interno della pineta San Vitale, in prossimità della Cà Vecchia": {
+    "ok": true,
+    "lat": "44.5083539",
+    "lon": "12.2270273",
+    "source": "nominatim"
+  },
+  "Ravenna, via Salara, 40, 42": {
+    "ok": true,
+    "lat": "44.4205809",
+    "lon": "12.1989204",
+    "source": "overpass"
+  },
+  "Ravenna, SANTERNO, via Santerno, 284": {
+    "ok": true,
+    "lat": "44.4633892",
+    "lon": "12.0864934",
+    "source": "nominatim"
+  },
+  "Ravenna, via Dismano, 749": {
+    "ok": true,
+    "lat": "44.3416156",
+    "lon": "12.2128106",
+    "source": "nominatim"
+  },
+  "Ravenna, Via Stradone, 46": {
+    "ok": true,
+    "lat": "44.4026479",
+    "lon": "12.2454835",
+    "source": "overpass"
+  },
+  "Ravenna, piazza XX Settembre, 7": {
+    "ok": true,
+    "lat": "44.4176313",
+    "lon": "12.1986317",
+    "source": "nominatim"
+  },
+  "Ravenna, DURAZZANO, via Sisa, 17": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, Via M. D'Azeglio, 47": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, via Cairoli, 27,25,23": {
+    "ok": true,
+    "lat": "44.4170790",
+    "lon": "12.1993977",
+    "source": "nominatim"
+  },
+  "Ravenna, Via Giuseppe Mazzini, 75": {
+    "ok": true,
+    "lat": "44.4127662",
+    "lon": "12.2012895",
+    "source": "overpass"
+  },
+  "Ravenna, Vicolo San Nicandro, 0": {
+    "ok": true,
+    "lat": "44.4189612",
+    "lon": "12.2012252",
+    "source": "overpass"
+  },
+  "Ravenna, via di Roma, 113": {
+    "ok": true,
+    "lat": "44.4198316",
+    "lon": "12.2029809",
+    "source": "overpass"
+  },
+  "Ravenna, Via Ravegnana, 0": {
+    "ok": true,
+    "lat": "44.3569717",
+    "lon": "12.1549945",
+    "source": "overpass"
+  },
+  "Ravenna, Via San Vitale, 17": {
+    "ok": true,
+    "lat": "44.4201193",
+    "lon": "12.195915",
+    "source": "overpass"
+  },
+  "Ravenna, via Girolamo Rossi, 51, 53": {
+    "ok": true,
+    "lat": "44.4210022",
+    "lon": "12.2006744",
+    "source": "overpass"
+  },
+  "Ravenna, Via Camillo Benso Conte di Cavour, 54": {
+    "ok": true,
+    "lat": "44.4189468",
+    "lon": "12.1970064",
+    "source": "overpass"
+  },
+  "Ravenna, Via Giuseppe Mazzini, 49": {
+    "ok": true,
+    "lat": "44.4139167",
+    "lon": "12.200831",
+    "source": "overpass"
+  },
+  "Ravenna, via Girolamo Rossi, 6": {
+    "ok": true,
+    "lat": "44.4193484",
+    "lon": "12.199973",
+    "source": "overpass"
+  },
+  "Ravenna, Strada Statale Adriatica, 16": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, piazza Duomo, 3": {
+    "ok": true,
+    "lat": "44.416031",
+    "lon": "12.1961952",
+    "source": "overpass"
+  },
+  "Ravenna, Via Giuseppe Mazzini, 0": {
+    "ok": true,
+    "lat": "44.4121832",
+    "lon": "12.2016889",
+    "source": "overpass"
+  },
+  "Ravenna, Via Giuseppe Mazzini, 64": {
+    "ok": true,
+    "lat": "44.4132398",
+    "lon": "12.2013336",
+    "source": "overpass"
+  },
+  "Ravenna, Via Girotto Guaccimanni, 0": {
+    "ok": true,
+    "lat": "44.4160184",
+    "lon": "12.2043785",
+    "source": "overpass"
+  },
+  "Ravenna, Via Giuseppe Mazzini, 42": {
+    "ok": true,
+    "lat": "44.4142605",
+    "lon": "12.2008343",
+    "source": "overpass"
+  },
+  "Ravenna, via Gregorio Ricci Cubastro, 12": {
+    "ok": true,
+    "lat": "44.4144159",
+    "lon": "12.1388559",
+    "source": "nominatim"
+  },
+  "Ravenna, via IV Novembre, 45": {
+    "ok": true,
+    "lat": "44.4189142",
+    "lon": "12.1994572",
+    "source": "nominatim"
+  },
+  "Ravenna, via D'Allaggio, 53": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, Via Fosso Ghiaia, 0": {
+    "ok": true,
+    "lat": "44.3427021",
+    "lon": "12.181619",
+    "source": "overpass"
+  },
+  "Ravenna, via Girotto Guaccimanni, 27": {
+    "ok": true,
+    "lat": "44.4157452",
+    "lon": "12.2033042",
+    "source": "overpass"
+  },
+  "Ravenna, Piazza San Francesco, 0": {
+    "ok": true,
+    "lat": "44.4155985",
+    "lon": "12.2002704",
+    "source": "overpass"
+  },
+  "Ravenna,Via Gambellara, 1": {
+    "ok": true,
+    "lat": "44.3439453",
+    "lon": "12.1394354",
+    "source": "nominatim"
+  },
+  "Ravenna, via Mentana 33": {
+    "ok": true,
+    "lat": "44.4166708",
+    "lon": "12.1990932",
+    "source": "overpass"
+  },
+  "Ravenna, via Mariani, 7": {
+    "ok": true,
+    "lat": "44.4172272",
+    "lon": "12.2017926",
+    "source": "nominatim"
+  },
+  "Ravenna, Via San Mama, 175": {
+    "ok": true,
+    "lat": "44.403353",
+    "lon": "12.1963647",
+    "source": "overpass"
+  },
+  "Ravenna, Via Angelo Mariani, 21": {
+    "ok": true,
+    "lat": "44.4174561",
+    "lon": "12.2031688",
+    "source": "overpass"
+  },
+  "Ravenna, via Braccesca, 44": {
+    "ok": true,
+    "lat": "44.4142197",
+    "lon": "12.09383",
+    "source": "overpass"
+  },
+  "Ravenna, via Paolo Costa, 1": {
+    "ok": true,
+    "lat": "44.4190105",
+    "lon": "12.2002489",
+    "source": "overpass"
+  },
+  "Ravenna, via Ravegnana, 479": {
+    "ok": true,
+    "lat": "44.3833523",
+    "lon": "12.1923863",
+    "source": "overpass"
+  },
+  "Ravenna, Via Giuseppe Mazzini, 30": {
+    "ok": true,
+    "lat": "44.4145288",
+    "lon": "12.2006525",
+    "source": "overpass"
+  },
+  "Ravenna, via Ravegnana, 731": {
+    "ok": true,
+    "lat": "44.4020871",
+    "lon": "12.1964898",
+    "source": "nominatim"
+  },
+  "Ravenna, via N. Rondinelli, 4": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, Via Guido da Polenta, 0": {
+    "ok": true,
+    "lat": "44.4162107",
+    "lon": "12.2004974",
+    "source": "overpass"
+  },
+  "Ravenna, via Carlo Cattaneo, 34": {
+    "ok": true,
+    "lat": "44.4182254",
+    "lon": "12.1951704",
+    "source": "overpass"
+  },
+  "Ravenna, via Alturie, 30": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, via Alberoni, 12": {
+    "ok": true,
+    "lat": "44.4162155",
+    "lon": "12.2064413",
+    "source": "nominatim"
+  },
+  "Ravenna, Via Castel San Pietro, 0": {
+    "ok": true,
+    "lat": "44.4104957",
+    "lon": "12.2022572",
+    "source": "overpass"
+  },
+  "Ravenna, Via Angelo Mariani, 46": {
+    "ok": true,
+    "lat": "44.4176084",
+    "lon": "12.2032208",
+    "source": "overpass"
+  },
+  "Ravenna, via Guaccimanni, 40": {
+    "ok": true,
+    "lat": "44.4157906",
+    "lon": "12.2031660",
+    "source": "nominatim"
+  },
+  "Ravenna, via Paolo Costa, 22": {
+    "ok": true,
+    "lat": "44.4191744",
+    "lon": "12.2018761",
+    "source": "overpass"
+  },
+  "Ravenna, via Zagarelli alle Mura, 2": {
+    "ok": true,
+    "lat": "44.412109",
+    "lon": "12.2016739",
+    "source": "overpass"
+  },
+  "Ravenna, Via Pietro Alighieri, 6": {
+    "ok": true,
+    "lat": "44.4210538",
+    "lon": "12.1990753",
+    "source": "overpass"
+  },
+  "Ravenna, Piazza Arcivescovado, 1": {
+    "ok": true,
+    "lat": "44.415209",
+    "lon": "12.1976094",
+    "source": "overpass"
+  },
+  "Ravenna, via d'Allaggio": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, via Massimo d'Azeglio, 10": {
+    "ok": true,
+    "lat": "44.4173496",
+    "lon": "12.1956513",
+    "source": "overpass"
+  },
+  "Ravenna, Via Camillo Benso Conte di Cavour, 10": {
+    "ok": true,
+    "lat": "44.4190425",
+    "lon": "12.1968242",
+    "source": "nominatim"
+  },
+  "Ravenna, Via Gregorio Ricci Cubastro, 0": {
+    "ok": true,
+    "lat": "44.4144159",
+    "lon": "12.1388559",
+    "source": "nominatim"
+  },
+  "Ravenna, Piazza Duomo, 4": {
+    "ok": true,
+    "lat": "44.4159807",
+    "lon": "12.1958255",
+    "source": "overpass"
+  },
+  "Ravenna, via XIII Giugno, 2": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, Via Marco Dente, 0": {
+    "ok": true,
+    "lat": "44.4151761",
+    "lon": "12.2020445",
+    "source": "overpass"
+  },
+  "Ravenna, Via Mandriole, 122": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, via Girolamo Rossi, 2": {
+    "ok": true,
+    "lat": "44.4192147",
+    "lon": "12.1999075",
+    "source": "overpass"
+  },
+  "Ravenna, Via Gian Battista Barbiani, 16": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, Piazza Mameli, 0": {
+    "ok": true,
+    "lat": "44.4190553",
+    "lon": "12.2053327",
+    "source": "nominatim"
+  },
+  "Ravenna, Via Giuseppe Mazzini, 65": {
+    "ok": true,
+    "lat": "44.4133108",
+    "lon": "12.2011124",
+    "source": "overpass"
+  },
+  "Ravenna, Via A. Diaz, 4": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, via Cairoli, 10": {
+    "ok": true,
+    "lat": "44.4170790",
+    "lon": "12.1993977",
+    "source": "nominatim"
+  },
+  "Ravenna, Via Argine Destro Ronco, 98": {
+    "ok": true,
+    "lat": "44.3615418",
+    "lon": "12.1640316",
+    "source": "overpass"
+  },
+  "Ravenna, Piazza Duomo, 0": {
+    "ok": true,
+    "lat": "44.4154629",
+    "lon": "12.1960428",
+    "source": "overpass"
+  },
+  "Ravenna, Via Dismano, 0": {
+    "ok": true,
+    "lat": "44.4016144",
+    "lon": "12.207177",
+    "source": "overpass"
+  },
+  "Ravenna, Via Giuseppe Mazzini, 44": {
+    "ok": true,
+    "lat": "44.4141092",
+    "lon": "12.2009368",
+    "source": "overpass"
+  },
+  "Ravenna, via San Vitale, 34": {
+    "ok": true,
+    "lat": "44.4197925",
+    "lon": "12.1964832",
+    "source": "overpass"
+  },
+  "Ravenna, Via Nuova, 1": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, via Galassa, 10": {
+    "ok": true,
+    "lat": "44.4063703",
+    "lon": "12.089004",
+    "source": "overpass"
+  },
+  "Ravenna, Via Olindo Guerrini": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, Via Sant'Egidio, 0": {
+    "ok": true,
+    "lat": "44.4175749",
+    "lon": "12.1343152",
+    "source": "overpass"
+  },
+  "Ravenna, via Ravegnana, 655": {
+    "ok": true,
+    "lat": "44.3360859",
+    "lon": "12.1258896",
+    "source": "overpass"
+  },
+  "Ravenna, Via Gambellara, 79": {
+    "ok": true,
+    "lat": "44.3310383",
+    "lon": "12.1380768",
+    "source": "overpass"
+  },
+  "Ravenna, strada provinciale, 24": {
+    "ok": true,
+    "lat": "44.4799854",
+    "lon": "12.1756613",
+    "source": "nominatim"
+  },
+  "Ravenna, via Palazza, 0": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, Via Babini, 246": {
+    "ok": true,
+    "lat": "44.3471527",
+    "lon": "12.1324064",
+    "source": "nominatim"
+  },
+  "Ravenna, via Romolo Gessi, 14": {
+    "ok": true,
+    "lat": "44.4157737",
+    "lon": "12.1981351",
+    "source": "nominatim"
+  },
+  "Ravenna, Via Roncalcesi, 0": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, via Cella, 0": {
+    "ok": true,
+    "lat": "44.3601333",
+    "lon": "12.1816153",
+    "source": "overpass"
+  },
+  "Ravenna, Via Dismano, 663": {
+    "ok": true,
+    "lat": "44.3836113",
+    "lon": "12.2125021",
+    "source": "nominatim"
+  },
+  "Ravenna, via Canale Molinetto, 90": {
+    "ok": true,
+    "lat": "44.4344235",
+    "lon": "12.2650348",
+    "source": "nominatim"
+  },
+  "Ravenna, via Basilica, 158": {
+    "ok": true,
+    "lat": "44.4988073",
+    "lon": "12.0885292",
+    "source": "nominatim"
+  },
+  "Ravenna, Via Camillo Benso Conte di Cavour, 0": {
+    "ok": true,
+    "lat": "44.4189411",
+    "lon": "12.1979156",
+    "source": "overpass"
+  },
+  "Ravenna, via Gregorio Ricci Cubastro, 20": {
+    "ok": true,
+    "lat": "44.4144159",
+    "lon": "12.1388559",
+    "source": "nominatim"
+  },
+  "Ravenna, Piazza Kennedy, 14": {
+    "ok": true,
+    "lat": "44.4168581",
+    "lon": "12.1974394",
+    "source": "nominatim"
+  },
+  "Ravenna, Piazza Duomo": {
+    "ok": true,
+    "lat": "44.4154629",
+    "lon": "12.1960428",
+    "source": "overpass"
+  },
+  "Ravenna, Via Giuseppe Mazzini, 7": {
+    "ok": true,
+    "lat": "44.4149154",
+    "lon": "12.2002934",
+    "source": "overpass"
+  },
+  "Ravenna, Via Giuseppe Mazzini,0": {
+    "ok": true,
+    "lat": "44.4121832",
+    "lon": "12.2016889",
+    "source": "overpass"
+  },
+  "Ravenna, Via Giuseppe Mazzini, 72": {
+    "ok": true,
+    "lat": "44.4128885",
+    "lon": "12.2014649",
+    "source": "overpass"
+  },
+  "Ravenna, via Roncalceci, 195": {
+    "ok": true,
+    "lat": "44.3547003",
+    "lon": "12.1191605",
+    "source": "nominatim"
+  },
+  "Ravenna, Via Giuseppe Mazzini, 76": {
+    "ok": true,
+    "lat": "44.41263",
+    "lon": "12.2015159",
+    "source": "overpass"
+  },
+  "Ravenna, via Salara, 33": {
+    "ok": true,
+    "lat": "44.4200214",
+    "lon": "12.1985782",
+    "source": "overpass"
+  },
+  "Ravenna, via Barleti, 5": {
+    "ok": true,
+    "lat": "44.3679462",
+    "lon": "12.0810017",
+    "source": "nominatim"
+  },
+  "Ravenna, via Dante Alighieri, 2": {
+    "ok": true,
+    "lat": "44.4166311",
+    "lon": "12.2008181",
+    "source": "overpass"
+  },
+  "Ravenna, via Ramona, 55": {
+    "ok": true,
+    "lat": "44.3301274",
+    "lon": "12.0824160",
+    "source": "nominatim"
+  },
+  "Ravenna, Via Giuseppe Mazzini, 57": {
+    "ok": true,
+    "lat": "44.4135667",
+    "lon": "12.2010238",
+    "source": "overpass"
+  },
+  "Ravenna, via Ercolana, 29": {
+    "ok": true,
+    "lat": "44.4157076",
+    "lon": "12.1935417",
+    "source": "overpass"
+  },
+  "Ravenna, Via Giuseppe Mazzini, 84": {
+    "ok": true,
+    "lat": "44.4121597",
+    "lon": "12.2016034",
+    "source": "overpass"
+  },
+  "Ravenna, via del Sale Vecchia, 18": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, Via Roncalceci, 0": {
+    "ok": true,
+    "lat": "44.3452707",
+    "lon": "12.1000114",
+    "source": "overpass"
+  },
+  "Ravenna, via Diaz, 15": {
+    "ok": true,
+    "lat": "44.4181732",
+    "lon": "12.2019424",
+    "source": "nominatim"
+  },
+  "Ravenna, via Ponte Marino, 7": {
+    "ok": true,
+    "lat": "44.4192708",
+    "lon": "12.1995285",
+    "source": "overpass"
+  },
+  "Ravenna, Via Galassa, 10": {
+    "ok": true,
+    "lat": "44.4063703",
+    "lon": "12.089004",
+    "source": "overpass"
+  },
+  "Ravenna, Via Fossatone, 0": {
+    "ok": true,
+    "lat": "44.5084017",
+    "lon": "12.2271296",
+    "source": "nominatim"
+  },
+  "Ravenna, via Salara, 40": {
+    "ok": true,
+    "lat": "44.4205809",
+    "lon": "12.1989204",
+    "source": "overpass"
+  },
+  "Ravenna, via Sisa, 17": {
+    "ok": true,
+    "lat": "44.4161414",
+    "lon": "12.2017617",
+    "source": "nominatim"
+  },
+  "Ravenna, Via Massimo D'Azeglio, 47": {
+    "ok": true,
+    "lat": "44.4182064",
+    "lon": "12.1943565",
+    "source": "overpass"
+  },
+  "Ravenna, via Cairoli, 27": {
+    "ok": true,
+    "lat": "44.4170790",
+    "lon": "12.1993977",
+    "source": "nominatim"
+  }
+}

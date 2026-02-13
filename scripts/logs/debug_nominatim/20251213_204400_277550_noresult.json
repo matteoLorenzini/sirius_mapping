@@ -1,0 +1,10 @@
+{
+  "address": "Ravenna, Via A. Diaz, 4, 6 , 8",
+  "params": {
+    "street": "Via A. Diaz",
+    "city": "Ravenna",
+    "state": "Emilia-Romagna",
+    "country": "Italy"
+  },
+  "results": []
+}

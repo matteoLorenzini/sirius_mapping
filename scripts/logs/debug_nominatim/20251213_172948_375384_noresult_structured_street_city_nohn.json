@@ -1,0 +1,11 @@
+{
+  "address": "Ravenna, via Guerrini, 0 , piazza Arcivescovado 0",
+  "normalized": "Ravenna, via Guerrini, 0, piazza Arcivescovado 0",
+  "params": {
+    "street": "via Guerrini",
+    "city": "Ravenna",
+    "state": "Emilia-Romagna",
+    "country": "Italy"
+  },
+  "results": []
+}

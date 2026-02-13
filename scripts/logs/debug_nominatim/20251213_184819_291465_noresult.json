@@ -1,0 +1,10 @@
+{
+  "address": "Ravenna, via C. Ricci, 12,14 ,16,18",
+  "params": {
+    "street": "via C. Ricci",
+    "city": "Ravenna",
+    "state": "Emilia-Romagna",
+    "country": "Italy"
+  },
+  "results": []
+}
