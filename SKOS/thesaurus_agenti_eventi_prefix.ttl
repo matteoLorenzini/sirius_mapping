@@ -1,5 +1,5 @@
-@prefix agent: <https://w3id.org/sirius/agent/> .
-@prefix event: <https://w3id.org/sirius/event/> .
+@prefix agent: <https://w3id.org/sirius/thesaurus/agent/> .
+@prefix event: <https://w3id.org/sirius/thesaurus/event/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 

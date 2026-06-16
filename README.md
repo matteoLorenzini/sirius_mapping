@@ -1,124 +1,186 @@
-# SIRIUS Mapping – Cultural Heritage Risk Management
+# SIRIUS Mapping
 
-Utilities to extract data from PostgreSQL to XML, build SKOS thesauri, transform RDF→XML, and enrich XML with SPARQL/Geocoding data.
+Semantic mapping and ETL toolkit for cultural heritage risk-management data.
 
-## Repository structure
+The project integrates:
+- relational risk data (PostgreSQL),
+- heritage RDF datasets,
+- controlled vocabularies (SKOS),
+- and geospatial enrichment (geocoding),
+
+to produce XML and RDF artifacts ready for mapping workflows (including 3M/X3ML and CIDOC CRM-aligned models).
+
+## Project Goals
+
+- Normalize risk-assessment and cultural-heritage information into machine-readable exchange formats.
+- Keep domain knowledge explicit through SKOS vocabularies and semantic mappings.
+- Support reproducible, script-based ETL from raw sources to curated outputs.
+- Enable downstream semantic publication (RDF exports, X3ML mappings, query/update workflows).
+
+## High-Level ETL Pipeline
+
+```mermaid
+flowchart LR
+    A[PostgreSQL gestione_rischio] --> B[sql2xml.py]
+    B --> C[xml/*.xml domain exports]
+
+    D[RDF source datasets] --> E[rdf2chs.py + rdf2chs.xsl]
+    F[source_data/arco/sparql.xml] --> E
+    E --> G[xml/ravenna.xml]
+
+    G --> H[geocode_addresses.py]
+    H --> I[xml/ravenna.xml enriched coordinates]
+    I --> J[fix_coordinates.py optional]
+
+    K[ICCD Excel / CSV vocabularies] --> L[iccd_skos.py and SKOS scripts]
+    L --> M[SKOS/*.ttl and scripts/skos_thesaurus.*]
+
+    C --> N[mapping_3M/* X3ML mapping configs]
+    I --> N
+    M --> N
+    N --> O[RDF outputs in RDF/]
+```
+
+## Data Domains Covered
+
+- Cultural heritage sites (`E18`-oriented resources).
+- Places (`E53`-oriented resources).
+- NARA dimensions/values (`E89_nara` mapping context).
+- Risk analysis and risk agents (`E89_risk` mapping context).
+- Controlled vocabularies and thesauri (SKOS concepts and hierarchies).
+
+## Scope of the Processes
+
+### In Scope
+
+- Exporting operational data from PostgreSQL tables to canonical XML files.
+- Transforming selected RDF into project-specific XML structures.
+- Enriching site records with address-based coordinates.
+- Building and adjusting SKOS vocabularies for agents/events and thesauri.
+- Preparing mapping inputs for 3M/X3ML semantic conversion.
+- Producing intermediate and final RDF/XML/Turtle assets for analysis and integration.
+
+### Out of Scope
+
+- Production orchestration (no scheduler/workflow manager included).
+- Real-time ETL or streaming ingestion.
+- Full data governance lifecycle (approval workflows, stewardship tooling, lineage UI).
+- Public API serving and access-control management.
+- Automatic deployment/infrastructure provisioning.
+
+## Repository Structure (Functional View)
 
 ```text
 sirius_mapping/
-├── scripts/
-│   ├── sql2xml.py                 # PostgreSQL → XML exporter (outputs to ../xml)
-│   ├── iccd_skos.py               # Build SKOS from ICCD Excel (optional)
-│   ├── updatedb.py                # Example: update DB fields from XML (optional)
-│   ├── rdf2chs.xsl                # RDF → cultural_heritage_site XML mapping (XSLT)
-│   ├── apply_rdf2chs.py           # Run XSLT on RDF (if present)
-│   ├── geocode_addresses.py       # Geocode <address> → <coordinates>
-│   └── fix_coordinates.py         # Swap lat/lon if needed
-├── xml/                           # Generated/processed XML
-│   ├── cultural_heritage_site.xml
-│   ├── event_name_sentence.xml
-│   ├── risk_analysis.xml          # includes risk_agent and event_name_id
-│   ├── value_agents_occurrence.xml
-│   ├── value_aspect_dimension.xml
-│   ├── place.xml                  # place reference data (optional)
-│   └── ravenna.xml                # RDF → XML output for Ravenna
-├── source_data/
-│   └── arco/
-│       └── sparql.xml             # SPARQL results (address, time, use, agency)
-├── SKOS/
-│   ├── nomenclatura_eventi.csv
-│   ├── thesaurus_agenti_eventi.ttl
-│   ├── enhanced_full_thesaurus.ttl
-│   └── update_skos_from_csv.py    # Rebuild SKOS from CSV (encoding-safe)
-├── RDF/
-│   ├── E18_site.rdf
-│   ├── E89_nara.rdf
-│   ├── E89_risk_analysis.rdf
-│   └── filtered_ravenna.rdf
-├── mapping_3M/
-│   ├── E18_site/
-│   ├── E89_nara/
-│   └── E89_risk/
-├── LICENSE
+├── scripts/                      # ETL and utility scripts
+│   ├── sql2xml.py                # PostgreSQL -> XML exports for risk/site domains
+│   ├── rdf2chs.py                # Runs XSLT to convert RDF input to ravenna.xml
+│   ├── rdf2chs.xsl               # Mapping logic RDF -> cultural_heritage_site XML
+│   ├── geocode_addresses.py      # Address -> coordinate enrichment with cache/logs
+│   ├── fix_coordinates.py        # Optional coordinate pair swap utility
+│   ├── iccd_skos.py              # ICCD Excel -> SKOS serialization
+│   ├── order_skos.py             # SKOS ordering utility
+│   ├── prefix.py                 # Namespace/prefix rebasing for SKOS concepts
+│   └── updatedb.py               # Optional XML -> DB update helper
+├── xml/                          # Generated and enriched XML outputs
+├── RDF/                          # Semantic outputs and working RDF datasets
+├── SKOS/                         # Thesauri and vocabulary resources
+├── source_data/arco/             # SPARQL query outputs used during enrichment
+├── mapping_3M/                   # 3M/X3ML mapping projects and ontology bundles
+├── database/                     # DB dump/assets
+├── query.sparql                  # SPARQL query and update snippets
 └── README.md
 ```
 
-## What’s new
-- Added RDF→XML transformation with `scripts/rdf2chs.xsl`.
-- Added SPARQL enrichment support (`source_data/arco/sparql.xml`).
-- Added geocoding script (`scripts/geocode_addresses.py`) and coordinate swap helper (`scripts/fix_coordinates.py`).
-- Ravenna output is generated in `xml/ravenna.xml`.
+## Inputs and Outputs by Stage
 
-## Setup (Windows)
+### 1) Relational Export (PostgreSQL -> XML)
+
+Script: `scripts/sql2xml.py`
+
+Primary outputs in `xml/`:
+- `cultural_heritage_site.xml`
+- `value_aspect_dimension.xml`
+- `value_agents_occurrence.xml`
+- `event_name_sentence.xml`
+- `risk_analysis.xml`
+- `place.xml` (if table is available)
+
+### 2) RDF-to-XML Harmonization
+
+Scripts: `scripts/rdf2chs.py`, `scripts/rdf2chs.xsl`
+
+Reads:
+- `RDF/filtered_ravenna.rdf`
+- `source_data/arco/sparql.xml` (for address/chronology enrichment)
+
+Writes:
+- `xml/ravenna.xml`
+
+### 3) Geospatial Enrichment
+
+Script: `scripts/geocode_addresses.py`
+
+Behavior:
+- reads `xml/ravenna.xml`,
+- geocodes textual addresses,
+- writes coordinates back into `xml/ravenna.xml`,
+- persists cache and diagnostics in `scripts/geocode_cache.json` and `scripts/logs/`.
+
+Optional post-process:
+- `scripts/fix_coordinates.py` to swap coordinate order when required.
+
+### 4) Vocabulary/SKOS Construction
+
+Scripts: `scripts/iccd_skos.py`, `scripts/order_skos.py`, `scripts/prefix.py`
+
+Generates/updates SKOS files in `scripts/` and `SKOS/` for controlled terminology workflows.
+
+### 5) Semantic Mapping (3M/X3ML)
+
+Resources under `mapping_3M/` define mapping rules and ontology bundles for transforming curated XML to CIDOC CRM-oriented RDF outputs.
+
+## Quick Start (Windows)
+
+### Environment
 
 ```powershell
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
-pip install psycopg2-binary rdflib pandas lxml requests
+pip install psycopg2-binary lxml requests rdflib pandas
 ```
 
-## Export XML from PostgreSQL
+### Typical Run Order
 
-Configure DB in `scripts/sql2xml.py` (host, database, user, password).
-
-Run from repo root or anywhere:
 ```powershell
+# 1) Export relational data
 python .\scripts\sql2xml.py
-```
 
-Outputs written to:
-- .\xml\cultural_heritage_site.xml
-- .\xml\event_name_sentence.xml
-- .\xml\risk_analysis.xml
-- .\xml\value_agents_occurrence.xml
-- .\xml\value_aspect_dimension.xml
+# 2) Convert RDF source to XML working file
+python .\scripts\rdf2chs.py
 
-## RDF → XML (Ravenna)
-
-Transform RDF to XML with XSLT:
-```powershell
-python .\scripts\apply_rdf2chs.py
-```
-
-Notes:
-- `scripts/rdf2chs.xsl` reads `source_data/arco/sparql.xml` to fill address and chronology.
-- Output is written to `xml/ravenna.xml`.
-
-## Geocode addresses
-
-Fill `<coordinates>` using `<address>`:
-```powershell
+# 3) Enrich addresses with coordinates
 python .\scripts\geocode_addresses.py
-```
 
-If lat/lon order is reversed, swap them:
-```powershell
+# 4) Optional coordinate correction
 python .\scripts\fix_coordinates.py
+
+# 5) Optional SKOS build/update
+python .\scripts\iccd_skos.py
 ```
 
-## Update SKOS thesaurus from CSV
+## Operational Notes
 
-Build `SKOS/enhanced_full_thesaurus.ttl` from `SKOS/nomenclatura_eventi.csv`:
-```powershell
-python .\SKOS\update_skos_from_csv.py
-```
+- `scripts/geocode_addresses.py` supports multi-step geocoding strategies with caching and logs for long runs and retries.
+- `query.sparql` contains both update and select query blocks useful for data cleaning and source extraction.
+- `database/gestione_rischio.sql` is a PostgreSQL dump-format artifact (restore with PostgreSQL tools).
 
-Features:
-- Auto-detects encoding (utf-8-sig, utf-8, cp1252, latin-1) and delimiter (; | , tab).
-- Supports common headers for IDs, labels, broader links, definitions, alt labels.
-- Writes Turtle to `SKOS/enhanced_full_thesaurus.ttl`.
+## Known Limitations
 
-## Troubleshooting
-
-- relation “schema.table” does not exist:
-  - Verify schema/table names; use public.risk_analysis or set search_path.
-- XML saved to the wrong folder:
-  - `sql2xml.py` creates repo_root/xml and always writes there.
-- CSV UnicodeDecodeError:
-  - `update_skos_from_csv.py` auto-detects encoding and normalizes NBSP.
-- Geocoding misses addresses:
-  - Check `scripts/logs/geocode.log` and `scripts/logs/progress.log`.
-  - Ensure `<address>` is populated and cleaned.
+- Some scripts contain environment-specific parameters (for example DB credentials, local paths, API contact values) that should be externalized before production use.
+- Process execution is manual/script-driven; ordering and validation are operator-managed.
+- Quality checks are mostly procedural (logs and spot checks), not yet packaged as automated tests.
 
 ## License
-GNU GPL v3. See LICENSE.
+
+GNU GPL v3. See `LICENSE`.
