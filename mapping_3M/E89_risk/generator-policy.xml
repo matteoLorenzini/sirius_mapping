@@ -145,4 +145,13 @@
    <generator name="URIwithTwoIDs" prefix="sirius" type="any">
       <pattern>/{type}/{id1}/{id2}</pattern>
    </generator>
+   <generator name="event" prefix="event" type="any">
+      <pattern>{text}</pattern>
+   </generator>
+   <generator name="agent" prefix="agent" type="any">
+      <pattern>{text}</pattern>
+   </generator>
+   <generator name="URIwith3IdAndType" prefix="event" type="any">
+      <pattern>{id1}/{id2}/{id3}/{type}</pattern>
+   </generator>
 </generator_policy>

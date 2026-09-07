@@ -62,7 +62,7 @@
             <source_node>/places/place</source_node>
             <target_node>
                <entity>
-                  <type>crmgeo:E53_Place</type>
+                  <type>base:E53_Place</type>
                   <instance_generator name="URIwithTypeAndId">
                      <arg name="type" type="constant">place</arg>
                      <arg name="id" type="xpath">place_id/text()</arg>
